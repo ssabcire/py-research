@@ -1,7 +1,7 @@
 import itertools
 import networkx as nx
 from .const import JSONFILES
-from .extract_json import extract_text
+from .extract_text import extract_text
 from .morphological_analysis import morphological_analysis
 # import as dp
 
@@ -21,6 +21,10 @@ def _add_node_and_edge(words: set, graph: nx.Graph):
     Graphにnodeとedgeを付与
     '''
     graph.add_nodes_from(words, count=1)
+    graph.add_nodes_from(
+        # タプルに問題ありそう
+        [(node, {'count': attr}) for (node, attr) in words.items()]
+    )
     for u, v in itertools.combinations(words, 2):
         if graph.has_edge(u, v):
             graph[u][v]['count'] += 1

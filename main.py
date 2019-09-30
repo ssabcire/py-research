@@ -1,6 +1,6 @@
 import networkx as nx
 from .const import JSONFILES
-from .extract_json import extract_text
+from .extract_text import extract_text
 from .morphological_analysis import morphological_analysis
 from .co_occurrence_network import co_occurrence_network
 
