@@ -1,11 +1,8 @@
 import networkx as nx
+from .const import JSONFILES
 from .extract_json import extract_text
 from .morphological_analysis import morphological_analysis
-from .co_occurrence_network import co_occurence_network
-
-
-JSONFILES = glob('/Users/ssab/go/src/research/twitter/json/*.json')
-
+from .co_occurrence_network import co_occurrence_network
 
 def main():
     texts = extract_text(JSONFILES)
@@ -14,7 +11,7 @@ def main():
     for text in texts:
         words = words | morphological_analysis(text)
     graph = nx.Graph()
-    graph = co_occurence_network(words, graph)
+    graph = co_occurrence_network(words, graph)
 
 
 if __name__ == '__main__':
