@@ -3,7 +3,7 @@ import re
 
 
 def extract_text(filenames):
-    texts = list()
+    texts = list()  # listでOK?
     for filename in filenames:
         f = open(filename, 'r')
         tweet_text = json.load(f)['full_text']
