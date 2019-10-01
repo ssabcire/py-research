@@ -6,11 +6,11 @@ from .morphological_analysis import morphological_analysis
 # import as dp
 
 
-def co_occurrence_network(graph: nx.Graph) -> nx.Graph:
+def co_occurrence_network(jsonfiles, graph: nx.Graph) -> nx.Graph:
     '''
     共起ネットワークを作成
     '''
-    for filename in JSONFILES:
+    for filename in jsonfiles:
         text = extract_text(filename)
         words = morphological_analysis(text)
         _add_node_and_edge(words, graph)
@@ -56,7 +56,7 @@ def _calc_npmi(graph: nx.Graph):
 
 def _create_graph_in_CON():
     graph = nx.Graph()
-    graph = co_occurrence_network(graph)
+    graph = co_occurrence_network(JSONFILES, graph)
 
 
 if __name__ == '__main__':

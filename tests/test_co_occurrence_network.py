@@ -1,27 +1,26 @@
 import pytest
 import networkx as nx
-import morphological_analysis
+from src.co_occurrence_network import (co_occurrence_network,
+                                       _add_node_and_edge,
+                                       _calc_npmi,
+                                       _create_graph_in_CON)
 
 
-def test_co_occurrence_network():
-    expected = []
-    words = {}
+def test_co_occurrence_network(create_jsonfile):
     graph = nx.Graph()
-    morphological_analysis.co_occurrence_network(words, graph)
-    graph.nodes() == expected
+    graph = co_occurrence_network([create_jsonfile], graph)
+    assert graph.nodes() == expected
 
 
 def test_add_node_and_edge():
-    expected = []
     words = {}
+    expected = 1
     graph = nx.Graph()
     morphological_analysis._add_node_and_edge(words, graph)
-    graph.nodes() == expected
+    assert graph.nodes["とある単語v"]["count"] == expected
 
 
-def _calc_npmi():
-    expected = []
-    words = {}
+def test_calc_npmi():
     graph = nx.Graph()
-    morphological_analysis._calc_npmi(words, graph)
-    graph.nodes() == expected
+    morphological_analysis._calc_npmi(graph)
+    assert graph.nodes() == expected
