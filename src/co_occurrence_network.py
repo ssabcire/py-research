@@ -58,7 +58,7 @@ def _calc_npmi(graph: nx.Graph):
 
 def _create_graph_in_CON():
     texts = extract_text(JSONFILES)
-    # 重複気にするならlist, 単語の出現回数が必要ならdict
+    # 重複気にするならlist, 単語の出現回数を求めたいならdict
     words = set()
     for text in texts:
         words = words | morphological_analysis(text)
