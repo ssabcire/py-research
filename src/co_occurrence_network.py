@@ -6,25 +6,28 @@ from .morphological_analysis import morphological_analysis
 # import as dp
 
 
-def co_occurrence_network(words: set, graph: nx.Graph) -> nx.Graph:
+def co_occurrence_network(graph: nx.Graph) -> nx.Graph:
     '''
     共起ネットワークを作成
     '''
-    _add_node_and_edge(words, graph)
+    for filename in JSONFILES:
+        text = extract_text(filename)
+        words = morphological_analysis(text)
+        _add_node_and_edge(words, graph)
     _calc_npmi(graph)
     return graph
 
 
 def _add_node_and_edge(words: set, graph: nx.Graph):
-    # 疑問箇所。とくにnodeとedge
     '''
     Graphにnodeとedgeを付与
+    param words: 1ツイートに含まれる単語
     '''
-    graph.add_nodes_from(words, count=1)
-    graph.add_nodes_from(
-        # タプルに問題ありそう
-        [(node, {'count': attr}) for (node, attr) in words.items()]
-    )
+    for v in words:
+        if v in graph.nodes():
+            graph.nodes[v]["count"] += 1
+        else:
+            graph.add_node(v, count=1)
     for u, v in itertools.combinations(words, 2):
         if graph.has_edge(u, v):
             graph[u][v]['count'] += 1
@@ -34,20 +37,15 @@ def _add_node_and_edge(words: set, graph: nx.Graph):
 
 def _calc_npmi(graph: nx.Graph):
     '''
-    共起の強さを測るため、相互情報量を求める。
+    共起の強さを測るため、相互情報量を求める
     '''
-    node_sum = 0    # node_sum違う恐れあり
+    total_num_of_tweet = len(JSONFILES)
     for v in graph.nodes():
-        node_sum += graph.nodes[v]['count']
-    for v in graph.nodes():
-        graph.nodes[v]['probability'] = graph.nodes[v]['count'] / node_sum
-
-    edge_sum = 0
-    for u, v in graph.edges():      # edge_sum違う恐れあり
-        edge_sum += graph[u][v]['count']
+        graph.nodes[v]['probability'] = \
+            graph.nodes[v]['count'] / total_num_of_tweet
     for u, v in graph.edges():
-        graph[u][v]['probability'] = graph[u][v]['count'] / edge_sum
-
+        graph[u][v]['probability'] = graph[u][v]['count'] / total_num_of_tweet
+    # PMI計算
     for u, v in graph.edges():
         graph[u][v]['npmi'] = dp.npmi(
             graph[u][v]['probability'],
@@ -57,14 +55,8 @@ def _calc_npmi(graph: nx.Graph):
 
 
 def _create_graph_in_CON():
-    texts = extract_text(JSONFILES)
-    # 重複気にするならlist, 単語の出現回数を求めたいならdict
-    words = set()
-    for text in texts:
-        words = words | morphological_analysis(text)
     graph = nx.Graph()
-    graph = co_occurrence_network(words, graph)
-    # 以下でグラフ
+    graph = co_occurrence_network(graph)
 
 
 if __name__ == '__main__':
