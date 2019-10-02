@@ -15,7 +15,7 @@ def create_jsonfile(tmpdir):
     tmpfile.remove()
 
 
-@fixture(params=data)
+@fixture(scope='function')
 def create_jsonfiles(tmpdir):
     # 前処理のcreate_jsonfileを10回行ってリストを返したい
     data = [({"full_text": "野球が好き"}, "test1.json"),
