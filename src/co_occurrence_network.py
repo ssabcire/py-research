@@ -3,6 +3,7 @@ import networkx as nx
 from .const import JSONFILES
 from .extract_text import extract_text
 from .morphological_analysis import morphological_analysis
+from .datapolish.similarity import npmi
 # import as dp
 
 
@@ -25,7 +26,7 @@ def _add_node_and_edge(words: set, graph: nx.Graph):
     '''
     for v in words:
         if v in graph.nodes():
-            graph.nodes[v]["count"] += 1
+            graph.nodes[v]['count'] += 1
         else:
             graph.add_node(v, count=1)
     for u, v in itertools.combinations(words, 2):
@@ -47,7 +48,7 @@ def _calc_npmi(graph: nx.Graph):
         graph[u][v]['probability'] = graph[u][v]['count'] / total_num_of_tweet
     # PMI計算
     for u, v in graph.edges():
-        graph[u][v]['npmi'] = dp.npmi(
+        graph[u][v]['npmi'] = npmi(
             graph[u][v]['probability'],
             graph.nodes[u]['probability'],
             graph.nodes[v]['probability']

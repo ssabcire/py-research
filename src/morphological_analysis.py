@@ -6,6 +6,6 @@ def morphological_analysis(text):
     result = jumanapp.analysis(text)
     words = set()
     for mrph in result.mrph_list():
-        if ('名詞' or '動詞' or '形容詞') in mrph.hinsi:
+        if ('名詞' and '動詞' and '形容詞') in mrph.hinsi:
             words.add(mrph.genkei)
     return words
