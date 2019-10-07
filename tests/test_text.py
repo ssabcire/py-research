@@ -1,5 +1,13 @@
-from pytest import mark
-from src.morphological_analysis import morphological_analysis
+import json
+import os
+from pytest import fixture, mark
+from src.text import extract_text, morphological_analysis
+
+
+def test_extract_text(create_jsonfile):
+    expected = "野球が好き"
+    text = extract_text(create_jsonfile)
+    assert text == expected
 
 
 data = [("野球をプレイする", ["野球", "プレイ"]),
