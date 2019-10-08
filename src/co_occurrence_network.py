@@ -1,8 +1,9 @@
 import itertools
 import networkx as nx
 from .const import JSONFILES
-from .extract_text import extract_text
-from .morphological_analysis import morphological_analysis
+from .text import (create_tweets_loading_file,
+                   extract_text,
+                   morphological_analysis)
 from .datapolish.similarity import npmi
 # import as dp
 
@@ -11,32 +12,34 @@ def co_occurrence_network(jsonfiles, graph: nx.Graph) -> nx.Graph:
     '''
     共起ネットワークを作成
     '''
-    for filename in jsonfiles:
-        text = extract_text(filename)
-        words = morphological_analysis(text)
-        _add_node_and_edge(words, graph)
-    _calc_npmi(graph)
+    tweets = create_tweets_loading_file(jsonfiles)
+    all_words = set()
+    for tweet in tweets:
+        words = morphological_analysis(extract_text(tweet))
+        all_words.add(words)
+    _add_node_and_edge(all_words, graph)
+    _compute_npmi(graph)
     return graph
 
 
-def _add_node_and_edge(words: set, graph: nx.Graph):
+def _add_node_and_edge(all_words, graph: nx.Graph):
     '''
     Graphにnodeとedgeを付与
     param words: 1ツイートに含まれる単語
     '''
-    for v in words:
+    for v in all_words:
         if v in graph.nodes():
             graph.nodes[v]['count'] += 1
         else:
             graph.add_node(v, count=1)
-    for u, v in itertools.combinations(words, 2):
+    for u, v in itertools.combinations(all_words, 2):
         if graph.has_edge(u, v):
             graph[u][v]['count'] += 1
         else:
             graph.add_edge(u, v, count=1)
 
 
-def _calc_npmi(graph: nx.Graph):
+def _compute_npmi(graph: nx.Graph):
     '''
     共起の強さを測るため、相互情報量を求める
     '''

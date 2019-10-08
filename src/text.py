@@ -3,23 +3,32 @@ import re
 from pyknp import Juman
 
 
-def extract_text(filename):
-    f = open(filename, 'r')
-    tweet_text = json.load(f)['full_text']
-    text = re.sub(
-        r'(https?://[\w/:%#\$&\?\(\)~\.=\+\-]+)|(RT@.*?:)|([ |　])',
-        '',
-        tweet_text
-    )
-    f.close()
-    return text
+def create_tweets_loading_file(jsonfiles: list) -> list:
+    tweets = list()
+    for filename in jsonfiles:
+        f = open(filename, 'r')
+        tweet = json.load(f)['full_text']
+        tweets.append(tweet)
+        f.close()
+    return tweets
 
 
-def morphological_analysis(text):
+def morphological_analysis(tweet: str) -> list:
+    '''
+    形態素解析
+    '''
     jumanapp = Juman()
-    result = jumanapp.analysis(text)
-    words = set()  # ここ、SVMするときに困るから多分listのほうがいいかも？
+    result = jumanapp.analysis(_extract_text(tweet))
+    words = list()
     for mrph in result.mrph_list():
         if ('名詞' and '動詞' and '形容詞') in mrph.hinsi:
-            words.add(mrph.genkei)
+            words.append(mrph.genkei)
     return words
+
+
+def _extract_text(tweet: str) -> str:
+    return re.sub(
+        r'(https?://[\w/:%#\$&\?\(\)~\.=\+\-]+)|(RT@.*?:)|([ |　])',  # 修正必要
+        '',
+        tweet
+    )
