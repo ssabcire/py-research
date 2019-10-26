@@ -1,3 +1,5 @@
+# とりあえず、BoWでもいいのでSVM完成させておきたい...
+
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.model_selection import GridSearchCV

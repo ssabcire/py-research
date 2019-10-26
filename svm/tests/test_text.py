@@ -1,16 +1,16 @@
 from pytest import mark
-from svm.src.text import _extract_text, morphological_analysis
+from svm.src.text import _remove_unnecessary, morphological_analysis
 
-# tweets = [("野球が好き", "野球が好き"),
-#           ("ここすき https://abcde", "ここすき"),
-#           ("https://abcde　ここきらい RT@wkwksn:", "ここきらい")
-#           ]
+tweets = [("野球が好き", "野球が好き"),
+          ("ここすき https://abcde", "ここすき"),
+          ("https://abcde　ここきらい RT@wkwksn:", "ここきらい")
+          ]
 
 
-# @mark.parametrize("tweet, expected", tweets)
-# def test_extract_text(tweet, expected):
-#     text = _extract_text(tweet)
-#     assert text == expected
+@mark.parametrize("tweet, expected", tweets)
+def test_extract_text(tweet, expected):
+    text = _remove_unnecessary(tweet)
+    assert text == expected
 
 
 data = [("野球をプレイする", ["野球", "プレイ", "する"]),
