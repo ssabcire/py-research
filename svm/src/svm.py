@@ -1,120 +1,66 @@
-# とりあえず、BoWでもいいのでSVM完成させておきたい...
-
-import pandas as pd
+from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.model_selection import GridSearchCV
 from sklearn import svm
-from .text import extract_text, morphological_analysis
+from .text import make_dataframe
 
 
-def xlsx_in(df, file_name, sheet_name):
+def main():
+    df = make_dataframe()
+    features, vocab = vectorize(df['tweets'])
+    # labels_train = n割のトレーニングのラベル. featuresは10割
+    # ここで学習済みクラス分類モデルを作成。これにテストデータを渡して予測する
+    y = df['labels']
+    # X=特徴行列(説明変数), y=正解ラベル(目的変数)
+    X_train, X_test, y_train, y_test = train_test_split(
+        features, y, test_size=0.2, random_state=7, stratify=y)
+    model = make_model(X_train, y_train)
+
+    # テストデータで特徴量生成
+    features_test = vectrize_using_vovab('<テスト用データ>', vocab)
+    # 学習済みモデルに予測させる
+    predicteds = classify(features_test, model)
+    print(predicteds)  # predictedsには予測値が入る
+
+
+def vectorize(corpus):
     '''
-    データフレーム化したツイートデータをxlsxファイルとして出力
+    コーパスを学習し、用語-文書の行列にする
+    params corpus: 分かち書きされた文書s
+    return: 用語-文書の行列の行列 type: array
     '''
-    #     df_sample = pd.read_excel(
-    #     '/Users/ssab/Desktop/product/tweet_data/modelData3_plus2.xlsx',
-    #     sheet_name='testdata sheet'
-    # )
-    # # 0以外?どゆこと?df_sample['score'] != 0じゃないし...
-    # df_np = df_sample[df_sample != 0]
-    # df_np.dropna(inplace=True)
-    # return dfをしたい
+    vectorizer = CountVectorizer()
+    return vectorizer.fit_transform(corpus), vectorizer.vocabulary_
 
 
-def xlsx_out(df, file_name, sheet_name):
+def vectrize_using_vovab(corpus, vocab):
     '''
-    データフレーム化したツイートデータをxlsxファイルとして出力
+    コーパスを学習し、用語-文書の行列にする。 また、引数のボキャブラリを使用
+    params corpus: 分かち書きされた文書s
+    return: 用語-文書の行列の行列 type: array
     '''
-
-    excel_writer = pd.ExcelWriter(file_name)  # 出力するファイルを指名
-    df.to_excel(excel_writer, sheet_name)  # シート名を指定しdfを書き出し
-    excel_writer.save()
+    vectorizer = CountVectorizer(vocabulary=vocab)
+    return vectorizer.fit_transform(corpus)
 
 
-def create_dataframe(text_column_name, text, params_column_name, Params):
+def make_model(X, y):
     '''
-    tweet本文のリストをデータフレーム化して返す
-    params text_column_name : text列の名前
-    text : ツイート本文のリスト
-    params_column_name : Params列の名前
-    Params : 数字のリスト
+    トレーニングデータにしたがってモデルを作成
+    params X: 訓練(学習)用データのベクトル
+    params y: 訓練(学習)用データのラベル
+    return: モデル type: Object
     '''
-    # idx = [i for i in range(len(text))]
-    df = pd.DataFrame({text_column_name: text, params_column_name: Params})
-    # {text_column_name: text, params_column_name: Params}, index=idx)
-    return df
+    # パラメータ指定なし
+    return svm.LinearSVC().fit(X, y)
+    # モデルの種類やパラメータを何種類か試して、最も高い精度が出るものを採用するのが良い
 
 
-def a():
+def classify(X, model):
     '''
-    出現する単語のカウントを特徴量にする?
-    CountVectorizer=素性ベクトル?
+    predictでfeaturesがどこに分類されるかを予測し、分類結果を返す
+    params X: テスト用データのベクトル
+    return: ラベルの予測値 type: array
     '''
-    #     feature_vectors: scipy.sparse の csr_matrix 形式
-    cv = CountVectorizer()
-    # feature_vectors: scipy.sparse の csr_matrix 形式
-    feature_vectors = cv.fit_transform(   # ベクトル化
-        mwl.get_wakati_list(df_np['tweet'], 'off'))  # ここ、引数にリスト受け取ってるので注意
-    # 列要素(単語) 名 feature_integerインデックスからfeature_nameを求める。リスト
-    feature_names = cv.get_feature_names()
-    # vocabulary = count_vectorizer.get_feature_names()
-
-    # svm 学習      # 探索するパラメータを設定 # ハイパーパラメータ 最適な値を求めるにはランダムサーチ
-    svm_tuned_parameters = [{     # カーネル法
-        'kernel': ['rbf'],                      # RBFカーネルを用いる
-        'gamma': [2**n for n in range(-15, 3)],  # rbfの直径の大きさ
-        'C': [2**n for n in range(-5, 15)]      # 正則化パラメータ
-    }]
-
-    # グリッドサーチCountVectrizer
-    gscv = GridSearchCV(                            # インスタンス化
-        svm.SVC(),
-        svm_tuned_parameters,
-        cv=5,      # クロスバリデーションの分割数
-        n_jobs=1,  # 並列スレッド数
-        verbose=3  # 途中結果の出力レベル 0 だと出力しない
-    )
-
-    # インスタンスgscvで、モデルを適合。第2引数にはネガポジのスコアをリストで渡す
-    gscv.fit(feature_vectors, list(df_np['score']))
-    # 最適なパラメータを代入
-    svm_model = gscv.best_estimator_
+    return model.predict(X)
 
 
-# svm 分類
-def get_feature_vectors(words, feature_names) -> dict:
-    '''
-    ネガポジ判定したwakati_listとそれに対応したネガポジのスコアを取得する
-    '''
-    # 出現する単語のカウントを特徴量にする。
-    count_vectorizer = CountVectorizer(vocabulary=feature_names)
-    # 特徴量をベクトル化
-    feature_vectors = count_vectorizer.fit_transform(words)
-
-    return dict(words=words, fv=feature_vectors)
-
-#----------------------------------------------------------------------#
-
-
-def _run_svm():
-    # 訓練データをAから読み込む
-    df = pd.read_excel('allTweet_2.xlsx', sheetname='AllTweet_sheet')
-    df.dropna(inplace=True)
-
-    # dfのtweet列を取り出す
-    # wakati_list = mwl.get_wakati_list(df['tweet'], 'on')
-    words_list = list()
-    for tweet in df['tweet']:
-        words_list.append(morphological_analysis(extract_text(tweet)))
-    # ネガポジのスコアを取得
-    res_t = get_feature_vectors(words_list)
-
-    # インデックス/特徴量ベクトル/1ツイートの形態素解析されたツイートでdataFrameを作る
-    df_res = cdx.create_dataFrame(text_column_name='sliced_tweet', text=res_t['wl'],
-                                  params_column_name='feature_vectors', Params=list(svm_model.predict(res_t['fv'])))
-    # ここ、wkatisではなくwlなのでは？   key=wlを使ってwakati_listの値を取り出す
-    # df_res = cdx.create_dataFrame(text_column_name='sliced_tweet', text=res_t['wkatis'],
-    #   params_column_name='feature_vectors', Params=list(svm_model.predict(res_t['fv'])))
-    # cdx.xlsx_out(df_res, 'pn_tweet.xlsx', 'pn_tweet_sheet')
-# if __name__ == '__main__':
-#         run_svm()
+# accurancy_score(y_test, y_pred)で、予測値と実際の値を測定
