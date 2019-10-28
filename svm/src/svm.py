@@ -1,48 +1,37 @@
-from sklearn.model_selection import train_test_split
-from sklearn.feature_extraction.text import CountVectorizer
 from sklearn import svm
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.metrics import accuracy_score
+from sklearn.model_selection import train_test_split
 from .text import make_dataframe
 
 
-def main():
+def run_svm():
     df = make_dataframe()
-    features, vocab = vectorize(df['tweets'])
-    # labels_train = n割のトレーニングのラベル. featuresは10割
-    # ここで学習済みクラス分類モデルを作成。これにテストデータを渡して予測する
-    y = df['labels']
     # X=特徴行列(説明変数), y=正解ラベル(目的変数)
+    X = _vectorize(df['tweets'])
+    y = df['labels']
+    # データ分割
     X_train, X_test, y_train, y_test = train_test_split(
-        features, y, test_size=0.2, random_state=7, stratify=y)
-    model = make_model(X_train, y_train)
+        X, y, test_size=0.2, random_state=7, stratify=y)
+    # モデル作成
+    model = _make_model(X_train, y_train)
+    # 学習済みモデルにテストを予測させる
+    y_pred = _classify(X_test, model)
+    # 予測値とテスト用データの値を比較し、正しく分類されたサンプルの割合値を返す
+    print(accuracy_score(y_test, y_pred))
 
-    # テストデータで特徴量生成
-    features_test = vectrize_using_vovab('<テスト用データ>', vocab)
-    # 学習済みモデルに予測させる
-    predicteds = classify(features_test, model)
-    print(predicteds)  # predictedsには予測値が入る
 
-
-def vectorize(corpus):
+def _vectorize(corpus):
     '''
     コーパスを学習し、用語-文書の行列にする
     params corpus: 分かち書きされた文書s
-    return: 用語-文書の行列の行列 type: array
+    return: 用語-文書の行列の行列、特徴量 type: array
     '''
     vectorizer = CountVectorizer()
-    return vectorizer.fit_transform(corpus), vectorizer.vocabulary_
-
-
-def vectrize_using_vovab(corpus, vocab):
-    '''
-    コーパスを学習し、用語-文書の行列にする。 また、引数のボキャブラリを使用
-    params corpus: 分かち書きされた文書s
-    return: 用語-文書の行列の行列 type: array
-    '''
-    vectorizer = CountVectorizer(vocabulary=vocab)
     return vectorizer.fit_transform(corpus)
 
 
-def make_model(X, y):
+def _make_model(X, y):
     '''
     トレーニングデータにしたがってモデルを作成
     params X: 訓練(学習)用データのベクトル
@@ -54,7 +43,7 @@ def make_model(X, y):
     # モデルの種類やパラメータを何種類か試して、最も高い精度が出るものを採用するのが良い
 
 
-def classify(X, model):
+def _classify(X, model):
     '''
     predictでfeaturesがどこに分類されるかを予測し、分類結果を返す
     params X: テスト用データのベクトル
@@ -63,4 +52,5 @@ def classify(X, model):
     return model.predict(X)
 
 
-# accurancy_score(y_test, y_pred)で、予測値と実際の値を測定
+if __name__ == '__main__':
+    run_svm()

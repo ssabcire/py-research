@@ -1,34 +1,37 @@
 import csv
 import json
-from glob import glob
-import pandas as pd
+import glob
+from pandas import read_csv, DataFrame
 from .text import morphological_analysis
 
-# パスは自由に変えられるようにしたいけどコマンドライン引数にいちいち書くのめんどいしあれ
-json_files = glob('a')
+# パスは自由に変えられるようにしたいけどコマンドライン引数にいちいちフルパス書くのめんどくさそう
+json_files = glob.glob('a')
 csv_path = 'b'
 csv_name = 'c'
 
 
-def make_dataframe(csv_name):
+def make_dataframe(csv_name: str) -> DataFrame:
     '''
-    csvファイルを読み込んで、DataFrame化
+    csvファイルを読み込んでDataFrame化
     '''
-    return pd.read_csv(csv_name, encoding="utf-8")
+    return read_csv(csv_name, encoding="utf-8")
 
 
 def pre_processing():
     '''
-    前処理。
+    前処理
     jsonファイルを読み込み、形態素解析を行い、csvに書き込む
     '''
-    _write_to_csv(_load_tweet_from_file())
-    _write_to_csv_using_morpho(_load_tweet_from_file())
+    _write_to_csv(_load_tweet_from_files(json_files))
+    # _write_to_csv_using_morpho(_load_tweet_from_files()) # 上記とどちらかを使用
 
 
-def _load_tweet_from_file(jsonfiles: list) -> list:
+def _load_tweet_from_files(json_files: list) -> list:
+    '''
+    jsonファイルからツイートsを読み込む
+    '''
     tweets = list()
-    for filename in jsonfiles:
+    for filename in json_files:
         with open(csv_name, 'w') as f:
             tweets.append(json.load(f)['full_text'])
     return tweets
@@ -38,6 +41,9 @@ header = ["id", "text"]
 
 
 def _write_to_csv(tweets: list):
+    '''
+    引数tweesをcsvに書き込む
+    '''
     with open(csv_name, 'w') as f:
         writer = csv.writer(f)
         writer.writerow(header)
@@ -47,6 +53,9 @@ def _write_to_csv(tweets: list):
 
 
 def _write_to_csv_using_morpho(tweets):
+    '''
+    引数tweetsを形態素解析してからcsvに書き込む
+    '''
     with open(csv_name, 'w') as f:
         writer = csv.writer(f)
         writer.writerow(header)
