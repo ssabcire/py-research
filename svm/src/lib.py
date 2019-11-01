@@ -4,11 +4,6 @@ import glob
 from pandas import read_csv, DataFrame
 from .text import morphological_analysis
 
-# パスは自由に変えられるようにしたいけどコマンドライン引数にいちいちフルパス書くのめんどくさそう
-json_files = glob.glob('a')
-csv_path = 'b'
-csv_name = 'c'
-
 
 def make_dataframe(csv_name: str) -> DataFrame:
     '''
@@ -17,13 +12,14 @@ def make_dataframe(csv_name: str) -> DataFrame:
     return read_csv(csv_name, encoding="utf-8")
 
 
-def pre_processing():
+def csv_processing(json_files, csv_name, header, molpho=False):
     '''
-    前処理
+    CSVへの処理
     jsonファイルを読み込み、形態素解析を行い、csvに書き込む
     '''
-    _write_to_csv(_load_tweet_from_files(json_files))
-    # _write_to_csv_using_morpho(_load_tweet_from_files()) # 上記とどちらかを使用
+    _write_to_csv(
+        _load_tweet_from_files(json_files), header, csv_name, molpho=False
+    )
 
 
 def _load_tweet_from_files(json_files: list) -> list:
@@ -37,33 +33,32 @@ def _load_tweet_from_files(json_files: list) -> list:
     return tweets
 
 
-header = ["id", "text"]
-
-
-def _write_to_csv(tweets: list):
+def _write_to_csv(
+        tweets: list, csv_name: str, header: list, morpho: bool = False):
     '''
     引数tweesをcsvに書き込む
+    morpho=Trueにすると、形態素解析を行う
     '''
-    with open(csv_name, 'w') as f:
-        writer = csv.writer(f)
-        writer.writerow(header)
-        writer.writerows(
-            [[i+1, tweet] for i, tweet in enumerate(tweets)]
-        )
-
-
-def _write_to_csv_using_morpho(tweets):
-    '''
-    引数tweetsを形態素解析してからcsvに書き込む
-    '''
-    with open(csv_name, 'w') as f:
-        writer = csv.writer(f)
-        writer.writerow(header)
-        writer.writerows(
-            [[i, ' '.join(morphological_analysis(tweet))]
-             for i, tweet in enumerate(tweets)]
-        )
+    if morpho:
+        with open(csv_name, 'w') as f:
+            writer = csv.writer(f)
+            writer.writerow(header)
+            writer.writerows(
+                [[i, ' '.join(morphological_analysis(tweet))]
+                 for i, tweet in enumerate(tweets, start=1)]
+            )
+    else:
+        with open(csv_name, 'w') as f:
+            writer = csv.writer(f)
+            writer.writerow(header)
+            writer.writerows(
+                [[i, tweet] for i, tweet in enumerate(tweets, start=1)]
+            )
 
 
 if __name__ == '__main__':
-    pre_processing()
+    json_files = glob.glob('a')
+    csv_path = 'b'
+    csv_name = 'c'
+    header = ["id", "text"]
+    csv_processing(json_files, csv_name, header, molpho=True)

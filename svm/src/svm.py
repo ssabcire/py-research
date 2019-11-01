@@ -6,7 +6,7 @@ from .text import make_dataframe
 
 
 def run_svm():
-    df = make_dataframe()
+    df = make_dataframe() #ここ、多分関数化しなくてもいい...?
     # X=特徴行列(説明変数), y=正解ラベル(目的変数)
     X = _vectorize(df['tweets'])
     y = df['labels']
