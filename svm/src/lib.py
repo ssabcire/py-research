@@ -1,15 +1,7 @@
 import csv
 import json
 import glob
-from pandas import read_csv, DataFrame
 from .text import morphological_analysis
-
-
-def make_dataframe(csv_name: str) -> DataFrame:
-    '''
-    csvファイルを読み込んでDataFrame化
-    '''
-    return read_csv(csv_name, encoding="utf-8")
 
 
 def csv_processing(json_files, csv_name, header, molpho=False):
