@@ -18,7 +18,7 @@ def run_svm():
     # データ分割
     X_train, X_test, y_train, y_test = train_test_split(
         X, y, test_size=0.2, random_state=7, stratify=y)
-    grid_cv = exec_grid()
+    grid_cv = _exec_grid()
     # モデル適合
     grid_cv.fit(X_train, y_train)
     # 予測値生成
@@ -26,9 +26,7 @@ def run_svm():
     print(accuracy_score(y_test, y_pred))
 
 
-def exec_grid():
-    # 完全に沢山の役割を持っているので、分割したいよね
-
+def _exec_grid():
     # スケーリング(データの前処理)))とSVMの2つのステップからなるパイプラインを構築
     # データのスケーリングは、データをSVMにわたす前に行うのが最適
     svm_est = Pipeline([('scaler', StandardScaler()), ('svc', SVC())])
@@ -39,6 +37,7 @@ def exec_grid():
     # その後に、等号(=)とSVCモデルのパラメータ名(c, gamma)を追加する。
     param_grid = dict(svc__C=[0.001, 0.01, 0.1, 1, 10],
                       svc__gamma=[0.001, 0.01, 0.1, 1, 10])
+    # Pipeline と GridSearchCV を組み合わせて使うときは、パラメータ名の指定に工夫が必要になる。 具体的には <処理の名前>__<パラメータ名> という形式で指定する。
 
     # 交差検証用にデータ分割
     # 層化サンプリングとシャッフルを行う。n_splitsパラメータは、データセットのサンプリング(分割)の回数を指定
@@ -60,3 +59,8 @@ def exec_grid():
 if __name__ == "__main__":
     csv_name = 'a'
     run_svm(csv_name)
+    # ここでモデルの保存をしたい。
+    # s = pickle.dumps(clf) ????
+
+    # もしモデルを読み込むとき
+    # clf2 = pickle.loads(s)
