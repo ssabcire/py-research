@@ -1,5 +1,14 @@
-model = Word2Vec(X, size=100, window=5, min_count=5, workers=2)
-w2v = {w: vec for w, vec in zip(model.index2word, model.syn0)}
+class MeanEmbeddingVectorizer:
+    # 単語の分散表現の平均値を求めるクラスの定義
+    def __init__(self, word2vec):
+        self.word2vec = word2vec
+        # ここ、なんなんだ...?
+        self.dim = next(iter(word2vec.values())).size
+
+
+# モデルを読み込む
+model = load()
+w2v = {w: vec for w, vec in zip(model.wv.index2entity, model.wv.syn0)}
 
 # ベースラインとなる既存手法のモデルの準備
 mult_nb = Pipeline([("count_vectorizer", CountVectorizer(
@@ -14,53 +23,6 @@ svc = Pipeline([("count_vectorizer", CountVectorizer(
     analyzer=lambda x: x)), ("linear svc", SVC(kernel="linear"))])
 svc_tfidf = Pipeline([("tfidf_vectorizer", TfidfVectorizer(
     analyzer=lambda x: x)), ("linear svc", SVC(kernel="linear"))])
-
-# 単語の分散表現の平均値を求めるクラスの定義
-
-
-class MeanEmbeddingVectorizer:
-    def __init__(self, word2vec):
-        self.word2vec = word2vec
-        self.dim = self.next(iter(word2vec.values())).size
-
-    def fit(self, X, y):
-        return self
-
-    def transform(self, X):
-        return np.array([
-            np.mean([self.word2vec[w] for w in words if w in self.word2vec]
-                    or [np.zeros(self.dim)], axis=0)
-            for words in X
-        ])
-
-# TF-IDFで重み付けした分散表現を求めるクラスの定義
-
-
-class TfidfEmbeddingVectorizer(object):
-    def __init__(self, word2vec):
-        self.word2vec = word2vec
-        self.word2weight = None
-        self.dim = word2vec.values()
-        self.dim = next(iter(self.dim))
-        self.dim = self.dim.size
-
-    def fit(self, X, y):
-        tfidf = TfidfVectorizer(analyzer=lambda x: x)
-        tfidf.fit(X)
-        max_idf = max(tfidf.idf_)
-        self.word2weight = defaultdict(
-            lambda: max_idf,
-            [(w, tfidf.idf_[i]) for w, i in tfidf.vocabulary_.items()])
-
-        return self
-
-    def transform(self, X):
-        return np.array([
-            np.mean([self.word2vec[w] * self.word2weight[w]
-                     for w in words if w in self.word2vec] or
-                    [np.zeros(self.dim)], axis=0)
-            for words in X
-        ])
 
 
 # Word2Vecを特徴量としてExtraTreesによる分類器を準備する。
