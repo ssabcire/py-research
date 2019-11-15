@@ -50,8 +50,8 @@ def _normalize(vec):
 
 def _all_normalize2(vec):
     '''
-    lineのベクトルの2次元配列とか全てに対して標準化を行う
-    これでもできないかな？
+    標準化、これでもできないかな？
+    一応、ベクトルデータ全てに対して標準化を行うので注意
     '''
     return StandardScaler().fit_transform(vec)
 
