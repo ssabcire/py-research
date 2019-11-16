@@ -6,22 +6,23 @@ from pathlib import Path
 from pyknp import Juman
 
 
-def csv_processing(json_files, csv_name, header, morpho=False):
+def csv_processing(
+        json_files: list, csv_name: str, header: list, morpho=False):
     '''
     大量のJSONファイルを読み込んでツイート部分をCSV化する
     '''
     _csv_writer(_load_files(json_files), csv_name, header, morpho)
 
 
-def _load_files(files: list) -> list:
+def _load_files(json_files: list) -> set:
     '''
     jsonファイルからツイートsを読み込み、テキストのリストを返す
     '''
-    tweets = list()
-    for file in files:
+    tweets = set()
+    for file in json_files:
         with open(file, 'r', encoding='utf-8') as f:
             try:
-                tweets.append(json.load(f)['full_text'])
+                tweets.add(json.load(f)['full_text'])
             except json.JSONDecodeError as e:
                 print("jsonDecodeError. err:", e)
                 print("filename:", file)
@@ -29,7 +30,7 @@ def _load_files(files: list) -> list:
 
 
 def _csv_writer(
-        tweets: list, csv_fname: str, header: list, morpho: bool = False):
+        tweets: set, csv_name: str, header: list, morpho: bool = False):
     '''
     引数tweetsをcsvに書き込む
     morpho=Trueにすると、形態素解析を行う
