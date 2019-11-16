@@ -1,25 +1,24 @@
+from pathlib import Path
 from gensim.models.word2vec import Word2Vec
 from numpy import zeros
 from numpy.linalg import norm
 from sklearn.preprocessing import StandardScaler
-import pandas
+from pandas import read_csv
 
 
-def w2v(model_path, df_path):
+def w2v(model_path, csv_path):
     '''
-    モデルを呼び出して、DFに書き込む
+    モデルを呼び出してベクトルの総和を求め、DataFrameに追加
     '''
-    # モデル呼び出し
     model = Word2Vec.load(model_path)
-    # CSVからDataFrame作成, ツイートを呼び出す
-    df = pandas.load_csv(df_path)
-    # dfを1行ずつ読み込む。iterrows()やitertuples()など
-    for line in df('wakati_tweet'):
-        line_vec = _vector_from_words(line.split(' '), model)
+    df = read_csv(csv_path)
+    for i, row in df.iterrows():
+        # その行の総和を求める
+        line_vec = _vector_from_words(row["wakati-text"].split(' '), model)
         if line_vec is not None:
             # line行に対応する列にベクトルを追加
-            i = df.columns.get_loc(line)
-            df.iat[i, 3] = line_vec
+            df.iat[i, 2] = line_vec
+    return df
 
 
 def _vector_from_words(words, model, normalize=False):
@@ -57,4 +56,8 @@ def _all_normalize2(vec):
 
 
 if __name__ == "__main__":
-    w2v()
+    twitter_path = str(Path.home()) + "/py/research/twitter/"
+    csv_path = twitter_path + 'a.csv'
+    model_path = twitter_path + 'twitter.model'
+    df = w2v()
+    df.to_csv(vector_csv_path)
