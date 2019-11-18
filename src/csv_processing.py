@@ -1,17 +1,17 @@
 import re
-import csv
 import json
 import glob
 from pathlib import Path
 from pyknp import Juman
+from pandas import DataFrame
 
 
 def csv_processing(
-        json_files: list, csv_name: str, header: list, morpho=False):
+        json_files: list, csv_path: str, columns: list):
     '''
     大量のJSONファイルを読み込んでツイート部分をCSV化する
     '''
-    _csv_writer(_load_files(json_files), csv_name, header, morpho)
+    _csv_writer(_load_files(json_files), csv_path, columns)
 
 
 def _load_files(json_files: list) -> set:
@@ -24,31 +24,24 @@ def _load_files(json_files: list) -> set:
             try:
                 tweets.add(json.load(f)['full_text'])
             except json.JSONDecodeError as e:
-                print("jsonDecodeError. err:", e)
-                print("filename:", file)
+                print(e, "\njsofilename: ", file)
     return tweets
 
 
 def _csv_writer(
-        tweets: set, csv_name: str, header: list, morpho: bool = False):
+        tweets: set, csv_path: str, columns: list):
     '''
     引数tweetsをcsvに書き込む
-    morpho=Trueにすると、形態素解析を行う
+    morpho=Trueにすると、形態素解析を行う(現在は形態素解析行う場合のみを考慮している)
     '''
-    if morpho:
-        with open(csv_name, 'w', encoding='utf-8') as f:
-            writer = csv.writer(f)
-            writer.writerow(header)
-            writer.writerows(
-                {(tweet, ' '.join(_morphological_analysis(tweet)))
-                    for tweet in tweets}
-            )
-    else:
-        with open(csv_name, 'w', encoding='utf-8') as f:
-            writer = csv.writer(f)
-            writer.writerow(header)
-            writer.writerows({tweet for tweet in tweets})
-    print("書き込みが終了しました")
+    df = DataFrame(
+        [
+            (tweet, ' '.join(_morphological_analysis(tweet)))
+            for tweet in tweets
+        ],
+        columns=columns
+    )
+    df.dropna(how='any').to_csv(csv_path, index=False)
 
 
 def _morphological_analysis(tweet: str) -> list:
@@ -72,7 +65,7 @@ def _remove_unnecessary(tweet: str) -> str:
         '', tweet
     )
     # ツイートがひらがな1,2文字しかない場合, 空白
-    # ", #, @ はjumanが扱えない
+    # [", #, @] はjumanが扱えない
     text = re.sub(
         r'(^[あ-ん]{1,2}$)|([ |　])|([#"@])',
         '', text
@@ -83,9 +76,8 @@ def _remove_unnecessary(tweet: str) -> str:
 if __name__ == '__main__':
     twitter_path = str(Path.home()) + "/py/research/twitter/"
     json_files = glob.glob(twitter_path + "twitter-json-data/" + "*.json")
-    # json_files = glob.glob(twitter_path + "twitter-json-data/2019November15-1352tweet0.json")
-    csv_name = twitter_path + 'a.csv'
-    header = ["text", "wakati_text"]
-    csv_processing(json_files, csv_name, header, morpho=True)
-    # header = ["text"]
-    # csv_processing(json_files, csv_name, header, morpho=False)
+    # json_files = glob.glob(
+    #     twitter_path + "twitter-json-data/2019November15-1352tweet0.json")
+    csv_path = twitter_path + 'a.csv'
+    columns = ["text", "wakati_text"]
+    csv_processing(json_files, csv_path, columns)

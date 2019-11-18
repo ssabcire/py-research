@@ -7,7 +7,7 @@ def make_w2v(sentence, model_path):
     '''
     CSVからモデル作成
     '''
-    model = Word2Vec(sentence, size=100, window=5, min_count=5, workers=4)
+    model = Word2Vec(sentence, size=200, window=5, min_count=8, workers=4)
     model.save(model_path)
 
 
