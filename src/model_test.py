@@ -1,4 +1,3 @@
-# import w2v_model
 from pathlib import Path
 from gensim.models.word2vec import Word2Vec
 
