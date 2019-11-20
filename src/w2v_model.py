@@ -7,7 +7,7 @@ def make_w2v(sentence, model_path):
     '''
     CSVからモデル作成
     '''
-    model = Word2Vec(sentence, size=200, window=5, min_count=8, workers=4)
+    model = Word2Vec(sentence, size=50, window=5, min_count=3, workers=4)
     model.save(model_path)
 
 
@@ -18,7 +18,7 @@ if __name__ == "__main__":
     make_w2v(
         [
             row.split(" ") for row in read_csv(csv_path)['wakati_text']
-            .dropna(how='any').values.tolist()
+            .dropna().values.tolist()
         ],
         model_path
     )

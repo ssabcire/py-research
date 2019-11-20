@@ -41,7 +41,7 @@ def _csv_writer(
         ],
         columns=columns
     )
-    df.dropna(how='any').to_csv(csv_path, index=False)
+    df.dropna().to_csv(csv_path, index=False)
 
 
 def _morphological_analysis(tweet: str) -> list:
