@@ -3,7 +3,7 @@ from gensim.models.word2vec import Word2Vec
 from pandas import read_csv
 
 
-def make_w2v(sentence, model_path):
+def make_w2v(sentence: list, model_path: str):
     '''
     CSVからモデル作成
     '''
@@ -16,9 +16,6 @@ if __name__ == "__main__":
     csv_path = twitter_path + 'a.csv'
     model_path = twitter_path + "twitter.model"
     make_w2v(
-        [
-            row.split(" ") for row in read_csv(csv_path)['wakati_text']
-            .dropna().values.tolist()
-        ],
+        [row.split(" ") for row in read_csv(csv_path)['wakati_text'].dropna()],
         model_path
     )

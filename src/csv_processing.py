@@ -66,18 +66,17 @@ def _remove_unnecessary(tweet: str) -> str:
     )
     # ツイートがひらがな1,2文字しかない場合, 空白
     # [", #, @] はjumanが扱えない
-    text = re.sub(
+    return re.sub(
         r'(^[あ-ん]{1,2}$)|([ |　])|([#"@])',
         '', text
     )
-    return text
 
 
 if __name__ == '__main__':
     twitter_path = str(Path.home()) + "/py/research/twitter/"
-    json_files = glob.glob(twitter_path + "twitter-json-data/" + "*.json")
+    json_files = glob.glob(twitter_path + "trend-酒税法改正/" + "*.json")
     # json_files = glob.glob(
     #     twitter_path + "twitter-json-data/2019November15-1352tweet0.json")
-    csv_path = twitter_path + 'a.csv'
+    csv_path = twitter_path + '酒税法.csv'
     columns = ["text", "wakati_text"]
     csv_processing(json_files, csv_path, columns)
