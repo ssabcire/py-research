@@ -1,26 +1,27 @@
 import re
 import json
-import glob
 from pathlib import Path
+from typing import Generator, List, Set
 from pyknp import Juman
 from pandas import DataFrame
 
 
-def csv_processing(
-        json_files: list, csv_path: str, columns: list):
+def csv_processing(json_files: Generator[Path, None, None],
+                   csv_path: Path,
+                   columns: List[str]):
     '''
     大量のJSONファイルを読み込んでツイート部分をCSV化する
     '''
     _csv_writer(_load_files(json_files), csv_path, columns)
 
 
-def _load_files(json_files: list) -> set:
+def _load_files(json_files: Generator[Path, None, None]) -> Set[str]:
     '''
     jsonファイルからツイートsを読み込み、テキストのリストを返す
     '''
     tweets = set()
     for file in json_files:
-        with open(file, 'r', encoding='utf-8') as f:
+        with file.open(encoding='utf-8') as f:
             try:
                 tweets.add(json.load(f)['full_text'])
             except json.JSONDecodeError as e:
@@ -29,7 +30,7 @@ def _load_files(json_files: list) -> set:
 
 
 def _csv_writer(
-        tweets: set, csv_path: str, columns: list):
+        tweets: set, csv_path: Path, columns: List[str]):
     '''
     引数tweetsをcsvに書き込む
     morpho=Trueにすると、形態素解析を行う(現在は形態素解析行う場合のみを考慮している)
@@ -73,10 +74,8 @@ def _remove_unnecessary(tweet: str) -> str:
 
 
 if __name__ == '__main__':
-    twitter_path = str(Path.home()) + "/py/research/twitter/"
-    json_files = glob.glob(twitter_path + "trend-酒税法改正/" + "*.json")
-    # json_files = glob.glob(
-    #     twitter_path + "twitter-json-data/2019November15-1352tweet0.json")
-    csv_path = twitter_path + '酒税法.csv'
+    twitter_path = Path().cwd() / 'twitter'
+    json_files = (twitter_path / "trend-酒税法改正").iterdir()
+    csv_path = twitter_path / '酒税法.csv'
     columns = ["text", "wakati_text"]
     csv_processing(json_files, csv_path, columns)
