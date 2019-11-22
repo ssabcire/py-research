@@ -1,10 +1,11 @@
 from pathlib import Path
 from gensim.models.word2vec import Word2Vec
-import numpy as np
+from numpy import zeros, ndarray
+from numpy.linalg import norm
 from pandas import read_csv, DataFrame
 
 
-def vector_sum(csv_path: str, model_path: str) -> DataFrame:
+def df_vector(csv_path: Path, model_path: Path) -> DataFrame:
     '''
     DataFrameのwakati_textを1行ずつ単語ベクトルの総和を求める
     総和をDataFrameに追加
@@ -20,7 +21,7 @@ def vector_sum(csv_path: str, model_path: str) -> DataFrame:
     return df
 
 
-def _vector_sum(row: list, model: Word2Vec) -> np.ndarray:
+def _vector_sum(row: list, model: Word2Vec) -> ndarray:
     '''
     引数rowの要素１つずつをベクトルに変換し、rowのベクトルの総和を求める
     row: 1ツイートを形態素解析した単語のリスト
@@ -29,20 +30,19 @@ def _vector_sum(row: list, model: Word2Vec) -> np.ndarray:
     word_vecs = (model.wv[word] for word in row)
     # これと下のコメントアウト、結果が同じなのか気になる。
     # あと、np.sumの第1引数がiterableでない気がするので、動くか不明
-    return np.sum(word_vecs, dtype=word_vecs[0].dtype)
-    # line_vec = zeros(word_vecs[0].shape, dtype=word_vecs[0].dtype)
-    # for word_vec in word_vecs:
-    #     # ベクトルの総和を求める。他にいい感じでかけそう
-    #     line_vec = line_vec + word_vec
-    # return line_vec
+    line_vec = zeros(word_vecs[0].shape, dtype=word_vecs[0].dtype)
+    for word_vec in word_vecs:
+        # ベクトルの総和を求める。他にいい感じでかけそう
+        line_vec = line_vec + word_vec
+    return line_vec
 
 
-def _normalize(vec: np.ndarray) -> np.ndarray:
+def _normalize(vec: ndarray) -> ndarray:
     '''
     ベクトルaのベクトルの正規化(単位ベクトルの計算)をする
     正規化で0と1の間の相対値が残る
     '''
-    return vec / np.norm(vec)
+    return vec / norm(vec)
 
 
 # def _all_normalize2(vec):
@@ -55,8 +55,8 @@ def _normalize(vec: np.ndarray) -> np.ndarray:
 
 
 if __name__ == "__main__":
-    twitter_path = str(Path.home()) + "/py/research/twitter/"
-    csv_path = twitter_path + 'a.csv'
-    model_path = twitter_path + 'twitter.model'
-    vector_path = twitter_path + 'b.csv'
-    vector_sum(csv_path, model_path).to_csv(vector_path)
+    twitter_path = Path().cwd() / 'twitter'
+    csv_path = twitter_path / 'a.csv'
+    model_path = twitter_path / 'twitter.model'
+    vector_path = twitter_path / 'b.csv'
+    df_vector(csv_path, model_path).to_csv(vector_path)
