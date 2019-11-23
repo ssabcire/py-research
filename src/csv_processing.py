@@ -1,7 +1,7 @@
 import re
 import json
 from pathlib import Path
-from typing import Generator, List, Set
+from typing import Generator, List, Set, Iterable
 from pyknp import Juman
 from pandas import DataFrame
 
@@ -45,15 +45,15 @@ def _csv_writer(
     df.dropna().to_csv(csv_path, index=False)
 
 
-def _morphological_analysis(tweet: str) -> list:
+def _morphological_analysis(tweet: str) -> Iterable[str]:
     '''
     形態素解析
     '''
     text = _remove_unnecessary(tweet)
     if not text:
         return []
-    return [mrph.genkei for mrph in Juman().analysis(text).mrph_list()
-            if mrph.hinsi in ['名詞', '動詞', '形容詞', '接尾辞']]
+    return iter([mrph.genkei for mrph in Juman().analysis(text).mrph_list()
+                 if mrph.hinsi in ['名詞', '動詞', '形容詞', '接尾辞']])
 
 
 def _remove_unnecessary(tweet: str) -> str:
