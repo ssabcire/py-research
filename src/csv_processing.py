@@ -1,7 +1,7 @@
 import re
 import json
 from pathlib import Path
-from typing import Generator, List, Set, Iterable
+from typing import Generator, List, Set
 from pyknp import Juman
 from pandas import DataFrame
 
@@ -17,7 +17,8 @@ def csv_processing(json_files: Generator[Path, None, None],
 
 def _load_files(json_files: Generator[Path, None, None]) -> Set[str]:
     '''
-    jsonファイルからツイートsを読み込み、テキストのリストを返す
+    取得したJSONツイートのPATHが記載されたリストからファイルすべてを読み込み、
+    テキストのSetを返す
     '''
     tweets = set()
     for file in json_files:
@@ -32,8 +33,8 @@ def _load_files(json_files: Generator[Path, None, None]) -> Set[str]:
 def _csv_writer(
         tweets: set, csv_path: Path, columns: List[str]):
     '''
-    引数tweetsをcsvに書き込む
-    morpho=Trueにすると、形態素解析を行う(現在は形態素解析行う場合のみを考慮している)
+    引数tweetsをひとつずつ形態素解析し、CSVに書き込む
+    1列目=ツイート, 2列目=分かち書きされたツイート
     '''
     df = DataFrame(
         [
@@ -45,20 +46,20 @@ def _csv_writer(
     df.dropna().to_csv(csv_path, index=False)
 
 
-def _morphological_analysis(tweet: str) -> Iterable[str]:
+def _morphological_analysis(tweet: str) -> List[str]:
     '''
-    形態素解析
+    tweetを形態素解析し、リストで返す
     '''
     text = _remove_unnecessary(tweet)
     if not text:
         return []
-    return iter([mrph.genkei for mrph in Juman().analysis(text).mrph_list()
-                 if mrph.hinsi in ['名詞', '動詞', '形容詞', '接尾辞']])
+    return [mrph.genkei for mrph in Juman().analysis(text).mrph_list()
+            if mrph.hinsi in ['名詞', '動詞', '形容詞', '接尾辞']]
 
 
 def _remove_unnecessary(tweet: str) -> str:
     '''
-    ツイートで不要な部分を削除
+    ツイートの不要な部分を削除
     '''
     # URL, 'RT@...:', '@<ID> '
     text = re.sub(
