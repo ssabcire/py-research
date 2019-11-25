@@ -11,8 +11,8 @@ def test_classify(csv_path: Path, clf):
     予測性能を測る
     '''
     df = read_csv(csv_path).dropna()
-    X = CountVectorizer().fit_transform(df['tweets'])
-    # X = df['vectors']     #word2vec.version
+    # X = CountVectorizer().fit_transform(df['tweets'])
+    X = df['vectors']     #word2vec.version
     y = df['labels']
 
     X_train, X_test, y_train, y_test = train_test_split(
@@ -47,4 +47,5 @@ if __name__ == "__main__":
 
     with open("clf.pickle", "rb") as f:
         clf = pickle.load(f)
-        classify(csv_path, clf)
+        test_classify(csv_path, clf)
+        # classify(csv_path, clf)

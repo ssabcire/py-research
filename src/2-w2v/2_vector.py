@@ -28,7 +28,14 @@ def _vector_sum(row: List[str], model: Word2Vec) -> ndarray:
     params model: Word2Vecモデル
     return: numpy.ndarray
     '''
-    word_vecs = (model.wv[word] for word in row)
+    word_vecs = list()
+    for word in row:
+        try:
+            word_vecs.append(model.wv[word])
+        except KeyError:
+            pass
+    if not word_vecs:
+        return None  # or ndarrayを適当に初期化したやつ
     line_vec = zeros(word_vecs[0].shape, dtype=word_vecs[0].dtype)
     for word_vec in word_vecs:
         line_vec = line_vec + word_vec
@@ -46,6 +53,7 @@ def _normalize(vec: ndarray) -> ndarray:
 if __name__ == "__main__":
     twitter_path = Path().cwd() / 'twitter'
     csv_path = twitter_path / 'a.csv'
-    model_path = twitter_path / 'twitter.model'
+    model_path = twitter_path / 'trend-死刑求刑.model'
     vector_path = twitter_path / 'b.csv'
-    df_vector(csv_path, model_path).to_csv(vector_path)
+    # df_vector(csv_path, model_path).to_csv(vector_path)
+    df_vector_test(str(model_path))
