@@ -3,22 +3,25 @@ from gensim.models.word2vec import Word2Vec
 from typing import List
 from numpy import zeros, ndarray
 from numpy.linalg import norm
-from pandas import read_csv, DataFrame
+from pandas import read_csv, DataFrame, Series
 
 
-def df_vector(csv_path: Path, model_path: Path) -> DataFrame:
-    '''
-    DataFrameのwakati_textを1行ずつ単語ベクトルの総和を求める
-    総和をDataFrameに追加
-    '''
+def df_vector(csv_path, model_path: str, columns: List[str]) -> DataFrame:
     model = Word2Vec.load(model_path)
-    df = read_csv(csv_path)['wakati_text'].dropna()
-    wakati_texts = (row.split(" ") for row in df)
+    df = read_csv(csv_path).dropna()
+    init_df = DataFrame(columns=columns)
+    texts = df['text'].values.tolist()
+    wakati_texts = (row.split(" ") for row in df['wakati_text'])
     for i, row in enumerate(wakati_texts):
-        # .dropnaしたあとにi, 2などをすると、要素番号がずれてしまうので一致しない可能性がある。その対処
-        # 正規化したあと、dfに書き込むために処理が必要
-        df.iat[i, 2] = _normalize(_vector_sum(row, model))
-    return df
+        vector = _vector_sum(row, model)
+        if vector is None:
+            continue
+        vector = _normalize(vector).astype('str')
+        init_df = init_df.append(
+            Series([texts[i], row, " ".join(vector)],
+                   index=columns),
+            ignore_index=True)
+    return init_df
 
 
 def _vector_sum(row: List[str], model: Word2Vec) -> ndarray:
@@ -52,8 +55,9 @@ def _normalize(vec: ndarray) -> ndarray:
 
 if __name__ == "__main__":
     twitter_path = Path().cwd() / 'twitter'
-    csv_path = twitter_path / 'a.csv'
+    csv_path = twitter_path / 'trend-死刑求刑.csv'
     model_path = twitter_path / 'trend-死刑求刑.model'
-    vector_path = twitter_path / 'b.csv'
-    # df_vector(csv_path, model_path).to_csv(vector_path)
-    df_vector_test(str(model_path))
+    vector_path = twitter_path / 'trend-死刑求刑-vector.csv'
+    columns = ['text', 'wakati_text', 'vectors']
+    df_vector(csv_path, str(model_path), columns).to_csv(
+        vector_path, index=False)
