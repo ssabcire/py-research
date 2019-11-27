@@ -18,8 +18,7 @@ def df_vector(csv_path, model_path: str, columns: List[str]) -> DataFrame:
             continue
         vector = _normalize(vector).astype('str')
         init_df = init_df.append(
-            Series([texts[i], row, " ".join(vector)],
-                   index=columns),
+            Series([texts[i], " ".join(vector)], index=columns),
             ignore_index=True)
     return init_df
 
@@ -58,6 +57,6 @@ if __name__ == "__main__":
     csv_path = twitter_path / 'trend-死刑求刑.csv'
     model_path = twitter_path / 'trend-死刑求刑.model'
     vector_path = twitter_path / 'trend-死刑求刑-vector.csv'
-    columns = ['text', 'wakati_text', 'vectors']
+    columns = ['text', 'vector']
     df_vector(csv_path, str(model_path), columns).to_csv(
         vector_path, index=False)
