@@ -17,7 +17,7 @@ def a(csv_path):
 
 
 if __name__ == "__main__":
-    twitter_path = Path().cwd() / 'twitter'
-    csv_path =
-    valid_label_path =
+    cwd_data = Path().cwd() / 'data'
+    csv_path = cwd_data / 'trend-死刑求刑-vector-label.csv'
+    valid_label_path = cwd_data / 'trend-死刑求刑-valid_label.csv'
     df = a(csv_path).dropna().to_csv(valid_label_path, index=False)

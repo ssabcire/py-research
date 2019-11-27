@@ -53,10 +53,12 @@ def _normalize(vec: ndarray) -> ndarray:
 
 
 if __name__ == "__main__":
-    twitter_path = Path().cwd() / 'twitter'
-    csv_path = twitter_path / 'trend-死刑求刑.csv'
-    model_path = twitter_path / 'trend-死刑求刑.model'
-    vector_path = twitter_path / 'trend-死刑求刑-vector.csv'
+    cwd = Path().cwd()
+    cwd_src = cwd / 'src'
+    csv_path = cwd / 'data' / 'trend-死刑求刑.csv'
+    model_path = cwd_src / '1-2-has_other_label' / 'data' / "trend-死刑求刑.model"
+    vector_path = model_path = cwd_src / \
+        '1-2-has_other_label'/'data'/'trend-死刑求刑-vector.csv'
     columns = ['text', 'vector']
     df_vector(csv_path, str(model_path), columns).to_csv(
         vector_path, index=False)
