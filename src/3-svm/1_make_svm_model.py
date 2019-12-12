@@ -12,6 +12,7 @@ def run_svm(csv_path):
     X = [row.split(" ") for row in df['vector']]
     y = df['label']
 
+    # もしかしたらここいらない可能性あり。理由は、StratifiedShuffleSplitする必要があるから
     X_train, X_test, y_train, y_test = train_test_split(
         X, y, test_size=0.2, random_state=7, stratify=y)
 
@@ -21,6 +22,7 @@ def run_svm(csv_path):
                     'gamma': [0.001, 0.01, 0.1, 1, 10, 100]},
         cv=StratifiedShuffleSplit(n_splits=10, test_size=0.2, random_state=7)
     )
+    # ここもgscv.fit(X, y)でいいと思う
     gscv.fit(X_train, y_train)
     print(gscv.best_estimator_)
     print()
