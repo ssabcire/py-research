@@ -7,6 +7,9 @@ from pandas import read_csv, DataFrame, Series
 
 
 def df_vector(csv_path, model_path: str, columns: List[str]) -> DataFrame:
+    '''
+    Word2Vecのモデルを使って、新しく['text', 'vector']のDataFrameを作成する
+    '''
     model = Word2Vec.load(model_path)
     df = read_csv(csv_path).dropna()
     init_df = DataFrame(columns=columns)
@@ -19,7 +22,8 @@ def df_vector(csv_path, model_path: str, columns: List[str]) -> DataFrame:
         vector = _normalize(vector).astype('str')
         init_df = init_df.append(
             Series([texts[i], " ".join(vector)], index=columns),
-            ignore_index=True)
+            ignore_index=True
+        )
     return init_df
 
 
@@ -37,7 +41,7 @@ def _vector_sum(row: List[str], model: Word2Vec) -> ndarray:
         except KeyError:
             pass
     if not word_vecs:
-        return None  # or ndarrayを適当に初期化したやつ
+        return None
     line_vec = zeros(word_vecs[0].shape, dtype=word_vecs[0].dtype)
     for word_vec in word_vecs:
         line_vec = line_vec + word_vec
@@ -53,12 +57,10 @@ def _normalize(vec: ndarray) -> ndarray:
 
 
 if __name__ == "__main__":
-    cwd = Path().cwd()
-    cwd_src = cwd / 'src'
-    csv_path = cwd / 'data' / 'trend-死刑求刑.csv'
-    model_path = cwd_src / '1-2-has_other_label' / 'data' / "trend-死刑求刑.model"
-    vector_path = model_path = cwd_src / \
-        '1-2-has_other_label'/'data'/'trend-死刑求刑-vector.csv'
+    p_data = Path().cwd() / 'data'
+    csv_path = p_data / 'trend-就活セクハラ.csv'
+    model_path = p_data / "trend-就活セクハラ.model"
+    vector_path = p_data / 'trend-死刑求刑-vector.csv'
     columns = ['text', 'vector']
-    df_vector(csv_path, str(model_path), columns).to_csv(
-        vector_path, index=False)
+    df_vector(csv_path, str(model_path), columns
+              ).to_csv(vector_path, index=False)

@@ -14,8 +14,8 @@ def make_w2v(sentence: List[List[str]], model_path: str):
 
 if __name__ == "__main__":
     cwd = Path().cwd()
-    csv_path = cwd / 'data' / 'trend-死刑求刑.csv'
-    model_path = cwd/'src'/'1-2-has_other_label'/'data'/"trend-死刑求刑.model"
+    csv_path = str(cwd / 'data' / 'trend-就活セクハラ.csv')
+    model_path = str(cwd / 'data' / "trend-就活セクハラ.model")
     make_w2v(
         [row.split(" ") for row in read_csv(csv_path)['wakati_text'].dropna()],
         str(model_path)
