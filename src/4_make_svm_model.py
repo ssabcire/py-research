@@ -2,8 +2,7 @@
 from pathlib import Path
 from pandas import read_csv
 from sklearn.svm import SVC
-from sklearn.model_selection import (train_test_split, GridSearchCV,
-                                     StratifiedShuffleSplit, cross_val_score)
+from sklearn.model_selection import GridSearchCV, StratifiedShuffleSplit
 
 
 def run_svm(csv_path):

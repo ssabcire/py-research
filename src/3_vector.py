@@ -60,7 +60,7 @@ if __name__ == "__main__":
     p_data = Path().cwd() / 'data'
     csv_path = p_data / 'trend-就活セクハラ.csv'
     model_path = p_data / "trend-就活セクハラ.model"
-    vector_path = p_data / 'trend-死刑求刑-vector.csv'
+    vector_path = p_data / 'trend-就活セクハラ-vector.csv'
     columns = ['text', 'vector']
     df_vector(csv_path, str(model_path), columns
               ).to_csv(vector_path, index=False)
