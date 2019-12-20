@@ -58,9 +58,9 @@ def _normalize(vec: ndarray) -> ndarray:
 
 if __name__ == "__main__":
     p_data = Path().cwd() / 'data'
-    csv_path = p_data / 'trend-就活セクハラ.csv'
-    model_path = p_data / "trend-就活セクハラ.model"
-    vector_path = p_data / 'trend-就活セクハラ-vector.csv'
+    csv_path = p_data / 'trend-グレタさん.csv'
+    model_path = p_data / "trend-グレタさん.model"
+    vector_path = p_data / 'trend-グレタさん-vector.csv'
     columns = ['text', 'vector']
     df_vector(csv_path, str(model_path), columns
               ).to_csv(vector_path, index=False)

@@ -8,14 +8,14 @@ def make_w2v(sentence: List[List[str]], model_path: str):
     '''
     CSVからモデル作成し保存
     '''
-    model = Word2Vec(sentence, size=100, window=5, min_count=4, workers=4)
+    model = Word2Vec(sentence, size=200, window=5, min_count=4, workers=4)
     model.save(model_path)
 
 
 if __name__ == "__main__":
     cwd = Path().cwd()
-    csv_path = str(cwd / 'data' / 'trend-就活セクハラ.csv')
-    model_path = str(cwd / 'data' / "trend-就活セクハラ.model")
+    csv_path = str(cwd / 'data' / 'trend-グレタさん.csv')
+    model_path = str(cwd / 'data' / "trend-グレタさん.model")
     make_w2v(
         [row.split(" ") for row in read_csv(csv_path)['wakati_text'].dropna()],
         str(model_path)

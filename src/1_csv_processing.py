@@ -75,7 +75,8 @@ def _remove_unnecessary(tweet: str) -> str:
 
 
 if __name__ == '__main__':
-    json_files = (Path().cwd() / 'twitter' / 'trend-就活セクハラ').iterdir()
-    csv_path = Path().cwd() / 'data' / 'trend-就活セクハラ.csv'
+    cwd = Path().cwd()
+    json_files = (cwd / 'twitter' / 'trend-グレタさん').iterdir()
+    csv_path = cwd / 'data' / 'trend-グレタさん.csv'
     columns = ["text", "wakati_text"]
     csv_processing(json_files, csv_path, columns)

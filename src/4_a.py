@@ -33,3 +33,4 @@ if __name__ == "__main__":
     csv_path = cwd_data / 'trend-死刑求刑-vector-label.csv'
     valid_label_path = cwd_data / 'trend-死刑求刑-valid_label.csv'
     df = a(csv_path).dropna().to_csv(valid_label_path, index=False)
+    b(valid_label_path)
