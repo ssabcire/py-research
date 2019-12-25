@@ -8,20 +8,23 @@ from pandas import read_csv, DataFrame, Series
 
 def df_vector(csv_path, model_path: str, columns: List[str]) -> DataFrame:
     '''
-    Word2Vecのモデルを使って、新しく['text', 'vector']のDataFrameを作成する
+    Word2Vecのモデルを使って、新しく
+    ['label', 'text', 'wakati_text', 'vector']のDataFrameを作成する
     '''
     model = Word2Vec.load(model_path)
     df = read_csv(csv_path).dropna()
     init_df = DataFrame(columns=columns)
     texts = df['text'].values.tolist()
-    wakati_texts = (row.split(" ") for row in df['wakati_text'])
-    for i, row in enumerate(wakati_texts):
+    # wakati_texts = (row.split(" ") for row in df['wakati_text'])
+    for i, row in enumerate(row.split(" ") for row in df['wakati_text']):
         vector = _vector_sum(row, model)
         if vector is None:
             continue
         vector = _normalize(vector).astype('str')
         init_df = init_df.append(
-            Series([texts[i], " ".join(vector)], index=columns),
+            # Series([texts[i], " ".join(vector)], index=columns),
+            Series([df['label'][i], texts[i], ' '.join(row), " ".join(vector)],
+                   index=columns),
             ignore_index=True
         )
     return init_df
@@ -58,9 +61,9 @@ def _normalize(vec: ndarray) -> ndarray:
 
 if __name__ == "__main__":
     p_data = Path().cwd() / 'data'
-    csv_path = p_data / 'trend-グレタさん.csv'
-    model_path = p_data / "trend-グレタさん.model"
-    vector_path = p_data / 'trend-グレタさん-vector.csv'
-    columns = ['text', 'vector']
+    csv_path = p_data / 'trend-グレタ-label-notVector.csv'
+    model_path = p_data / "trend-グレタさん-new.model"
+    vector_path = p_data / 'trend-グレタ-label-vector.csv'
+    columns = ['label', 'text', 'wakati_text', 'vector']
     df_vector(csv_path, str(model_path), columns
               ).to_csv(vector_path, index=False)
