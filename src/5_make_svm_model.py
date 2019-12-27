@@ -3,15 +3,18 @@ from pandas import read_csv
 from sklearn.svm import SVC
 from sklearn.model_selection import GridSearchCV, StratifiedShuffleSplit
 from sklearn.feature_extraction.text import CountVectorizer
-from pyknp import Juman
 
 
-def run_svm(csv_path):
+def run_svm(csv_path, w2v=True, num=440):
     df = read_csv(csv_path).dropna()
-    # X = [row.split(" ") for row in df['vector']]    # 特徴量にW2V
-    # BoW
-    X = CountVectorizer().fit_transform(row for row in df['wakati_text'])
-    y = df['label']
+    if w2v is True:
+        # 特徴量にW2V
+        X = [row.split(" ") for row in df['vector']][:num]
+    else:
+        # 特徴量にBoW
+        X = CountVectorizer().fit_transform(
+            [row for row in df['wakati_text']][:num])
+    y = df['label'][:num]
 
     clf = GridSearchCV(
         SVC(),
@@ -21,12 +24,23 @@ def run_svm(csv_path):
     )
 
     clf.fit(X, y)
-    print(clf.best_estimator_)
-    print(clf.best_params_)
     print(clf.best_score_)
+    # print(clf.best_estimator_)
+    # print(clf.best_params_)
 
 
 if __name__ == "__main__":
     p_data = Path().cwd() / 'data'
     csv_path = p_data / 'trend-グレタ-label-vector.csv'
-    run_svm(csv_path)
+    for num in (40, 80, 120, 160, 200, 240, 280, 320, 360, 400, 440):
+        run_svm(csv_path, True, num)
+    print()
+    for num in (40, 80, 120, 160, 200, 240, 280, 320, 360, 400, 440):
+        run_svm(csv_path, False, num)
+
+    # print()
+    # for num in (50, 100, 150, 200, 250, 300, 350, 400, 440):
+    #     run_svm(csv_path, True, num)
+    # print()
+    # for num in (50, 100, 150, 200, 250, 300, 350, 400, 440):
+    #     run_svm(csv_path, False, num)

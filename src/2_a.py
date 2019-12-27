@@ -25,12 +25,12 @@ def b(csv_path):
             cnt_1 = cnt_1 + 1
         elif row['label'] == -1:
             cnt_2 = cnt_2 + 1
-    print("cnt_1:", cnt_1, "cnt_2:", cnt_2)
+    print("cnt_1:", cnt_1, "cnt_2:", cnt_2, "all: ", cnt_1+cnt_2)
 
 
 if __name__ == "__main__":
     cwd_data = Path().cwd() / 'data'
     csv_path = cwd_data / 'trend-グレタさん-vector.csv'
     valid_label_path = cwd_data / 'trend-グレタさん-valid_label.csv'
-    df = a(csv_path).dropna().to_csv(valid_label_path, index=False)
+    # df = a(csv_path).dropna().to_csv(valid_label_path, index=False)
     b(valid_label_path)
