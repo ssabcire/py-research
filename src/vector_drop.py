@@ -48,6 +48,6 @@ def _remove_unnecessary(tweet: str) -> str:
 
 if __name__ == "__main__":
     cwd_data = Path().cwd() / 'data'
-    valid_label_path = cwd_data / 'trend-グレタさん-valid_label.csv'
-    new_csv_name = cwd_data / 'trend-グレタ-label-notVector.csv'
+    valid_label_path = cwd_data / 'trend-グレタさん-vector.csv'
+    new_csv_name = cwd_data / 'trend-グレタさん-label.csv'
     c(valid_label_path).dropna().to_csv(new_csv_name, index=False)

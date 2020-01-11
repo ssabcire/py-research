@@ -60,10 +60,17 @@ def _normalize(vec: ndarray) -> ndarray:
 
 
 if __name__ == "__main__":
-    p_data = Path().cwd() / 'data'
-    csv_path = p_data / 'trend-グレタ-label-notVector.csv'
-    model_path = p_data / "trend-グレタさん-new.model"
-    vector_path = p_data / 'trend-グレタ-label-vector.csv'
+    cwd = Path().cwd() / 'data'
+    csv_path = cwd / 'trend-グレタさん-label.csv'
+    model_path = cwd / 'w2vallTweets' / "trend-グレタさん-allTweets.model"
+    vector_path = cwd / 'w2vallTweets' / 'trend-グレタさん-allTweets.csv'
+    columns = ['label', 'text', 'wakati_text', 'vector']
+    df_vector(csv_path, str(model_path), columns
+              ).to_csv(vector_path, index=False)
+
+    csv_path = cwd / 'trend-グレタさん-validLabel.csv'
+    model_path = cwd / 'w2vOnlyValidLabel' / "trend-グレタさん-onlyValidLabel.model"
+    vector_path = cwd / 'w2vOnlyValidLabel' / 'trend-グレタさん-onlyValidLabel.csv'
     columns = ['label', 'text', 'wakati_text', 'vector']
     df_vector(csv_path, str(model_path), columns
               ).to_csv(vector_path, index=False)

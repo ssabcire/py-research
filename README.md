@@ -1,5 +1,8 @@
 # SVM + Word2Vec で分類
 
+trend-グレタ-label-vector.csv 有効ラベルのみで学習
+
+
 ## 手順
 
 1. 1_csv.processing.pyで作成

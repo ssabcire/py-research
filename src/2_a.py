@@ -2,7 +2,7 @@ from pathlib import Path
 from pandas import read_csv, DataFrame, Series
 
 '''
-1, -1のラベルが振られたデータのみを抽出して、label, text, vectorのDFで保存
+1, -1のラベルが振られたデータのみを抽出して、label, textのDFで保存
 '''
 
 
@@ -30,7 +30,7 @@ def b(csv_path):
 
 if __name__ == "__main__":
     cwd_data = Path().cwd() / 'data'
-    csv_path = cwd_data / 'trend-グレタさん-vector.csv'
-    valid_label_path = cwd_data / 'trend-グレタさん-valid_label.csv'
-    # df = a(csv_path).dropna().to_csv(valid_label_path, index=False)
-    b(valid_label_path)
+    csv_path = cwd_data / 'trend-グレタさん-label.csv'
+    valid_label_path = cwd_data / 'trend-グレタさん-valid_label2.csv'
+    df = a(csv_path).dropna().to_csv(valid_label_path, index=False)
+    # b(valid_label_path)
