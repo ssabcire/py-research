@@ -5,7 +5,10 @@ from sklearn.model_selection import GridSearchCV, StratifiedShuffleSplit
 from sklearn.feature_extraction.text import CountVectorizer
 
 
-def run_svm(csv_path, w2v=True, num=440):
+def run_svm(csv_path: Path, w2v=True, num=440):
+    '''
+    SVMで分類を行う
+    '''
     df = read_csv(csv_path).dropna()
     if w2v is True:
         # 特徴量にW2V
@@ -26,8 +29,6 @@ def run_svm(csv_path, w2v=True, num=440):
     clf.fit(X, y)
     print(clf.best_score_)
     return clf.best_score_
-    # print(clf.best_estimator_)
-    # print(clf.best_params_)
 
 
 if __name__ == "__main__":
@@ -36,11 +37,14 @@ if __name__ == "__main__":
     csv_path2 = cwd / 'w2vOnlyValidLabel' / 'trend-グレタさん-onlyValidLabel.csv'
     csv_path3 = cwd / 'trend-グレタさん-label.csv'
     csv_path4 = cwd / 'trend-グレタさん-validLabel.csv'
+    # 全ツイートで学習
     a = run_svm(csv_path1, True)
     run_svm(csv_path2, True)
+    # ラベルがつけられたツイートのみで学習
     b = run_svm(csv_path3, False)
     run_svm(csv_path4, False)
     print(b-a)
+
     # for num in (40, 80, 120, 160, 200, 240, 280, 320, 360, 400, 440):
     #     run_svm(csv_path, True, num)
     # print()

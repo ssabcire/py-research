@@ -6,7 +6,8 @@ from numpy.linalg import norm
 from pandas import read_csv, DataFrame, Series
 
 
-def df_vector(csv_path, model_path: str, columns: List[str]) -> DataFrame:
+def df_vector(csv_path: Path, model_path: str, columns: List[str]
+              ) -> DataFrame:
     '''
     Word2Vecのモデルを使って、新しく
     ['label', 'text', 'wakati_text', 'vector']のDataFrameを作成する
@@ -60,6 +61,7 @@ def _normalize(vec: ndarray) -> ndarray:
 
 
 if __name__ == "__main__":
+    # すべてのツイートで学習したモデルを使ってベクトルを作成
     cwd = Path().cwd() / 'data'
     csv_path = cwd / 'trend-グレタさん-label.csv'
     model_path = cwd / 'w2vallTweets' / "trend-グレタさん-allTweets.model"
@@ -68,6 +70,7 @@ if __name__ == "__main__":
     df_vector(csv_path, str(model_path), columns
               ).to_csv(vector_path, index=False)
 
+    # 有効ラベルがついているツイートで学習したモデルを使ってベクトルを作成
     csv_path = cwd / 'trend-グレタさん-validLabel.csv'
     model_path = cwd / 'w2vOnlyValidLabel' / "trend-グレタさん-onlyValidLabel.model"
     vector_path = cwd / 'w2vOnlyValidLabel' / 'trend-グレタさん-onlyValidLabel.csv'

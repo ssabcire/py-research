@@ -13,6 +13,7 @@ def make_w2v(sentence: List[List[str]], model_path: str):
 
 
 if __name__ == "__main__":
+    # すべてのツイートで学習
     cwd = Path().cwd() / 'data'
     csv_path = str(cwd / 'trend-グレタさん-label.csv')
     model_path = str(cwd / 'w2vAllTweets' / "trend-グレタさん-allTweets.model")
@@ -21,6 +22,7 @@ if __name__ == "__main__":
         str(model_path)
     )
 
+    # 有効ラベルのみで学習
     csv_path = str(cwd / 'trend-グレタさん-validLabel.csv')
     model_path = str(cwd / 'w2vOnlyValidLabel' /
                      "trend-グレタさん-onlyValidLabel.model")
