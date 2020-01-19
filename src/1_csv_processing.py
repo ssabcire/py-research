@@ -10,15 +10,14 @@ def csv_processing(json_files: Generator[Path, None, None],
                    csv_path: Path,
                    columns: List[str]):
     '''
-    大量のJSONファイルを読み込んでツイート部分をCSV化する
+    ツイートであるJSONファイルを読み込んで、テキスト部分をCSV化する
     '''
     _csv_writer(_load_files(json_files), csv_path, columns)
 
 
 def _load_files(json_files: Generator[Path, None, None]) -> Set[str]:
     '''
-    取得したJSONツイートのPATHが記載されたリストからファイルすべてを読み込み、
-    テキストのSetを返す
+    ディレクトリからファイルすべてを読み込み、テキストのSetを返す
     '''
     tweets = set()
     for file in json_files:
@@ -30,11 +29,10 @@ def _load_files(json_files: Generator[Path, None, None]) -> Set[str]:
     return tweets
 
 
-def _csv_writer(
-        tweets: set, csv_path: Path, columns: List[str]):
+def _csv_writer(tweets: set, csv_path: Path, columns: List[str]):
     '''
     引数tweetsをひとつずつ形態素解析し、CSVに書き込む
-    1列目=ツイート, 2列目=分かち書きされたツイート
+    CSV1列目: ツイート, 2列目: 分かち書きされたツイート
     '''
     df = DataFrame(
         [
@@ -48,7 +46,7 @@ def _csv_writer(
 
 def _morphological_analysis(tweet: str) -> List[str]:
     '''
-    tweetを形態素解析し、リストで返す
+    tweetを形態素解析し、リストを返す
     '''
     text = _remove_unnecessary(tweet)
     if not text:

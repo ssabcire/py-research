@@ -2,7 +2,7 @@ from pathlib import Path
 from pandas import read_csv, DataFrame, Series
 
 
-def a(csv_path: Path):
+def make_df_valid_label(csv_path: Path) -> DataFrame:
     '''
     1, -1のラベルが振られたデータのみを抽出して、label, textのDFで保存
     '''
@@ -29,8 +29,10 @@ def b(csv_path: Path):
 
 
 if __name__ == "__main__":
-    cwd_data = Path().cwd() / 'data'
-    csv_path = cwd_data / 'trend-グレタさん-label.csv'
-    valid_label_path = cwd_data / 'trend-グレタさん-validLabel.csv'
-    df = a(csv_path).dropna().to_csv(valid_label_path, index=False)
-    # b(valid_label_path)
+    cwd = Path().cwd() / 'data'
+    csv_path = cwd / 'trend-グレタさん-label.csv'
+    valid_label_path = cwd / 'trend-グレタさん-validLabel.csv'
+
+    df = make_df_valid_label(csv_path).dropna(
+    ).to_csv(valid_label_path, index=False)
+    b(valid_label_path)
