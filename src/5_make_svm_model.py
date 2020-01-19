@@ -34,7 +34,7 @@ def run_svm(csv_path: Path, w2v=True):
 
 if __name__ == "__main__":
     cwd = Path().cwd() / 'data'
-    csv_path = cwd / 'w2vOnlyValidLabel' / 'trend-グレタさん-validVector.csv'
+    csv_path = cwd / 'trend-グレタさん-validVector.csv'
 
     # ラベルがつけられたツイートのみで学習, W2V
     a = run_svm(csv_path, True)
