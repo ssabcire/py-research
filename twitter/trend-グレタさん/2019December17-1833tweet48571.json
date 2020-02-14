@@ -1,0 +1,271 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 09:42:34 +0000 2019",
+    "display_text_range": [
+        0,
+        106
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    68,
+                    91
+                ],
+                "url": "https://t.co/Iy6IgDvqwO",
+                "display_url": "ift.tt/2tkWxV3",
+                "expanded_url": "https://ift.tt/2tkWxV3"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    103,
+                    106
+                ],
+                "text": "社会"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": [
+            {
+                "id": 1206509914706915328,
+                "id_str": "1206509914706915328",
+                "media_url": "http://pbs.twimg.com/media/EL5iYAQXsAANZM9.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL5iYAQXsAANZM9.jpg",
+                "url": "https://t.co/gIRW6mAHTM",
+                "display_url": "pic.twitter.com/gIRW6mAHTM",
+                "expanded_url": "https://twitter.com/otonanews1/status/1206509915679932417/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 239,
+                        "h": 150,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 239,
+                        "h": 150,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 239,
+                        "h": 150,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    107,
+                    130
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206509914706915328,
+                "id_str": "1206509914706915328",
+                "media_url": "http://pbs.twimg.com/media/EL5iYAQXsAANZM9.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL5iYAQXsAANZM9.jpg",
+                "url": "https://t.co/gIRW6mAHTM",
+                "display_url": "pic.twitter.com/gIRW6mAHTM",
+                "expanded_url": "https://twitter.com/otonanews1/status/1206509915679932417/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 239,
+                        "h": 150,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 239,
+                        "h": 150,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 239,
+                        "h": 150,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    107,
+                    130
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "【注目】【悲報】グレタさん「満員列車で帰りました」鉄道会社「ファーストクラスご利用ありがとうございます」 \u0026gt;\u0026gt;詳細\u0026gt; https://t.co/Iy6IgDvqwO byオトナなニュース #社会 https://t.co/gIRW6mAHTM",
+    "has_extended_profile": false,
+    "id": 1206509915679932417,
+    "id_str": "1206509915679932417",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://ifttt.com\" rel=\"nofollow\"\u003eIFTTT\u003c/a\u003e",
+    "scopes": null,
+    "text": "【注目】【悲報】グレタさん「満員列車で帰りました」鉄道会社「ファースト\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 03 14:40:12 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "オトナのニュースでは政治やアジア情勢などオトナなニュースをつぶやきます。大人っぽいニュースだったら（？）RTをお願いしますぅ！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/EEZtqNDBMm",
+                        "display_url": "trend.aamto.com",
+                        "expanded_url": "http://trend.aamto.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 3,
+        "follow_request_sent": false,
+        "followers_count": 2016,
+        "following": false,
+        "friends_count": 4431,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 705402397737136128,
+        "id_str": "705402397737136128",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 5,
+        "location": "",
+        "name": "オトナのニュース",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/705402397737136128/1523704875",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/985115846077964288/1zXa7x1D_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/985115846077964288/1zXa7x1D_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "otonanews1",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 54816,
+        "time_zone": "",
+        "url": "https://t.co/EEZtqNDBMm",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

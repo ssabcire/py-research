@@ -1,0 +1,357 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:49:26 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "星丘るな(ᵃⁿᵈ千種ばーねっと)@四ツ星在学中",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "Hoshioka_Luna",
+                "id": 1249801584,
+                "id_str": "1249801584"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @Hoshioka_Luna: 東京メトロ東西線\n大阪メトロ御堂筋線\n名古屋市営地下鉄東山線\n東急田園都市線\nその他180%越えのJR東日本東京近郊路線乗ってから言ってください。\n\nグレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い https://t…",
+    "has_extended_profile": false,
+    "id": 1206587140575875075,
+    "id_str": "1206587140575875075",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 10:58:43 +0000 2019",
+        "display_text_range": [
+            0,
+            146
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        111,
+                        134
+                    ],
+                    "url": "https://t.co/Rim0YCHk00",
+                    "display_url": "afpbb.com/articles/-/325…",
+                    "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "AFPBB News",
+                    "indices": [
+                        135,
+                        144
+                    ],
+                    "screen_name": "afpbbcom",
+                    "id": 90841111,
+                    "id_str": "90841111"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "東京メトロ東西線\n大阪メトロ御堂筋線\n名古屋市営地下鉄東山線\n東急田園都市線\nその他180%越えのJR東日本東京近郊路線乗ってから言ってください。\n\nグレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い https://t.co/Rim0YCHk00 @afpbbcomより",
+        "has_extended_profile": false,
+        "id": 1206529079781904384,
+        "id_str": "1206529079781904384",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "東京メトロ東西線\n大阪メトロ御堂筋線\n名古屋市営地下鉄東山線\n東急田園都市線\nその他180%越えのJR東日本東\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Mar 07 18:56:31 +0000 2013",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "こちらからはほぼなりきりの方のみ繋がります。千種ばーねっとは『』で会話。一般は基本的にこちらからフォローしません。また悪意あるリプは也･一般問わず石積み対象。繋がっている也垢の背後のみ例外で繋がります。仕様書→ https://t.co/gnYAqfSpNv",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/rDw1BB3Tnn",
+                            "display_url": "mypage.aikatsu.com/mypages/index/…",
+                            "expanded_url": "https://mypage.aikatsu.com/mypages/index/1v2DNwuwyQLwnOIs/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 469,
+            "follow_request_sent": false,
+            "followers_count": 65,
+            "following": false,
+            "friends_count": 65,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 1249801584,
+            "id_str": "1249801584",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 2,
+            "location": "四ツ星学園学生寮",
+            "name": "星丘るな(ᵃⁿᵈ千種ばーねっと)@四ツ星在学中",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249801584/1573456091",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1194314130116603904/oxxGmK25_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194314130116603904/oxxGmK25_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Hoshioka_Luna",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 5471,
+            "time_zone": "",
+            "url": "https://t.co/rDw1BB3Tnn",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @Hoshioka_Luna: 東京メトロ東西線\n大阪メトロ御堂筋線\n名古屋市営地下鉄東山線\n東急田園都市線\nその他180",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 04 14:41:51 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "K12→PV35セダン前期→NCP100",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/cJiLu4BslK",
+                        "display_url": "sourcenext.com/support/form/I…",
+                        "expanded_url": "https://www.sourcenext.com/support/form/InquiryForm0314"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 55081,
+        "follow_request_sent": false,
+        "followers_count": 2542,
+        "following": false,
+        "friends_count": 5002,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 292961749,
+        "id_str": "292961749",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 79,
+        "location": "",
+        "name": "イタパソン@",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/292961749/1562114647",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1797667494/profile_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1797667494/profile_normal.png",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ITAPASON_24",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 129971,
+        "time_zone": "",
+        "url": "https://t.co/cJiLu4BslK",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,337 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:34:55 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "野狐",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "cafeoreda",
+                "id": 752133314,
+                "id_str": "752133314"
+            },
+            {
+                "name": "てつや",
+                "indices": [
+                    15,
+                    23
+                ],
+                "screen_name": "tezheya",
+                "id": 171273202,
+                "id_str": "171273202"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @cafeoreda: @tezheya どういうことかというと、「私は勉強をした、知識もある！労働者階級とは違う！私が人々をただしき方向に導かなければならない！なのに何故下々の者たちは私の言葉に耳を貸さないのか！それはつまり、彼らに知識がないからだ！ならば私自ら教育せね…",
+    "has_extended_profile": false,
+    "id": 1206779779963244544,
+    "id_str": "1206779779963244544",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 13:43:11 +0000 2019",
+        "display_text_range": [
+            9,
+            146
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "てつや",
+                    "indices": [
+                        0,
+                        8
+                    ],
+                    "screen_name": "tezheya",
+                    "id": 171273202,
+                    "id_str": "171273202"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 6,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@tezheya どういうことかというと、「私は勉強をした、知識もある！労働者階級とは違う！私が人々をただしき方向に導かなければならない！なのに何故下々の者たちは私の言葉に耳を貸さないのか！それはつまり、彼らに知識がないからだ！ならば私自ら教育せねばならない！」という人達。グレタさんもコレ。",
+        "has_extended_profile": false,
+        "id": 1206570469266083840,
+        "id_str": "1206570469266083840",
+        "in_reply_to_screen_name": "tezheya",
+        "in_reply_to_status_id": 1206569778430664704,
+        "in_reply_to_status_id_str": "1206569778430664704",
+        "in_reply_to_user_id": 171273202,
+        "in_reply_to_user_id_str": "171273202",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "どういうことかというと、「私は勉強をした、知識もある！労働者階級とは違う！私が人々をただし\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Aug 12 00:11:21 +0000 2012",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "のこと申します。ピアノと酒と古武道とバレエと絵と犬と猫が好きです。人間観察はほぼ病気のレベルでやってます。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 1159,
+            "follow_request_sent": false,
+            "followers_count": 54,
+            "following": false,
+            "friends_count": 44,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 752133314,
+            "id_str": "752133314",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 3,
+            "location": "",
+            "name": "野狐",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/752133314/1408285680",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/501011969046892544/SeiC3Qo2_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/501011969046892544/SeiC3Qo2_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "cafeoreda",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 7893,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @cafeoreda: @tezheya どういうことかというと、「私は勉強をした、知識もある！労働者階級とは違う！私\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 27 14:22:26 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "メルスト、ラスピリ、FGO、アイギス、プリコネ勢です。 ※最近ゲーム中途半端になってたから色々触るの泣く泣く辞めました。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 79892,
+        "follow_request_sent": false,
+        "followers_count": 687,
+        "following": false,
+        "friends_count": 925,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 2591452004,
+        "id_str": "2591452004",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 8,
+        "location": "日本 愛知",
+        "name": "すっずめー@癒術士ピリオド勢",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2591452004/1482045936",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1024603255223988224/1fQKPs2Y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024603255223988224/1fQKPs2Y_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "suzzzume",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 37885,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

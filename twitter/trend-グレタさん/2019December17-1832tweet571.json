@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 07:35:27 +0000 2019",
+    "display_text_range": [
+        0,
+        148
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    125,
+                    148
+                ],
+                "url": "https://t.co/qtwHBvme6O",
+                "display_url": "news.yahoo.co.jp/byline/shivare…",
+                "expanded_url": "https://news.yahoo.co.jp/byline/shivarei/20191213-00154732/"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "飛行機から排出されるCO2はドイツ一国の排出量とほぼ同等。つまり航空業界のCO2排出は世界第6位の温室効果ガス排出国に匹敵。グレタさんは欧州での移動には鉄道、米国と欧州の移動にすらヨットを利用するなど徹底してCO2排出が少ない交通手段を使っている。\nhttps://t.co/qtwHBvme6O",
+    "has_extended_profile": false,
+    "id": 1206840315002277888,
+    "id_str": "1206840315002277888",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "飛行機から排出されるCO2はドイツ一国の排出量とほぼ同等。つまり航空業界のCO2排出は世界第6位の温室効果ガ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 17 12:10:09 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "映画・音楽・政治についてが主。ジョンスパルタンとエミリーブラントが好きです。銃を構えた女性と、ケツアゴが大好きです。 映像制作マン。元画家",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2272,
+        "follow_request_sent": false,
+        "followers_count": 40,
+        "following": false,
+        "friends_count": 314,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3380203617,
+        "id_str": "3380203617",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 2,
+        "location": "",
+        "name": "ジョン・スパルタン",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3380203617/1540303365",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1093109398841380864/_By08A4l_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093109398841380864/_By08A4l_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "uglinsane",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 2620,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

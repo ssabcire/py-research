@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:48:43 +0000 2019",
+    "display_text_range": [
+        0,
+        121
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    98,
+                    121
+                ],
+                "url": "https://t.co/bdaaVpKbBb",
+                "display_url": "snjpn.net/archives/171573",
+                "expanded_url": "https://snjpn.net/archives/171573"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Katana Edge＠中2超美少女 (cv: 広河太一郎)",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "amiga2500",
+                "id": 99279118,
+                "id_str": "99279118"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @amiga2500: 「いい年した男の人」という要素を挙げてる時点で、茂木氏がグレタさんを「一人の発言者」としてでなく、「性別と年齢」を加味した彼女を評価してるってのが丸わかりですね。\n\nhttps://t.co/bdaaVpKbBb",
+    "has_extended_profile": false,
+    "id": 1206556760246341634,
+    "id_str": "1206556760246341634",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 142,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 02:09:32 +0000 2019",
+        "display_text_range": [
+            0,
+            106
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        83,
+                        106
+                    ],
+                    "url": "https://t.co/bdaaVpKbBb",
+                    "display_url": "snjpn.net/archives/171573",
+                    "expanded_url": "https://snjpn.net/archives/171573"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 190,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "「いい年した男の人」という要素を挙げてる時点で、茂木氏がグレタさんを「一人の発言者」としてでなく、「性別と年齢」を加味した彼女を評価してるってのが丸わかりですね。\n\nhttps://t.co/bdaaVpKbBb",
+        "has_extended_profile": false,
+        "id": 1206395908381798400,
+        "id_str": "1206395908381798400",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": true,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 142,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "「いい年した男の人」という要素を挙げてる時点で、茂木氏がグレタさんを「\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Dec 25 12:58:59 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "フォローはご自由に。解除もご自由に。 ズボラな性格なのでフォロー返しが不完全で申し訳ない。別に選んだりしてるわけじゃないので「フォロー返し無しなんてあんまりだぜ、ベイベー」って方は遠慮無く突いてやって下さいませ。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 40232,
+            "follow_request_sent": false,
+            "followers_count": 10700,
+            "following": false,
+            "friends_count": 513,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 99279118,
+            "id_str": "99279118",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 299,
+            "location": "南極昭和基地",
+            "name": "Katana Edge＠中2超美少女 (cv: 広河太一郎)",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/99279118/1454228806",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1169045305993490432/-f0P0uG3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1169045305993490432/-f0P0uG3_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "amiga2500",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 91376,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @amiga2500: 「いい年した男の人」という要素を挙げてる時点で、茂木氏がグレタさんを「\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 05 00:47:53 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 31045,
+        "follow_request_sent": false,
+        "followers_count": 1124,
+        "following": false,
+        "friends_count": 897,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 71684896,
+        "id_str": "71684896",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 13,
+        "location": "",
+        "name": "Erica Housing",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "iloveerica",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 249688,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

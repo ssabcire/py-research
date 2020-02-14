@@ -1,0 +1,181 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:07:34 +0000 2019",
+    "display_text_range": [
+        0,
+        110
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    87,
+                    110
+                ],
+                "url": "https://t.co/SYTrbL6h2T",
+                "display_url": "npx.me/wPzc/7MUM?from…",
+                "expanded_url": "https://npx.me/wPzc/7MUM?from=twitter"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    76,
+                    86
+                ],
+                "text": "NewsPicks"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "米国など汚染国が反対し、合意に至らず。人気のグレタさんの活動も、政治に阻まれている。 / ＣＯＰ２５閉幕、各国足並みそろわず　国連事務総長「がっかり」 #NewsPicks https://t.co/SYTrbL6h2T",
+    "has_extended_profile": false,
+    "id": 1206576603775434757,
+    "id_str": "1206576603775434757",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://newspicks.com\" rel=\"nofollow\"\u003eNewsPicks\u003c/a\u003e",
+    "scopes": null,
+    "text": "米国など汚染国が反対し、合意に至らず。人気のグレタさんの活動も、政治に阻\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 18 00:18:18 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "NY在住ジャーナリスト。ビジネスインサイダーなどに執筆。近著は「現代アメリカ政治とメディア」（東洋経済）、「教育超格差大国アメリカ」など。Japan-born Journalist based in NYC. Interviewed M.Zuckerberg, Steve Chen and Cindy Gallop.",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/4d0D4HYRrz",
+                        "display_url": "huffingtonpost.com/jim-luce/keiko…",
+                        "expanded_url": "http://www.huffingtonpost.com/jim-luce/keiko-tsuyama-japanese-wo_b_166123.html"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 3509,
+        "follow_request_sent": false,
+        "followers_count": 1785,
+        "following": false,
+        "friends_count": 846,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 19129419,
+        "id_str": "19129419",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 155,
+        "location": "New York",
+        "name": "Keiko Tsuyama「現代アメリカ政治とメディア」発売",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19129419/1374271037",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1160306437245100032/tvJm2qZn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1160306437245100032/tvJm2qZn_normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "keikoworld",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 20633,
+        "time_zone": "",
+        "url": "http://t.co/4d0D4HYRrz",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

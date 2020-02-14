@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:37:35 +0000 2019",
+    "display_text_range": [
+        0,
+        61
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんを8時に東西線木場～門前仲町に乗せてみたみたいな企画しろ。ただ満員電車でマウント取ってるのは醜いのでやめようね！",
+    "has_extended_profile": false,
+    "id": 1206780453849427969,
+    "id_str": "1206780453849427969",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんを8時に東西線木場～門前仲町に乗",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 29 04:56:42 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "関東に左遷された阪神ファン(パ・は鴎、公)。緊急避難用→@sanchi_supersub\n趣味が合いそうな人を適当にフォローしてます。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/BPClGaiUQG",
+                        "display_url": "twpf.jp/sanchi_tiger_25",
+                        "expanded_url": "http://twpf.jp/sanchi_tiger_25"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 60443,
+        "follow_request_sent": false,
+        "followers_count": 1076,
+        "following": false,
+        "friends_count": 851,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 714677642805514240,
+        "id_str": "714677642805514240",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 13,
+        "location": "青梅特快東京行",
+        "name": "さんち",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/714677642805514240/1574257599",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1204032934182653952/-Cc_4HQT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1204032934182653952/-Cc_4HQT_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sanchi_tiger_25",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 49679,
+        "time_zone": "",
+        "url": "https://t.co/BPClGaiUQG",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:17:06 +0000 2019",
+    "display_text_range": [
+        0,
+        89
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "温室効果ガス排出を本気で止めたいならメタンガス排出の主要因である牛の飼育をやめるべきと聴いたことがあって、グレタさんは菜食主義なのかな（少なくとも牛は食べないのかな）と思っている",
+    "has_extended_profile": false,
+    "id": 1206579005442252802,
+    "id_str": "1206579005442252802",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://yoshika23218.com/\" rel=\"nofollow\"\u003etwitcle plus\u003c/a\u003e",
+    "scopes": null,
+    "text": "温室効果ガス排出を本気で止めたいならメタンガス排出の主要因\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 03 11:38:39 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ビール飲んだりアニメ見たりしている。既婚。一児のパパ。\n#craftbeer #nikon #Z6 #GR #RICOH #ベイスターズ #クラフトビール #神奈川 #凛として時雨",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Xrjm8oYkCt",
+                        "display_url": "flickr.com/photos/chhr_52…",
+                        "expanded_url": "https://www.flickr.com/photos/chhr_522/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2424,
+        "follow_request_sent": false,
+        "followers_count": 66,
+        "following": false,
+        "friends_count": 74,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 276454371,
+        "id_str": "276454371",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 5,
+        "location": "ふぁぼりあい宇宙",
+        "name": "ひろくん",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/276454371/1536192031",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1037524131418230784/wUmwIlO-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1037524131418230784/wUmwIlO-_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "chr_sub",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 6681,
+        "time_zone": "",
+        "url": "https://t.co/Xrjm8oYkCt",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

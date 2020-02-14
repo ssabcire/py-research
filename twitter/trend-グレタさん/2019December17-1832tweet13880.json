@@ -1,0 +1,243 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:28:47 +0000 2019",
+    "display_text_range": [
+        0,
+        109
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": [
+            {
+                "id": 1206732771848155136,
+                "id_str": "1206732771848155136",
+                "media_url": "http://pbs.twimg.com/media/EL8tD_zU8AAbHCy.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL8tD_zU8AAbHCy.jpg",
+                "url": "https://t.co/nGqFT5U4bD",
+                "display_url": "pic.twitter.com/nGqFT5U4bD",
+                "expanded_url": "https://twitter.com/gotouno_umisio/status/1206732939880321024/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    110,
+                    133
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206732771848155136,
+                "id_str": "1206732771848155136",
+                "media_url": "http://pbs.twimg.com/media/EL8tD_zU8AAbHCy.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL8tD_zU8AAbHCy.jpg",
+                "url": "https://t.co/nGqFT5U4bD",
+                "display_url": "pic.twitter.com/nGqFT5U4bD",
+                "expanded_url": "https://twitter.com/gotouno_umisio/status/1206732939880321024/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    110,
+                    133
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんを見習っている若者たちって、「次世代のことを考えて大人たちは快適な生活ばかり求めるな～」と言ってるの？それとも、「これまでのような快適・便利な生活ができるように大人たちは早く手を打たんかい！」と言っているの？ https://t.co/nGqFT5U4bD",
+    "has_extended_profile": false,
+    "id": 1206732939880321024,
+    "id_str": "1206732939880321024",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんを見習っている若者たちって、「次世代のことを考えて大人たちは快\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 17 10:37:44 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "57歳。2000年3月に脱サラ、長崎県五島列島で海水を原料とする昔ながらの塩づくり中。生計のためにはじめた塩だけど学べば奥深い。その学びの中で、現代の健康や医学の常識のいい加減さを痛感、塩を切り口に現代社会にも切り込んでいきたい。＃塩＃高血圧＃地球温暖化＃文章術＃起承転結",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 18,
+        "follow_request_sent": false,
+        "followers_count": 31,
+        "following": false,
+        "friends_count": 52,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1162674819701231616,
+        "id_str": "1162674819701231616",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "",
+        "name": "うみしお",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1162677531448758273/-TbgYumL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1162677531448758273/-TbgYumL_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gotouno_umisio",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 110,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,416 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:24:35 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "由良　守生",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "zan4736511",
+                "id": 926036782528962561,
+                "id_str": "926036782528962561"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @zan4736511: COP25、気候サミットの顛末です。グレタさんなど話題いっぱいだったはずなのに、宴の後のアホらしさよ。ウソツキばかりだったからね。目的よりも手段、と書いてある。原発と再エネなどの風力発電よ。カネを作ることが目的だ、と正直に書けよ。がっかり、ではな…",
+    "has_extended_profile": false,
+    "id": 1206777179582808065,
+    "id_str": "1206777179582808065",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 00:40:23 +0000 2019",
+        "display_text_range": [
+            0,
+            128
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206735850555330560,
+                    "id_str": "1206735850555330560",
+                    "media_url": "http://pbs.twimg.com/media/EL8v3M4UUAAFlme.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL8v3M4UUAAFlme.jpg",
+                    "url": "https://t.co/n6G3vlVKCt",
+                    "display_url": "pic.twitter.com/n6G3vlVKCt",
+                    "expanded_url": "https://twitter.com/zan4736511/status/1206735857241079808/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 481,
+                            "h": 905,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 361,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 481,
+                            "h": 905,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        129,
+                        152
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206735850555330560,
+                    "id_str": "1206735850555330560",
+                    "media_url": "http://pbs.twimg.com/media/EL8v3M4UUAAFlme.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL8v3M4UUAAFlme.jpg",
+                    "url": "https://t.co/n6G3vlVKCt",
+                    "display_url": "pic.twitter.com/n6G3vlVKCt",
+                    "expanded_url": "https://twitter.com/zan4736511/status/1206735857241079808/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 481,
+                            "h": 905,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 361,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 481,
+                            "h": 905,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        129,
+                        152
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 3,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "COP25、気候サミットの顛末です。グレタさんなど話題いっぱいだったはずなのに、宴の後のアホらしさよ。ウソツキばかりだったからね。目的よりも手段、と書いてある。原発と再エネなどの風力発電よ。カネを作ることが目的だ、と正直に書けよ。がっかり、ではないはずよ。 https://t.co/n6G3vlVKCt",
+        "has_extended_profile": false,
+        "id": 1206735857241079808,
+        "id_str": "1206735857241079808",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "COP25、気候サミットの顛末です。グレタさんなど話題いっぱいだったはずなのに、宴の後のアホ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Nov 02 10:42:28 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "和歌山の由良の庄で百姓をしています。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/UkZHEDR1CO",
+                            "display_url": "yuramorio.com",
+                            "expanded_url": "http://yuramorio.com"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 1272,
+            "follow_request_sent": false,
+            "followers_count": 190,
+            "following": false,
+            "friends_count": 297,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 926036782528962561,
+            "id_str": "926036782528962561",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 8,
+            "location": "和歌山県",
+            "name": "由良　守生",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/926036782528962561/1511679496",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/934677421701263362/aTM4XWli_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/934677421701263362/aTM4XWli_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "zan4736511",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 1246,
+            "time_zone": "",
+            "url": "https://t.co/UkZHEDR1CO",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @zan4736511: COP25、気候サミットの顛末です。グレタさんなど話題いっぱいだったはずなのに、宴の後の\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 27 03:37:04 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#Consadole ♥️🖤🦉 #SamuraiBlue 🇯🇵⚔️💙 #NCFC🌕🐤 #RepresentTheEarth🌎🌍🌏💙💛❤️💚💜",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 79467,
+        "follow_request_sent": false,
+        "followers_count": 753,
+        "following": false,
+        "friends_count": 1238,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3355358053,
+        "id_str": "3355358053",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 10,
+        "location": "北海道小樽市,Otaru-city Hokkaido",
+        "name": "ICHIKO.51",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3355358053/1568877012",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1131016314800050176/rQzDse4t_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1131016314800050176/rQzDse4t_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "k_t_schiuk_m_27",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 58927,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

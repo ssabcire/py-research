@@ -1,0 +1,181 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 01:11:10 +0000 2019",
+    "display_text_range": [
+        0,
+        68
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    27,
+                    50
+                ],
+                "url": "https://t.co/sDVTVBu3fS",
+                "display_url": "twitter.com/i/events/12066…",
+                "expanded_url": "https://twitter.com/i/events/1206600997478383617"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    53,
+                    68
+                ],
+                "text": "GretaThurnberg"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさん「帰りの列車は超満員」 ドイツ鉄道が応酬: https://t.co/sDVTVBu3fS \n\n#GretaThurnberg",
+    "has_extended_profile": false,
+    "id": 1206743605605388288,
+    "id_str": "1206743605605388288",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさん「帰りの列車は超満員」 ドイツ鉄道が\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 24 20:19:29 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "学歴：某国立大工学部卒 \n職歴：色々。主に河川、河畔環境をフィールドにした環境調査と多変量解析、その知見を基にした環境モデルの実験的構築と検証。現在はほぼリタイア組。 \n趣味：読書、音楽全般（含カラオケ）、映画鑑賞 \n関心事：政治・社会問題全般、進化論、進化人類学、医療・医学問題、生命科学・倫理、科学哲学、言語学他",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/dTcmWYPHL8",
+                        "display_url": "ameblo.jp/nana7770214",
+                        "expanded_url": "http://ameblo.jp/nana7770214"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1501,
+        "follow_request_sent": false,
+        "followers_count": 119,
+        "following": false,
+        "friends_count": 100,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 4809081284,
+        "id_str": "4809081284",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "",
+        "name": "NANA@omegazeus",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nana7770214",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 2209,
+        "time_zone": "",
+        "url": "https://t.co/dTcmWYPHL8",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

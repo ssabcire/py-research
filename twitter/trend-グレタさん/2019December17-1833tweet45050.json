@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 10:35:20 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "島国大和",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "shimaguniyamato",
+                "id": 89950197,
+                "id_str": "89950197"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @shimaguniyamato: オバマとか鳩山とか菅とか、責任ある役職が終わった後、嫌がらせのように現職が対応するのが面倒なことに適当なこと言うスタイルに名前を付けたい。 / “環境活動家・グレタさんについて、オバマ前米大統領「我々のような年配者は若いリーダーに道を明…",
+    "has_extended_profile": false,
+    "id": 1206523194686861313,
+    "id_str": "1206523194686861313",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 80,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 04:56:02 +0000 2019",
+        "display_text_range": [
+            0,
+            149
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        126,
+                        149
+                    ],
+                    "url": "https://t.co/sLBonzqAzr",
+                    "display_url": "htn.to/3RymoRC1b8",
+                    "expanded_url": "https://htn.to/3RymoRC1b8"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 82,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "オバマとか鳩山とか菅とか、責任ある役職が終わった後、嫌がらせのように現職が対応するのが面倒なことに適当なこと言うスタイルに名前を付けたい。 / “環境活動家・グレタさんについて、オバマ前米大統領「我々のような年配者は若いリーダーに道を明け渡すべき」” https://t.co/sLBonzqAzr",
+        "has_extended_profile": false,
+        "id": 1206437808451112965,
+        "id_str": "1206437808451112965",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 80,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://b.hatena.ne.jp/\" rel=\"nofollow\"\u003eはてなブックマーク\u003c/a\u003e",
+        "scopes": null,
+        "text": "オバマとか鳩山とか菅とか、責任ある役職が終わった後、嫌がらせのように現職が対応するのが面倒なことに\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Nov 14 14:52:26 +0000 2009",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "ゲームで口に糊。ブログで精神安定。/俺の正体知ってる人はバラさない/TLの流れ速いのでフォローしてても全部読んでるとは限りませんオレ宛の発言はメンションください。/フォローしろゴルァ！という時は一報ください。/失礼な態度には失礼に返す場合あり。/まとめサイトに使う場合は有料(時価)。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/8HUqzRqWqc",
+                            "display_url": "dochikushow.blog3.fc2.com",
+                            "expanded_url": "http://dochikushow.blog3.fc2.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 252,
+            "follow_request_sent": false,
+            "followers_count": 13778,
+            "following": false,
+            "friends_count": 6029,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 89950197,
+            "id_str": "89950197",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 856,
+            "location": "",
+            "name": "島国大和",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/707089018/g2_normal.gif",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/707089018/g2_normal.gif",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "shimaguniyamato",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 100740,
+            "time_zone": "",
+            "url": "http://t.co/8HUqzRqWqc",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @shimaguniyamato: オバマとか鳩山とか菅とか、責任ある役職が終わった後、嫌がらせのように現職が対応\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 12 13:32:20 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "さあ、ちからみなぎる、おれが相手だ！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9T3bTuEGvu",
+                        "display_url": "twilog.org/masassoDECO",
+                        "expanded_url": "http://twilog.org/masassoDECO"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 52543,
+        "follow_request_sent": false,
+        "followers_count": 1897,
+        "following": false,
+        "friends_count": 5000,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 73642837,
+        "id_str": "73642837",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 41,
+        "location": "ネオヨコハマ",
+        "name": "◎マサッ☆ソ凸.kke🌱🐊🤡",
+        "notifications": false,
+        "profile_background_color": "05EAFA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/73642837/1565013847",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1192088013683036161/w-gAf545_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192088013683036161/w-gAf545_normal.png",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "masassoDECO",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 154879,
+        "time_zone": "",
+        "url": "https://t.co/9T3bTuEGvu",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

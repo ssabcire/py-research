@@ -1,0 +1,503 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 19:19:19 +0000 2019",
+    "display_text_range": [
+        0,
+        119
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    120,
+                    143
+                ],
+                "url": "https://t.co/Leg4K3zmR9",
+                "display_url": "twitter.com/shijianxingzou…",
+                "expanded_url": "https://twitter.com/shijianxingzou/status/1206283998202384384"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "【香港デモ】第37章。次世代若者代表の連帯\n\n香港の若きリーダーの黄之锋が、グレタさんにエールを送っていた件。グレタさんも応え、相互フォローに。\n\n環境保護と自由が共通のテーマに。\n\n《映画🎬ハンガーゲームの世界観が拡がりを見せている。》 https://t.co/Leg4K3zmR9",
+    "has_extended_profile": false,
+    "id": 1206655058210742272,
+    "id_str": "1206655058210742272",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206283998202384384,
+    "quoted_status_id_str": "1206283998202384384",
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 18:44:51 +0000 2019",
+        "display_text_range": [
+            0,
+            144
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206283989448826880,
+                    "id_str": "1206283989448826880",
+                    "media_url": "http://pbs.twimg.com/media/EL2U5bFWoAAz1Ac.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL2U5bFWoAAz1Ac.jpg",
+                    "url": "https://t.co/m9Mem5beYS",
+                    "display_url": "pic.twitter.com/m9Mem5beYS",
+                    "expanded_url": "https://twitter.com/shijianxingzou/status/1206283998202384384/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 663,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 376,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1125,
+                            "h": 2037,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        145,
+                        168
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206283989448826880,
+                    "id_str": "1206283989448826880",
+                    "media_url": "http://pbs.twimg.com/media/EL2U5bFWoAAz1Ac.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL2U5bFWoAAz1Ac.jpg",
+                    "url": "https://t.co/m9Mem5beYS",
+                    "display_url": "pic.twitter.com/m9Mem5beYS",
+                    "expanded_url": "https://twitter.com/shijianxingzou/status/1206283998202384384/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 663,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 376,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1125,
+                            "h": 2037,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        145,
+                        168
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                },
+                {
+                    "id": 1206283989394370560,
+                    "id_str": "1206283989394370560",
+                    "media_url": "http://pbs.twimg.com/media/EL2U5a4XsAAbq27.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL2U5a4XsAAbq27.jpg",
+                    "url": "https://t.co/m9Mem5beYS",
+                    "display_url": "pic.twitter.com/m9Mem5beYS",
+                    "expanded_url": "https://twitter.com/shijianxingzou/status/1206283998202384384/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 554,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 314,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 946,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        145,
+                        168
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                },
+                {
+                    "id": 1206283989394317318,
+                    "id_str": "1206283989394317318",
+                    "media_url": "http://pbs.twimg.com/media/EL2U5a4W4AYB4hf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL2U5a4W4AYB4hf.jpg",
+                    "url": "https://t.co/m9Mem5beYS",
+                    "display_url": "pic.twitter.com/m9Mem5beYS",
+                    "expanded_url": "https://twitter.com/shijianxingzou/status/1206283998202384384/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 554,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 314,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 946,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        145,
+                        168
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 58,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "周日，环保少女Greta在推特关注了黄之锋，并说他勇敢、鼓舞了自己。此前黄之锋写了一封长长的推特，情真意切的祝贺Greta当选，说环境保护和自由都是年轻一代追求的目标，而中共不仅视中英联合声明为废纸，也拒绝遵守它签署的《巴黎气候协定》，年轻人们无法使得中共遵守规则和法律，需要世界来努力。 https://t.co/m9Mem5beYS",
+        "has_extended_profile": false,
+        "id": 1206283998202384384,
+        "id_str": "1206283998202384384",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "zh",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 12,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "周日，环保少女Greta在推特关注了黄之锋，并说他勇敢、鼓舞了自己。此前黄之锋写了一封长长的推特，情真\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Feb 23 05:33:14 +0000 2012",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "被删的新浪微博@清华秦鹏。长期深度观察中国经济、科技和时政，做过十几年企业咨询师。多家中英文媒体的经济时政评论人。暂居美国。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 3344,
+            "follow_request_sent": false,
+            "followers_count": 25913,
+            "following": false,
+            "friends_count": 308,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 500484515,
+            "id_str": "500484515",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 109,
+            "location": "美国",
+            "name": "秦鹏",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/500484515/1497232898",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/874084301306032129/-K5ONOvk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/874084301306032129/-K5ONOvk_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "shijianxingzou",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 4850,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "【香港デモ】第37章。次世代若者代表の連帯\n\n香港の若きリーダーの黄之锋が、グレタさ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 21 15:08:13 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "think tank CEO / ①金融工学→②大手シンクタンク創業→③独立（Asia🐲,Risk 🌋,Innovation🤖）/ ④EC~ https://t.co/t3msHMjAsW / ⑤出張陶芸/ ⑥美ら島沖縄大使/ ⑦Czech🇨🇿親善ambassador",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/lXLnQNR0tZ",
+                        "display_url": "twilog.org/linsbar",
+                        "expanded_url": "http://twilog.org/linsbar"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 7047,
+        "follow_request_sent": false,
+        "followers_count": 9579,
+        "following": false,
+        "friends_count": 999,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 107099402,
+        "id_str": "107099402",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 848,
+        "location": "Tokyo",
+        "name": "林 志行",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/107099402/1512481666",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1131802812130586624/C9wIBpnB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1131802812130586624/C9wIBpnB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "linsbar",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 281739,
+        "time_zone": "",
+        "url": "https://t.co/lXLnQNR0tZ",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

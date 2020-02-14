@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:57:03 +0000 2019",
+    "display_text_range": [
+        0,
+        43
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 5,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "批判でもなんでもないのだけど、グレタさんとはる●ぜちゃんに何か近いものを感じてしまう。",
+    "has_extended_profile": false,
+    "id": 1206589057628721159,
+    "id_str": "1206589057628721159",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "批判でもなんでもないのだけど\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 25 14:51:10 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "地主になりたい会社員。食いしん坊。酒と旅とときどき浪費。 残業ご飯 : https://t.co/b0YSGHS8ir マシュマロ：https://t.co/KXfL79EM95  ご飯insta: https://t.co/akigCivjEV",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Ozz7SVJjRi",
+                        "display_url": "mo-chico.jugem.jp",
+                        "expanded_url": "http://mo-chico.jugem.jp/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 366,
+        "follow_request_sent": false,
+        "followers_count": 3444,
+        "following": false,
+        "friends_count": 105,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 77230623,
+        "id_str": "77230623",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 85,
+        "location": "Japan TOKIO!",
+        "name": "餅",
+        "notifications": false,
+        "profile_background_color": "C1EBE7",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/77230623/1405007380",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/579694406279700480/-fPwx4wK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/579694406279700480/-fPwx4wK_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mochico_",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 133955,
+        "time_zone": "",
+        "url": "https://t.co/Ozz7SVJjRi",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

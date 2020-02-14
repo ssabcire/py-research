@@ -1,0 +1,526 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:20:05 +0000 2019",
+    "display_text_range": [
+        0,
+        113
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    66,
+                    89
+                ],
+                "url": "https://t.co/r3SJcQ4lLW",
+                "display_url": "aec.go.jp/jicst/NC/iinka…",
+                "expanded_url": "http://www.aec.go.jp/jicst/NC/iinkai/teirei/siryo2009/siryo43/siryo1-5.pdf"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Shin Hori",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "ShinHori1",
+                "id": 922316173923848197,
+                "id_str": "922316173923848197"
+            }
+        ],
+        "media": [
+            {
+                "id": 1205475406440099842,
+                "id_str": "1205475406440099842",
+                "media_url": "http://pbs.twimg.com/media/ELq1fspU8AIo588.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ELq1fspU8AIo588.jpg",
+                "url": "https://t.co/KveqCsDbxj",
+                "display_url": "pic.twitter.com/KveqCsDbxj",
+                "expanded_url": "https://twitter.com/ShinHori1/status/1205475436160925696/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 382,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 750,
+                        "h": 1334,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1205475436160925696,
+                "source_status_id_str": "1205475436160925696",
+                "type": "photo",
+                "indices": [
+                    90,
+                    113
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1205475406440099842,
+                "id_str": "1205475406440099842",
+                "media_url": "http://pbs.twimg.com/media/ELq1fspU8AIo588.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ELq1fspU8AIo588.jpg",
+                "url": "https://t.co/KveqCsDbxj",
+                "display_url": "pic.twitter.com/KveqCsDbxj",
+                "expanded_url": "https://twitter.com/ShinHori1/status/1205475436160925696/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 382,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 750,
+                        "h": 1334,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1205475436160925696,
+                "source_status_id_str": "1205475436160925696",
+                "type": "photo",
+                "indices": [
+                    90,
+                    113
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @ShinHori1: 【大人の世界】\nグレタさんを嘲笑した野口健さん、原子力業界の核廃棄物地層処分キャンペーンをやっていた\nhttps://t.co/r3SJcQ4lLW https://t.co/KveqCsDbxj",
+    "has_extended_profile": false,
+    "id": 1206806247254609921,
+    "id_str": "1206806247254609921",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 307,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 13 13:11:55 +0000 2019",
+        "display_text_range": [
+            0,
+            74
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        51,
+                        74
+                    ],
+                    "url": "https://t.co/r3SJcQ4lLW",
+                    "display_url": "aec.go.jp/jicst/NC/iinka…",
+                    "expanded_url": "http://www.aec.go.jp/jicst/NC/iinkai/teirei/siryo2009/siryo43/siryo1-5.pdf"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1205475406440099842,
+                    "id_str": "1205475406440099842",
+                    "media_url": "http://pbs.twimg.com/media/ELq1fspU8AIo588.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELq1fspU8AIo588.jpg",
+                    "url": "https://t.co/KveqCsDbxj",
+                    "display_url": "pic.twitter.com/KveqCsDbxj",
+                    "expanded_url": "https://twitter.com/ShinHori1/status/1205475436160925696/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 382,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 750,
+                            "h": 1334,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        75,
+                        98
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1205475406440099842,
+                    "id_str": "1205475406440099842",
+                    "media_url": "http://pbs.twimg.com/media/ELq1fspU8AIo588.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELq1fspU8AIo588.jpg",
+                    "url": "https://t.co/KveqCsDbxj",
+                    "display_url": "pic.twitter.com/KveqCsDbxj",
+                    "expanded_url": "https://twitter.com/ShinHori1/status/1205475436160925696/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 382,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 750,
+                            "h": 1334,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        75,
+                        98
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 296,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "【大人の世界】\nグレタさんを嘲笑した野口健さん、原子力業界の核廃棄物地層処分キャンペーンをやっていた\nhttps://t.co/r3SJcQ4lLW https://t.co/KveqCsDbxj",
+        "has_extended_profile": false,
+        "id": 1205475436160925696,
+        "id_str": "1205475436160925696",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 307,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "【大人の世界】\nグレタさんを嘲笑した野口健さん、原\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Oct 23 04:18:06 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "弁護士。非法学部卒、元会社員。最近は色々思うことがあって、冷笑に対する冷笑、反動に対する反動に興味があります。法律や仕事の話は滅多に書きません。ブログは https://t.co/CZIxk6zMC0 https://t.co/hEuS21XIwr　（noteに移行中）\n記事等のお問い合わせはDMでどうぞ",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/WJefqV4dTY",
+                            "display_url": "note.mu/horishinb",
+                            "expanded_url": "https://note.mu/horishinb"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 79425,
+            "follow_request_sent": false,
+            "followers_count": 16738,
+            "following": false,
+            "friends_count": 11650,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 922316173923848197,
+            "id_str": "922316173923848197",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 407,
+            "location": "",
+            "name": "Shin Hori",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/922316173923848197/1508734665",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/922323839886823424/7wc4yNR4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/922323839886823424/7wc4yNR4_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "ShinHori1",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 16074,
+            "time_zone": "",
+            "url": "https://t.co/WJefqV4dTY",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @ShinHori1: 【大人の世界】\nグレタさんを嘲笑した野口健さん、原子力業界の核廃棄\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 03 18:00:53 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "いろいろぶつぶつ",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 379,
+        "follow_request_sent": false,
+        "followers_count": 37,
+        "following": false,
+        "friends_count": 138,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 749664222062125056,
+        "id_str": "749664222062125056",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "返品小僧",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/749664222062125056/1554559993",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/749669364459155456/jgieiPtW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/749669364459155456/jgieiPtW_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "noreturnboy",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 22650,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

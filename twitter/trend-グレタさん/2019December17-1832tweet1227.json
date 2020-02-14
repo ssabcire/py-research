@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 07:01:37 +0000 2019",
+    "display_text_range": [
+        0,
+        59
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    36,
+                    59
+                ],
+                "url": "https://t.co/y8i3vUzHpp",
+                "display_url": "blog.livedoor.jp/dgrpdyso/archi…",
+                "expanded_url": "http://blog.livedoor.jp/dgrpdyso/archives/1076559129.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "GatsBee : 環境少女グレタさんにぜひ食べさせたいものｗｗｗｗｗ\nhttps://t.co/y8i3vUzHpp",
+    "has_extended_profile": false,
+    "id": 1206831800196071425,
+    "id_str": "1206831800196071425",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://blog.livedoor.com/\" rel=\"nofollow\"\u003elivedoor Blog\u003c/a\u003e",
+    "scopes": null,
+    "text": "GatsBee : 環境少女グレタさんにぜひ食べさせ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 18 05:39:44 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "競艇が好き、競艇選手も好き、競艇のことなら競艇魂をみてください。 予想は優良悪徳無料有料捏造詐欺口コミと情報は様々です。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 11,
+        "follow_request_sent": false,
+        "followers_count": 915,
+        "following": false,
+        "friends_count": 1962,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1064030372315332609,
+        "id_str": "1064030372315332609",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 3,
+        "location": "東京都千代田区",
+        "name": "競艇魂ぐぅわらきん",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1064030372315332609/1542520082",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1064031892033298432/sfWefxIA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1064031892033298432/sfWefxIA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Hibdg1DSPSlVwUp",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 23747,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

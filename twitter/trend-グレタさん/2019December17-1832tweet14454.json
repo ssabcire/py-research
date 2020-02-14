@@ -1,0 +1,356 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:15:44 +0000 2019",
+    "display_text_range": [
+        0,
+        96
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    73,
+                    96
+                ],
+                "url": "https://t.co/X9kgaQDGbt",
+                "display_url": "wpb.shueisha.co.jp/news/society/2…",
+                "expanded_url": "https://wpb.shueisha.co.jp/news/society/2019/12/08/110290/?utm_source=SocialDog"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "週プレNEWS",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "shupure_news",
+                "id": 1078841076,
+                "id_str": "1078841076"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @shupure_news: ひろゆきが環境活動家グレタさんに「パフォーマンスで注目を集めて、主張を安価に届けるってのは優秀ですよね」 / https://t.co/X9kgaQDGbt",
+    "has_extended_profile": false,
+    "id": 1206729654863716353,
+    "id_str": "1206729654863716353",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 07 21:26:30 +0000 2019",
+        "display_text_range": [
+            0,
+            78
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        55,
+                        78
+                    ],
+                    "url": "https://t.co/X9kgaQDGbt",
+                    "display_url": "wpb.shueisha.co.jp/news/society/2…",
+                    "expanded_url": "https://wpb.shueisha.co.jp/news/society/2019/12/08/110290/?utm_source=SocialDog"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 7,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "ひろゆきが環境活動家グレタさんに「パフォーマンスで注目を集めて、主張を安価に届けるってのは優秀ですよね」 / https://t.co/X9kgaQDGbt",
+        "has_extended_profile": false,
+        "id": 1203425574452125696,
+        "id_str": "1203425574452125696",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://social-dog.net/\" rel=\"nofollow\"\u003eSocialDog for Twitter\u003c/a\u003e",
+        "scopes": null,
+        "text": "ひろゆきが環境活動家グレタさんに「パフォーマンスで注",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Jan 11 07:51:05 +0000 2013",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "集英社「週刊プレイボーイ」の公式ニュースサイト「週プレNEWS」の更新情報をお届けします。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/ukiNOML6Sg",
+                            "display_url": "wpb.shueisha.co.jp",
+                            "expanded_url": "https://wpb.shueisha.co.jp/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 60,
+            "follow_request_sent": false,
+            "followers_count": 22526,
+            "following": false,
+            "friends_count": 83,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1078841076,
+            "id_str": "1078841076",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 489,
+            "location": "",
+            "name": "週プレNEWS",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3182595550/5972ee928c54e724270feb4d4c96da74_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3182595550/5972ee928c54e724270feb4d4c96da74_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "shupure_news",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 24056,
+            "time_zone": "",
+            "url": "https://t.co/ukiNOML6Sg",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @shupure_news: ひろゆきが環境活動家グレタさんに「パフォーマンスで注",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 23 13:14:03 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ホリエモンLINEスタンプ発売中！https://t.co/Ppfc3291pY『刑務所いたけど何か質問ある？ 』https://t.co/0q0vX6LsgX 漫画家・イラストレーター。福井県出身。平日17：00～20：30は子守中につき対応しづらいです。\nnishiaznable@gmail.com\n\n書籍や連載等、活動内容こちら下記FBページに↓",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/J20sXjoDgJ",
+                        "display_url": "facebook.com/nishiaznable24",
+                        "expanded_url": "https://www.facebook.com/nishiaznable24"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 17733,
+        "follow_request_sent": false,
+        "followers_count": 5250,
+        "following": false,
+        "friends_count": 1628,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 59456931,
+        "id_str": "59456931",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 108,
+        "location": "西新宿",
+        "name": "西アズナブル",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/59456931/1532596442",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1201484732019593216/BqWSaVez_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201484732019593216/BqWSaVez_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nishi_aznable",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 27594,
+        "time_zone": "",
+        "url": "https://t.co/J20sXjoDgJ",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

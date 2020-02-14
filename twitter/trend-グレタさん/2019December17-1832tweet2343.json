@@ -1,0 +1,380 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:06:51 +0000 2019",
+    "display_text_range": [
+        0,
+        110
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    87,
+                    110
+                ],
+                "url": "https://t.co/W1GYz5Hdv4",
+                "display_url": "news.tv-asahi.co.jp/news_society/a…",
+                "expanded_url": "https://news.tv-asahi.co.jp/news_society/articles/000171771.html"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    43,
+                    53
+                ],
+                "text": "SmartNews"
+            },
+            {
+                "indices": [
+                    54,
+                    65
+                ],
+                "text": "スーパーボランティア"
+            },
+            {
+                "indices": [
+                    66,
+                    73
+                ],
+                "text": "尾畠春夫さん"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "フルーツバスケットまぁく２(two)",
+                "indices": [
+                    3,
+                    18
+                ],
+                "screen_name": "fruitbascket_2",
+                "id": 1722620748,
+                "id_str": "1722620748"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @fruitbascket_2: 尾畠春夫さん新たな挑戦　腕に「グレタ」なぜ？ #SmartNews #スーパーボランティア #尾畠春夫さん＊うん｡説得力ある。🤔😥🤔 https://t.co/W1GYz5Hdv4",
+    "has_extended_profile": false,
+    "id": 1206818017939607552,
+    "id_str": "1206818017939607552",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 03:48:22 +0000 2019",
+        "display_text_range": [
+            0,
+            90
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        67,
+                        90
+                    ],
+                    "url": "https://t.co/W1GYz5Hdv4",
+                    "display_url": "news.tv-asahi.co.jp/news_society/a…",
+                    "expanded_url": "https://news.tv-asahi.co.jp/news_society/articles/000171771.html"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        23,
+                        33
+                    ],
+                    "text": "SmartNews"
+                },
+                {
+                    "indices": [
+                        34,
+                        45
+                    ],
+                    "text": "スーパーボランティア"
+                },
+                {
+                    "indices": [
+                        46,
+                        53
+                    ],
+                    "text": "尾畠春夫さん"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "尾畠春夫さん新たな挑戦　腕に「グレタ」なぜ？ #SmartNews #スーパーボランティア #尾畠春夫さん＊うん｡説得力ある。🤔😥🤔 https://t.co/W1GYz5Hdv4",
+        "has_extended_profile": false,
+        "id": 1206783167090192384,
+        "id_str": "1206783167090192384",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "尾畠春夫さん新たな挑戦　腕に「グレタ」なぜ？ #SmartNews #スーパ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Sep 02 15:26:37 +0000 2013",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "フルバです｡強迫性障害\u0026うつ、不潔恐怖、確認癖、接触恐怖…と 色々持ってます(苦笑) 。生活保護費で暮らす ギリギリの貧乏人。好きなものは、格好可愛いニャンコと ボケ・突っ込み(笑)。嫌いなモノは、画面にエロ画像をアップさせる奴と 失礼な奴と上っ面だけ取り繕う奴。基本 ノンジャンルで 呟いています。…のﾊｽﾞが(笑)",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 69353,
+            "follow_request_sent": false,
+            "followers_count": 2092,
+            "following": false,
+            "friends_count": 3132,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1722620748,
+            "id_str": "1722620748",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 55,
+            "location": "",
+            "name": "フルーツバスケットまぁく２(two)",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/741943895269867520/qsgJKgtv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/741943895269867520/qsgJKgtv_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "fruitbascket_2",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 102716,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @fruitbascket_2: 尾畠春夫さん新たな挑戦　腕に「グレタ」なぜ？ #SmartNews #スーパ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 27 00:23:03 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Love cats \u0026 books \u0026 jazz\n\n地域猫活動 \n                               2014年九州に家族全員移住完了。反原発、反TPP、改憲戦争反対。九州で地域猫活動。32匹保護、不妊手術と譲渡、リリース、天国猫。現在家に猫6匹と庭に１匹。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 200734,
+        "follow_request_sent": false,
+        "followers_count": 1407,
+        "following": false,
+        "friends_count": 195,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 3227703560,
+        "id_str": "3227703560",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 64,
+        "location": "東京、軽井沢 ⇨ 九州",
+        "name": "RINMOMO",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3227703560/1492581672",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/759342950795005952/XiIqU9qI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/759342950795005952/XiIqU9qI_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rintaromomo",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 56941,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

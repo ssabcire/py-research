@@ -1,0 +1,174 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:49:39 +0000 2019",
+    "display_text_range": [
+        9,
+        145
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "レッドほむ",
+                "indices": [
+                    0,
+                    8
+                ],
+                "screen_name": "red_hom",
+                "id": 330305446,
+                "id_str": "330305446"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@red_hom 推測でしかありませんが、幼い頃から「気候変動に対する恐怖心」を大人から刷り込まれて育った結果としてあるのが現在のグレタさんなので、その宗教的洗脳を解かない限り理論的な発想を求めること自体に無理があると思います。オウムを思い出してください。洗脳は理性や知能をスポイルします。",
+    "has_extended_profile": false,
+    "id": 1206768388661379073,
+    "id_str": "1206768388661379073",
+    "in_reply_to_screen_name": "red_hom",
+    "in_reply_to_status_id": 1206609990485606400,
+    "in_reply_to_status_id_str": "1206609990485606400",
+    "in_reply_to_user_id": 330305446,
+    "in_reply_to_user_id_str": "330305446",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+    "scopes": null,
+    "text": "推測でしかありませんが、幼い頃から「気候変動に対する恐怖心」を大人から刷り込まれて育った結\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 30 05:22:45 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "微妙に低価格3DCG (Poser, Hexagon, ZBrush, Octane)の人。PoserベンダーとしてRenderosityで活動 (現在は休止中)。本業は出版関係。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/EWyPZf2o7o",
+                        "display_url": "manihoni.net",
+                        "expanded_url": "http://www.manihoni.net/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 23,
+        "follow_request_sent": false,
+        "followers_count": 344,
+        "following": false,
+        "friends_count": 283,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 16051913,
+        "id_str": "16051913",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 36,
+        "location": "Japan",
+        "name": "ManiHoni",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16051913/1463714226",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/464251646071951360/b3AOjBbC_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/464251646071951360/b3AOjBbC_normal.png",
+        "profile_link_color": "3D6A80",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ManiHoni",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 4117,
+        "time_zone": "",
+        "url": "http://t.co/EWyPZf2o7o",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

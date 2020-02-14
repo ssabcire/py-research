@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:44:20 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "🇯🇵ひらやん🎌🎨",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "gF7rLJ9N9nD1Sc4",
+                "id": 1106711760264781825,
+                "id_str": "1106711760264781825"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @gF7rLJ9N9nD1Sc4: こんな危険な発言をする人間をまだ子供だとか考えてたらダメですね。狂気に囚われた活動家で独裁者の資質が満載です。\n\nグレタさん、自分に従わない指導者は「against the wall」(壁際に立たせる=銃殺刑)　大炎上、謝罪 https…",
+    "has_extended_profile": false,
+    "id": 1206555659426131969,
+    "id_str": "1206555659426131969",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 680,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 22:34:43 +0000 2019",
+        "display_text_range": [
+            0,
+            136
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        113,
+                        136
+                    ],
+                    "url": "https://t.co/y9T6vAjhjo",
+                    "display_url": "moeruasia.net/archives/49657…",
+                    "expanded_url": "https://www.moeruasia.net/archives/49657134.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1168,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "こんな危険な発言をする人間をまだ子供だとか考えてたらダメですね。狂気に囚われた活動家で独裁者の資質が満載です。\n\nグレタさん、自分に従わない指導者は「against the wall」(壁際に立たせる=銃殺刑)　大炎上、謝罪 https://t.co/y9T6vAjhjo",
+        "has_extended_profile": false,
+        "id": 1206341845912915975,
+        "id_str": "1206341845912915975",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 680,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "こんな危険な発言をする人間をまだ子供だとか考えてたらダメですね。狂気に囚われた活動家で独裁\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Mar 16 00:20:20 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "日本が大好き🇯🇵反日は許さない❗️この国を愛する方々からたくさんの事を学びたいと思ってます😄誤字、脱字多いですがご勘弁を！#拉致被害者全員奪還 サブ垢 @wFvPzuIb8hkpKIx",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 56059,
+            "follow_request_sent": false,
+            "followers_count": 5264,
+            "following": false,
+            "friends_count": 4675,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1106711760264781825,
+            "id_str": "1106711760264781825",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 24,
+            "location": "日本",
+            "name": "🇯🇵ひらやん🎌🎨",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1106711760264781825/1563198706",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1158192262062280704/sdcRChUG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158192262062280704/sdcRChUG_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "gF7rLJ9N9nD1Sc4",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 14755,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @gF7rLJ9N9nD1Sc4: こんな危険な発言をする人間をまだ子供だとか考えてたらダメですね。狂気に囚われた\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 03 08:03:57 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "元肉屋で料理が好きだった事から仲間内の合宿で食事を作ったり、普通ならお目にかかれない肉の塊でバーベキューを行ったり（別名：本物のマンガ肉オフ）しており、今では糧食班長を自称してます。好きになったものには割りと執着するタチですね。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 90321,
+        "follow_request_sent": false,
+        "followers_count": 403,
+        "following": false,
+        "friends_count": 755,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 512923937,
+        "id_str": "512923937",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 20,
+        "location": "",
+        "name": "糧食班長･風間",
+        "notifications": false,
+        "profile_background_color": "37E85B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/512923937/1371823556",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2169785437/K0010014_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2169785437/K0010014_normal.JPG",
+        "profile_link_color": "038205",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RyousyokuHancho",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 44311,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

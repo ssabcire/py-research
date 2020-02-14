@@ -1,0 +1,174 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:56:39 +0000 2019",
+    "display_text_range": [
+        17,
+        60
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "炸裂隆樹",
+                "indices": [
+                    0,
+                    16
+                ],
+                "screen_name": "sakuretsutakaki",
+                "id": 3714657026,
+                "id_str": "3714657026"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@sakuretsutakaki だって「CO2を出さない方法はニンゲンが滅びること」って中二病もグレタさんも言ってるし",
+    "has_extended_profile": false,
+    "id": 1206830551493013504,
+    "id_str": "1206830551493013504",
+    "in_reply_to_screen_name": "sakuretsutakaki",
+    "in_reply_to_status_id": 1206680957111029760,
+    "in_reply_to_status_id_str": "1206680957111029760",
+    "in_reply_to_user_id": 3714657026,
+    "in_reply_to_user_id_str": "3714657026",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "だって「CO2を出さない方法はニ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 27 16:07:10 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "41さいフォモのゆかいなくらしふろむはかた",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/92wvkYhmT3",
+                        "display_url": "instagram.com/taichmatsunaka/",
+                        "expanded_url": "https://www.instagram.com/taichmatsunaka/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 66649,
+        "follow_request_sent": false,
+        "followers_count": 590,
+        "following": false,
+        "friends_count": 470,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 736227252879269889,
+        "id_str": "736227252879269889",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 2,
+        "location": "夢と修羅の国",
+        "name": "松中　太一",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/736227252879269889/1533394016",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1183028929033981952/GqTH6Hgm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1183028929033981952/GqTH6Hgm_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "taichmatsunaka",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 37826,
+        "time_zone": "",
+        "url": "https://t.co/92wvkYhmT3",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

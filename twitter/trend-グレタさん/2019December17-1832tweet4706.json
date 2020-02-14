@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:29:48 +0000 2019",
+    "display_text_range": [
+        0,
+        23
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんも話盛るんだと思って高感度上がった。",
+    "has_extended_profile": false,
+    "id": 1206793593517572096,
+    "id_str": "1206793593517572096",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんも話\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 03 04:17:57 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "なんのために生まれて、なにをして生きるのか",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/2qKqtUYX3C",
+                        "display_url": "kangaeruhito1708.blog129.fc2.com",
+                        "expanded_url": "http://kangaeruhito1708.blog129.fc2.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 96383,
+        "follow_request_sent": false,
+        "followers_count": 1016,
+        "following": false,
+        "friends_count": 2278,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 87106350,
+        "id_str": "87106350",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 68,
+        "location": "なし",
+        "name": "けんちゃん",
+        "notifications": false,
+        "profile_background_color": "0073FF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/87106350/1358913308",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1688628825/twitter________normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1688628825/twitter________normal.jpg",
+        "profile_link_color": "2AC788",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3BDE3",
+        "profile_text_color": "1F576B",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kenchan5",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 72906,
+        "time_zone": "",
+        "url": "https://t.co/2qKqtUYX3C",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

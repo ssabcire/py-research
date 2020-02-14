@@ -1,0 +1,153 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:09:02 +0000 2019",
+    "display_text_range": [
+        0,
+        143
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタの嘘バレタは草\nてか登山家の野口健さんも指摘してたけど、飛行機は駄目だけど電車はOKの理屈が全く理解出来ない\n飛行機より電車の方が環境には優しいってのは分かるけど、結局電車だって電気使うやん\nパフォーマンスのためわざと乗らないだけじゃなく、単に高所恐怖症で怖くて乗れない説あるなw",
+    "has_extended_profile": false,
+    "id": 1206576975478788096,
+    "id_str": "1206576975478788096",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタの嘘バレタは草\nてか登山家の野口健さんも指摘してたけど、飛行機は駄目だけど電車はOKの理屈が\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 07 22:14:53 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ささなんとかさん/パズドラ(ランク900)/デュエルリンクス/パワプロ/スクフェス/ガルパ/デレステ/スクスト/プロ野球/プロレス/ミススルージャッジマン",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 3153,
+        "follow_request_sent": false,
+        "followers_count": 365,
+        "following": false,
+        "friends_count": 515,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 112276772,
+        "id_str": "112276772",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "東京→福島",
+        "name": "とっとこささ太郎",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/589372188400099328/gktZOoxa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/589372188400099328/gktZOoxa_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "satom21",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 24786,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

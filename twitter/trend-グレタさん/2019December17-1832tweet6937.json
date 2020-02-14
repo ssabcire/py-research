@@ -1,0 +1,337 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:37:29 +0000 2019",
+    "display_text_range": [
+        0,
+        69
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "アッチェル",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "chocolate_angry",
+                "id": 1016650472709427200,
+                "id_str": "1016650472709427200"
+            },
+            {
+                "name": "🎲石松🎲🐾",
+                "indices": [
+                    21,
+                    37
+                ],
+                "screen_name": "ibRxdbXMIwSABnS",
+                "id": 1007832788878352384,
+                "id_str": "1007832788878352384"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @chocolate_angry: @ibRxdbXMIwSABnS グレタさんに名指して批判されたのに？意味わかってないのかな……",
+    "has_extended_profile": false,
+    "id": 1206780426993274880,
+    "id_str": "1206780426993274880",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 03:27:23 +0000 2019",
+        "display_text_range": [
+            17,
+            48
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "🎲石松🎲🐾",
+                    "indices": [
+                        0,
+                        16
+                    ],
+                    "screen_name": "ibRxdbXMIwSABnS",
+                    "id": 1007832788878352384,
+                    "id_str": "1007832788878352384"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@ibRxdbXMIwSABnS グレタさんに名指して批判されたのに？意味わかってないのかな……",
+        "has_extended_profile": false,
+        "id": 1206777887023493121,
+        "id_str": "1206777887023493121",
+        "in_reply_to_screen_name": "ibRxdbXMIwSABnS",
+        "in_reply_to_status_id": 1206523159186247680,
+        "in_reply_to_status_id_str": "1206523159186247680",
+        "in_reply_to_user_id": 1007832788878352384,
+        "in_reply_to_user_id_str": "1007832788878352384",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんに名指して\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jul 10 11:48:55 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "アベノミクスの三本の矢の行方を探しています……ご存知の方教えてください。昭和の蓄えは平成で使い果たしました……令和……どうなる？こちらもご存知の方教えてください。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 84318,
+            "follow_request_sent": false,
+            "followers_count": 1021,
+            "following": false,
+            "friends_count": 1083,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 1016650472709427200,
+            "id_str": "1016650472709427200",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 2,
+            "location": "",
+            "name": "アッチェル",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1016650472709427200/1531223922",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1046525184633520128/kkMDjTvH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046525184633520128/kkMDjTvH_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "chocolate_angry",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 45950,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @chocolate_angry: @ibRxdbXMIwSABnS グレタさんに名指して\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 16 03:50:36 +0000 2018",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "山本太郎 れいわ新選組 爆推し。ポスター貼りを中心に広報活動に協力します。縄張りは所沢市。ネットの盛り上がりだけでは勝てませんので、皆さん本気出して行きましょう。１にポスター、２にポスター。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 43450,
+        "follow_request_sent": false,
+        "followers_count": 2020,
+        "following": false,
+        "friends_count": 2406,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1007832788878352384,
+        "id_str": "1007832788878352384",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 18,
+        "location": "埼玉 所沢市",
+        "name": "🎲石松🎲🐾",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007832788878352384/1573513854",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1040386521931497472/Dr6BLhZ4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040386521931497472/Dr6BLhZ4_normal.jpg",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ibRxdbXMIwSABnS",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 66489,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

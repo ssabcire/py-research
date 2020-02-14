@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:26:49 +0000 2019",
+    "display_text_range": [
+        0,
+        22
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんは本当にグレなけばいいのだけれど…",
+    "has_extended_profile": false,
+    "id": 1206536151785361408,
+    "id_str": "1206536151785361408",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんは本\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 01 13:03:27 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "博多の外れに生まれ博多の外れに育ち博多の外れに暮らして早くも幾年月。不惑の歳から練習を開始したドラムやパーカッションの演奏に伴う身体感覚の向上が現在の主要な関心事。他に音楽映像活字漫画などの雑感も気の向くままに綴る自称物書き。詳細はインスタグラムの各投稿に不定期で掲載。ツイッターでは世間の有象無象もメモでリツイート。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/wIuM1pVoae",
+                        "display_url": "instagram.com/instagram_ism/",
+                        "expanded_url": "https://www.instagram.com/instagram_ism/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 240,
+        "follow_request_sent": false,
+        "followers_count": 421,
+        "following": false,
+        "friends_count": 398,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 100971403,
+        "id_str": "100971403",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 9,
+        "location": "",
+        "name": "編集兼発行人",
+        "notifications": false,
+        "profile_background_color": "FCFBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/100971403/1572591990",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1190163181819310080/RBIaG9Bx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190163181819310080/RBIaG9Bx_normal.jpg",
+        "profile_link_color": "3B58CC",
+        "profile_sidebar_border_color": "191911",
+        "profile_sidebar_fill_color": "0F0F0D",
+        "profile_text_color": "0D0D0D",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dame_no_hito",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 45741,
+        "time_zone": "",
+        "url": "https://t.co/wIuM1pVoae",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

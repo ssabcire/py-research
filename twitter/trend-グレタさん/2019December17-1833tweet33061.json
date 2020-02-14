@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 13:45:03 +0000 2019",
+    "display_text_range": [
+        0,
+        107
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    33,
+                    56
+                ],
+                "url": "https://t.co/m23aGNVdt5",
+                "display_url": "headlines.yahoo.co.jp/hl?a=20191216-…",
+                "expanded_url": "https://headlines.yahoo.co.jp/hl?a=20191216-35146920-cnn-int"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容されhttps://t.co/m23aGNVdt5 どっちもどっちだと思いますが。ドイツ鉄道は、顧客情報の漏洩では？本人の承諾を得ているわきゃないよね…",
+    "has_extended_profile": false,
+    "id": 1206570937723670528,
+    "id_str": "1206570937723670528",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容されhttps://",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 08 21:21:55 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "娘一人、息子一人の子育て（親育てられ）挑戦中。ドイツ、ビール、ラグビー（子供たちのスクール、ジャパン、慶応メイン）、NFL（PIT）、NBA（DET）、なんちゃってガーデニングなどなど・・・あと気になった時事ネタをブツブツつぶやく四十街道●年目。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 7812,
+        "follow_request_sent": false,
+        "followers_count": 2700,
+        "following": false,
+        "friends_count": 3506,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 112535845,
+        "id_str": "112535845",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 134,
+        "location": "Tokyo, Japan",
+        "name": "Jbettis36",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/823845750832394240/CnRiBFnd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/823845750832394240/CnRiBFnd_normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Jbettis36",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 107032,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

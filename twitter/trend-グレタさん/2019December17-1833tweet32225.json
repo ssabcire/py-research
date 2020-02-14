@@ -1,0 +1,629 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 13:58:34 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "chocolat.",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "chocolat_psyder",
+                "id": 1044587252670578690,
+                "id_str": "1044587252670578690"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @chocolat_psyder: 頭の良い高校生に差別はダメでしょと諭されたネトウヨが「お前共産党の工作員だろ」とでも言いたげな画像を貼る。こんなことしかできない情けない大人が勝てるわけない。たぶん、日本中に野口健とグレタさんのような構図があるんだろうな。惨めすぎ。 h…",
+    "has_extended_profile": false,
+    "id": 1206574338582802432,
+    "id_str": "1206574338582802432",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1205261717086724096,
+    "quoted_status_id_str": "1205261717086724096",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 174,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 12 23:18:55 +0000 2019",
+        "display_text_range": [
+            0,
+            116
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/E1YQM2dv1q",
+                    "display_url": "twitter.com/Hunter36445710…",
+                    "expanded_url": "https://twitter.com/Hunter364457105/status/1205261717086724096"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 337,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "頭の良い高校生に差別はダメでしょと諭されたネトウヨが「お前共産党の工作員だろ」とでも言いたげな画像を貼る。こんなことしかできない情けない大人が勝てるわけない。たぶん、日本中に野口健とグレタさんのような構図があるんだろうな。惨めすぎ。 https://t.co/E1YQM2dv1q",
+        "has_extended_profile": false,
+        "id": 1205265807346782209,
+        "id_str": "1205265807346782209",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1205261717086724096,
+        "quoted_status_id_str": "1205261717086724096",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Thu Dec 12 23:02:40 +0000 2019",
+            "display_text_range": [
+                62,
+                72
+            ],
+            "entities": {
+                "urls": [],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [
+                    {
+                        "name": "mimura🏳️‍🌈🇭🇰😷",
+                        "indices": [
+                            0,
+                            15
+                        ],
+                        "screen_name": "mimura_padfoot",
+                        "id": 847083426138120196,
+                        "id_str": "847083426138120196"
+                    },
+                    {
+                        "name": "あらっち",
+                        "indices": [
+                            16,
+                            32
+                        ],
+                        "screen_name": "xzqnVrl9ITFzXfM",
+                        "id": 1195652360950779904,
+                        "id_str": "1195652360950779904"
+                    },
+                    {
+                        "name": "すけの助",
+                        "indices": [
+                            33,
+                            44
+                        ],
+                        "screen_name": "imim0721__",
+                        "id": 1147514750,
+                        "id_str": "1147514750"
+                    },
+                    {
+                        "name": "chocolat.",
+                        "indices": [
+                            45,
+                            61
+                        ],
+                        "screen_name": "chocolat_psyder",
+                        "id": 1044587252670578690,
+                        "id_str": "1044587252670578690"
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1205261705871126530,
+                        "id_str": "1205261705871126530",
+                        "media_url": "http://pbs.twimg.com/media/ELnzIr_UcAI2WiY.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/ELnzIr_UcAI2WiY.jpg",
+                        "url": "https://t.co/GIpg3ufcjl",
+                        "display_url": "pic.twitter.com/GIpg3ufcjl",
+                        "expanded_url": "https://twitter.com/Hunter364457105/status/1205261717086724096/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 690,
+                                "h": 825,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 569,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 690,
+                                "h": 825,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            73,
+                            96
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": [
+                    {
+                        "id": 1205261705871126530,
+                        "id_str": "1205261705871126530",
+                        "media_url": "http://pbs.twimg.com/media/ELnzIr_UcAI2WiY.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/ELnzIr_UcAI2WiY.jpg",
+                        "url": "https://t.co/GIpg3ufcjl",
+                        "display_url": "pic.twitter.com/GIpg3ufcjl",
+                        "expanded_url": "https://twitter.com/Hunter364457105/status/1205261717086724096/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 690,
+                                "h": 825,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 569,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 690,
+                                "h": 825,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            73,
+                            96
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 8,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "@mimura_padfoot @xzqnVrl9ITFzXfM @imim0721__ @chocolat_psyder 頑張ってるな〜www https://t.co/GIpg3ufcjl",
+            "has_extended_profile": false,
+            "id": 1205261717086724096,
+            "id_str": "1205261717086724096",
+            "in_reply_to_screen_name": "mimura_padfoot",
+            "in_reply_to_status_id": 1205135335488815105,
+            "in_reply_to_status_id_str": "1205135335488815105",
+            "in_reply_to_user_id": 847083426138120196,
+            "in_reply_to_user_id_str": "847083426138120196",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": true,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 3,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+            "scopes": null,
+            "text": "頑張っ\ufffd",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Mar 04 09:06:36 +0000 2019",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "憂国の志士達をお支えし、令和時代に本当の日本を再生する事が使命🎌 好きにフォローしていただいて構いません。 アナタのツィート援護します(^_^) 内なる敵を見つけ出し、左翼のトンデモエビデンス収集と追跡を致します。 私をブロックした時点で貴方の負け(^o^)核融合炉推進派  復古神道 毎年8月15日に靖国参拝🇯🇵",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 10070,
+                "follow_request_sent": false,
+                "followers_count": 551,
+                "following": false,
+                "friends_count": 837,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1102495546583871489,
+                "id_str": "1102495546583871489",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 9,
+                "location": "",
+                "name": "Hunterマー",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1102495546583871489/1551770252",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1158782539089055744/miA_lsMe_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158782539089055744/miA_lsMe_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "Hunter364457105",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 5616,
+                "time_zone": "",
+                "url": "",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 174,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "頭の良い高校生に差別はダメでしょと諭されたネトウヨが「お前共産党の工作員だろ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Sep 25 13:59:43 +0000 2018",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "ショコラです│愛国心を持つなら地球に持て。魂を国家に管理されるな。│私も軟弱なやつだよ。でも私たちは人種差別するような人間から進化したいって望んでいるんだよ。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/1CAJlSu8Sj",
+                            "display_url": "note.mu/chocolat_psyder",
+                            "expanded_url": "https://note.mu/chocolat_psyder"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 12242,
+            "follow_request_sent": false,
+            "followers_count": 14701,
+            "following": false,
+            "friends_count": 1898,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 1044587252670578690,
+            "id_str": "1044587252670578690",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 184,
+            "location": "",
+            "name": "chocolat.",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1044587252670578690/1576312045",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1094894662844788736/XQ4TA4BH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094894662844788736/XQ4TA4BH_normal.jpg",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "chocolat_psyder",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 33444,
+            "time_zone": "",
+            "url": "https://t.co/1CAJlSu8Sj",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @chocolat_psyder: 頭の良い高校生に差別はダメでしょと諭されたネトウヨが「お前共産党の工作員だろ」\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 29 04:39:26 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "174#94#30 / TYO↔︎NYC /",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/4vU2w5wwLA",
+                        "display_url": "instagram.com/teppei_hercule…",
+                        "expanded_url": "https://www.instagram.com/teppei_hercules/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 74,
+        "follow_request_sent": false,
+        "followers_count": 2434,
+        "following": false,
+        "friends_count": 210,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1166933276977577985,
+        "id_str": "1166933276977577985",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 6,
+        "location": "",
+        "name": "グレタ・鉄平・ヘラクレス",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1166933276977577985/1573494724",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1202455857205628928/lVMDj9-P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202455857205628928/lVMDj9-P_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TEPPEI_HERCULES",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 2086,
+        "time_zone": "",
+        "url": "https://t.co/4vU2w5wwLA",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

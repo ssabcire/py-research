@@ -1,0 +1,164 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 09:56:27 +0000 2019",
+    "display_text_range": [
+        13,
+        93
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "黒瀬 深",
+                "indices": [
+                    0,
+                    12
+                ],
+                "screen_name": "Shin_kurose",
+                "id": 4838815874,
+                "id_str": "4838815874"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@Shin_kurose グレタさんにじゃなくて彼女を政治利用する方たちに反発しているんだと思います。「十代の少女」ってのが武器な訳で、反論すれば誰にでも「いい大人が」と揶揄できますし。",
+    "has_extended_profile": false,
+    "id": 1206513409291743232,
+    "id_str": "1206513409291743232",
+    "in_reply_to_screen_name": "Shin_kurose",
+    "in_reply_to_status_id": 1206353856969338880,
+    "in_reply_to_status_id_str": "1206353856969338880",
+    "in_reply_to_user_id": 4838815874,
+    "in_reply_to_user_id_str": "4838815874",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんにじゃなくて彼女を政治利用する方たちに反発\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 15 13:08:12 +0000 2017",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "田舎もん。ツイッターに書くことは自分用のメモor便所の落書きなんで、読んで(いねーよ)怒った人ごめんなさい。と予防線を張っておく。と予防線を張っておく。と予防線を張っておく。早い話がチキン野郎。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 290,
+        "follow_request_sent": false,
+        "followers_count": 5,
+        "following": false,
+        "friends_count": 46,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 908678837478744065,
+        "id_str": "908678837478744065",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "ウルトラ・スーパー・ド田舎。未だにADSL。携帯は圏外。",
+        "name": "jacobsladder",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/908678837478744065/1514659929",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1161257207654227968/OEwCjeDQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1161257207654227968/OEwCjeDQ_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "jcbslddr",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 378,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

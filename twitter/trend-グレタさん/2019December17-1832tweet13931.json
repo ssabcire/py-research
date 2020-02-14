@@ -1,0 +1,538 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:27:48 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "i wanna peace",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "HopeTalk2You",
+                "id": 743051562117791744,
+                "id_str": "743051562117791744"
+            },
+            {
+                "name": "ロイター.co.jp",
+                "indices": [
+                    18,
+                    32
+                ],
+                "screen_name": "Reuters_co_jp",
+                "id": 119603478,
+                "id_str": "119603478"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @HopeTalk2You: @Reuters_co_jp ロイターさん、グレタさんが香港デモを率いるジョシュア・ウォン（黄之鋒)さんの中国の地球温暖化対策の不備を指摘したツィートを「勇敢で心を揺さぶるとても重要なスレッドだ」と称賛した事も触れてはいかがでしょうか。\nht…",
+    "has_extended_profile": false,
+    "id": 1206732693695676416,
+    "id_str": "1206732693695676416",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206159412571889664,
+    "quoted_status_id_str": "1206159412571889664",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 00:10:02 +0000 2019",
+        "display_text_range": [
+            15,
+            142
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        119,
+                        142
+                    ],
+                    "url": "https://t.co/Jr8uTSg1Vg",
+                    "display_url": "twitter.com/gretathunberg/…",
+                    "expanded_url": "https://twitter.com/gretathunberg/status/1206159412571889664?s=21"
+                },
+                {
+                    "indices": [
+                        143,
+                        166
+                    ],
+                    "url": "https://t.co/TSZubmUaHB",
+                    "display_url": "twitter.com/gretathunberg/…",
+                    "expanded_url": "https://twitter.com/gretathunberg/status/1206159412571889664"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "ロイター.co.jp",
+                    "indices": [
+                        0,
+                        14
+                    ],
+                    "screen_name": "Reuters_co_jp",
+                    "id": 119603478,
+                    "id_str": "119603478"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@Reuters_co_jp ロイターさん、グレタさんが香港デモを率いるジョシュア・ウォン（黄之鋒)さんの中国の地球温暖化対策の不備を指摘したツィートを「勇敢で心を揺さぶるとても重要なスレッドだ」と称賛した事も触れてはいかがでしょうか。\nhttps://t.co/Jr8uTSg1Vg https://t.co/TSZubmUaHB",
+        "has_extended_profile": false,
+        "id": 1206728222710218752,
+        "id_str": "1206728222710218752",
+        "in_reply_to_screen_name": "Reuters_co_jp",
+        "in_reply_to_status_id": 1206680396848603136,
+        "in_reply_to_status_id_str": "1206680396848603136",
+        "in_reply_to_user_id": 119603478,
+        "in_reply_to_user_id_str": "119603478",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206159412571889664,
+        "quoted_status_id_str": "1206159412571889664",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Dec 15 10:29:47 +0000 2019",
+            "display_text_range": [
+                0,
+                65
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "indices": [
+                            66,
+                            89
+                        ],
+                        "url": "https://t.co/koCles7wyR",
+                        "display_url": "twitter.com/joshuawongcf/s…",
+                        "expanded_url": "https://twitter.com/joshuawongcf/status/1206101077407305728"
+                    }
+                ],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 32985,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "Very important thread by the brave and inspirational Joshua Wong. https://t.co/koCles7wyR",
+            "has_extended_profile": false,
+            "id": 1206159412571889664,
+            "id_str": "1206159412571889664",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "en",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 1206101077407305728,
+            "quoted_status_id_str": "1206101077407305728",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 9426,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+            "scopes": null,
+            "text": "Very important thread by the brave and inspirational Joshua Wong.",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Jun 12 06:14:23 +0000 2018",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "A teenager working on her anger management problem. Currently chilling and watching a good old fashioned movie with a friend.",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/T59gBserXD",
+                                "display_url": "youtu.be/H2QxFM9y0tY",
+                                "expanded_url": "https://youtu.be/H2QxFM9y0tY"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 16091,
+                "follow_request_sent": false,
+                "followers_count": 3671968,
+                "following": false,
+                "friends_count": 1793,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 1006419421244678144,
+                "id_str": "1006419421244678144",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 7266,
+                "location": "Sverige",
+                "name": "Greta Thunberg",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1006419421244678144/1559499911",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1205151355230457856/h78KQbyF_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205151355230457856/h78KQbyF_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "GretaThunberg",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 6206,
+                "time_zone": "",
+                "url": "https://t.co/T59gBserXD",
+                "utc_offset": 0,
+                "verified": true,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "ロイターさん、グレタさんが香港デモを率いるジョシュア・ウォン（黄之鋒)さんの中国の地球",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Jun 15 12:04:32 +0000 2016",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "リツイートは自分用メモだったり",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 7053,
+            "follow_request_sent": false,
+            "followers_count": 212,
+            "following": false,
+            "friends_count": 311,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 743051562117791744,
+            "id_str": "743051562117791744",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 7,
+            "location": "Japan 🇯🇵",
+            "name": "i wanna peace",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/743051562117791744/1556960474",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1077528686532775936/HuSNAxu1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1077528686532775936/HuSNAxu1_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "HopeTalk2You",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 19334,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @HopeTalk2You: @Reuters_co_jp ロイターさん、グレタさんが香港デモを率いるジョシュア・ウォン（黄之鋒)さ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 23 04:46:20 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "フォローは１００パーセント返しています。european　languages are ok.",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/qEAJY8kMzF",
+                        "display_url": "twitter.com/walterbaily",
+                        "expanded_url": "https://twitter.com/walterbaily"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 7,
+        "follow_request_sent": false,
+        "followers_count": 12348,
+        "following": false,
+        "friends_count": 9511,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 181834984,
+        "id_str": "181834984",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 101,
+        "location": "",
+        "name": "walter",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1098377846605545473/ODkQQa9r_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098377846605545473/ODkQQa9r_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "walterbaily",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 56805,
+        "time_zone": "",
+        "url": "http://t.co/qEAJY8kMzF",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

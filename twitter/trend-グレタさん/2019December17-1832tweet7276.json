@@ -1,0 +1,263 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:31:20 +0000 2019",
+    "display_text_range": [
+        0,
+        82
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    59,
+                    82
+                ],
+                "url": "https://t.co/XgZbwLsSBq",
+                "display_url": "politics.antenna-portal-site.com/archives/139737",
+                "expanded_url": "https://politics.antenna-portal-site.com/archives/139737"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": [
+            {
+                "id": 1206778879358185472,
+                "id_str": "1206778879358185472",
+                "media_url": "http://pbs.twimg.com/media/EL9W_zqWsAAmaYj.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL9W_zqWsAAmaYj.jpg",
+                "url": "https://t.co/KIxZsVMfwK",
+                "display_url": "pic.twitter.com/KIxZsVMfwK",
+                "expanded_url": "https://twitter.com/politics_port/status/1206778881082044417/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 480,
+                        "h": 251,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 480,
+                        "h": 251,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 251,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    83,
+                    106
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206778879358185472,
+                "id_str": "1206778879358185472",
+                "media_url": "http://pbs.twimg.com/media/EL9W_zqWsAAmaYj.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL9W_zqWsAAmaYj.jpg",
+                "url": "https://t.co/KIxZsVMfwK",
+                "display_url": "pic.twitter.com/KIxZsVMfwK",
+                "expanded_url": "https://twitter.com/politics_port/status/1206778881082044417/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 480,
+                        "h": 251,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 480,
+                        "h": 251,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 251,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    83,
+                    106
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "維新・下地幹郎「グレタさんは本当にすごい人！トランプは本当に変な人！小泉環境相は本当に普通の人！はっきりしました！」 https://t.co/XgZbwLsSBq https://t.co/KIxZsVMfwK",
+    "has_extended_profile": false,
+    "id": 1206778881082044417,
+    "id_str": "1206778881082044417",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://publicize.wp.com/\" rel=\"nofollow\"\u003eWordPress.com\u003c/a\u003e",
+    "scopes": null,
+    "text": "維新・下地幹郎「グレタさんは本当にすごい人！トランプは\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 27 11:30:35 +0000 2018",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "https://t.co/Or5jOQQHJ1   政治情報のポータルサイト運営アカウントです。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Or5jOQQHJ1",
+                        "display_url": "politics.antenna-portal-site.com",
+                        "expanded_url": "http://politics.antenna-portal-site.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 191,
+        "follow_request_sent": false,
+        "followers_count": 1122,
+        "following": false,
+        "friends_count": 1141,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 989829157059100674,
+        "id_str": "989829157059100674",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 6,
+        "location": "日本国",
+        "name": "政治あんてなポータル",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/989829157059100674/1525166257",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/991245293101268992/ZLJcjWPD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/991245293101268992/ZLJcjWPD_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "politics_port",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 75391,
+        "time_zone": "",
+        "url": "https://t.co/Or5jOQQHJ1",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

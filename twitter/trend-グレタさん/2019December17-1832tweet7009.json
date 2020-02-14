@@ -1,0 +1,356 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:35:51 +0000 2019",
+    "display_text_range": [
+        0,
+        72
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    49,
+                    72
+                ],
+                "url": "https://t.co/0n1wrhsn92",
+                "display_url": "cnn.co.jp/travel/3514692…",
+                "expanded_url": "https://www.cnn.co.jp/travel/35146920.html?ref=rss"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "cnn_co_jp",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "cnn_co_jp",
+                "id": 158996759,
+                "id_str": "158996759"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @cnn_co_jp: ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容され https://t.co/0n1wrhsn92",
+    "has_extended_profile": false,
+    "id": 1206780017948028928,
+    "id_str": "1206780017948028928",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 262,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 07:19:29 +0000 2019",
+        "display_text_range": [
+            0,
+            57
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        34,
+                        57
+                    ],
+                    "url": "https://t.co/0n1wrhsn92",
+                    "display_url": "cnn.co.jp/travel/3514692…",
+                    "expanded_url": "https://www.cnn.co.jp/travel/35146920.html?ref=rss"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 357,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容され https://t.co/0n1wrhsn92",
+        "has_extended_profile": false,
+        "id": 1206473907848515584,
+        "id_str": "1206473907848515584",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 262,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://ifttt.com\" rel=\"nofollow\"\u003eIFTTT\u003c/a\u003e",
+        "scopes": null,
+        "text": "ドイツ鉄道、グレタさんにツイッターで応",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jun 24 05:14:25 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "朝日インタラクティブが運営する「https://t.co/uAGXE4T1zy」の公式アカウントです。このアカウントでは最新記事の情報を配信します。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/wJHnf0s92O",
+                            "display_url": "cnn.co.jp",
+                            "expanded_url": "http://www.cnn.co.jp/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 290067,
+            "following": false,
+            "friends_count": 38230,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 158996759,
+            "id_str": "158996759",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 8185,
+            "location": "東京都千代田区",
+            "name": "cnn_co_jp",
+            "notifications": false,
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/158996759/1366889507",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/575214640356978688/C1xncmfH_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/575214640356978688/C1xncmfH_normal.png",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "5ED4DC",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "cnn_co_jp",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 43661,
+            "time_zone": "",
+            "url": "http://t.co/wJHnf0s92O",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @cnn_co_jp: ドイツ鉄道、グレタさんにツイッターで応",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 27 10:17:04 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "自作er/旅行/電車/写真/パソコン作るの手伝うのが好きな大学生/成人済/その辺に転がってるパーツ集めてパソコン作ること\nUMIDIGI A5Proサブサブ？？？サブ #OnePlus7T メイン\n自作PCはAMD推し\n着弾予定:umidigiPower3\nスマホ着弾芸が得意です",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/oU0ij02HzY",
+                        "display_url": "youtube.com/channel/UCucEl…",
+                        "expanded_url": "https://www.youtube.com/channel/UCucElJ6f259mrZ6cpOvtILA?view_as=subscriber"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 74866,
+        "follow_request_sent": false,
+        "followers_count": 2468,
+        "following": false,
+        "friends_count": 2695,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 4034427553,
+        "id_str": "4034427553",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 77,
+        "location": "@2018_Pns0429(承認制)",
+        "name": "ぱんなし(ง •ᴗ•)ว ⁾⁾🍞",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4034427553/1574472922",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1153724774922588160/c-UmLibE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153724774922588160/c-UmLibE_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "2017_Pns0429",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 30142,
+        "time_zone": "",
+        "url": "https://t.co/oU0ij02HzY",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

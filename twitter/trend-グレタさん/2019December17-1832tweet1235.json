@@ -1,0 +1,153 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 07:01:07 +0000 2019",
+    "display_text_range": [
+        0,
+        37
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんは樹木希林の生まれ変わりと思えばいいんじゃない？ 年被ってるけど",
+    "has_extended_profile": false,
+    "id": 1206831672974397440,
+    "id_str": "1206831672974397440",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんは樹木希林の生\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 22 00:53:12 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "都内の出版社に勤務。業界のコミュニケーションの最適化を企んで、さまざまなことに取り組んでいます。マスドラ会事務局長、ガンバ大阪蒼黒苗場支部、旧姓・広田さくらファンクラブ副会長、東京都浴場組合公認ライターなど https://t.co/6rPhEw9Rnp",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 40797,
+        "follow_request_sent": false,
+        "followers_count": 3100,
+        "following": false,
+        "friends_count": 662,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 58981746,
+        "id_str": "58981746",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 186,
+        "location": "紀尾井町あたり",
+        "name": "Keizo Mezaki",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/58981746/1348591887",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/570711727/760946_1907215479_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/570711727/760946_1907215479_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "080400",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ibiru",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 33707,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

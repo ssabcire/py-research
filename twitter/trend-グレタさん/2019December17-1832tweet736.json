@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 07:26:38 +0000 2019",
+    "display_text_range": [
+        0,
+        64
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ふとっし一",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "zuckymisacky",
+                "id": 796045135205105664,
+                "id_str": "796045135205105664"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @zuckymisacky: グレタさんは西船橋駅で遅延した武蔵野線に乗り込むまで「混雑した電車」について語らないでほしい",
+    "has_extended_profile": false,
+    "id": 1206838094239895552,
+    "id_str": "1206838094239895552",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 05:32:28 +0000 2019",
+        "display_text_range": [
+            0,
+            46
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 6,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんは西船橋駅で遅延した武蔵野線に乗り込むまで「混雑した電車」について語らないでほしい",
+        "has_extended_profile": false,
+        "id": 1206809365857984513,
+        "id_str": "1206809365857984513",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんは西船橋駅で遅延した\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Nov 08 17:42:04 +0000 2016",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "萌子のヲタクにbioキモいって叩かれたのでモブっぽいbioに書き換えます",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/xAmAfrLKzh",
+                            "display_url": "twitter.com/futoshashin",
+                            "expanded_url": "https://twitter.com/futoshashin"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 79967,
+            "follow_request_sent": false,
+            "followers_count": 851,
+            "following": false,
+            "friends_count": 517,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 796045135205105664,
+            "id_str": "796045135205105664",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 40,
+            "location": "↓しゃしんのアカウント→",
+            "name": "ふとっし一",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/796045135205105664/1576003297",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1205893898100281345/vXzZ-UcZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205893898100281345/vXzZ-UcZ_normal.jpg",
+            "profile_link_color": "2A4073",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "zuckymisacky",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 43330,
+            "time_zone": "",
+            "url": "https://t.co/xAmAfrLKzh",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @zuckymisacky: グレタさんは西船橋駅で遅延した\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 03 02:01:55 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "田屋美咲ちゃんを応援してました。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 7062,
+        "follow_request_sent": false,
+        "followers_count": 29,
+        "following": false,
+        "friends_count": 143,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 403831178,
+        "id_str": "403831178",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "日本 千葉",
+        "name": "かかかか",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/403831178/1554393575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1117109477180723200/qxdHoAJh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117109477180723200/qxdHoAJh_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "inuunagi_22",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 1264,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,642 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:02:15 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    17,
+                    40
+                ],
+                "url": "https://t.co/78LNUAaQle",
+                "display_url": "twitter.com/umi51771815/st…",
+                "expanded_url": "https://twitter.com/umi51771815/status/1177440388086292482?s=20"
+            },
+            {
+                "indices": [
+                    41,
+                    64
+                ],
+                "url": "https://t.co/pn1oeY4V6p",
+                "display_url": "twitter.com/umi51771815/st…",
+                "expanded_url": "https://twitter.com/umi51771815/status/1177084444013805568?s=20"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    76,
+                    79
+                ],
+                "text": "環境"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "abyss",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "umi51771815",
+                "id": 1010282833355501568,
+                "id_str": "1010282833355501568"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @umi51771815: https://t.co/78LNUAaQle\nhttps://t.co/pn1oeY4V6p\n\nグレタさんを支える #環境 団体、中国政府の代理人の疑い　沖縄「ジュゴン裁判」も担当\n2019.9.30\nhttps://t.co/BXnpvHY…",
+    "has_extended_profile": false,
+    "id": 1206726263760539648,
+    "id_str": "1206726263760539648",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1177084444013805568,
+    "quoted_status_id_str": "1177084444013805568",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Sep 30 19:24:30 +0000 2019",
+        "display_text_range": [
+            0,
+            180
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        0,
+                        23
+                    ],
+                    "url": "https://t.co/78LNUAaQle",
+                    "display_url": "twitter.com/umi51771815/st…",
+                    "expanded_url": "https://twitter.com/umi51771815/status/1177440388086292482?s=20"
+                },
+                {
+                    "indices": [
+                        24,
+                        47
+                    ],
+                    "url": "https://t.co/pn1oeY4V6p",
+                    "display_url": "twitter.com/umi51771815/st…",
+                    "expanded_url": "https://twitter.com/umi51771815/status/1177084444013805568?s=20"
+                },
+                {
+                    "indices": [
+                        102,
+                        125
+                    ],
+                    "url": "https://t.co/BXnpvHYrHc",
+                    "display_url": "epochtimes.jp/p/2019/09/4770…",
+                    "expanded_url": "https://www.epochtimes.jp/p/2019/09/47700.html"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        59,
+                        62
+                    ],
+                    "text": "環境"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1178752492319862784,
+                    "id_str": "1178752492319862784",
+                    "media_url": "http://pbs.twimg.com/media/EFvFJX7U8AAVGXB.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EFvFJX7U8AAVGXB.jpg",
+                    "url": "https://t.co/4WMzgEKPDg",
+                    "display_url": "pic.twitter.com/4WMzgEKPDg",
+                    "expanded_url": "https://twitter.com/umi51771815/status/1178752500708495360/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 720,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        181,
+                        204
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1178752492319862784,
+                    "id_str": "1178752492319862784",
+                    "media_url": "http://pbs.twimg.com/media/EFvFJX7U8AAVGXB.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EFvFJX7U8AAVGXB.jpg",
+                    "url": "https://t.co/4WMzgEKPDg",
+                    "display_url": "pic.twitter.com/4WMzgEKPDg",
+                    "expanded_url": "https://twitter.com/umi51771815/status/1178752500708495360/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 720,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        181,
+                        204
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 4,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "https://t.co/78LNUAaQle\nhttps://t.co/pn1oeY4V6p\n\nグレタさんを支える #環境 団体、中国政府の代理人の疑い　沖縄「ジュゴン裁判」も担当\n2019.9.30\nhttps://t.co/BXnpvHYrHc\n子どもたち16人は法律事務所ハウスフィールドLLPおよび環境保護系法律事務所アースジャスティスの公式代表\n続 https://t.co/4WMzgEKPDg",
+        "has_extended_profile": false,
+        "id": 1178752500708495360,
+        "id_str": "1178752500708495360",
+        "in_reply_to_screen_name": "umi51771815",
+        "in_reply_to_status_id": 1178749764868825088,
+        "in_reply_to_status_id_str": "1178749764868825088",
+        "in_reply_to_user_id": 1010282833355501568,
+        "in_reply_to_user_id_str": "1010282833355501568",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1177084444013805568,
+        "quoted_status_id_str": "1177084444013805568",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Thu Sep 26 04:56:15 +0000 2019",
+            "display_text_range": [
+                17,
+                184
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "indices": [
+                            55,
+                            78
+                        ],
+                        "url": "https://t.co/Lr8MpPCgus",
+                        "display_url": "ikedanobuo.livedoor.biz/archives/52033…",
+                        "expanded_url": "http://ikedanobuo.livedoor.biz/archives/52033908.html"
+                    }
+                ],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [
+                    {
+                        "name": "オフイス・マツナガ",
+                        "indices": [
+                            0,
+                            16
+                        ],
+                        "screen_name": "officematsunaga",
+                        "id": 172680398,
+                        "id_str": "172680398"
+                    }
+                ],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 40,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "@officematsunaga 2019.09.24 池田信夫\n子供を使って再エネ投資でもうける環境NGO\nhttps://t.co/Lr8MpPCgus\n彼女のメディア・プロモーションはStandpointによればスウェーデン の環境NGO\nその目的はヨーロッパ全体で原発と火力発電を止め、彼らの投資している再エネに政府の補助金を出させることだ\nー\n国連へは誰が？",
+            "has_extended_profile": false,
+            "id": 1177084444013805568,
+            "id_str": "1177084444013805568",
+            "in_reply_to_screen_name": "officematsunaga",
+            "in_reply_to_status_id": 1177078799298519041,
+            "in_reply_to_status_id_str": "1177078799298519041",
+            "in_reply_to_user_id": 172680398,
+            "in_reply_to_user_id_str": "172680398",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 47,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+            "scopes": null,
+            "text": "2019.09.24 池田信夫\n子供を使って再エネ投資でもうける環境NGO\nhttps://t.co/Lr8MpPCgus\n彼女のメディア・プロモーションはStandpointに",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Jun 22 22:06:12 +0000 2018",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "生まれ育った日本が自然と好きです。\n2018年6月末Twitte開始。失礼をしてしまった際はお詫びします。\nフォロー時、鍵アカは不明にてブロック",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 18429,
+                "follow_request_sent": false,
+                "followers_count": 614,
+                "following": false,
+                "friends_count": 552,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1010282833355501568,
+                "id_str": "1010282833355501568",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 11,
+                "location": "",
+                "name": "abyss",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1010282833355501568/1530589283",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1013992174298456065/TT13d_4P_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013992174298456065/TT13d_4P_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "umi51771815",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 37909,
+                "time_zone": "",
+                "url": "",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 6,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "https://t.co/78LNUAaQle\nhttps://t.co/pn1oeY4V6p\n\nグレタさんを支える #環境 団体、中国政府の代理人の疑い　沖縄「ジュゴン裁判」も担当\n2019.9.30\n",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Jun 22 22:06:12 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "生まれ育った日本が自然と好きです。\n2018年6月末Twitte開始。失礼をしてしまった際はお詫びします。\nフォロー時、鍵アカは不明にてブロック",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 18429,
+            "follow_request_sent": false,
+            "followers_count": 614,
+            "following": false,
+            "friends_count": 552,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1010282833355501568,
+            "id_str": "1010282833355501568",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 11,
+            "location": "",
+            "name": "abyss",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1010282833355501568/1530589283",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1013992174298456065/TT13d_4P_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013992174298456065/TT13d_4P_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "umi51771815",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 37909,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @umi51771815: https://t.co/78LNUAaQle\nhttps://t.co/pn1oeY4V6p\n\nグレタさんを支える #環境 団体、中国政府の代理人の\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 24 01:07:06 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "事実を報道しない偏向メディアは日本の癌だと思います。安倍総理を全力で応援、支持します！リツイート多めなのは拡散目的。但し、肯定とは限りません。報道しない自由はネットでは通用しないよ。ダイレクトメールは見ません。フォローはご自由にどうぞ。JNSC会員。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 120064,
+        "follow_request_sent": false,
+        "followers_count": 6079,
+        "following": false,
+        "friends_count": 6031,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 158927348,
+        "id_str": "158927348",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 71,
+        "location": "日本",
+        "name": "青いクラゲ",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/158927348/1564278591",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1159277568811360256/WrEVcCHB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1159277568811360256/WrEVcCHB_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "masugominikatu",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 284665,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

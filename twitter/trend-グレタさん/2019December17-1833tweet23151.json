@@ -1,0 +1,153 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 19:43:08 +0000 2019",
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "だからというわけではないですが、グレタさんを批判したおじさんの『中の人』は『意外と優しい少年』である可能性は否めないと思っています。直接グレタさんに肉食べろ！って言ったわけではないのです。『俺は肉が好きで、野菜しか食わないやつの気が知れない』の婉曲表現なのでは、という可能性。",
+    "has_extended_profile": false,
+    "id": 1206661053213360129,
+    "id_str": "1206661053213360129",
+    "in_reply_to_screen_name": "yuk_aco",
+    "in_reply_to_status_id": 1206661051300765696,
+    "in_reply_to_status_id_str": "1206661051300765696",
+    "in_reply_to_user_id": 174200877,
+    "in_reply_to_user_id_str": "174200877",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "だからというわけではないですが、グレタさんを批判したおじさんの『中の人』は『意外と優しい少年",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 03 10:21:13 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ヒトなのか、猫なのか… 机のないところで『議論』はしません。某大学のpolicy science出身です（記憶が正しければ）",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 100059,
+        "follow_request_sent": false,
+        "followers_count": 1201,
+        "following": false,
+        "friends_count": 997,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 174200877,
+        "id_str": "174200877",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 7,
+        "location": "",
+        "name": "茶こふ.pot",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/174200877/1423484332",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/564761463684739074/yeSigAD2_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/564761463684739074/yeSigAD2_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "yuk_aco",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 88981,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

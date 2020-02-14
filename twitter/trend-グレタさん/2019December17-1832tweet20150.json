@@ -1,0 +1,164 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 22:08:38 +0000 2019",
+    "display_text_range": [
+        13,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "おトキ",
+                "indices": [
+                    0,
+                    12
+                ],
+                "screen_name": "narumikaeru",
+                "id": 276487456,
+                "id_str": "276487456"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@narumikaeru スレッド内でもプロのカメラマンの存在を指摘するリプがあるように、みんなこれを彼女個人の行動ではなく「グレタさん」というキャラの演出だと看破しています。誰も彼女自身を嘘つきだとは言っていないのです。作られた彼女の一連のイメージに嘘があると言っているのです。",
+    "has_extended_profile": false,
+    "id": 1206697669176856576,
+    "id_str": "1206697669176856576",
+    "in_reply_to_screen_name": "narumikaeru",
+    "in_reply_to_status_id": 1206680237062475776,
+    "in_reply_to_status_id_str": "1206680237062475776",
+    "in_reply_to_user_id": 276487456,
+    "in_reply_to_user_id_str": "276487456",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "スレッド内でもプロのカメラマンの存在を指摘するリプがあるように、みんなこれを彼女個人\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 10 07:30:40 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ごうとう でも、して やろうか。 きーん こーん あれ？ いま なにを、 かんがえて いたっけ。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 3237,
+        "follow_request_sent": false,
+        "followers_count": 128,
+        "following": false,
+        "friends_count": 143,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 103510417,
+        "id_str": "103510417",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 6,
+        "location": "まむすのむら",
+        "name": "かつま大佐（永遠の10歳📛）",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/103510417/1567681187",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1179384596330373124/KzQDSUS__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179384596330373124/KzQDSUS__normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kamiomutsu",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 15280,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

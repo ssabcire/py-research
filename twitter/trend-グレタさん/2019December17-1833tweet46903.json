@@ -1,0 +1,164 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 10:06:44 +0000 2019",
+    "display_text_range": [
+        11,
+        24
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "孫向文",
+                "indices": [
+                    0,
+                    10
+                ],
+                "screen_name": "sonkoubun",
+                "id": 1158954417858605056,
+                "id_str": "1158954417858605056"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@sonkoubun グレタさんより低いのです😰",
+    "has_extended_profile": false,
+    "id": 1206515996904677376,
+    "id_str": "1206515996904677376",
+    "in_reply_to_screen_name": "sonkoubun",
+    "in_reply_to_status_id": 1206512985679646720,
+    "in_reply_to_status_id_str": "1206512985679646720",
+    "in_reply_to_user_id": 1158954417858605056,
+    "in_reply_to_user_id_str": "1158954417858605056",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 05 10:52:35 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "日本派🇯🇵 強い日本を復活させる為に我々一人一人が本当の意味で強くなろう！全国の神社が放火テロによって攻撃されています！警察に頼るだけでなく地域の団結で抑止しましょう！日本人が団結すれば世界最強😃 日々勉強です！！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2904,
+        "follow_request_sent": false,
+        "followers_count": 1480,
+        "following": false,
+        "friends_count": 1537,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1647492696,
+        "id_str": "1647492696",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 15,
+        "location": "",
+        "name": "花鳥風月🇯🇵",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647492696/1418582244",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1108775948621475840/YPGXDJ9y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1108775948621475840/YPGXDJ9y_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gonpitakataka",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 58996,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

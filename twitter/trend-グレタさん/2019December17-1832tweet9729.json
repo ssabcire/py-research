@@ -1,0 +1,153 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:27:44 +0000 2019",
+    "display_text_range": [
+        0,
+        38
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "正直言ってグレタさんが一体何者なのか、私はよく分かっていません。\u0026gt;RT",
+    "has_extended_profile": false,
+    "id": 1206762874338603014,
+    "id_str": "1206762874338603014",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\"\u003eTweetbot for iΟS\u003c/a\u003e",
+    "scopes": null,
+    "text": "正直言ってグレタさんが一\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 08 18:59:16 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "アニメものを中心に映画鑑賞。ラブライブサンシャインにハマりました。たまに洋画も見ます。シネマシティ大好き。シティズン3年目。チネチッタ、シアタス調布、\n幕張新都心、港北NTあたりにも出没。都内を中心にいろんな映画館を開拓中。たまにテレビ・字幕関連の話題も。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 37513,
+        "follow_request_sent": false,
+        "followers_count": 235,
+        "following": false,
+        "friends_count": 226,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 4889443474,
+        "id_str": "4889443474",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 9,
+        "location": "ふとんの上",
+        "name": "おおぐまくん",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4889443474/1456996376",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/705294121561251840/W7aGxsrz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/705294121561251840/W7aGxsrz_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "oogma0090",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 49495,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

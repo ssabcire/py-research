@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:52:14 +0000 2019",
+    "display_text_range": [
+        0,
+        78
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    55,
+                    78
+                ],
+                "url": "https://t.co/8Rv9YB288l",
+                "display_url": "headlines.yahoo.co.jp/hl?a=20191216-…",
+                "expanded_url": "https://headlines.yahoo.co.jp/hl?a=20191216-35146920-cnn-int"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "なんだかね… (눈_눈 ) → ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容され(CNN) https://t.co/8Rv9YB288l",
+    "has_extended_profile": false,
+    "id": 1206587847991365632,
+    "id_str": "1206587847991365632",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "なんだかね… (눈_눈 ) → ドイツ鉄道、グレタさんにツイ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 27 15:24:23 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "'05｜'08｜'14 三児の父。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ufQHkn9dEh",
+                        "display_url": "geocities.jp/decobocobo/twi…",
+                        "expanded_url": "http://www.geocities.jp/decobocobo/twitter"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 42329,
+        "follow_request_sent": false,
+        "followers_count": 3501,
+        "following": false,
+        "friends_count": 4316,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 9735902,
+        "id_str": "9735902",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 127,
+        "location": "東急田園都市線-大井町線 Kawasaki-Tokyo",
+        "name": "kazzen",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9735902/1349471692",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1200749732466810880/albQmUSq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1200749732466810880/albQmUSq_normal.jpg",
+        "profile_link_color": "009BFF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "444444",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kazzen",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 133932,
+        "time_zone": "",
+        "url": "https://t.co/ufQHkn9dEh",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

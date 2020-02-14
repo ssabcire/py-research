@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 15:51:44 +0000 2019",
+    "display_text_range": [
+        0,
+        61
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    38,
+                    61
+                ],
+                "url": "https://t.co/OGwRYwW84A",
+                "display_url": "asahi.com/articles/ASMDH…",
+                "expanded_url": "http://www.asahi.com/articles/ASMDH6VQYMDGULBJ00F.html?ref=tw_asahi"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "朝日新聞(asahi shimbun）",
+                "indices": [
+                    3,
+                    9
+                ],
+                "screen_name": "asahi",
+                "id": 42816371,
+                "id_str": "42816371"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @asahi: グレタさんの訴え届かず　日本、削減目標引き上げスルー https://t.co/OGwRYwW84A",
+    "has_extended_profile": false,
+    "id": 1206602820029280258,
+    "id_str": "1206602820029280258",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 100,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 14:14:03 +0000 2019",
+        "display_text_range": [
+            0,
+            50
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        27,
+                        50
+                    ],
+                    "url": "https://t.co/OGwRYwW84A",
+                    "display_url": "asahi.com/articles/ASMDH…",
+                    "expanded_url": "http://www.asahi.com/articles/ASMDH6VQYMDGULBJ00F.html?ref=tw_asahi"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 111,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんの訴え届かず　日本、削減目標引き上げスルー https://t.co/OGwRYwW84A",
+        "has_extended_profile": false,
+        "id": 1206215847749963777,
+        "id_str": "1206215847749963777",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 100,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://www.hornetcrm.jp/\" rel=\"nofollow\"\u003ehornet\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんの訴え届かず　日本、削\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed May 27 04:37:57 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "朝日新聞社が運営する公式ニュースアカウントです。最新のニュース速報や旬の話題を配信します。朝日新聞社からのお知らせやお得な情報も時々流れます。Facebookページは http://t.co/qKDxsI6YnX です。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/KAw1Ty80Mq",
+                            "display_url": "asahi.com",
+                            "expanded_url": "http://www.asahi.com"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 22,
+            "follow_request_sent": false,
+            "followers_count": 1221063,
+            "following": false,
+            "friends_count": 314,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 42816371,
+            "id_str": "42816371",
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "lang": "",
+            "listed_count": 42497,
+            "location": "東京都中央区",
+            "name": "朝日新聞(asahi shimbun）",
+            "notifications": false,
+            "profile_background_color": "8B542B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/266385410/aicon_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/266385410/aicon_normal.png",
+            "profile_link_color": "9D582E",
+            "profile_sidebar_border_color": "D9B17E",
+            "profile_sidebar_fill_color": "EADEAA",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "asahi",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 286176,
+            "time_zone": "",
+            "url": "http://t.co/KAw1Ty80Mq",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @asahi: グレタさんの訴え届かず　日本、削\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 25 16:31:31 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "20年以上、サントラ担当です。広い意味での職業音楽家のＣＤ担当。勤務地が2012年5月1日より渋谷でなくなりました。過去のツイートをチェック希望の方は、以下へどうぞ。https://t.co/pNcbrswfMe\r\nブログ休止中。https://t.co/NczGxBggZZ",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 846,
+        "follow_request_sent": false,
+        "followers_count": 4692,
+        "following": false,
+        "friends_count": 4526,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 137044003,
+        "id_str": "137044003",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 222,
+        "location": "住所は横浜／職場は東京のとある場所",
+        "name": "babby",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/137044003/1561992846",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1145706865960951808/yUgIHYoK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145706865960951808/yUgIHYoK_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cipriani_s",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 277130,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

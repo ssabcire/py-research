@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:32:22 +0000 2019",
+    "display_text_range": [
+        0,
+        69
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    38,
+                    61
+                ],
+                "url": "https://t.co/plpRcd5jbY",
+                "display_url": "ironna.jp/article/13974",
+                "expanded_url": "https://ironna.jp/article/13974"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    62,
+                    69
+                ],
+                "text": "iRONNA"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんアイドル説\nグレタ現象を盛り上げる「最強のアンチ」はもう一人いる https://t.co/plpRcd5jbY #iRONNA",
+    "has_extended_profile": false,
+    "id": 1206794237615857664,
+    "id_str": "1206794237615857664",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんアイドル説\nグレタ現象を盛り上げる「\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 17 14:10:24 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "愚かなメガネ人間。Perfume大好きPTA会員。眉村ちあきさん大好き株式会社会社じゃないもん株主。時々うるさいから、適度にミュートしたりフォロー外したりしてねマジで。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 6027,
+        "follow_request_sent": false,
+        "followers_count": 256,
+        "following": false,
+        "friends_count": 613,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 105794477,
+        "id_str": "105794477",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 5,
+        "location": "日本 東京",
+        "name": "soda",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/105794477/1526700808",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1136293126983655427/4gIDBaj9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1136293126983655427/4gIDBaj9_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "soda_t",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 9947,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 10:27:41 +0000 2019",
+    "display_text_range": [
+        0,
+        31
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさん一回朝の東京メトロ東西線乗ってくれないかな(野次馬)",
+    "has_extended_profile": false,
+    "id": 1206521268977061888,
+    "id_str": "1206521268977061888",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさん一回朝の東\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 09 03:04:56 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "超絶雑食で雑多 20↑ 腐＆夢 HQ《菅原孝支／烏野／五色工／昼神幸郎／白鳥沢／鴎台／稲荷崎／狢坂》銀魂《真選組》pkmn《全世代網羅》MHA進撃鉄血／WJ本誌派発売日の朝から／日常の呟き多い／ディズニーよく行く／無断転載と早バレRTやめちくり",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/xW9zTmr2Hd",
+                        "display_url": "pixiv.net/member.php?id=…",
+                        "expanded_url": "https://www.pixiv.net/member.php?id=13109966"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 35959,
+        "follow_request_sent": false,
+        "followers_count": 229,
+        "following": false,
+        "friends_count": 28,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3240381380,
+        "id_str": "3240381380",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 8,
+        "location": "カントーからガラル地方まで",
+        "name": "ごりり",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3240381380/1565767954",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1161541096524173312/-bn1SF14_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1161541096524173312/-bn1SF14_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gori5_HQ",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 86779,
+        "time_zone": "",
+        "url": "https://t.co/xW9zTmr2Hd",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

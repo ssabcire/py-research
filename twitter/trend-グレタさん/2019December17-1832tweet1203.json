@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 07:02:22 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "重松壮一郎",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "soso_piano",
+                "id": 138375083,
+                "id_str": "138375083"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @soso_piano: さらに、ホリエモンらにビビったりあやかったりして発言しない大人が多いだけに、志葉さんのこの投稿は嬉しい！\n\nホリエモンよりグレタさんは「760万倍賢い」―温暖化防止「飛び恥」の衝撃（志葉玲）- Yahoo!ニュース https://t.co/q0…",
+    "has_extended_profile": false,
+    "id": 1206831986838360066,
+    "id_str": "1206831986838360066",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 06:57:40 +0000 2019",
+        "display_text_range": [
+            0,
+            131
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        108,
+                        131
+                    ],
+                    "url": "https://t.co/q0i8oTqBgF",
+                    "display_url": "news.yahoo.co.jp/byline/shivare…",
+                    "expanded_url": "https://news.yahoo.co.jp/byline/shivarei/20191213-00154732/"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "さらに、ホリエモンらにビビったりあやかったりして発言しない大人が多いだけに、志葉さんのこの投稿は嬉しい！\n\nホリエモンよりグレタさんは「760万倍賢い」―温暖化防止「飛び恥」の衝撃（志葉玲）- Yahoo!ニュース https://t.co/q0i8oTqBgF",
+        "has_extended_profile": false,
+        "id": 1206830804858363910,
+        "id_str": "1206830804858363910",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "さらに、ホリエモンらにビビったりあやかったりして発言しない大人が多いだけに、志葉さんの\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Apr 29 11:11:39 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "ピアニスト、作曲家、即興演奏家。国内外にて年間150回近いライブを行う。オリジナル曲と即興演奏による独自のスタイルで、生きとし生けるものすべてに向けて音を紡ぐ。アメリカ、オーストラリア、ヨーロッパ、タイなど海外でも多数公演。アルバム「tsumugi」はiTunes、Amazon等にて配信中。演奏のオファーもお気軽に。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/tivmdgm3wr",
+                            "display_url": "livingthings.org",
+                            "expanded_url": "http://www.livingthings.org"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 5935,
+            "follow_request_sent": false,
+            "followers_count": 1702,
+            "following": false,
+            "friends_count": 995,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 138375083,
+            "id_str": "138375083",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 115,
+            "location": "長崎、横浜、全国、世界各地",
+            "name": "重松壮一郎",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/138375083/1575443929",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/810748479525953536/WdE4b3QO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/810748479525953536/WdE4b3QO_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "soso_piano",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 82673,
+            "time_zone": "",
+            "url": "https://t.co/tivmdgm3wr",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @soso_piano: さらに、ホリエモンらにビビったりあやかったりして発言しない大人が多いだけに、志葉さ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 03 03:53:25 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "平魚泳、岡林立哉、重松壮一郎によるバンド。国内外にて活躍する3人の旅するアーティストが紡ぐ、ジャンルも国籍も越えた新しい「自然な音楽」が、忘れかけていた心の原風景を呼び覚ます。--《平魚泳》vo、ウクレレ、ジャンベ、笛 《岡林立哉》馬頭琴、ホーミー 《重松壮一郎》ピアノ",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/kqrL0h40QJ",
+                        "display_url": "facebook.com/kazemusicians/",
+                        "expanded_url": "https://www.facebook.com/kazemusicians/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 18,
+        "follow_request_sent": false,
+        "followers_count": 417,
+        "following": false,
+        "friends_count": 683,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 481741753,
+        "id_str": "481741753",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 13,
+        "location": "大分、高知、長崎、全国津々浦々",
+        "name": "風の音楽家",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/481741753/1559859405",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1800518625/icon8892238559458561099kaze_01_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1800518625/icon8892238559458561099kaze_01_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kaze_music",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 13474,
+        "time_zone": "",
+        "url": "https://t.co/kqrL0h40QJ",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

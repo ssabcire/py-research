@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:41:21 +0000 2019",
+    "display_text_range": [
+        0,
+        131
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "暗にお前ら良い機材手に入れたら貧しい人のこと考えながら責任持って音楽やれよと押し付けてるようで恐ろしい。\nグレタさんに同調しろ！という流れとおんなじでなんか嫌だ。ゴッチはそんなことで悩むならどこか自分が使ってるスペース開放したりして子ども食堂でもやったらどうだい",
+    "has_extended_profile": false,
+    "id": 1206736104268820481,
+    "id_str": "1206736104268820481",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "暗にお前ら良い機材手に入れたら貧しい人のこと考えながら責任持って音楽やれよと押し付けて\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 29 04:27:04 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "NAISHO の うるさい人 メダカ、畑始めました💩",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/f2MpzzOgcn",
+                        "display_url": "naisho.co",
+                        "expanded_url": "http://naisho.co"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 7696,
+        "follow_request_sent": false,
+        "followers_count": 507,
+        "following": false,
+        "friends_count": 564,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 85993306,
+        "id_str": "85993306",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 18,
+        "location": "東京都 墨田区",
+        "name": "とくにゃん",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85993306/1573522932",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1194067836915683329/pufSGQ1h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194067836915683329/pufSGQ1h_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tokuyamm_NAISHO",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 32571,
+        "time_zone": "",
+        "url": "https://t.co/f2MpzzOgcn",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

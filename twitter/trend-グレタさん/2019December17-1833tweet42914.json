@@ -1,0 +1,357 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:10:17 +0000 2019",
+    "display_text_range": [
+        0,
+        60
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "1315（Shiranoki）",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "liverave",
+                "id": 165749206,
+                "id_str": "165749206"
+            },
+            {
+                "name": "下地ミキオ",
+                "indices": [
+                    14,
+                    27
+                ],
+                "screen_name": "mikioshimoji",
+                "id": 97387806,
+                "id_str": "97387806"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @liverave: @mikioshimoji 僕も中国に文句を全く言わないグレタさんは本当に凄い人だと思います",
+    "has_extended_profile": false,
+    "id": 1206531988892483585,
+    "id_str": "1206531988892483585",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 64,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 08:47:44 +0000 2019",
+        "display_text_range": [
+            14,
+            46
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "下地ミキオ",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "screen_name": "mikioshimoji",
+                    "id": 97387806,
+                    "id_str": "97387806"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 623,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@mikioshimoji 僕も中国に文句を全く言わないグレタさんは本当に凄い人だと思います",
+        "has_extended_profile": false,
+        "id": 1206133728017149952,
+        "id_str": "1206133728017149952",
+        "in_reply_to_screen_name": "mikioshimoji",
+        "in_reply_to_status_id": 1205995062263341056,
+        "in_reply_to_status_id_str": "1205995062263341056",
+        "in_reply_to_user_id": 97387806,
+        "in_reply_to_user_id_str": "97387806",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 64,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "僕も中国に文句を全く\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jul 12 12:51:18 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "TranceDJ。作曲休止中。Melbourne Shuffle(H1), JumpStyleの関西勢。活動範囲はnamco梅田やナイトクラブ。ジラフで第3土曜日開催の【TRANCE LASER】に参加しております。YouTubeチャンネル登録お願いします。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/4JZuY3IHQK",
+                            "display_url": "youtube.com/user/uishima/f…",
+                            "expanded_url": "https://www.youtube.com/user/uishima/featured"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 498,
+            "follow_request_sent": false,
+            "followers_count": 409,
+            "following": false,
+            "friends_count": 376,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 165749206,
+            "id_str": "165749206",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 2,
+            "location": "兵庫県",
+            "name": "1315（Shiranoki）",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/165749206/1574006739",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/990639926084493312/bJBzpuEw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/990639926084493312/bJBzpuEw_normal.jpg",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "liverave",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 3711,
+            "time_zone": "",
+            "url": "https://t.co/4JZuY3IHQK",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @liverave: @mikioshimoji 僕も中国に文句を全く\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 31 15:00:42 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "雄/加虐趣味/旧型ｦﾀ/変態/眼鏡/鬼畜/闇// 　好:緊縛/苦痛責/快楽責/羞恥責/清楚淫乱牝/従順被虐// 　嫌:人間/付和雷同/迎合/強要/奸計/餓鬼/似非// \r\n　facebook: https://t.co/K7V15CRQI1\r\n　もの思ふに立ち舞ふべくもあらぬ身の　袖うち振りし心知りきや「紅葉賀」",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/MbkmcPTueR",
+                        "display_url": "ja.whotwi.com/vonyog",
+                        "expanded_url": "https://ja.whotwi.com/vonyog"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 121898,
+        "follow_request_sent": false,
+        "followers_count": 581,
+        "following": false,
+        "friends_count": 593,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 185246414,
+        "id_str": "185246414",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 38,
+        "location": "何処か",
+        "name": "煩悩庸愚(ﾎﾞﾆｮｸﾞ)",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/185246414/1451697356",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1171950622/tw-icon3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171950622/tw-icon3_normal.jpg",
+        "profile_link_color": "030303",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "vonyog",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 117241,
+        "time_zone": "",
+        "url": "https://t.co/MbkmcPTueR",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

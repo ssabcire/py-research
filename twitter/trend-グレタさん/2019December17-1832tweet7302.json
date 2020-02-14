@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:30:55 +0000 2019",
+    "display_text_range": [
+        0,
+        46
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "トランプさんとグレタさんを対比して立たせるだけで先進諸国分断がかなり分かりやすくなる気がする",
+    "has_extended_profile": false,
+    "id": 1206778773808369664,
+    "id_str": "1206778773808369664",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "トランプさんとグレタさんを対比\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 29 04:10:55 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "https://t.co/2u32cIrpBc 川崎市民 詩人 アマチュア思想家 無知識人 革命家 劇作家 ギタリスト システム屋 ガンマツイッタラー アルピニスト すかいらーく日高屋 ゆで太郎 サウナ タピオカ 化学工学 JPOP研究者 Tシャツ蒐集 アメカジ 多肉男子 軽度のおひさま きょんこ推し 動画公開",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/5T4cREGFwY",
+                        "display_url": "note.com/destructionh",
+                        "expanded_url": "https://note.com/destructionh"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 70715,
+        "follow_request_sent": false,
+        "followers_count": 878,
+        "following": false,
+        "friends_count": 878,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 93321976,
+        "id_str": "93321976",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 19,
+        "location": "スカイスパYOKOHAMA",
+        "name": "MC社会適合者@動画非公開系YouTuber",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/93321976/1505446075",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/860062649815453697/LJM-j5Se_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/860062649815453697/LJM-j5Se_normal.jpg",
+        "profile_link_color": "9500B3",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mihiraki",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 91822,
+        "time_zone": "",
+        "url": "https://t.co/5T4cREGFwY",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

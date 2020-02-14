@@ -1,0 +1,376 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:56:42 +0000 2019",
+    "display_text_range": [
+        0,
+        83
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    51,
+                    74
+                ],
+                "url": "https://t.co/YCJvSU3UOw",
+                "display_url": "agora-web.jp/archives/20431…",
+                "expanded_url": "http://agora-web.jp/archives/2043195.html"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    75,
+                    78
+                ],
+                "text": "国際"
+            },
+            {
+                "indices": [
+                    79,
+                    83
+                ],
+                "text": "アゴラ"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "アゴラ",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "agora_japan",
+                "id": 83517179,
+                "id_str": "83517179"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @agora_japan: 岡本 裕明: 今週のつぶやき：COP25を巡る小泉大臣とグレタさん https://t.co/YCJvSU3UOw #国際 #アゴラ",
+    "has_extended_profile": false,
+    "id": 1206770163330142208,
+    "id_str": "1206770163330142208",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 02:46:01 +0000 2019",
+        "display_text_range": [
+            0,
+            66
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        34,
+                        57
+                    ],
+                    "url": "https://t.co/YCJvSU3UOw",
+                    "display_url": "agora-web.jp/archives/20431…",
+                    "expanded_url": "http://agora-web.jp/archives/2043195.html"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        58,
+                        61
+                    ],
+                    "text": "国際"
+                },
+                {
+                    "indices": [
+                        62,
+                        66
+                    ],
+                    "text": "アゴラ"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 4,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "岡本 裕明: 今週のつぶやき：COP25を巡る小泉大臣とグレタさん https://t.co/YCJvSU3UOw #国際 #アゴラ",
+        "has_extended_profile": false,
+        "id": 1206767475351703552,
+        "id_str": "1206767475351703552",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://www.agora-web.jp/\" rel=\"nofollow\"\u003eagora_japan\u003c/a\u003e",
+        "scopes": null,
+        "text": "岡本 裕明: 今週のつぶやき：COP25を巡る小泉大臣\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Oct 19 03:55:50 +0000 2009",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "言論プラットフォーム「アゴラ」公式ツイッターです。政治経済を中心に時事の話題・問題について気鋭の論客が投稿。独立系オピニオンメディアとしては異例の月間1000万PV（16年9月、19年7、8月実績）を記録しています。ツイッターでは最新記事、注目記事をお知らせします。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/mkpO9auwKZ",
+                            "display_url": "agora-web.jp",
+                            "expanded_url": "http://agora-web.jp"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 527,
+            "follow_request_sent": false,
+            "followers_count": 38068,
+            "following": false,
+            "friends_count": 137,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 83517179,
+            "id_str": "83517179",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 2999,
+            "location": "東京 渋谷",
+            "name": "アゴラ",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/83517179/1394755905",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/479152235/agora1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/479152235/agora1_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "agora_japan",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 155933,
+            "time_zone": "",
+            "url": "https://t.co/mkpO9auwKZ",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @agora_japan: 岡本 裕明: 今週のつぶやき：COP25を巡る小泉大臣\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 28 05:10:28 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "鉄道(というか乗り物全般興味あり)、散歩、歴史、音楽、政治、時事、ドラマ、\nアニメ等々、京急沿線住民。神奈川県横浜市在住",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 54142,
+        "follow_request_sent": false,
+        "followers_count": 273,
+        "following": false,
+        "friends_count": 335,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1067646887237378048,
+        "id_str": "1067646887237378048",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 10,
+        "location": "日本",
+        "name": "大浦はるお☔️",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067646887237378048/1572352544",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1127588318999224320/iOTKCp0O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1127588318999224320/iOTKCp0O_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Qw7tl",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 19142,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

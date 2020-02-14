@@ -1,0 +1,181 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:21:59 +0000 2019",
+    "display_text_range": [
+        0,
+        83
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    50,
+                    73
+                ],
+                "url": "https://t.co/hNml6hUT6p",
+                "display_url": "gendai.ismedia.jp/articles/-/692…",
+                "expanded_url": "https://gendai.ismedia.jp/articles/-/69226"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    74,
+                    83
+                ],
+                "text": "スマートニュース"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんも知らない…環境利権のウラで日本が食い物にされる現実 「化石賞」を笑っている場合ではない https://t.co/hNml6hUT6p #スマートニュース",
+    "has_extended_profile": false,
+    "id": 1206776528832360448,
+    "id_str": "1206776528832360448",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://www.smartnews.com/\" rel=\"nofollow\"\u003eSmartNews | スマートニュース\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんも知らない…環境利権のウラで日本が食い物にさ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 21 03:59:16 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "世の中には様々な意見があっていい。\nその意見をどう認識して、個として確立するかを、見識に任せたらいい。なんと言われようが、自信を持つべきだろう。しかし、他の意見を聞き入れることが出来るくらいの見識は、持っていて欲しい。\n最後に、ここで議論する積もりは毛頭ない‼️",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/KZ3SS0pnvT",
+                        "display_url": "twilog.org/nakama_chan",
+                        "expanded_url": "http://twilog.org/nakama_chan"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 681,
+        "follow_request_sent": false,
+        "followers_count": 1481,
+        "following": false,
+        "friends_count": 1462,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 157875500,
+        "id_str": "157875500",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 44,
+        "location": "誰かの膝の上 と日向の縁側",
+        "name": "鬚ねこ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/157875500/1384274858",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/961379977018073088/H-L0jvUJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/961379977018073088/H-L0jvUJ_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nakama_chan",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 32041,
+        "time_zone": "",
+        "url": "https://t.co/KZ3SS0pnvT",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

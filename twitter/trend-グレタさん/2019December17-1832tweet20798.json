@@ -1,0 +1,387 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 21:50:21 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ひまわり",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "powerpc970gx",
+                "id": 113354963,
+                "id_str": "113354963"
+            },
+            {
+                "name": "Shimpei",
+                "indices": [
+                    18,
+                    26
+                ],
+                "screen_name": "shmp901",
+                "id": 373683975,
+                "id_str": "373683975"
+            },
+            {
+                "name": "松本哲堂＠風雅松本亭",
+                "indices": [
+                    27,
+                    40
+                ],
+                "screen_name": "MatsumotoThe",
+                "id": 1086904127429341189,
+                "id_str": "1086904127429341189"
+            },
+            {
+                "name": "柏崎@垢凍結",
+                "indices": [
+                    41,
+                    54
+                ],
+                "screen_name": "miraikogoods",
+                "id": 2721196658,
+                "id_str": "2721196658"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @powerpc970gx: @shmp901 @MatsumotoThe @miraikogoods 10年後、グレタが大人になった時、彼女は最低限の義務教育すら受けていない、地球温暖化の防止には何の役にも立たない大人にしかならない。\n環境カルトの広告塔として一生を過ご…",
+    "has_extended_profile": false,
+    "id": 1206693069011091457,
+    "id_str": "1206693069011091457",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 14:36:02 +0000 2019",
+        "display_text_range": [
+            37,
+            187
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        164,
+                        187
+                    ],
+                    "url": "https://t.co/UuTAKuddFv",
+                    "display_url": "togetter.com/li/1409254",
+                    "expanded_url": "https://togetter.com/li/1409254"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "Shimpei",
+                    "indices": [
+                        0,
+                        8
+                    ],
+                    "screen_name": "shmp901",
+                    "id": 373683975,
+                    "id_str": "373683975"
+                },
+                {
+                    "name": "松本哲堂＠風雅松本亭",
+                    "indices": [
+                        9,
+                        22
+                    ],
+                    "screen_name": "MatsumotoThe",
+                    "id": 1086904127429341189,
+                    "id_str": "1086904127429341189"
+                },
+                {
+                    "name": "柏崎@垢凍結",
+                    "indices": [
+                        23,
+                        36
+                    ],
+                    "screen_name": "miraikogoods",
+                    "id": 2721196658,
+                    "id_str": "2721196658"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 6,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@shmp901 @MatsumotoThe @miraikogoods 10年後、グレタが大人になった時、彼女は最低限の義務教育すら受けていない、地球温暖化の防止には何の役にも立たない大人にしかならない。\n環境カルトの広告塔として一生を過ごすのだろう。\n\n五味馨さんの環境と経済活動に関するためになる話 - Togetter https://t.co/UuTAKuddFv",
+        "has_extended_profile": false,
+        "id": 1206583771006287873,
+        "id_str": "1206583771006287873",
+        "in_reply_to_screen_name": "powerpc970gx",
+        "in_reply_to_status_id": 1206582818681151488,
+        "in_reply_to_status_id_str": "1206582818681151488",
+        "in_reply_to_user_id": 113354963,
+        "in_reply_to_user_id_str": "113354963",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+        "scopes": null,
+        "text": "10年後、グレタが大人になった時、彼女は最低限の義務教育すら受けていない、地球温暖化の防止には何の役に\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Feb 11 14:01:11 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "90nmプロセスで製造されたシングルコアプロセッサです。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 359,
+            "follow_request_sent": false,
+            "followers_count": 162,
+            "following": false,
+            "friends_count": 148,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 113354963,
+            "id_str": "113354963",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 3,
+            "location": "",
+            "name": "ひまわり",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1184267926838206464/oFOv7Chw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1184267926838206464/oFOv7Chw_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "powerpc970gx",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 7425,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @powerpc970gx: @shmp901 @MatsumotoThe @miraikogoods 10年後、グレタが大人になった時、彼女は最低限の義務教育す\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 18 08:50:13 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "HIRASAWA Lei,ででん第47番目の使徒。5年間に渡る長期ReLife課程を修了、準学士(工学)、電子レンジ想像工学科のレコードホルダー。代表作は図書ロボうさたん初号機改二(電子制御担当)。よろしくどうぞ。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 83804,
+        "follow_request_sent": false,
+        "followers_count": 318,
+        "following": false,
+        "friends_count": 297,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1277190030,
+        "id_str": "1277190030",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 7,
+        "location": "第一象限(原点付近)のアジト",
+        "name": "平沢戻和🥶",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1277190030/1511878430",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/780015205178748932/7Ois--3d_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/780015205178748932/7Ois--3d_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sysyac",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 146985,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,506 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:43:50 +0000 2019",
+    "display_text_range": [
+        0,
+        61
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Ryutaro0118",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "Ryutaro011811",
+                "id": 1124976649039073280,
+                "id_str": "1124976649039073280"
+            }
+        ],
+        "media": [
+            {
+                "id": 1206532493765033984,
+                "id_str": "1206532493765033984",
+                "media_url": "http://pbs.twimg.com/media/EL526RzUwAACvdY.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL526RzUwAACvdY.jpg",
+                "url": "https://t.co/LsIOEkQpva",
+                "display_url": "pic.twitter.com/LsIOEkQpva",
+                "expanded_url": "https://twitter.com/Ryutaro011811/status/1206532499007930368/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 663,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 376,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1132,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206532499007930368,
+                "source_status_id_str": "1206532499007930368",
+                "type": "photo",
+                "indices": [
+                    38,
+                    61
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206532493765033984,
+                "id_str": "1206532493765033984",
+                "media_url": "http://pbs.twimg.com/media/EL526RzUwAACvdY.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL526RzUwAACvdY.jpg",
+                "url": "https://t.co/LsIOEkQpva",
+                "display_url": "pic.twitter.com/LsIOEkQpva",
+                "expanded_url": "https://twitter.com/Ryutaro011811/status/1206532499007930368/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 663,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 376,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1132,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206532499007930368,
+                "source_status_id_str": "1206532499007930368",
+                "type": "photo",
+                "indices": [
+                    38,
+                    61
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @Ryutaro011811: ドイツのとある地下鉄にきたグレタさん https://t.co/LsIOEkQpva",
+    "has_extended_profile": false,
+    "id": 1206782025765539840,
+    "id_str": "1206782025765539840",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 44,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 11:12:18 +0000 2019",
+        "display_text_range": [
+            0,
+            18
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206532493765033984,
+                    "id_str": "1206532493765033984",
+                    "media_url": "http://pbs.twimg.com/media/EL526RzUwAACvdY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL526RzUwAACvdY.jpg",
+                    "url": "https://t.co/LsIOEkQpva",
+                    "display_url": "pic.twitter.com/LsIOEkQpva",
+                    "expanded_url": "https://twitter.com/Ryutaro011811/status/1206532499007930368/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 663,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 376,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1132,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        19,
+                        42
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206532493765033984,
+                    "id_str": "1206532493765033984",
+                    "media_url": "http://pbs.twimg.com/media/EL526RzUwAACvdY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL526RzUwAACvdY.jpg",
+                    "url": "https://t.co/LsIOEkQpva",
+                    "display_url": "pic.twitter.com/LsIOEkQpva",
+                    "expanded_url": "https://twitter.com/Ryutaro011811/status/1206532499007930368/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 663,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 376,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1132,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        19,
+                        42
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 211,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "ドイツのとある地下鉄にきたグレタさん https://t.co/LsIOEkQpva",
+        "has_extended_profile": false,
+        "id": 1206532499007930368,
+        "id_str": "1206532499007930368",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 44,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "scopes": null,
+        "text": "ドイツのとあ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun May 05 09:58:28 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "ゲーム好き(主にFPS) YouTubeアカウント【Ryutaro0118】PSID【Keitaro075】聞き専です いつもお世話になってる人【@Meta_Chika】 YouTube垢↙︎",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/4NkOeHLrjk",
+                            "display_url": "m.youtube.com/channel/UC2FEQ…",
+                            "expanded_url": "https://m.youtube.com/channel/UC2FEQFCU8kzyMnX2ax_wLsg"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 5455,
+            "follow_request_sent": false,
+            "followers_count": 936,
+            "following": false,
+            "friends_count": 1358,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1124976649039073280,
+            "id_str": "1124976649039073280",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1,
+            "location": "〖INU〗〖ZKV〗〖ZFS〗〖VIRA〗小隊所属",
+            "name": "Ryutaro0118",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124976649039073280/1576455252",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1197162091494309888/HcHeSTpD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197162091494309888/HcHeSTpD_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Ryutaro011811",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 2112,
+            "time_zone": "",
+            "url": "https://t.co/4NkOeHLrjk",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @Ryutaro011811: ドイツのとある地下鉄にきたグ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 04 02:42:21 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "無言フォロー失礼します\nフォロバは18以外します。\n淫夢,共産趣味,SCP要素ありますあります\nwarthunder(クランはArcht)とR6sとBFとhoi4とシンプレWOT(本家もブリッツも)WOWSを主にやっているモノですnoobですのでお手柔らかにお願いします",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 13200,
+        "follow_request_sent": false,
+        "followers_count": 274,
+        "following": false,
+        "friends_count": 470,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 948746390632411136,
+        "id_str": "948746390632411136",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 2,
+        "location": "",
+        "name": "グレダツゥーンコゲリ",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/948746390632411136/1569198214",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1202170867372810240/aI8IT7GB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202170867372810240/aI8IT7GB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mkumamon1102",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 5662,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

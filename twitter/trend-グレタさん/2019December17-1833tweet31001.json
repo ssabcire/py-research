@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:18:10 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "mipoko",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "mipoko611",
+                "id": 269661223,
+                "id_str": "269661223"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @mipoko611: グレタさんは世界で気候変動に対する意識変化を起こしてるが、日本では少女コンプレックスおじさん発見器として機能してしまってる。小泉環境大臣は皮肉で指名される賞を本気で喜んだ。何て惨めな国になってしまったんだろう。22年前は京都議定書をリードした国なの…",
+    "has_extended_profile": false,
+    "id": 1206579272946634752,
+    "id_str": "1206579272946634752",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 3336,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 12 14:18:36 +0000 2019",
+        "display_text_range": [
+            0,
+            126
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 8843,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんは世界で気候変動に対する意識変化を起こしてるが、日本では少女コンプレックスおじさん発見器として機能してしまってる。小泉環境大臣は皮肉で指名される賞を本気で喜んだ。何て惨めな国になってしまったんだろう。22年前は京都議定書をリードした国なのに。",
+        "has_extended_profile": false,
+        "id": 1205129829500063744,
+        "id_str": "1205129829500063744",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 3336,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんは世界で気候変動に対する意識変化を起こしてるが、日本では少女コンプレックス",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Mar 21 06:42:35 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "作業BGは怪談語り系。怪談→オカルト→陰謀論→ネトウヨ地雷があるので困ってます。でも怪談のことはほぼ書きません。色々書き散らします。RTは備忘録にもしてるので超多いです。通知はオフです。通知欄小まめに見てません。ごめんやっしゃー。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                27
+                            ],
+                            "url": "http://seijiinfo.tumblr.com",
+                            "display_url": "",
+                            "expanded_url": ""
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 10401,
+            "follow_request_sent": false,
+            "followers_count": 8538,
+            "following": false,
+            "friends_count": 1879,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 269661223,
+            "id_str": "269661223",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 265,
+            "location": "関西",
+            "name": "mipoko",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/269661223/1469611999",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/452385578613346304/Pwq_LCuP_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/452385578613346304/Pwq_LCuP_normal.jpeg",
+            "profile_link_color": "D43373",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "8A138A",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "mipoko611",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 183008,
+            "time_zone": "",
+            "url": "http://seijiinfo.tumblr.com",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @mipoko611: グレタさんは世界で気候変動に対する意識変化を起こしてるが、日本では少女コンプレック\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 28 05:10:49 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "九州長崎生",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 8592,
+        "follow_request_sent": false,
+        "followers_count": 258,
+        "following": false,
+        "friends_count": 853,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 118284505,
+        "id_str": "118284505",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "湾岸有明",
+        "name": "ponta241402",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1503016527/icon13137328247202_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1503016527/icon13137328247202_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ponta241402",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 8383,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 07:59:34 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "永野勝美",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "naganokatumi",
+                "id": 241467228,
+                "id_str": "241467228"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @naganokatumi: 進次郎は恥をかきにCOP25へ行ったのか。会議では日本の取り組みの甘さに非難が集中してる。不名誉極まる「化石賞」まで貰った。また16歳の少女のグレタさんからも鋭い指摘を受けた。\n\nグレタさんの訴え届かず　日本、削減目標引き上げスルー：朝日新聞…",
+    "has_extended_profile": false,
+    "id": 1206846383971389440,
+    "id_str": "1206846383971389440",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 21:17:05 +0000 2019",
+        "display_text_range": [
+            0,
+            149
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        126,
+                        149
+                    ],
+                    "url": "https://t.co/MuIpQ7d1bD",
+                    "display_url": "asahi.com/articles/ASMDH…",
+                    "expanded_url": "https://www.asahi.com/articles/ASMDH6VQYMDGULBJ00F.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 6,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "進次郎は恥をかきにCOP25へ行ったのか。会議では日本の取り組みの甘さに非難が集中してる。不名誉極まる「化石賞」まで貰った。また16歳の少女のグレタさんからも鋭い指摘を受けた。\n\nグレタさんの訴え届かず　日本、削減目標引き上げスルー：朝日新聞デジタル https://t.co/MuIpQ7d1bD",
+        "has_extended_profile": false,
+        "id": 1206322310640099328,
+        "id_str": "1206322310640099328",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "scopes": null,
+        "text": "進次郎は恥をかきにCOP25へ行ったのか。会議では日本の取り組みの甘さに非難が集中してる。不名誉極まる「化",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jan 22 09:42:44 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "私の信条は「行くに径に由らず」。７５歳まで地銀の頭取、会長、商工会議所会頭などいろんな役職に携わり、その殆んどを整理し、今は自由人です。思い切った発言もしていきたいと思っています。よろしくお願いします。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/8xMvPUc1p2",
+                            "display_url": "nagano-houdan.blogspot.com",
+                            "expanded_url": "http://nagano-houdan.blogspot.com"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 330,
+            "follow_request_sent": false,
+            "followers_count": 3704,
+            "following": false,
+            "friends_count": 3619,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 241467228,
+            "id_str": "241467228",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 61,
+            "location": "岩手県盛岡市",
+            "name": "永野勝美",
+            "notifications": false,
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/241467228/1435049179",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2615207087/ooap74pie062wdtkzlmr_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2615207087/ooap74pie062wdtkzlmr_normal.jpeg",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "naganokatumi",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 17033,
+            "time_zone": "",
+            "url": "http://t.co/8xMvPUc1p2",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @naganokatumi: 進次郎は恥をかきにCOP25へ行ったのか。会議では日本の取り組みの甘さに非難が集中してる",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 13 12:44:15 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2098,
+        "follow_request_sent": false,
+        "followers_count": 17,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1006879923414360064,
+        "id_str": "1006879923414360064",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "",
+        "name": "cassybunny9009",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cassybunny9009",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 25052,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

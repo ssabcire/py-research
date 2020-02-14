@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 22:27:50 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "okamotomasako",
+                "indices": [
+                    3,
+                    11
+                ],
+                "screen_name": "okasam6",
+                "id": 1092496524259389440,
+                "id_str": "1092496524259389440"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @okasam6: グレタさんが”against the wall”発言を謝罪。スウェーデン語では「困難に立ち向かう」という意味なので、そのまま英語にして話したとのこと。そうか、英語は母語じゃないもんね。\n日本で10代の子が自分の考えを英語で、世界に向けて語れるなんて日が…",
+    "has_extended_profile": false,
+    "id": 1206702501308911619,
+    "id_str": "1206702501308911619",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 8,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 09:03:26 +0000 2019",
+        "display_text_range": [
+            0,
+            162
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        139,
+                        162
+                    ],
+                    "url": "https://t.co/8fKJAvzWI3",
+                    "display_url": "apnews.com/bbdc563ad79a33…",
+                    "expanded_url": "https://apnews.com/bbdc563ad79a33a42d478633eeab6ca4?utm_medium=AP\u0026utm_campaign=SocialFlow\u0026utm_source=Twitter"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 6,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんが”against the wall”発言を謝罪。スウェーデン語では「困難に立ち向かう」という意味なので、そのまま英語にして話したとのこと。そうか、英語は母語じゃないもんね。\n日本で10代の子が自分の考えを英語で、世界に向けて語れるなんて日がいつか来るんだろうか。\n https://t.co/8fKJAvzWI3",
+        "has_extended_profile": false,
+        "id": 1206137678460153856,
+        "id_str": "1206137678460153856",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 8,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんが”against the wall”発言を謝罪。スウェーデン語では「困難に立ち向かう」という意味なので、そのまま英語\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Feb 04 18:54:03 +0000 2019",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "主に翻訳。『KGBスパイ式記憶術』(水王舎)発売中。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 3694,
+            "follow_request_sent": false,
+            "followers_count": 84,
+            "following": false,
+            "friends_count": 171,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1092496524259389440,
+            "id_str": "1092496524259389440",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 4,
+            "location": "",
+            "name": "okamotomasako",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1092496524259389440/1549518105",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1093384166698246149/eUP_7csU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093384166698246149/eUP_7csU_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "okasam6",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 505,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @okasam6: グレタさんが”against the wall”発言を謝罪。スウェーデン語では「困難に立ち向かう」という意",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 26 10:06:23 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Jazz, Classic, Victorian (most especially around 1840), antique, Austen\u0026Dickens, conservation of historic objects, photography, Cymraeg, Ballet, Figure skating",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 19645,
+        "follow_request_sent": false,
+        "followers_count": 447,
+        "following": false,
+        "friends_count": 413,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 77442694,
+        "id_str": "77442694",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 20,
+        "location": "UK",
+        "name": "はひう⛸",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/77442694/1354627008",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/990672766566322176/2Lb7fqIp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/990672766566322176/2Lb7fqIp_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hahiu",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 63831,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

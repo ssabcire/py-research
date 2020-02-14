@@ -1,0 +1,356 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:18:56 +0000 2019",
+    "display_text_range": [
+        0,
+        131
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    108,
+                    131
+                ],
+                "url": "https://t.co/4fcvqLXxJ0",
+                "display_url": "sankei.com/column/news/19…",
+                "expanded_url": "https://www.sankei.com/column/news/191201/clm1912010002-n1.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "産経ニュース",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "Sankei_news",
+                "id": 562773398,
+                "id_str": "562773398"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @Sankei_news: 口で賛同するのはたやすいが、現代社会で飛行機を使わずに暮らすのは不可能なはずだ。グレタさんを称賛した新聞には、そうした事実まで踏み込んで報道する責任がある。（元東大教授・酒井信彦）\nhttps://t.co/4fcvqLXxJ0",
+    "has_extended_profile": false,
+    "id": 1206730459456999424,
+    "id_str": "1206730459456999424",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 618,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 01 11:33:40 +0000 2019",
+        "display_text_range": [
+            0,
+            114
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        91,
+                        114
+                    ],
+                    "url": "https://t.co/4fcvqLXxJ0",
+                    "display_url": "sankei.com/column/news/19…",
+                    "expanded_url": "https://www.sankei.com/column/news/191201/clm1912010002-n1.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1662,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "口で賛同するのはたやすいが、現代社会で飛行機を使わずに暮らすのは不可能なはずだ。グレタさんを称賛した新聞には、そうした事実まで踏み込んで報道する責任がある。（元東大教授・酒井信彦）\nhttps://t.co/4fcvqLXxJ0",
+        "has_extended_profile": false,
+        "id": 1201102056523587585,
+        "id_str": "1201102056523587585",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 618,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "口で賛同するのはたやすいが、現代社会で飛行機を使わずに暮らすのは不可能なはず",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Apr 25 10:36:45 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "「産経ニュース」の公式ツイッターです。 \nいま起きているニュースを「早く」「わかりやすく」お伝えします。 \nfacebookはこちら https://t.co/9RMlU2WGrK",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/7Vihg4dWEA",
+                            "display_url": "sankei.com",
+                            "expanded_url": "http://www.sankei.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 9,
+            "follow_request_sent": false,
+            "followers_count": 377952,
+            "following": false,
+            "friends_count": 196,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 562773398,
+            "id_str": "562773398",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 7102,
+            "location": "",
+            "name": "産経ニュース",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/562773398/1553668658",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1099064084727644160/wiHvh8Gh_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099064084727644160/wiHvh8Gh_normal.png",
+            "profile_link_color": "114488",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "Sankei_news",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 187404,
+            "time_zone": "",
+            "url": "http://t.co/7Vihg4dWEA",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @Sankei_news: 口で賛同するのはたやすいが、現代社会で飛行機を使わずに暮らすのは不可能なはず",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 10 00:15:10 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "個人で建築設計事務所をやっています。  年の割には落ち着きのない、酒好きのおっさんです。 \n日本唐揚協会正会員。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/ak6bdW8zzT",
+                        "display_url": "twitter.com/SekkeiyaKisshan",
+                        "expanded_url": "https://twitter.com/SekkeiyaKisshan"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 5,
+        "follow_request_sent": false,
+        "followers_count": 235,
+        "following": false,
+        "friends_count": 879,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 112874138,
+        "id_str": "112874138",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 3,
+        "location": "大阪市",
+        "name": "設計屋きっしゃん",
+        "notifications": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/112874138/1358671661",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3313620399/899b9fd91e4ee52b922978750ea25f12_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3313620399/899b9fd91e4ee52b922978750ea25f12_normal.jpeg",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SekkeiyaKisshan",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 25407,
+        "time_zone": "",
+        "url": "http://t.co/ak6bdW8zzT",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

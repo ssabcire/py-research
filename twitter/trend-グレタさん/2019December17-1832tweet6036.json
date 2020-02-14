@@ -1,0 +1,672 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:55:46 +0000 2019",
+    "display_text_range": [
+        0,
+        69
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ぴぴ",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "pippipipi1",
+                "id": 4643960114,
+                "id_str": "4643960114"
+            }
+        ],
+        "media": [
+            {
+                "id": 1204603126893858816,
+                "id_str": "1204603126893858816",
+                "media_url": "http://pbs.twimg.com/media/ELecKWHVUAAa5J6.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ELecKWHVUAAa5J6.jpg",
+                "url": "https://t.co/GzoGNfnZRL",
+                "display_url": "pic.twitter.com/GzoGNfnZRL",
+                "expanded_url": "https://twitter.com/pippipipi1/status/1204603154324545536/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1029,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 583,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1259,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1204603154324545536,
+                "source_status_id_str": "1204603154324545536",
+                "type": "photo",
+                "indices": [
+                    46,
+                    69
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1204603126893858816,
+                "id_str": "1204603126893858816",
+                "media_url": "http://pbs.twimg.com/media/ELecKWHVUAAa5J6.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ELecKWHVUAAa5J6.jpg",
+                "url": "https://t.co/GzoGNfnZRL",
+                "display_url": "pic.twitter.com/GzoGNfnZRL",
+                "expanded_url": "https://twitter.com/pippipipi1/status/1204603154324545536/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1029,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 583,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1259,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1204603154324545536,
+                "source_status_id_str": "1204603154324545536",
+                "type": "photo",
+                "indices": [
+                    46,
+                    69
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            },
+            {
+                "id": 1204603137123704833,
+                "id_str": "1204603137123704833",
+                "media_url": "http://pbs.twimg.com/media/ELecK8OUYAEeP_U.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ELecK8OUYAEeP_U.jpg",
+                "url": "https://t.co/GzoGNfnZRL",
+                "display_url": "pic.twitter.com/GzoGNfnZRL",
+                "expanded_url": "https://twitter.com/pippipipi1/status/1204603154324545536/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 966,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 548,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1341,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1204603154324545536,
+                "source_status_id_str": "1204603154324545536",
+                "type": "photo",
+                "indices": [
+                    46,
+                    69
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            },
+            {
+                "id": 1204603145407451136,
+                "id_str": "1204603145407451136",
+                "media_url": "http://pbs.twimg.com/media/ELecLbFUUAATkQ2.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ELecLbFUUAATkQ2.jpg",
+                "url": "https://t.co/GzoGNfnZRL",
+                "display_url": "pic.twitter.com/GzoGNfnZRL",
+                "expanded_url": "https://twitter.com/pippipipi1/status/1204603154324545536/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 836,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 474,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1550,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1204603154324545536,
+                "source_status_id_str": "1204603154324545536",
+                "type": "photo",
+                "indices": [
+                    46,
+                    69
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @pippipipi1: グレタさん、芸人としてのポテンシャルはかなり高いんだよな… https://t.co/GzoGNfnZRL",
+    "has_extended_profile": false,
+    "id": 1206785027767296000,
+    "id_str": "1206785027767296000",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 15799,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Dec 11 03:25:47 +0000 2019",
+        "display_text_range": [
+            0,
+            29
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1204603126893858816,
+                    "id_str": "1204603126893858816",
+                    "media_url": "http://pbs.twimg.com/media/ELecKWHVUAAa5J6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELecKWHVUAAa5J6.jpg",
+                    "url": "https://t.co/GzoGNfnZRL",
+                    "display_url": "pic.twitter.com/GzoGNfnZRL",
+                    "expanded_url": "https://twitter.com/pippipipi1/status/1204603154324545536/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1029,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 583,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1259,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        30,
+                        53
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1204603126893858816,
+                    "id_str": "1204603126893858816",
+                    "media_url": "http://pbs.twimg.com/media/ELecKWHVUAAa5J6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELecKWHVUAAa5J6.jpg",
+                    "url": "https://t.co/GzoGNfnZRL",
+                    "display_url": "pic.twitter.com/GzoGNfnZRL",
+                    "expanded_url": "https://twitter.com/pippipipi1/status/1204603154324545536/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1029,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 583,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1259,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        30,
+                        53
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                },
+                {
+                    "id": 1204603137123704833,
+                    "id_str": "1204603137123704833",
+                    "media_url": "http://pbs.twimg.com/media/ELecK8OUYAEeP_U.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELecK8OUYAEeP_U.jpg",
+                    "url": "https://t.co/GzoGNfnZRL",
+                    "display_url": "pic.twitter.com/GzoGNfnZRL",
+                    "expanded_url": "https://twitter.com/pippipipi1/status/1204603154324545536/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 966,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 548,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1341,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        30,
+                        53
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                },
+                {
+                    "id": 1204603145407451136,
+                    "id_str": "1204603145407451136",
+                    "media_url": "http://pbs.twimg.com/media/ELecLbFUUAATkQ2.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELecLbFUUAATkQ2.jpg",
+                    "url": "https://t.co/GzoGNfnZRL",
+                    "display_url": "pic.twitter.com/GzoGNfnZRL",
+                    "expanded_url": "https://twitter.com/pippipipi1/status/1204603154324545536/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 836,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 474,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1550,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        30,
+                        53
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 46040,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん、芸人としてのポテンシャルはかなり高いんだよな… https://t.co/GzoGNfnZRL",
+        "has_extended_profile": false,
+        "id": 1204603154324545536,
+        "id_str": "1204603154324545536",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 15799,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん、芸人と\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Dec 24 15:31:41 +0000 2015",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "ｱﾁｬﾓ…   　　　　　　　 　　    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　 　　　　 　アイコンはロベルト・ギャップマン兄貴作ﾖ！",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 43544,
+            "follow_request_sent": false,
+            "followers_count": 7185,
+            "following": false,
+            "friends_count": 4054,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 4643960114,
+            "id_str": "4643960114",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 101,
+            "location": "",
+            "name": "ぴぴ",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4643960114/1486744091",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1094791125527744513/2FySEJb0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094791125527744513/2FySEJb0_normal.jpg",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "pippipipi1",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 44448,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @pippipipi1: グレタさん、芸人としてのポテンシャ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 24 08:36:30 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "はぐれ日本人/芸術家の端くれ/欧州のポピュリスト支持/猫派/彼女ほしい/35歳",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 26014,
+        "follow_request_sent": false,
+        "followers_count": 126,
+        "following": false,
+        "friends_count": 576,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1099588868766978048,
+        "id_str": "1099588868766978048",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "松浦 直生 MATSUURA NAOKI 🤐",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1099588868766978048/1575181680",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1199723018160758785/QRKUdLU8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199723018160758785/QRKUdLU8_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MATSUURANAOKIMG",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 16249,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

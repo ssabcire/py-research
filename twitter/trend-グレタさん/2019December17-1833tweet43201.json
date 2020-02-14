@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:05:32 +0000 2019",
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/GWOuEB4DpC",
+                "display_url": "plustodon.net/@akyoz/1033171…",
+                "expanded_url": "https://plustodon.net/@akyoz/103317128115243499"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "リテラは児童婚の件を昔も言ってたなと思い出した。\n\nグレタさん攻撃で炎上した登山家・野口健の過去は事実だった！「15歳のシェルパの娘と“児童婚”して離婚」「猫を空気銃で射殺」　 (2019年12月15日) - エキサイトニュース… https://t.co/GWOuEB4DpC",
+    "has_extended_profile": false,
+    "id": 1206530795411779584,
+    "id_str": "1206530795411779584",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": true,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://crossposter.masto.donte.com.br\" rel=\"nofollow\"\u003eMastodon-Twitter Crossposter\u003c/a\u003e",
+    "scopes": null,
+    "text": "リテラは児童婚の件を昔も言ってたなと思い出した。\n\nグレタさん攻撃で炎上した登山家・野口健の過\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 04 05:07:20 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "だからよぉ……止まるんじゃねぇぞ\n元G+er、NW中心に動いてるエンジニアもどき。\n絵とかぱんつとかも呟くけどこの頃は毒が抜けまして普通の人です。\n普通の人です。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/dKEhfWsFl1",
+                        "display_url": "plustodon.net/@akyoz",
+                        "expanded_url": "https://plustodon.net/@akyoz"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2386,
+        "follow_request_sent": false,
+        "followers_count": 1054,
+        "following": false,
+        "friends_count": 1820,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 14076450,
+        "id_str": "14076450",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 84,
+        "location": "味噌の國",
+        "name": "あきょぜ",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14076450/1355748037",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1016827754187112448/5o7HNBt__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1016827754187112448/5o7HNBt__normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "akyoz",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 102675,
+        "time_zone": "",
+        "url": "https://t.co/dKEhfWsFl1",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

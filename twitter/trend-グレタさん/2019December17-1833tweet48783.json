@@ -1,0 +1,407 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 09:38:40 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "孔悠鬼",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "kongyouguai",
+                "id": 716993111616925696,
+                "id_str": "716993111616925696"
+            },
+            {
+                "name": "じ ん",
+                "indices": [
+                    17,
+                    30
+                ],
+                "screen_name": "kelpkelpmobu",
+                "id": 959400317593923584,
+                "id_str": "959400317593923584"
+            },
+            {
+                "name": "titioo",
+                "indices": [
+                    31,
+                    43
+                ],
+                "screen_name": "SmallOne_jp",
+                "id": 530847497,
+                "id_str": "530847497"
+            },
+            {
+                "name": "柏崎@垢凍結",
+                "indices": [
+                    44,
+                    57
+                ],
+                "screen_name": "miraikogoods",
+                "id": 2721196658,
+                "id_str": "2721196658"
+            },
+            {
+                "name": "ジンジャー",
+                "indices": [
+                    58,
+                    69
+                ],
+                "screen_name": "redzingerr",
+                "id": 140803514,
+                "id_str": "140803514"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @kongyouguai: @kelpkelpmobu @SmallOne_jp @miraikogoods @redzingerr グレタさん母「娘は二酸化炭素が肉眼で見える」記事で批判集まる→実際は比喩表現を切り取り報道したデマ(篠原修司) - Y!ニュース http…",
+    "has_extended_profile": false,
+    "id": 1206508934103584768,
+    "id_str": "1206508934103584768",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 9,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 09:37:28 +0000 2019",
+        "display_text_range": [
+            53,
+            141
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        118,
+                        141
+                    ],
+                    "url": "https://t.co/e5VBpEaK3K",
+                    "display_url": "news.yahoo.co.jp/byline/shinoha…",
+                    "expanded_url": "https://news.yahoo.co.jp/byline/shinoharashuji/20190927-00144475/"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "じ ん",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "screen_name": "kelpkelpmobu",
+                    "id": 959400317593923584,
+                    "id_str": "959400317593923584"
+                },
+                {
+                    "name": "titioo",
+                    "indices": [
+                        14,
+                        26
+                    ],
+                    "screen_name": "SmallOne_jp",
+                    "id": 530847497,
+                    "id_str": "530847497"
+                },
+                {
+                    "name": "柏崎@垢凍結",
+                    "indices": [
+                        27,
+                        40
+                    ],
+                    "screen_name": "miraikogoods",
+                    "id": 2721196658,
+                    "id_str": "2721196658"
+                },
+                {
+                    "name": "ジンジャー",
+                    "indices": [
+                        41,
+                        52
+                    ],
+                    "screen_name": "redzingerr",
+                    "id": 140803514,
+                    "id_str": "140803514"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 19,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@kelpkelpmobu @SmallOne_jp @miraikogoods @redzingerr グレタさん母「娘は二酸化炭素が肉眼で見える」記事で批判集まる→実際は比喩表現を切り取り報道したデマ(篠原修司) - Y!ニュース https://t.co/e5VBpEaK3K",
+        "has_extended_profile": false,
+        "id": 1206508630574432256,
+        "id_str": "1206508630574432256",
+        "in_reply_to_screen_name": "kelpkelpmobu",
+        "in_reply_to_status_id": 1206449721885085696,
+        "in_reply_to_status_id_str": "1206449721885085696",
+        "in_reply_to_user_id": 959400317593923584,
+        "in_reply_to_user_id_str": "959400317593923584",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 9,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん母「娘は二酸化炭素が肉眼で見える」記事で批判集ま\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Apr 04 14:17:33 +0000 2016",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "日本社会と日本語が大好きな日本人です😊／既婚男性／システムエンジニア／雑食／海釣り／登山／日曜大工／電子工作／成分献血（高単位血小板）／関ヶ原西軍／蜀／人道主義／徳治主義／共産主義／反核／反セクシズム／反レイシズム／反奴隷労働／反歴史修正主義",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 23784,
+            "follow_request_sent": false,
+            "followers_count": 2192,
+            "following": false,
+            "friends_count": 1285,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 716993111616925696,
+            "id_str": "716993111616925696",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 71,
+            "location": "Empire of the Rising Sun",
+            "name": "孔悠鬼",
+            "notifications": false,
+            "profile_background_color": "709397",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/716993111616925696/1524324918",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/770051347643236352/ypPW0f5s_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/770051347643236352/ypPW0f5s_normal.jpg",
+            "profile_link_color": "FF3300",
+            "profile_sidebar_border_color": "86A4A6",
+            "profile_sidebar_fill_color": "A0C5C7",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "kongyouguai",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 189798,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @kongyouguai: @kelpkelpmobu @SmallOne_jp @miraikogoods @redzingerr グレタさん母「娘は二酸化炭素が肉眼で見える」記\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 07 09:11:34 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "主に政治風刺や日常をつぶやく無党派層(リベラルから保守、主にパトリオティズム的視点から考察する) 面倒なので基本フォロー挨拶返しはしません。アイコンは気まぐれでコロコロ変えます「ツァラトゥストラはかく語りき、「女性においていっさいは謎である」｣(官能先生・吉田基已)",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1698,
+        "follow_request_sent": false,
+        "followers_count": 1709,
+        "following": false,
+        "friends_count": 2574,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 141150956,
+        "id_str": "141150956",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 95,
+        "location": "日本東北地方杜王町",
+        "name": "アーサー・ペンドラゴン",
+        "notifications": false,
+        "profile_background_color": "BAF5E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/141150956/1531396091",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1187209680658976769/W2m_kall_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1187209680658976769/W2m_kall_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "0915EB",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "excaliburchalic",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 243820,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

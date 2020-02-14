@@ -1,0 +1,406 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:00:34 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ポカホンタス女bot Honoka=Honda=和田耕太郎 2/22エデン神田2/24エデン梅田",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "PokaPokabot",
+                "id": 1178674381804847104,
+                "id_str": "1178674381804847104"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @PokaPokabot: 「グレタさんってスウェーデン人なのになんで英語なの？」\nこんなfoolishなこと言うのordinaryな純ジャパだけっしょ\n\nあーあ、北欧みたいに英語教育も含めて教育がしっかりした国で子育てしたいなー https://t.co/slroYJk…",
+    "has_extended_profile": false,
+    "id": 1206771136752582657,
+    "id_str": "1206771136752582657",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 118,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 03:00:21 +0000 2019",
+        "display_text_range": [
+            0,
+            101
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206771080783941634,
+                    "id_str": "1206771080783941634",
+                    "media_url": "http://pbs.twimg.com/media/EL9P53tXUAIoetc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL9P53tXUAIoetc.jpg",
+                    "url": "https://t.co/slroYJkqjM",
+                    "display_url": "pic.twitter.com/slroYJkqjM",
+                    "expanded_url": "https://twitter.com/PokaPokabot/status/1206771082826567681/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 738,
+                            "h": 415,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 738,
+                            "h": 415,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        102,
+                        125
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206771080783941634,
+                    "id_str": "1206771080783941634",
+                    "media_url": "http://pbs.twimg.com/media/EL9P53tXUAIoetc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL9P53tXUAIoetc.jpg",
+                    "url": "https://t.co/slroYJkqjM",
+                    "display_url": "pic.twitter.com/slroYJkqjM",
+                    "expanded_url": "https://twitter.com/PokaPokabot/status/1206771082826567681/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 738,
+                            "h": 415,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 738,
+                            "h": 415,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        102,
+                        125
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 602,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "「グレタさんってスウェーデン人なのになんで英語なの？」\nこんなfoolishなこと言うのordinaryな純ジャパだけっしょ\n\nあーあ、北欧みたいに英語教育も含めて教育がしっかりした国で子育てしたいなー https://t.co/slroYJkqjM",
+        "has_extended_profile": false,
+        "id": 1206771082826567681,
+        "id_str": "1206771082826567681",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 118,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+        "scopes": null,
+        "text": "「グレタさんってスウェーデン人なのになんで英語なの？」\nこんなfoolishな",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Sep 30 14:14:38 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Hi〜。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 5,
+            "follow_request_sent": false,
+            "followers_count": 38291,
+            "following": false,
+            "friends_count": 1,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1178674381804847104,
+            "id_str": "1178674381804847104",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 87,
+            "location": "",
+            "name": "ポカホンタス女bot Honoka=Honda=和田耕太郎 2/22エデン神田2/24エデン梅田",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1178674381804847104/1571060878",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1203507494531694592/5_VhWsQp_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1203507494531694592/5_VhWsQp_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "PokaPokabot",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 158,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @PokaPokabot: 「グレタさんってスウェーデン人なのになんで英語なの？」\nこんなfoolishなこと言うのordinar",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 11 07:19:06 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "みんなはひどい言葉を投げかけちゃだめだよ #りつナー🦔 🦀 #株式会社COAT🐱 #鳩ばす🎩🐦 神アイコン→まるりれ先生(@marulire_) ヘッダー\u0026実質ママ→鳩ルナ(@hatoruna)",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 85967,
+        "follow_request_sent": false,
+        "followers_count": 689,
+        "following": false,
+        "friends_count": 1016,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 131762224,
+        "id_str": "131762224",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 37,
+        "location": "",
+        "name": "マグニチュード超越",
+        "notifications": false,
+        "profile_background_color": "A9A9A9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/131762224/1566552142",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1142423333301977088/DlHPIkQS_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1142423333301977088/DlHPIkQS_normal.png",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mg_komukai",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 430782,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

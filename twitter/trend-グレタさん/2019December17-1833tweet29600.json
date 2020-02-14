@@ -1,0 +1,172 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:43:03 +0000 2019",
+    "display_text_range": [
+        0,
+        82
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    34,
+                    57
+                ],
+                "url": "https://t.co/F1cGh8JCdL",
+                "display_url": "CNN.co.jp",
+                "expanded_url": "http://CNN.co.jp"
+            },
+            {
+                "indices": [
+                    59,
+                    82
+                ],
+                "url": "https://t.co/GY21IzOw3K",
+                "display_url": "headlines.yahoo.co.jp/hl?a=20191216-…",
+                "expanded_url": "https://headlines.yahoo.co.jp/hl?a=20191216-35146920-cnn-int"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容され（https://t.co/F1cGh8JCdL） https://t.co/GY21IzOw3K",
+    "has_extended_profile": false,
+    "id": 1206585536812474368,
+    "id_str": "1206585536812474368",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 10 18:38:56 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "念願叶い9月より異動。\nカエル(ピクルス、コポー)、乃木坂46、欅坂46、けやき坂46、日向坂46\nかわいいは正義、ガンダムも好き。\n1993年、2001年、2015年持病の潰瘍性大腸炎で入院。現在はレミケードで寛解維持。とにかく楽しくやりたい…(o･∞･o)\n※エロ垢、投資垢はブロックです。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 31933,
+        "follow_request_sent": false,
+        "followers_count": 708,
+        "following": false,
+        "friends_count": 783,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 314736798,
+        "id_str": "314736798",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 22,
+        "location": "正気と狂気の間…",
+        "name": "きたさん",
+        "notifications": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/314736798/1571537295",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1205678136504942592/ZBCIfWVM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205678136504942592/ZBCIfWVM_normal.jpg",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kitayama521",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 548920,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,258 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:57:19 +0000 2019",
+    "display_text_range": [
+        0,
+        144
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [
+            {
+                "indices": [
+                    39,
+                    44
+                ],
+                "text": "尾畠春夫"
+            },
+            {
+                "indices": [
+                    56,
+                    66
+                ],
+                "text": "グレタ・トゥンベリ"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": [
+            {
+                "id": 1206815613403848704,
+                "id_str": "1206815613403848704",
+                "media_url": "http://pbs.twimg.com/media/EL94aApU4AAU30R.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL94aApU4AAU30R.jpg",
+                "url": "https://t.co/GE2ZKTkNUV",
+                "display_url": "pic.twitter.com/GE2ZKTkNUV",
+                "expanded_url": "https://twitter.com/berengario_2018/status/1206815616042094592/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 740,
+                        "h": 500,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 459,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 740,
+                        "h": 500,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    145,
+                    168
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206815613403848704,
+                "id_str": "1206815613403848704",
+                "media_url": "http://pbs.twimg.com/media/EL94aApU4AAU30R.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL94aApU4AAU30R.jpg",
+                "url": "https://t.co/GE2ZKTkNUV",
+                "display_url": "pic.twitter.com/GE2ZKTkNUV",
+                "expanded_url": "https://twitter.com/berengario_2018/status/1206815616042094592/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 740,
+                        "h": 500,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 459,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 740,
+                        "h": 500,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    145,
+                    168
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "ぼくが保守のグレタ包囲網から一線を画してるのはわかる人には伝わってると思うが #尾畠春夫 さんが腕にマジックで #グレタ・トゥンベリ と覚書してるのを見て感興が湧いてくる。\n近々､あの子に来日を要請して尾畠さんと対面してほしいな🤗\nもっとも､飛行機ぎらいだから極東に来るの大変そうだけど💦 https://t.co/GE2ZKTkNUV",
+    "has_extended_profile": false,
+    "id": 1206815616042094592,
+    "id_str": "1206815616042094592",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "ぼくが保守のグレタ包囲網から一線を画してるのはわかる人には伝わってると思うが #尾畠春夫 さんが腕に",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 31 06:53:34 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "映画/アニメ/ドラマ何でも見る。書/声優/隠れBLファン。芸能や政治への口出しも多めです💧\n将棋はたぶんアマ三段くらい。血のかよった人と指せてない日々💦内藤國雄先生の詰将棋の味が好き💕\n🎵専門はクラシック音楽。中世ルネサンスから近/現代へと続く壮大な歴史に埋もれながらポップスやアニソンも聴くアウトサイダー。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 21073,
+        "follow_request_sent": false,
+        "followers_count": 177,
+        "following": false,
+        "friends_count": 545,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 3302188886,
+        "id_str": "3302188886",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "Over The Rainbow，本州最西端",
+        "name": "Yoshiaki🛡️",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3302188886/1541227587",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1123245555574951936/Jobq-OJe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123245555574951936/Jobq-OJe_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "berengario_2018",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 15565,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

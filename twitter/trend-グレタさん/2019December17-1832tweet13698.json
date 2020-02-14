@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:33:24 +0000 2019",
+    "display_text_range": [
+        0,
+        117
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    94,
+                    117
+                ],
+                "url": "https://t.co/pY3Krv8wck",
+                "display_url": "afpbb.com/articles/-/325…",
+                "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "16歳の女の子が各国の代表やら鉄道会社からイチャモンをつけられるということの意味。ホンモノの可能性がある。見守る。\n\nグレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い https://t.co/pY3Krv8wck",
+    "has_extended_profile": false,
+    "id": 1206734100905656320,
+    "id_str": "1206734100905656320",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "16歳の女の子が各国の代表やら鉄道会社からイチャモンをつけられるということの意味\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 17 09:38:46 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "TVをはじめとするメディアを垣間見しつつ言いたいことをとはずがたりします。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 6650,
+        "follow_request_sent": false,
+        "followers_count": 39,
+        "following": false,
+        "friends_count": 239,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 318947508,
+        "id_str": "318947508",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "日本",
+        "name": "BANDO-TARO",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/318947508/1576192696",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1206028536898707456/7bTZULxd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1206028536898707456/7bTZULxd_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ttonneH",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 2226,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

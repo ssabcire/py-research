@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:04:55 +0000 2019",
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    115,
+                    138
+                ],
+                "url": "https://t.co/D62oWBWNn4",
+                "display_url": "buzzap.jp/news/20191214-…",
+                "expanded_url": "https://buzzap.jp/news/20191214-noguchi-ken-past/"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Buzzap!社会",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "Buzzap_Social",
+                "id": 1013715355955486720,
+                "id_str": "1013715355955486720"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @Buzzap_Social: 若い頃のヤンチャや冗談で済まされない話ばかりに見えますが…。\n\n児童婚から猫射殺まで、グレタさん揶揄で炎上中の有名登山家、野口健さんの過去の言動をご覧下さい | BUZZAP！（バザップ！） https://t.co/D62oWBWNn4",
+    "has_extended_profile": false,
+    "id": 1206575936952393733,
+    "id_str": "1206575936952393733",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 14,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 07:06:05 +0000 2019",
+        "display_text_range": [
+            0,
+            119
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        96,
+                        119
+                    ],
+                    "url": "https://t.co/D62oWBWNn4",
+                    "display_url": "buzzap.jp/news/20191214-…",
+                    "expanded_url": "https://buzzap.jp/news/20191214-noguchi-ken-past/"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 18,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "若い頃のヤンチャや冗談で済まされない話ばかりに見えますが…。\n\n児童婚から猫射殺まで、グレタさん揶揄で炎上中の有名登山家、野口健さんの過去の言動をご覧下さい | BUZZAP！（バザップ！） https://t.co/D62oWBWNn4",
+        "has_extended_profile": false,
+        "id": 1206108145753288704,
+        "id_str": "1206108145753288704",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 14,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "若い頃のヤンチャや冗談で済まされない話ばかりに見えますが…。\n\n児童婚から猫射殺ま",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jul 02 09:25:49 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "ニュースサイト「Buzzap!(@buzzap_jp)」が運営するヘイト、格差、労働、エネルギー、少子化、環境問題などに積極的に取り組み、読者と共に明るい未来を目指していくアカウントです。 ※記事内容の間違いなどがございましたらサイト下部の問い合わせフォームにお願いします。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/Cpq75PRCBh",
+                            "display_url": "buzzap.jp",
+                            "expanded_url": "https://buzzap.jp/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 67,
+            "follow_request_sent": false,
+            "followers_count": 611,
+            "following": false,
+            "friends_count": 1,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1013715355955486720,
+            "id_str": "1013715355955486720",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 27,
+            "location": "Japan",
+            "name": "Buzzap!社会",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1013716691245625345/4OSJj6Bl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013716691245625345/4OSJj6Bl_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Buzzap_Social",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 713,
+            "time_zone": "",
+            "url": "https://t.co/Cpq75PRCBh",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @Buzzap_Social: 若い頃のヤンチャや冗談で済まされない話ばかりに見えますが…。\n\n児童婚から猫射殺ま",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 20 08:07:13 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 8765,
+        "follow_request_sent": false,
+        "followers_count": 236,
+        "following": false,
+        "friends_count": 205,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1607749892,
+        "id_str": "1607749892",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "",
+        "name": "ringonoheya",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000160223164/2218ff739e5724662ec3a36acd691a8c_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000160223164/2218ff739e5724662ec3a36acd691a8c_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ringonoheya",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 40877,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

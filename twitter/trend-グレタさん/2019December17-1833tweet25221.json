@@ -1,0 +1,357 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 16:55:02 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "KOHNO, SIOUXSIE",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "KohnoSiouxsie",
+                "id": 1145117265819394048,
+                "id_str": "1145117265819394048"
+            },
+            {
+                "name": "AFPBB News",
+                "indices": [
+                    70,
+                    79
+                ],
+                "screen_name": "afpbbcom",
+                "id": 90841111,
+                "id_str": "90841111"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @KohnoSiouxsie: グレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い－AFPBB News via @afpbbcom\nーーグレタ嬢は「ゲッティンゲンから座れた」と言うが、ドイツ国鉄ＤＢは「（スイス寄りの）フランクフルトから」と言うし…。…",
+    "has_extended_profile": false,
+    "id": 1206618749844901893,
+    "id_str": "1206618749844901893",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 15:16:04 +0000 2019",
+        "display_text_range": [
+            0,
+            155
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        132,
+                        155
+                    ],
+                    "url": "https://t.co/3qD277W4nL",
+                    "display_url": "afpbb.com/articles/-/325…",
+                    "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "AFPBB News",
+                    "indices": [
+                        51,
+                        60
+                    ],
+                    "screen_name": "afpbbcom",
+                    "id": 90841111,
+                    "id_str": "90841111"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 3,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い－AFPBB News via @afpbbcom\nーーグレタ嬢は「ゲッティンゲンから座れた」と言うが、ドイツ国鉄ＤＢは「（スイス寄りの）フランクフルトから」と言うし…。１等車は予約制だし…。 https://t.co/3qD277W4nL",
+        "has_extended_profile": false,
+        "id": 1206593844101304320,
+        "id_str": "1206593844101304320",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い－AFPBB News via @afpbbcom\nーーグレタ嬢は「\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jun 29 23:50:06 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "KOHNO SHIN-ICHIです。韓国専門フリーライター（現在休業中）。韓国など海外メディアのニュースを好き勝手に翻訳紹介するセルフキャンペーン実施中☆ 90년대 한국가요 너무 사랑한 일본 사람입니다. 잘 부탁드립니다!!",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 9068,
+            "follow_request_sent": false,
+            "followers_count": 562,
+            "following": false,
+            "friends_count": 678,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1145117265819394048,
+            "id_str": "1145117265819394048",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 26,
+            "location": "Mito, Ibaraki JAPAN",
+            "name": "KOHNO, SIOUXSIE",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1145117265819394048/1561855030",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1145129105999851520/yDkdnrFY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145129105999851520/yDkdnrFY_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "KohnoSiouxsie",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 8619,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @KohnoSiouxsie: グレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い－AFPBB News via @a",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 25 12:10:00 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "楽しい社会工作シリーズ　／　社工　／　日本政府公認 社会正義戦士（遺伝子組み換えでない）",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/BhECmquNT4",
+                        "display_url": "mhlw.go.jp/closeup/",
+                        "expanded_url": "http://www.mhlw.go.jp/closeup/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 27993,
+        "follow_request_sent": false,
+        "followers_count": 187,
+        "following": false,
+        "friends_count": 19,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 136970960,
+        "id_str": "136970960",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 9,
+        "location": "大阪民国ハイネ県上善如水市ラバウル区",
+        "name": "Dormeur",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/136970960/1402228975",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1126155880452378624/ePml9dwd_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1126155880452378624/ePml9dwd_normal.png",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nemuribito",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 229665,
+        "time_zone": "",
+        "url": "https://t.co/BhECmquNT4",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

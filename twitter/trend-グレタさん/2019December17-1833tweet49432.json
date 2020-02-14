@@ -1,0 +1,354 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 09:25:58 +0000 2019",
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    91,
+                    114
+                ],
+                "url": "https://t.co/wELP4dHV78",
+                "display_url": "snjpn.net/archives/171675",
+                "expanded_url": "https://snjpn.net/archives/171675"
+            },
+            {
+                "indices": [
+                    115,
+                    138
+                ],
+                "url": "https://t.co/wELP4dHV78",
+                "display_url": "snjpn.net/archives/171675",
+                "expanded_url": "https://snjpn.net/archives/171675"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Share News Japan",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "sharenewsjapan1",
+                "id": 1161186227279654912,
+                "id_str": "1161186227279654912"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @sharenewsjapan1: 【小競り合い】グレタさん「帰りの列車は超満員」→ ドイツ鉄道「ファーストクラスであなたをおもてなしした有能な弊社スタッフについても触れて」\nhttps://t.co/wELP4dHV78 https://t.co/wELP4dHV78",
+    "has_extended_profile": false,
+    "id": 1206505736483721216,
+    "id_str": "1206505736483721216",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1397,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 07:39:36 +0000 2019",
+        "display_text_range": [
+            0,
+            117
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "url": "https://t.co/wELP4dHV78",
+                    "display_url": "snjpn.net/archives/171675",
+                    "expanded_url": "https://snjpn.net/archives/171675"
+                },
+                {
+                    "indices": [
+                        94,
+                        117
+                    ],
+                    "url": "https://t.co/wELP4dHV78",
+                    "display_url": "snjpn.net/archives/171675",
+                    "expanded_url": "https://snjpn.net/archives/171675"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 3522,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "【小競り合い】グレタさん「帰りの列車は超満員」→ ドイツ鉄道「ファーストクラスであなたをおもてなしした有能な弊社スタッフについても触れて」\nhttps://t.co/wELP4dHV78 https://t.co/wELP4dHV78",
+        "has_extended_profile": false,
+        "id": 1206478972059607040,
+        "id_str": "1206478972059607040",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1397,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://www.facebook.com/twitter\" rel=\"nofollow\"\u003eFacebook\u003c/a\u003e",
+        "scopes": null,
+        "text": "【小競り合い】グレタさん「帰りの列車は超満員」→ ドイツ鉄道「ファーストクラス\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Aug 13 08:02:25 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "政治・経済情報を中心に、話題のニュースとネットの反応をまとめてお届けするウェブメディア。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 21072,
+            "following": false,
+            "friends_count": 2,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1161186227279654912,
+            "id_str": "1161186227279654912",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 230,
+            "location": "日本 東京",
+            "name": "Share News Japan",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1161186227279654912/1565683596",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1161186378962522112/ffOBF1oj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1161186378962522112/ffOBF1oj_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "sharenewsjapan1",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 3700,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @sharenewsjapan1: 【小競り合い】グレタさん「帰りの列車は超満員」→ ドイツ鉄道「ファーストクラス\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 05 09:04:48 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "鉄道、電GO!、✈️JAL359、野球(横浜52細川その他)、ソフトバンク、広島、プリキュア、ポプテピクソみくじ、ラブライブは誕生日が同じヨハネ、競馬🐎、ほうじ茶🍵好きでマイケル・ジョーダンが口癖な元バス運転者🚌です😃",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 24199,
+        "follow_request_sent": false,
+        "followers_count": 1273,
+        "following": false,
+        "friends_count": 1258,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 140361982,
+        "id_str": "140361982",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 48,
+        "location": "横浜相鉄沿線、実家広島可部線沿線",
+        "name": "あざみ🚃💨㊗️相鉄JR直通開業🎊",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/140361982/1576108232",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1206578624372981760/K0ZR4dgW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1206578624372981760/K0ZR4dgW_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "azami_pripara",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 179389,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

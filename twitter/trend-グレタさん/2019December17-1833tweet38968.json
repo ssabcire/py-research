@@ -1,0 +1,367 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:12:11 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    53,
+                    76
+                ],
+                "url": "https://t.co/eySY8A9eKa",
+                "display_url": "afpbb.com/articles/-/325…",
+                "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "せいりゅう",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "aoryu_RYNSK",
+                "id": 338980656,
+                "id_str": "338980656"
+            },
+            {
+                "name": "AFPBB News",
+                "indices": [
+                    77,
+                    86
+                ],
+                "screen_name": "afpbbcom",
+                "id": 90841111,
+                "id_str": "90841111"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @aoryu_RYNSK: グレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い https://t.co/eySY8A9eKa @afpbbcomから\n朝のメトロ東西線、JR横須賀線、JR総武線各停に乗ってもらって日本の労働者がいかに地球温暖化問題に対…",
+    "has_extended_profile": false,
+    "id": 1206547566659330050,
+    "id_str": "1206547566659330050",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 10:20:54 +0000 2019",
+        "display_text_range": [
+            0,
+            145
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        36,
+                        59
+                    ],
+                    "url": "https://t.co/eySY8A9eKa",
+                    "display_url": "afpbb.com/articles/-/325…",
+                    "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "AFPBB News",
+                    "indices": [
+                        60,
+                        69
+                    ],
+                    "screen_name": "afpbbcom",
+                    "id": 90841111,
+                    "id_str": "90841111"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い https://t.co/eySY8A9eKa @afpbbcomから\n朝のメトロ東西線、JR横須賀線、JR総武線各停に乗ってもらって日本の労働者がいかに地球温暖化問題に対して真摯に取り組んでいるか体験してみてほしいな",
+        "has_extended_profile": false,
+        "id": 1206519563061321729,
+        "id_str": "1206519563061321729",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い https://t.co/eySY8A9eKa @afpbbcomから\n朝",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Jul 20 11:57:14 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "ミルキィホームズを推してました。Vtuberの活躍に感動してます。萌えcan,ニジカノ,フェアリードール,属魂少女,駅メモを遊んでます。フォローもリプも大歓迎です。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/FRQX22PAvL",
+                            "display_url": "aoryu-rynsk.hatenablog.com",
+                            "expanded_url": "http://aoryu-rynsk.hatenablog.com"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 18700,
+            "follow_request_sent": false,
+            "followers_count": 222,
+            "following": false,
+            "friends_count": 252,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 338980656,
+            "id_str": "338980656",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 3,
+            "location": "東京都 中央区",
+            "name": "せいりゅう",
+            "notifications": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/338980656/1556032850",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1203231418421145600/WrC6tasV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1203231418421145600/WrC6tasV_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "aoryu_RYNSK",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 41428,
+            "time_zone": "",
+            "url": "https://t.co/FRQX22PAvL",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @aoryu_RYNSK: グレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い https://t.co/eySY8A9e",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 17 13:58:39 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "鉄道、アニメ(今期：俺好き、ぼく勉）懐メロ、政治経済、オーディオなどでひとつでも興味がある方はどんどんフォローしてください！！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 4339,
+        "follow_request_sent": false,
+        "followers_count": 1182,
+        "following": false,
+        "friends_count": 1938,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 239381628,
+        "id_str": "239381628",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 9,
+        "location": "知多半島のどこか",
+        "name": "Rabbit🐇 \u0026 Turtle🐢",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/239381628/1568293627",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1172134542188040195/SphfnOLt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1172134542188040195/SphfnOLt_normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KikenchitaiN",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 44420,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

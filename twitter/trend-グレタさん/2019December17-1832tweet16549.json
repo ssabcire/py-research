@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 23:28:53 +0000 2019",
+    "display_text_range": [
+        0,
+        70
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    47,
+                    70
+                ],
+                "url": "https://t.co/b6uOFJ0VLX",
+                "display_url": "ameblo.jp/hatune-miku-39…",
+                "expanded_url": "http://ameblo.jp/hatune-miku-3939/entry-12560281318.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "アメブロを更新しました。 『グレタさん、列車の床に座った写真を投稿し頑張ってますアピール』 \nhttps://t.co/b6uOFJ0VLX",
+    "has_extended_profile": false,
+    "id": 1206717865367232513,
+    "id_str": "1206717865367232513",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://ameblo.jp/\" rel=\"nofollow\"\u003eAmeba_Blog\u003c/a\u003e",
+    "scopes": null,
+    "text": "アメブロを更新しました。 『グレタさん、列車の床",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 23 13:06:14 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "世直しのこと…知らないんだな。革命はいつもインテリが始めるが、夢みたいな目標をもってやるから、いつも過激なことしかやらない！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 253,
+        "following": false,
+        "friends_count": 224,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2873290572,
+        "id_str": "2873290572",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "",
+        "name": "miku_hatune",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2873290572/1549006187",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1091237287273234433/59w5IMBS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091237287273234433/59w5IMBS_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "miku_negi_3939",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 152101,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

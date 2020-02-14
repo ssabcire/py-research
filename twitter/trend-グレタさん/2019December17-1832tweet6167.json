@@ -1,0 +1,460 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:53:02 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "大沼安史",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "BOOgandhi",
+                "id": 202404754,
+                "id_str": "202404754"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @BOOgandhi: グレタさんの訴えから、欠落している重大な問題があります。電磁波気象操作・人工地震などの下地をつくっているケムトレイルです。ケム爆撒きの日本に来て一度、空を見上げたらいい。グレタさんについては、こんな辛口の批判イラストも。原発推進ジョージ・モンビオ氏…",
+    "has_extended_profile": false,
+    "id": 1206784340421529600,
+    "id_str": "1206784340421529600",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 11,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Oct 19 16:28:10 +0000 2019",
+        "display_text_range": [
+            0,
+            138
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1185593234543656961,
+                    "id_str": "1185593234543656961",
+                    "media_url": "http://pbs.twimg.com/media/EHQSw-kUwAE5PGp.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EHQSw-kUwAE5PGp.jpg",
+                    "url": "https://t.co/G3CvBS063b",
+                    "display_url": "pic.twitter.com/G3CvBS063b",
+                    "expanded_url": "https://twitter.com/BOOgandhi/status/1185593492875010048/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 722,
+                            "h": 445,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 419,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 722,
+                            "h": 445,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        139,
+                        162
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1185593234543656961,
+                    "id_str": "1185593234543656961",
+                    "media_url": "http://pbs.twimg.com/media/EHQSw-kUwAE5PGp.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EHQSw-kUwAE5PGp.jpg",
+                    "url": "https://t.co/G3CvBS063b",
+                    "display_url": "pic.twitter.com/G3CvBS063b",
+                    "expanded_url": "https://twitter.com/BOOgandhi/status/1185593492875010048/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 722,
+                            "h": 445,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 419,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 722,
+                            "h": 445,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        139,
+                        162
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                },
+                {
+                    "id": 1185593272594395136,
+                    "id_str": "1185593272594395136",
+                    "media_url": "http://pbs.twimg.com/media/EHQSzMUU8AAQerP.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EHQSzMUU8AAQerP.jpg",
+                    "url": "https://t.co/G3CvBS063b",
+                    "display_url": "pic.twitter.com/G3CvBS063b",
+                    "expanded_url": "https://twitter.com/BOOgandhi/status/1185593492875010048/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 858,
+                            "h": 623,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 494,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 858,
+                            "h": 623,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        139,
+                        162
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 11,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんの訴えから、欠落している重大な問題があります。電磁波気象操作・人工地震などの下地をつくっているケムトレイルです。ケム爆撒きの日本に来て一度、空を見上げたらいい。グレタさんについては、こんな辛口の批判イラストも。原発推進ジョージ・モンビオ氏とのコンビも、今すぐ解消を！ https://t.co/G3CvBS063b",
+        "has_extended_profile": false,
+        "id": 1185593492875010048,
+        "id_str": "1185593492875010048",
+        "in_reply_to_screen_name": "BOOgandhi",
+        "in_reply_to_status_id": 1184256720463220736,
+        "in_reply_to_status_id_str": "1184256720463220736",
+        "in_reply_to_user_id": 202404754,
+        "in_reply_to_user_id_str": "202404754",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 11,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんの訴えから、欠落している重大な問題があります。電磁波気象操作・人工地震などの下地を",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Oct 13 23:54:11 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "草の根の市民ジャーナリスト　牙は抜かれていません！　権力の横暴にはハッキリ、ＮＯと言います。ＮＯＮＯ爺と呼ばれています。\n仙台生まれの７０年世代。\n老木に最後の花を咲かせます。ことしこそ、脱原発の「あじさい革命」を！\n なお、小生の「ＲＴ」「いいね」は、必ずしも小生が「同意見」であることを意味しません。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/POA80uJEYp",
+                            "display_url": "onuma.cocolog-nifty.com/blog1/",
+                            "expanded_url": "http://onuma.cocolog-nifty.com/blog1/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 8785,
+            "follow_request_sent": false,
+            "followers_count": 4666,
+            "following": false,
+            "friends_count": 244,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 202404754,
+            "id_str": "202404754",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 135,
+            "location": "日本",
+            "name": "大沼安史",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/202404754/1455711185",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1152122491948552193/FCjfIWgj_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1152122491948552193/FCjfIWgj_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "BOOgandhi",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 39622,
+            "time_zone": "",
+            "url": "https://t.co/POA80uJEYp",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @BOOgandhi: グレタさんの訴えから、欠落している重大な問題があります。電磁波気象操作・人工地震な\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 12 19:29:49 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 42,
+        "follow_request_sent": false,
+        "followers_count": 37,
+        "following": false,
+        "friends_count": 141,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1205208103215484928,
+        "id_str": "1205208103215484928",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 2,
+        "location": "",
+        "name": "ぽこ",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1206772969768308738/gbREDY66_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1206772969768308738/gbREDY66_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "idpangy",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 197,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

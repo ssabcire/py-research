@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 23:36:36 +0000 2019",
+    "display_text_range": [
+        0,
+        123
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    100,
+                    123
+                ],
+                "url": "https://t.co/0hC5ZfHfmz",
+                "display_url": "jin115.com/archives/52277…",
+                "expanded_url": "http://jin115.com/archives/52277536.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "マグナム",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "sunshinemagnum_",
+                "id": 2989712942,
+                "id_str": "2989712942"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @sunshinemagnum_: 嘘松やんけ。\n\n【これは酷い】グレタさん「電車に乗ったら超満員・・・だけど私、床に座って頑張っちゃう！」鉄道会社「あのさぁ・・・」 : オレ的ゲーム速報＠刃 https://t.co/0hC5ZfHfmz",
+    "has_extended_profile": false,
+    "id": 1206719805400612864,
+    "id_str": "1206719805400612864",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 23:23:41 +0000 2019",
+        "display_text_range": [
+            0,
+            102
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        79,
+                        102
+                    ],
+                    "url": "https://t.co/0hC5ZfHfmz",
+                    "display_url": "jin115.com/archives/52277…",
+                    "expanded_url": "http://jin115.com/archives/52277536.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 3,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "嘘松やんけ。\n\n【これは酷い】グレタさん「電車に乗ったら超満員・・・だけど私、床に座って頑張っちゃう！」鉄道会社「あのさぁ・・・」 : オレ的ゲーム速報＠刃 https://t.co/0hC5ZfHfmz",
+        "has_extended_profile": false,
+        "id": 1206716557071568896,
+        "id_str": "1206716557071568896",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "嘘松やんけ。\n\n【これは酷い】グレタさん「電車に乗ったら超満員・・・だ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jan 19 10:50:29 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "オーバーウォッチ(ゼニヤッタ、オリーサ、シンメトラ、ブリギッテ、ゴリラ、ソンブラ、ソルジャー、タレ爺etc.)現在シルバーで☆が３つ付きました！ キン肉マンとジョジョは最高の漫画。その他はメシテロ、カラオケ、バイク、漫画、レゲー、時事ネタなどポツポツボヤきます。ツッコミ歓迎( *・ω・)ノｗ",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 5221,
+            "follow_request_sent": false,
+            "followers_count": 88,
+            "following": false,
+            "friends_count": 50,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 2989712942,
+            "id_str": "2989712942",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1,
+            "location": "日本 大阪",
+            "name": "マグナム",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2989712942/1530862980",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/674097551109263361/AU-OIW5a_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/674097551109263361/AU-OIW5a_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "sunshinemagnum_",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 22360,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @sunshinemagnum_: 嘘松やんけ。\n\n【これは酷い】グレタさん「電車に乗ったら超満員・・・だ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 09 02:12:59 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Fans of Tokyo Yakult Swallows and Orix Buffaloes。\nヾ(◔ ɜ ◔)ﾉぷっぷっぷーのぷー ♪\n-\nI have loved you with an everlasting Love.",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 28387,
+        "follow_request_sent": false,
+        "followers_count": 526,
+        "following": false,
+        "friends_count": 208,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 112595204,
+        "id_str": "112595204",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 21,
+        "location": "餃子の街JP",
+        "name": "イキイキ乳酸菌☆スタートゥインクル",
+        "notifications": false,
+        "profile_background_color": "001443",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/112595204/1453757788",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/751385416285057024/NRtAfIEj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/751385416285057024/NRtAfIEj_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "teigekistar",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 42160,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

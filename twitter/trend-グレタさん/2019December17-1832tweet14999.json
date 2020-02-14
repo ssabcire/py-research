@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:03:44 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "しょうへい",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "Showhey7215",
+                "id": 215187103,
+                "id_str": "215187103"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @Showhey7215: こんな猿芝居を信じる馬鹿もいるんやな...\nグレタさんのバックについてる2団体を見れば完全に茶番劇。\n中国系ハリウッドのジェットリーが作った「ONE」という団体と中国政府と関係のある反米団体の「アースジャスティス」 https://t.co/p…",
+    "has_extended_profile": false,
+    "id": 1206726634402746369,
+    "id_str": "1206726634402746369",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 9,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 14 09:38:28 +0000 2019",
+        "display_text_range": [
+            0,
+            131
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        108,
+                        131
+                    ],
+                    "url": "https://t.co/pVeJJoGEaO",
+                    "display_url": "news.yahoo.co.jp/byline/shivare…",
+                    "expanded_url": "https://news.yahoo.co.jp/byline/shivarei/20191213-00154732/"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 10,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "こんな猿芝居を信じる馬鹿もいるんやな...\nグレタさんのバックについてる2団体を見れば完全に茶番劇。\n中国系ハリウッドのジェットリーが作った「ONE」という団体と中国政府と関係のある反米団体の「アースジャスティス」 https://t.co/pVeJJoGEaO",
+        "has_extended_profile": false,
+        "id": 1205784108200153088,
+        "id_str": "1205784108200153088",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 9,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "こんな猿芝居を信じる馬鹿もいるんやな...\nグレタさんのバックについてる2団体を見れば完全に茶",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Nov 13 06:37:17 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "大阪経済大学卒。 総合商社勤務。趣味は競馬、野球、プロレス等々",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 2198,
+            "follow_request_sent": false,
+            "followers_count": 109,
+            "following": false,
+            "friends_count": 452,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 215187103,
+            "id_str": "215187103",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 0,
+            "location": "大阪市",
+            "name": "しょうへい",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/215187103/1454215439",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/821703396755271682/ujAVv8U5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/821703396755271682/ujAVv8U5_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Showhey7215",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 5104,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @Showhey7215: こんな猿芝居を信じる馬鹿もいるんやな...\nグレタさんのバックについてる2団体を見れば完\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 28 01:27:05 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "まるで北朝鮮みたいな三原じゅん子。北朝鮮はなぜいつも韓国をダシにするのか。共和国って呼べよ。朝鮮民主主義人民共和国だろ。まぁ北朝鮮なんですけどね。総連歌劇団の女がシャブ逮捕されてなぜか韓国籍。やっぱり北朝鮮。慰安婦像はまるで万寿台像みたいだよね。北朝鮮の。訪朝した後に突然拉致解決したと吠えだすのㄘんㄘんだよね。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/y9U41Gv4d8",
+                        "display_url": "togetter.com/li/1376726",
+                        "expanded_url": "https://togetter.com/li/1376726"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 161,
+        "follow_request_sent": false,
+        "followers_count": 767,
+        "following": false,
+        "friends_count": 582,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1706054539,
+        "id_str": "1706054539",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 2,
+        "location": "朝鮮労働党万寿台創作社NC保衛部3局広報課",
+        "name": "楼主様🐍🐬＠億里馬",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1706054539/1570057347",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1136138639610486785/9O2dUCdu_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1136138639610486785/9O2dUCdu_normal.png",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bow_hach",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 22972,
+        "time_zone": "",
+        "url": "https://t.co/y9U41Gv4d8",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

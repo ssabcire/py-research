@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:30:03 +0000 2019",
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "I Nソムニア",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "IN04861632",
+                "id": 4700290813,
+                "id_str": "4700290813"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @IN04861632: 🔥ドイツ鉄道としてはファーストクラスでもてなしたのに、不自然に床に座る姿を投稿されたのが納得いかなかったのだろう。\n\n◼️グレタさん「超満員列車でドイツを移動中よ」床に座る姿を投稿→ドイツ鉄道「ファーストクラスに座っていた」→グレタ「ギャー！」…",
+    "has_extended_profile": false,
+    "id": 1206733256541917185,
+    "id_str": "1206733256541917185",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 00:28:27 +0000 2019",
+        "display_text_range": [
+            0,
+            158
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        135,
+                        158
+                    ],
+                    "url": "https://t.co/DA3tr29oO0",
+                    "display_url": "ksl-live.com/blog28363",
+                    "expanded_url": "https://ksl-live.com/blog28363"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "🔥ドイツ鉄道としてはファーストクラスでもてなしたのに、不自然に床に座る姿を投稿されたのが納得いかなかったのだろう。\n\n◼️グレタさん「超満員列車でドイツを移動中よ」床に座る姿を投稿→ドイツ鉄道「ファーストクラスに座っていた」→グレタ「ギャー！」 | KSL-Live! https://t.co/DA3tr29oO0",
+        "has_extended_profile": false,
+        "id": 1206732855453216768,
+        "id_str": "1206732855453216768",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "🔥ドイツ鉄道としてはファーストクラスでもてなしたのに、不自然に床に座る姿を投稿されたのが納得いかなかった\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Jan 03 03:33:23 +0000 2016",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "正しい物の見方判断が出来る程度の見識を持ち偏向報道に騙されない。\n#日の丸 #君が代 #靖国神社 原発は最低限に留めよう。脱朝日新聞。保守の力を結集しよう。2月22日竹島の日 #謝謝台湾  只の愛国者。＃報道しない自由 #拉致被害者全員奪還 信長様は今の日本をどう考えるだろうか #令和🇯🇵",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 26543,
+            "follow_request_sent": false,
+            "followers_count": 2695,
+            "following": false,
+            "friends_count": 4028,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 4700290813,
+            "id_str": "4700290813",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 19,
+            "location": "",
+            "name": "I Nソムニア",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4700290813/1487726270",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/726549376894529536/Q7wiQZeZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/726549376894529536/Q7wiQZeZ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "IN04861632",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 24626,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @IN04861632: 🔥ドイツ鉄道としてはファーストクラスでもてなしたのに、不自然に床に座る姿を投稿さ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 12 12:30:25 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "孤高の50超オヤジ。ボチボチと携帯、通信、経済、時事、B級グルメ？やTV。たまに音楽ネタとか、思う事や愚痴をつぶやいてみる…。好物→食べ物全般^^;、無線、通信、携帯電話、博打株取引^^;、ももクロ、たまにアダルトＶ(笑)。ドコモ養分歴26年超。フォロー、アンフォローは自己責任でご自由にドゾー...(^^ゞ",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 3629,
+        "follow_request_sent": false,
+        "followers_count": 337,
+        "following": false,
+        "friends_count": 893,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 132152408,
+        "id_str": "132152408",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 15,
+        "location": "大阪府高槻市、JR西日本と阪急の京都線沿線界隈",
+        "name": "ＺＥＮ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/132152408/1447255543",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1076775469/origin12714387259760_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1076775469/origin12714387259760_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "zen_tw1",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 98912,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:31:27 +0000 2019",
+    "display_text_range": [
+        0,
+        66
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんって言葉だけで注目集めて賞もらって、庶民の中に入ったら満員電車がなんたらうんたらと文句しか言わない。さっさと学校行きなよ。",
+    "has_extended_profile": false,
+    "id": 1206537319244648448,
+    "id_str": "1206537319244648448",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんって言葉だけで注目集めて賞もらって",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 30 10:54:53 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "デレステ生放送教室実況者 福原綾香さんが大好きです。 突然のフォロー失礼します！ 道産子 #デレステ Pです。呼び方はわかればOK✨ TriadPrimus担当 専門学生 以下略 生放送教室への近道↓",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/tC6SAZar5g",
+                        "display_url": "youtube.com/channel/UC9TXl…",
+                        "expanded_url": "https://www.youtube.com/channel/UC9TXlxpyfha_gm2yKms8QrQ"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 9352,
+        "follow_request_sent": false,
+        "followers_count": 159,
+        "following": false,
+        "friends_count": 208,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1178624197041348610,
+        "id_str": "1178624197041348610",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 3,
+        "location": "北海道",
+        "name": "ピポサルP 登録者数が減るデレステ実況者",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1178624197041348610/1576230954",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1205267564865048576/vaev5aLv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205267564865048576/vaev5aLv_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "game901a",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 3224,
+        "time_zone": "",
+        "url": "https://t.co/tC6SAZar5g",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

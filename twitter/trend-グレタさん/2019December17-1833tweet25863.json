@@ -1,0 +1,526 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 16:26:25 +0000 2019",
+    "display_text_range": [
+        0,
+        116
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    69,
+                    92
+                ],
+                "url": "https://t.co/8bRqBuLHUw",
+                "display_url": "moeruasia.net/archives/49657…",
+                "expanded_url": "https://www.moeruasia.net/archives/49657090.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "もえるあじあ ･∀･",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "moeruasia01",
+                "id": 1178994547302354945,
+                "id_str": "1178994547302354945"
+            }
+        ],
+        "media": [
+            {
+                "id": 1205971488064647169,
+                "id_str": "1205971488064647169",
+                "media_url": "http://pbs.twimg.com/media/ELx4rctXsAEvxOq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ELx4rctXsAEvxOq.jpg",
+                "url": "https://t.co/L0HFzwa4QG",
+                "display_url": "pic.twitter.com/L0HFzwa4QG",
+                "expanded_url": "https://twitter.com/moeruasia01/status/1205971489603895304/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 591,
+                        "h": 477,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 591,
+                        "h": 477,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 591,
+                        "h": 477,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1205971489603895304,
+                "source_status_id_str": "1205971489603895304",
+                "type": "photo",
+                "indices": [
+                    93,
+                    116
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1205971488064647169,
+                "id_str": "1205971488064647169",
+                "media_url": "http://pbs.twimg.com/media/ELx4rctXsAEvxOq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ELx4rctXsAEvxOq.jpg",
+                "url": "https://t.co/L0HFzwa4QG",
+                "display_url": "pic.twitter.com/L0HFzwa4QG",
+                "expanded_url": "https://twitter.com/moeruasia01/status/1205971489603895304/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 591,
+                        "h": 477,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 591,
+                        "h": 477,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 591,
+                        "h": 477,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1205971489603895304,
+                "source_status_id_str": "1205971489603895304",
+                "type": "photo",
+                "indices": [
+                    93,
+                    116
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @moeruasia01: 【炎上中ｗ】タイム誌「グレタさんが今年の顔！」←投票では「グレタはＮＯ」が８３％だったｗｗｗｗｗｗｗｗ https://t.co/8bRqBuLHUw https://t.co/L0HFzwa4QG",
+    "has_extended_profile": false,
+    "id": 1206611549978165248,
+    "id_str": "1206611549978165248",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 719,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 14 22:03:03 +0000 2019",
+        "display_text_range": [
+            0,
+            75
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        52,
+                        75
+                    ],
+                    "url": "https://t.co/8bRqBuLHUw",
+                    "display_url": "moeruasia.net/archives/49657…",
+                    "expanded_url": "https://www.moeruasia.net/archives/49657090.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1205971488064647169,
+                    "id_str": "1205971488064647169",
+                    "media_url": "http://pbs.twimg.com/media/ELx4rctXsAEvxOq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELx4rctXsAEvxOq.jpg",
+                    "url": "https://t.co/L0HFzwa4QG",
+                    "display_url": "pic.twitter.com/L0HFzwa4QG",
+                    "expanded_url": "https://twitter.com/moeruasia01/status/1205971489603895304/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 591,
+                            "h": 477,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 591,
+                            "h": 477,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 591,
+                            "h": 477,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        76,
+                        99
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1205971488064647169,
+                    "id_str": "1205971488064647169",
+                    "media_url": "http://pbs.twimg.com/media/ELx4rctXsAEvxOq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELx4rctXsAEvxOq.jpg",
+                    "url": "https://t.co/L0HFzwa4QG",
+                    "display_url": "pic.twitter.com/L0HFzwa4QG",
+                    "expanded_url": "https://twitter.com/moeruasia01/status/1205971489603895304/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 591,
+                            "h": 477,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 591,
+                            "h": 477,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 591,
+                            "h": 477,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        76,
+                        99
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1426,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "【炎上中ｗ】タイム誌「グレタさんが今年の顔！」←投票では「グレタはＮＯ」が８３％だったｗｗｗｗｗｗｗｗ https://t.co/8bRqBuLHUw https://t.co/L0HFzwa4QG",
+        "has_extended_profile": false,
+        "id": 1205971489603895304,
+        "id_str": "1205971489603895304",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 719,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://publicize.wp.com/\" rel=\"nofollow\"\u003eWordPress.com\u003c/a\u003e",
+        "scopes": null,
+        "text": "【炎上中ｗ】タイム誌「グレタさんが今年の顔！」←投",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Oct 01 11:26:26 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "アジア関係のニュース、ネタなどを日本人目線で軽く\u0026見やすく\u0026分かりやすくをモットーにまとめます\nよろしくお願いいたします(*'ω'*)",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/z4ZFmzX28M",
+                            "display_url": "moeruasia.net",
+                            "expanded_url": "https://www.moeruasia.net/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 235,
+            "follow_request_sent": false,
+            "followers_count": 2711,
+            "following": false,
+            "friends_count": 2183,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1178994547302354945,
+            "id_str": "1178994547302354945",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 31,
+            "location": "",
+            "name": "もえるあじあ ･∀･",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1178995670763466752/NcN5pxLH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1178995670763466752/NcN5pxLH_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "moeruasia01",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 614,
+            "time_zone": "",
+            "url": "https://t.co/z4ZFmzX28M",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @moeruasia01: 【炎上中ｗ】タイム誌「グレタさんが今年の顔！」←投票では「グレタは",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 17 13:14:26 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 70559,
+        "follow_request_sent": false,
+        "followers_count": 524,
+        "following": false,
+        "friends_count": 766,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 942382481537343489,
+        "id_str": "942382481537343489",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "",
+        "name": "Fritz",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/942382481537343489/1542989496",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1130305052252311552/zybAEWZV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1130305052252311552/zybAEWZV_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Fritz27355721",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 43867,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 21:48:37 +0000 2019",
+    "display_text_range": [
+        0,
+        67
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    44,
+                    67
+                ],
+                "url": "https://t.co/HD44g6Oy4J",
+                "display_url": "ameblo.jp/jat-ameba/entr…",
+                "expanded_url": "http://ameblo.jp/jat-ameba/entry-12560265228.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "アメブロを更新しました。 『ドイツ鉄道、グレタさんと応酬 「列車大混雑」の投稿受け』 \nhttps://t.co/HD44g6Oy4J",
+    "has_extended_profile": false,
+    "id": 1206692631612252160,
+    "id_str": "1206692631612252160",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://ameblo.jp/\" rel=\"nofollow\"\u003eAmeba_Blog\u003c/a\u003e",
+    "scopes": null,
+    "text": "アメブロを更新しました。 『ドイツ鉄道、グレタ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 09 12:48:38 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ボイスブックダウンロード販売サービス「コエボン」では毎月50タイトル以上の新作ボイスブックをリリース！！本は聴いて楽しむ📙新しいライフスタイルをお楽しみ下さい。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OPy78Ip0W9",
+                        "display_url": "koebon.shop",
+                        "expanded_url": "http://koebon.shop"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1864,
+        "follow_request_sent": false,
+        "followers_count": 859,
+        "following": false,
+        "friends_count": 274,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 575324159,
+        "id_str": "575324159",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 6,
+        "location": "東京 港区 赤坂",
+        "name": "コエボンー声の本屋さん",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/575324159/1546952022",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1082621370494738432/HWFDZ2NN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082621370494738432/HWFDZ2NN_normal.jpg",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "koebonvoicebook",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 37606,
+        "time_zone": "",
+        "url": "https://t.co/OPy78Ip0W9",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

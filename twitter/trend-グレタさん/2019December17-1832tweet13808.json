@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:30:22 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "筋トレ100%マン",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "BCAA20000",
+                "id": 854960237916299264,
+                "id_str": "854960237916299264"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @BCAA20000: ドイツ鉄道、グレタさんにツイッターで応酬\n\n座席は確保できたのに、わざわざ地べたに座った写真を載せる。\nその方が苦労してるように見えるから。移動にわざわざ船に乗るのもその方が環境に良さそうに見えるから。\n全てが◯◯ぽく見えるようにしてるだけ。だから…",
+    "has_extended_profile": false,
+    "id": 1206733338045636608,
+    "id_str": "1206733338045636608",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 143,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 12:46:47 +0000 2019",
+        "display_text_range": [
+            0,
+            154
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        131,
+                        154
+                    ],
+                    "url": "https://t.co/IMn9yxcRYJ",
+                    "display_url": "headlines.yahoo.co.jp/hl?a=20191216-…",
+                    "expanded_url": "https://headlines.yahoo.co.jp/hl?a=20191216-35146920-cnn-int"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 280,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "ドイツ鉄道、グレタさんにツイッターで応酬\n\n座席は確保できたのに、わざわざ地べたに座った写真を載せる。\nその方が苦労してるように見えるから。移動にわざわざ船に乗るのもその方が環境に良さそうに見えるから。\n全てが◯◯ぽく見えるようにしてるだけ。だから伝わらない。 https://t.co/IMn9yxcRYJ",
+        "has_extended_profile": false,
+        "id": 1206556274969628672,
+        "id_str": "1206556274969628672",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 143,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "ドイツ鉄道、グレタさんにツイッターで応酬\n\n座席は確保できたのに、わざわざ地べたに座った写真を載せる。\nそ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Apr 20 07:29:39 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "BP115、DL200、SQ150。  脳筋が色々考えます。楽器もやります。筋トレの質問には聞かれてないことまで丁寧に答えます☆",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 62520,
+            "follow_request_sent": false,
+            "followers_count": 2692,
+            "following": false,
+            "friends_count": 759,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 854960237916299264,
+            "id_str": "854960237916299264",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 28,
+            "location": "",
+            "name": "筋トレ100%マン",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/854960237916299264/1558656343",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1204552992013160449/RFfoA0nI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1204552992013160449/RFfoA0nI_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "BCAA20000",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 36468,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @BCAA20000: ドイツ鉄道、グレタさんにツイッターで応酬\n\n座席は確保できたのに、わざわざ地べたに座っ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 20 01:55:41 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Robotics Engineer, Ph.D. SUGAR SWEET ROBOTICS, Ogata lab. Waseda Univ. HRI, Robot System Engineering, MBSE. Inline skates, Leather crafts, fountain pens.",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/m9uTWV5Ylo",
+                        "display_url": "sugarsweetrobotics.com/?lang=en",
+                        "expanded_url": "http://sugarsweetrobotics.com/?lang=en"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 4369,
+        "follow_request_sent": false,
+        "followers_count": 1911,
+        "following": false,
+        "friends_count": 1004,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 33377701,
+        "id_str": "33377701",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 121,
+        "location": "Tokyo, Japan",
+        "name": "Yuki Suga",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33377701/1531665801",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1496341875/33377701_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1496341875/33377701_normal.jpg",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ysuga",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 45583,
+        "time_zone": "",
+        "url": "https://t.co/m9uTWV5Ylo",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

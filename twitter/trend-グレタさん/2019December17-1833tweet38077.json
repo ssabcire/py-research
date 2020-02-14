@@ -1,0 +1,426 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:26:35 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "時事ドットコム（時事通信ニュース）",
+                "indices": [
+                    3,
+                    11
+                ],
+                "screen_name": "jijicom",
+                "id": 143383314,
+                "id_str": "143383314"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @jijicom: 【トランプ氏、グレタさんに「落ち着け！」】\n\nトランプ米大統領は、米誌タイムが「今年の人」にスウェーデンの環境活動家グレタ・トゥンベリさんを選んだことに、ツイッターで「とてもばかばかしい」と反発し、「落ち着けグレタ。落ち着け！」とやゆしました。\n\n詳し…",
+    "has_extended_profile": false,
+    "id": 1206551191145996288,
+    "id_str": "1206551191145996288",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 208,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 12 21:31:16 +0000 2019",
+        "display_text_range": [
+            0,
+            152
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        129,
+                        152
+                    ],
+                    "url": "https://t.co/PYbQlb7BSw",
+                    "display_url": "jiji.com/jc/article?k=2…",
+                    "expanded_url": "https://www.jiji.com/jc/article?k=2019121300182\u0026g=int"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1205238715091693578,
+                    "id_str": "1205238715091693578",
+                    "media_url": "http://pbs.twimg.com/media/ELneOcqWsAo3_ja.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELneOcqWsAo3_ja.jpg",
+                    "url": "https://t.co/17n4N07tVQ",
+                    "display_url": "pic.twitter.com/17n4N07tVQ",
+                    "expanded_url": "https://twitter.com/jijicom/status/1205238716597448720/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 900,
+                            "h": 500,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 378,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 900,
+                            "h": 500,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        153,
+                        176
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1205238715091693578,
+                    "id_str": "1205238715091693578",
+                    "media_url": "http://pbs.twimg.com/media/ELneOcqWsAo3_ja.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELneOcqWsAo3_ja.jpg",
+                    "url": "https://t.co/17n4N07tVQ",
+                    "display_url": "pic.twitter.com/17n4N07tVQ",
+                    "expanded_url": "https://twitter.com/jijicom/status/1205238716597448720/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 900,
+                            "h": 500,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 378,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 900,
+                            "h": 500,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        153,
+                        176
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 423,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "【トランプ氏、グレタさんに「落ち着け！」】\n\nトランプ米大統領は、米誌タイムが「今年の人」にスウェーデンの環境活動家グレタ・トゥンベリさんを選んだことに、ツイッターで「とてもばかばかしい」と反発し、「落ち着けグレタ。落ち着け！」とやゆしました。\n\n詳しくは⇒https://t.co/PYbQlb7BSw https://t.co/17n4N07tVQ",
+        "has_extended_profile": false,
+        "id": 1205238716597448720,
+        "id_str": "1205238716597448720",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 208,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+        "scopes": null,
+        "text": "【トランプ氏、グレタさんに「落ち着け！」】\n\nトランプ米大統領は、米誌タイムが「今年の人」にスウェーデン",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu May 13 09:38:27 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "時事通信社が運営する公式ニュースアカウントです。厳選したニュースや旬の話題を迅速に配信。社会的な関心が高い事象については特集も掲載します。 配信ニュースは新事実を加えて差し替えています。最新記事は時事ドットコムでご確認をお願いします。#ニュース Facebookページはこちら→https://t.co/L0o8vrFzuc",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/YSsDGyp3cm",
+                            "display_url": "jiji.com",
+                            "expanded_url": "https://www.jiji.com"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 3,
+            "follow_request_sent": false,
+            "followers_count": 149402,
+            "following": false,
+            "friends_count": 7,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 143383314,
+            "id_str": "143383314",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 4065,
+            "location": "東京都中央区",
+            "name": "時事ドットコム（時事通信ニュース）",
+            "notifications": false,
+            "profile_background_color": "0046A6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/143383314/1420772837",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875512025144623104/U8kKMaNM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875512025144623104/U8kKMaNM_normal.jpg",
+            "profile_link_color": "0099FF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "jijicom",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 517014,
+            "time_zone": "",
+            "url": "https://t.co/YSsDGyp3cm",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @jijicom: 【トランプ氏、グレタさんに「落ち着け！」】\n\nトランプ米大統領は、米誌タイムが「今年の\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 23 13:29:07 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "好きなもの等については固定ツイートを見てください ！特に、てち(欅坂46) と つーじー(BOYS AND MEN) が好きです！ すごくRT多いです、すみません…。低浮上ぎみですが、よろしく お願いします！(無言フォロー大歓迎です)",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 51362,
+        "follow_request_sent": false,
+        "followers_count": 859,
+        "following": false,
+        "friends_count": 2149,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 900349180073304065,
+        "id_str": "900349180073304065",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "リストお断り",
+        "name": "WISH",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/900349180073304065/1575294228",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/982961279336726529/7fNEqEGM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/982961279336726529/7fNEqEGM_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "EygbCwwPdZLL7vB",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 31142,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

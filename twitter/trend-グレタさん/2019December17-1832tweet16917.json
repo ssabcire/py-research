@@ -1,0 +1,362 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 23:21:16 +0000 2019",
+    "display_text_range": [
+        0,
+        13
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    14,
+                    37
+                ],
+                "url": "https://t.co/47fGam8ToY",
+                "display_url": "twitter.com/smith796000/st…",
+                "expanded_url": "https://twitter.com/smith796000/status/1206715400693510144"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんてち感あるな爆笑 https://t.co/47fGam8ToY",
+    "has_extended_profile": false,
+    "id": 1206715948167618560,
+    "id_str": "1206715948167618560",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206715400693510144,
+    "quoted_status_id_str": "1206715400693510144",
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 23:19:05 +0000 2019",
+        "display_text_range": [
+            0,
+            165
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        110,
+                        133
+                    ],
+                    "url": "https://t.co/ZdGmCYIOVU",
+                    "display_url": "ironna.jp/article/13974",
+                    "expanded_url": "https://ironna.jp/article/13974"
+                },
+                {
+                    "indices": [
+                        142,
+                        165
+                    ],
+                    "url": "https://t.co/ZdGmCYIOVU",
+                    "display_url": "ironna.jp/article/13974",
+                    "expanded_url": "https://ironna.jp/article/13974"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        134,
+                        141
+                    ],
+                    "text": "iRONNA"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 486,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "経済に関する論説かと思ったら「アイドルで読み解くグレタ現象」になってたｗ\nでも、とても参考になりますよ。必読です。\n\nグレタ現象を盛り上げる「最強のアンチ」はもう一人いる (田中秀臣) - オピニオンサイトiRONNA https://t.co/ZdGmCYIOVU #iRONNA https://t.co/ZdGmCYIOVU",
+        "has_extended_profile": false,
+        "id": 1206715400693510144,
+        "id_str": "1206715400693510144",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 121,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://www.facebook.com/twitter\" rel=\"nofollow\"\u003eFacebook\u003c/a\u003e",
+        "scopes": null,
+        "text": "経済に関する論説かと思ったら「アイドルで読み解くグレタ現象」になってたｗ\nでも、とても参考になりますよ。必読で\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jul 18 06:12:05 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "経済評論家　著作：『経済で読み解く日本史 （飛鳥新社）』  『もう銀行はいらない（ダイヤモンド社）』　出演：おはよう寺ちゃん（文化放送）、ニュース女子（ＤＨＣテレビ）、ジョネトラダムスWEEKEND（チャンネルくらら）など\n\nＡ新聞縮小団\nhttps://t.co/NrElRY0nJ7",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/Xi695gECNT",
+                            "display_url": "facebook.com/jonen.tsukasa",
+                            "expanded_url": "https://www.facebook.com/jonen.tsukasa"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 144,
+            "follow_request_sent": false,
+            "followers_count": 206698,
+            "following": false,
+            "friends_count": 414,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 57870730,
+            "id_str": "57870730",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 3879,
+            "location": "東京都",
+            "name": "上念　司",
+            "notifications": false,
+            "profile_background_color": "709397",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/57870730/1557620212",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1127366715132633088/ecCE0pbi_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1127366715132633088/ecCE0pbi_normal.png",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "86A4A6",
+            "profile_sidebar_fill_color": "D4D396",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "smith796000",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 68044,
+            "time_zone": "",
+            "url": "https://t.co/Xi695gECNT",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 23 04:19:42 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "00line、パルスプラザ、インテックス勢 、オムニセクシャル、独断と偏見、",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/iOVUfHOMzz",
+                        "display_url": "youtu.be/LlYHJ-O4rEI",
+                        "expanded_url": "https://youtu.be/LlYHJ-O4rEI"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 37673,
+        "follow_request_sent": false,
+        "followers_count": 2625,
+        "following": false,
+        "friends_count": 2322,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 712494002193477632,
+        "id_str": "712494002193477632",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 5,
+        "location": "御食国",
+        "name": "君の名はみつき〇",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/712494002193477632/1481650788",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1195400167354056704/wxPkoW2r_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195400167354056704/wxPkoW2r_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nnmnnsmm0746",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 10110,
+        "time_zone": "",
+        "url": "https://t.co/iOVUfHOMzz",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 21:54:35 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "フェミイさん",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "femifriends",
+                "id": 1117938961320534016,
+                "id_str": "1117938961320534016"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @femifriends: 飛行機に乗るのは「恥」？ グレタさんの国、スウェーデンでは「飛び恥」「鉄道自慢」の新語が流行中\n\nそもそもこれも意味わからんのだ\n「鉄道自慢」はおおいにやってほしいのだ\nなんで飛行機を貶める必要があるのだ？\n\nあとフェリーはどうなのか答えてなの…",
+    "has_extended_profile": false,
+    "id": 1206694132455890944,
+    "id_str": "1206694132455890944",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 5,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 14:26:06 +0000 2019",
+        "display_text_range": [
+            0,
+            153
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        130,
+                        153
+                    ],
+                    "url": "https://t.co/YrpTkAf8Bi",
+                    "display_url": "huffingtonpost.jp/entry/flygfrit…",
+                    "expanded_url": "https://www.huffingtonpost.jp/entry/flygfritt2020_jp_5dcb9ebae4b0d43931cc2649?ncid=other_twitter_cooo9wqtham\u0026utm_campaign=share_twitter"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 24,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "飛行機に乗るのは「恥」？ グレタさんの国、スウェーデンでは「飛び恥」「鉄道自慢」の新語が流行中\n\nそもそもこれも意味わからんのだ\n「鉄道自慢」はおおいにやってほしいのだ\nなんで飛行機を貶める必要があるのだ？\n\nあとフェリーはどうなのか答えてなのだ(第三勢力) https://t.co/YrpTkAf8Bi",
+        "has_extended_profile": false,
+        "id": 1206581270018314240,
+        "id_str": "1206581270018314240",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 5,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "飛行機に乗るのは「恥」？ グレタさんの国、スウェーデンでは「飛び恥」「鉄道自慢」の新語が流行中\n\nそもそも",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Apr 15 23:53:13 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "女の子をのけものにするのはおかしいと思うァライさんなのだ\nほんとはみんな信じたいのだ\n\nアイコンは学ライさん(@turaigakusei_ar)からなのだ！",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/rf76vNMJNP",
+                            "display_url": "marshmallow-qa.com/femifriends?ut…",
+                            "expanded_url": "https://marshmallow-qa.com/femifriends?utm_medium=twitter\u0026utm_source=promotion"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 30863,
+            "follow_request_sent": false,
+            "followers_count": 2301,
+            "following": false,
+            "friends_count": 1809,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1117938961320534016,
+            "id_str": "1117938961320534016",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 90,
+            "location": "ついふぇみちほー",
+            "name": "フェミイさん",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1117938961320534016/1557624412",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1160791491947614208/OROOa_Gx_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1160791491947614208/OROOa_Gx_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "femifriends",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 21024,
+            "time_zone": "",
+            "url": "https://t.co/rf76vNMJNP",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @femifriends: 飛行機に乗るのは「恥」？ グレタさんの国、スウェーデンでは「飛び恥」「鉄道自慢」の\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 29 03:06:33 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "烏紳士フギンと月夜野銀彗が居ます。獣化に惹かれます。Partial fursuit and photography. Unauthorized reproduction prohibited. powered by Zagone Studio and Magpiebones. Icon by @amanjiru",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ffFLm1T0xd",
+                        "display_url": "twpf.jp/Pasta_Aquila",
+                        "expanded_url": "http://twpf.jp/Pasta_Aquila"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 293788,
+        "follow_request_sent": false,
+        "followers_count": 2290,
+        "following": false,
+        "friends_count": 2105,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 138276439,
+        "id_str": "138276439",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 44,
+        "location": "理性と本能の狭間/北の大地",
+        "name": "𓅊和製パスタ",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/138276439/1526698666",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1166354563361906690/9jiRrLFT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1166354563361906690/9jiRrLFT_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Pasta_Aquila",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 158035,
+        "time_zone": "",
+        "url": "https://t.co/ffFLm1T0xd",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

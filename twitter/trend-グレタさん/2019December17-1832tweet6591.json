@@ -1,0 +1,347 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:44:26 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "sutyarakakun",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "DQXsenkuu",
+                "id": 2234062416,
+                "id_str": "2234062416"
+            },
+            {
+                "name": "Share News Japan",
+                "indices": [
+                    15,
+                    31
+                ],
+                "screen_name": "sharenewsjapan1",
+                "id": 1161186227279654912,
+                "id_str": "1161186227279654912"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @DQXsenkuu: @sharenewsjapan1 本人というより、茂木さんを含めたいい大人が子供を利用してる事に反発してるんですがね。\n子供が言うことが全て正しいとする手法は最も汚いやり方の一つだと思います。\nそしてグレタさんにはキチンと学校で勉強して正しい知識を…",
+    "has_extended_profile": false,
+    "id": 1206782175825125376,
+    "id_str": "1206782175825125376",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 06:28:01 +0000 2019",
+        "display_text_range": [
+            17,
+            140
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "Share News Japan",
+                    "indices": [
+                        0,
+                        16
+                    ],
+                    "screen_name": "sharenewsjapan1",
+                    "id": 1161186227279654912,
+                    "id_str": "1161186227279654912"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@sharenewsjapan1 本人というより、茂木さんを含めたいい大人が子供を利用してる事に反発してるんですがね。\n子供が言うことが全て正しいとする手法は最も汚いやり方の一つだと思います。\nそしてグレタさんにはキチンと学校で勉強して正しい知識を身につけて欲しいと思ってますよ。",
+        "has_extended_profile": false,
+        "id": 1206460954218598400,
+        "id_str": "1206460954218598400",
+        "in_reply_to_screen_name": "sharenewsjapan1",
+        "in_reply_to_status_id": 1206350090518122496,
+        "in_reply_to_status_id_str": "1206350090518122496",
+        "in_reply_to_user_id": 1161186227279654912,
+        "in_reply_to_user_id_str": "1161186227279654912",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "本人というより、茂木さんを含めたいい大人が子供を利用してる事に反発してるんですがね",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Dec 07 06:21:13 +0000 2013",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "ウヨだとかパヨだとか自分はどちらでもないつもりですが\nパヨにネトウヨと言われますwww\n別に気にしないので何とでも呼んでください。\nただ自分が生まれた国がより良く、\nもっと愛せる、愛される国にしたいだけ。\n無言フォローOKですので遠慮なくどうぞ。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 30765,
+            "follow_request_sent": false,
+            "followers_count": 478,
+            "following": false,
+            "friends_count": 561,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2234062416,
+            "id_str": "2234062416",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1,
+            "location": "",
+            "name": "sutyarakakun",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/413252601493204992/9w2aMcYR_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/413252601493204992/9w2aMcYR_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "DQXsenkuu",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 13654,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @DQXsenkuu: @sharenewsjapan1 本人というより、茂木さんを含めたいい大人が子供を利用してる事に反発してる",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 12 13:28:11 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ウルトラの瀧先生リスペクトです。ハゲはチャームポイント。世界の中心はこの世の果てでございます。アイコンは今は亡きジクサーちゃんです。ベンリィ と共にスイボッツ。新車はPCX150ABSです。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/c8Q5UkbV0I",
+                        "display_url": "yagan.co.jp",
+                        "expanded_url": "http://www.yagan.co.jp"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 83660,
+        "follow_request_sent": false,
+        "followers_count": 706,
+        "following": false,
+        "friends_count": 1241,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 73642124,
+        "id_str": "73642124",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 17,
+        "location": "この世の果て",
+        "name": "リミット乃瀧",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/73642124/1559130863",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1133703124030349312/Qbt2_wJ5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1133703124030349312/Qbt2_wJ5_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "limit0246",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 110506,
+        "time_zone": "",
+        "url": "https://t.co/c8Q5UkbV0I",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

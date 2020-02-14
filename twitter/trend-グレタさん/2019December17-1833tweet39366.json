@@ -1,0 +1,527 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:06:48 +0000 2019",
+    "display_text_range": [
+        0,
+        113
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    90,
+                    113
+                ],
+                "url": "https://t.co/31Gdri66e2",
+                "display_url": "twitter.com/officematsunag…",
+                "expanded_url": "https://twitter.com/officematsunaga/status/1205665936738418688"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "オフイス・マツナガ",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "officematsunaga",
+                "id": 172680398,
+                "id_str": "172680398"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @officematsunaga: 「断トツの一位が中国なんですが？グレタさん」\n（カッパ記者\n\n「なんで、日本が化石賞なんだ？ｗ\n　おまえの団体、恣意的だろう」\n（僕記者 https://t.co/31Gdri66e2",
+    "has_extended_profile": false,
+    "id": 1206546215275352064,
+    "id_str": "1206546215275352064",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1205665936738418688,
+    "quoted_status_id_str": "1205665936738418688",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 313,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 14 01:52:04 +0000 2019",
+        "display_text_range": [
+            0,
+            68
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        69,
+                        92
+                    ],
+                    "url": "https://t.co/31Gdri66e2",
+                    "display_url": "twitter.com/officematsunag…",
+                    "expanded_url": "https://twitter.com/officematsunaga/status/1205665936738418688"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 508,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "「断トツの一位が中国なんですが？グレタさん」\n（カッパ記者\n\n「なんで、日本が化石賞なんだ？ｗ\n　おまえの団体、恣意的だろう」\n（僕記者 https://t.co/31Gdri66e2",
+        "has_extended_profile": false,
+        "id": 1205666734121684993,
+        "id_str": "1205666734121684993",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1205665936738418688,
+        "quoted_status_id_str": "1205665936738418688",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sat Dec 14 01:48:54 +0000 2019",
+            "display_text_range": [
+                0,
+                173
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "indices": [
+                            150,
+                            173
+                        ],
+                        "url": "https://t.co/FTAsLammOT",
+                        "display_url": "mofa.go.jp/mofaj/kids/ran…",
+                        "expanded_url": "https://www.mofa.go.jp/mofaj/kids/ranking/co2.html"
+                    },
+                    {
+                        "indices": [
+                            174,
+                            197
+                        ],
+                        "url": "https://t.co/byvO328cG5",
+                        "display_url": "twitter.com/officematsunag…",
+                        "expanded_url": "https://twitter.com/officematsunaga/status/1205665633926430720"
+                    }
+                ],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 199,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "二酸化炭素（CO2）排出量の多い国\n\n1中華人民共和国（中国）9040.7\n2アメリカ合衆国（米国）4997.5\n3インド2066.0\n4ロシア1469.0\n5日本1141.6\n6ドイツ729.8\n7大韓民国（韓国）586.0\n8イラン552.4\n9カナダ549.2\n10サウジアラビア531.5\n\nhttps://t.co/FTAsLammOT https://t.co/byvO328cG5",
+            "has_extended_profile": false,
+            "id": 1205665936738418688,
+            "id_str": "1205665936738418688",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 1205665633926430720,
+            "quoted_status_id_str": "1205665633926430720",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 217,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+            "scopes": null,
+            "text": "二酸化炭素（CO2）排出量の多い国\n\n1中華人民共和国（中国）9040.7\n2アメリカ合衆国（米国）4997.5\n3インド2066.0\n4ロシア1469.0\n5日本114",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Jul 30 09:18:47 +0000 2010",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "【オフイス・マツナガ新体制】 ・代表権付きの最高名誉顧問→ボス→現在、相場師見習い 　・代表権付きの代表→北岡 　・代表権なく執行権付きの副代表→オイラ記者 　・メンバー→その他記者、カッパ記者、僕記者 ・顧問→辻野記者 　・新規メンバー→匿名希望の政治記者・飛ばされ休養中・監査→トレーダーの玄さん（闘病中）",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/WrTcPzqRIo",
+                                "display_url": "twitter.com/officematsunag…",
+                                "expanded_url": "https://twitter.com/officematsunaga/status/997425100805750784"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 149,
+                "follow_request_sent": false,
+                "followers_count": 24539,
+                "following": false,
+                "friends_count": 1756,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 172680398,
+                "id_str": "172680398",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 1422,
+                "location": "officematsunaga",
+                "name": "オフイス・マツナガ",
+                "notifications": false,
+                "profile_background_color": "CCCCCC",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/172680398/1392182763",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1095243981/______officematsunaga_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095243981/______officematsunaga_normal.jpg",
+                "profile_link_color": "999999",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "333333",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "officematsunaga",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 106233,
+                "time_zone": "",
+                "url": "https://t.co/WrTcPzqRIo",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 313,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "「断トツの一位が中国なんですが？グレタさん」\n\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Jul 30 09:18:47 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "【オフイス・マツナガ新体制】 ・代表権付きの最高名誉顧問→ボス→現在、相場師見習い 　・代表権付きの代表→北岡 　・代表権なく執行権付きの副代表→オイラ記者 　・メンバー→その他記者、カッパ記者、僕記者 ・顧問→辻野記者 　・新規メンバー→匿名希望の政治記者・飛ばされ休養中・監査→トレーダーの玄さん（闘病中）",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/WrTcPzqRIo",
+                            "display_url": "twitter.com/officematsunag…",
+                            "expanded_url": "https://twitter.com/officematsunaga/status/997425100805750784"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 149,
+            "follow_request_sent": false,
+            "followers_count": 24539,
+            "following": false,
+            "friends_count": 1756,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 172680398,
+            "id_str": "172680398",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1422,
+            "location": "officematsunaga",
+            "name": "オフイス・マツナガ",
+            "notifications": false,
+            "profile_background_color": "CCCCCC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/172680398/1392182763",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1095243981/______officematsunaga_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095243981/______officematsunaga_normal.jpg",
+            "profile_link_color": "999999",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "333333",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "officematsunaga",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 106233,
+            "time_zone": "",
+            "url": "https://t.co/WrTcPzqRIo",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @officematsunaga: 「断トツの一位が中国なんですが？グレタさん」\n（カッパ記者\n\n「\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 12 12:14:49 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "リツイート専門のアカウントです。ツイートの苦情はツイートもとに言ってね。リツイートしたツイートに賛同しているわけじゃないよ。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 82,
+        "following": false,
+        "friends_count": 166,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 633695953,
+        "id_str": "633695953",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "",
+        "name": "防波亭再呟",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2390908423/ma3x5z8eael6pn0w3wz9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2390908423/ma3x5z8eael6pn0w3wz9_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bouhateiretweet",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 41433,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

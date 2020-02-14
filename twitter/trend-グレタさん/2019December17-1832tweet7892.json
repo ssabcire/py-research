@@ -1,0 +1,356 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:20:18 +0000 2019",
+    "display_text_range": [
+        0,
+        104
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    81,
+                    104
+                ],
+                "url": "https://t.co/UpEb8n877I",
+                "display_url": "news.yahoo.co.jp/byline/ohtayas…",
+                "expanded_url": "https://news.yahoo.co.jp/byline/ohtayasuhiro/20191213-00154816/"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "崎村夏彦 (=nat)",
+                "indices": [
+                    3,
+                    8
+                ],
+                "screen_name": "_nat",
+                "id": 12738902,
+                "id_str": "12738902"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @_nat: グレタさんの援助筋などにも触れている。興味深い。＞石炭火力は温暖化対策の本命　国際社会にセクシーだと説明せよ！(太田康広) - Y!ニュース https://t.co/UpEb8n877I",
+    "has_extended_profile": false,
+    "id": 1206776101822820353,
+    "id_str": "1206776101822820353",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 01:58:38 +0000 2019",
+        "display_text_range": [
+            0,
+            94
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        71,
+                        94
+                    ],
+                    "url": "https://t.co/UpEb8n877I",
+                    "display_url": "news.yahoo.co.jp/byline/ohtayas…",
+                    "expanded_url": "https://news.yahoo.co.jp/byline/ohtayasuhiro/20191213-00154816/"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 4,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんの援助筋などにも触れている。興味深い。＞石炭火力は温暖化対策の本命　国際社会にセクシーだと説明せよ！(太田康広) - Y!ニュース https://t.co/UpEb8n877I",
+        "has_extended_profile": false,
+        "id": 1206755550710468608,
+        "id_str": "1206755550710468608",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんの援助筋などにも触れている。興味深い。＞石炭火力は温\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Jan 27 03:52:14 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "米国OpenID Foundation理事長、SC27/WG5国内委員会主査。日本人として二人目のPrivacy by Design Ambassador. Identity,Privacy,ワインと音楽好き。呟是個人想法。我與我的雇主或附屬公司無關。 For English see @_nat_en",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/2epZsOwqyH",
+                            "display_url": "sakimura.org",
+                            "expanded_url": "http://www.sakimura.org/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 3585,
+            "follow_request_sent": false,
+            "followers_count": 5897,
+            "following": false,
+            "friends_count": 1030,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 12738902,
+            "id_str": "12738902",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 556,
+            "location": "大手町周辺",
+            "name": "崎村夏彦 (=nat)",
+            "notifications": false,
+            "profile_background_color": "1E1E1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/12738902/1364620187",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1091560574373134341/x4RtiEdM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091560574373134341/x4RtiEdM_normal.jpg",
+            "profile_link_color": "0000FF",
+            "profile_sidebar_border_color": "87BC44",
+            "profile_sidebar_fill_color": "E0FF92",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "_nat",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 83723,
+            "time_zone": "",
+            "url": "http://t.co/2epZsOwqyH",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @_nat: グレタさんの援助筋などにも触れている。興味深い。＞石炭火力は温\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 27 05:01:12 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Po of Open棟梁 Pj / WAIS-Ⅲ:128, RS:320cm / PMP / net, netstandard, netcoreapp ≫ OAuth2 / OIDC, FAPI, FIDO2, SAML2 ≫ IdMaaS, mBaaS ≫ IoT Edge.",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/dsjgRDaST2",
+                        "display_url": "github.com/daisukenishino2",
+                        "expanded_url": "https://github.com/daisukenishino2"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 5629,
+        "follow_request_sent": false,
+        "followers_count": 410,
+        "following": false,
+        "friends_count": 398,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2465564594,
+        "id_str": "2465564594",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 22,
+        "location": "広島 廿日市市",
+        "name": "🇯🇵🗻⛩️Hi🏐🚲🎾承🐍🐂",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2465564594/1526461387",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150612215889686528/njdhcavM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150612215889686528/njdhcavM_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "openhishopjpo",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 31770,
+        "time_zone": "",
+        "url": "https://t.co/dsjgRDaST2",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

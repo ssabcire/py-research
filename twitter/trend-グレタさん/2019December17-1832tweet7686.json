@@ -1,0 +1,337 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:23:48 +0000 2019",
+    "display_text_range": [
+        0,
+        57
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "imo-imo",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "versicolor10",
+                "id": 1145091231409532928,
+                "id_str": "1145091231409532928"
+            },
+            {
+                "name": "cnn_co_jp",
+                "indices": [
+                    18,
+                    28
+                ],
+                "screen_name": "cnn_co_jp",
+                "id": 158996759,
+                "id_str": "158996759"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @versicolor10: @cnn_co_jp グレタさんに対して一々ムキになって反論するのも何だかな…",
+    "has_extended_profile": false,
+    "id": 1206776984610594817,
+    "id_str": "1206776984610594817",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 08:41:34 +0000 2019",
+        "display_text_range": [
+            11,
+            39
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "cnn_co_jp",
+                    "indices": [
+                        0,
+                        10
+                    ],
+                    "screen_name": "cnn_co_jp",
+                    "id": 158996759,
+                    "id_str": "158996759"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 14,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@cnn_co_jp グレタさんに対して一々ムキになって反論するのも何だかな…",
+        "has_extended_profile": false,
+        "id": 1206494566271995904,
+        "id_str": "1206494566271995904",
+        "in_reply_to_screen_name": "cnn_co_jp",
+        "in_reply_to_status_id": 1206473907848515584,
+        "in_reply_to_status_id_str": "1206473907848515584",
+        "in_reply_to_user_id": 158996759,
+        "in_reply_to_user_id_str": "158996759",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんに対して\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jun 29 22:06:39 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "思うところあり、考えることあり。とりとめもないアカウント。／リツイートは注目の意味であり、賛同ではありません。いいねも必ずしも賛同ではありません。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 10413,
+            "follow_request_sent": false,
+            "followers_count": 98,
+            "following": false,
+            "friends_count": 37,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1145091231409532928,
+            "id_str": "1145091231409532928",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 4,
+            "location": "日本 東京",
+            "name": "imo-imo",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1145091231409532928/1561850969",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1157684874737643520/gdx_r-3I_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157684874737643520/gdx_r-3I_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "versicolor10",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 9728,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @versicolor10: @cnn_co_jp グレタさんに対して\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 27 08:48:59 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "PSO2の7鯖から9鯖に引っ越しました。 ニュース等、自分の思ったことを適当につぶやいています。\n（PSO2等ゲームや趣味関連は主にサブアクの方で呟いてます。）",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 115542,
+        "follow_request_sent": false,
+        "followers_count": 627,
+        "following": false,
+        "friends_count": 347,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 447810337,
+        "id_str": "447810337",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 5,
+        "location": "日本",
+        "name": "えみ太(元武装紳士)",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/447810337/1461283806",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/685313431008772096/rAHthkLh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/685313431008772096/rAHthkLh_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gatyabonn",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 102732,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,153 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:55:06 +0000 2019",
+    "display_text_range": [
+        0,
+        34
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "そうか、グレタさんを誹謗中傷する大人ってけっきょく彼女が怖いのね・・",
+    "has_extended_profile": false,
+    "id": 1206769759800315906,
+    "id_str": "1206769759800315906",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "そうか、グレタさんを誹\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 24 00:30:41 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "たしかに生息中",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 8868,
+        "follow_request_sent": false,
+        "followers_count": 92,
+        "following": false,
+        "friends_count": 523,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 59638362,
+        "id_str": "59638362",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 5,
+        "location": "Japan",
+        "name": "andthe🍍",
+        "notifications": false,
+        "profile_background_color": "DFDEA4",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/59638362/1439443367",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1050630284637401088/VRoGOEHu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050630284637401088/VRoGOEHu_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "FBCE5F",
+        "profile_sidebar_fill_color": "FA9F3B",
+        "profile_text_color": "A5CD93",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kinuyokoko",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 11686,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

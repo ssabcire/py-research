@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 07:33:11 +0000 2019",
+    "display_text_range": [
+        0,
+        122
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    99,
+                    122
+                ],
+                "url": "https://t.co/EmDItAEDUB",
+                "display_url": "welt.de/politik/deutsc…",
+                "expanded_url": "https://www.welt.de/politik/deutschland/article204344158/Greta-Thunberg-im-Zug-Bahnmitarbeiter-haben-sich-ein-Bein-ausgerissen.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Kisa",
+                "indices": [
+                    3,
+                    10
+                ],
+                "screen_name": "jpsgde",
+                "id": 3229989595,
+                "id_str": "3229989595"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @jpsgde: グレタさん「満員電車で床に座らされた」…実は一等車、乗務員が『お気に入りのお客さま』へのチョコレートを持って参上、コーヒーはいかがですかと御機嫌を伺っていたと乗客が証言。\n\nhttps://t.co/EmDItAEDUB",
+    "has_extended_profile": false,
+    "id": 1206839742442004481,
+    "id_str": "1206839742442004481",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 63,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 09:42:15 +0000 2019",
+        "display_text_range": [
+            0,
+            110
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        87,
+                        110
+                    ],
+                    "url": "https://t.co/EmDItAEDUB",
+                    "display_url": "welt.de/politik/deutsc…",
+                    "expanded_url": "https://www.welt.de/politik/deutschland/article204344158/Greta-Thunberg-im-Zug-Bahnmitarbeiter-haben-sich-ein-Bein-ausgerissen.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 73,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん「満員電車で床に座らされた」…実は一等車、乗務員が『お気に入りのお客さま』へのチョコレートを持って参上、コーヒーはいかがですかと御機嫌を伺っていたと乗客が証言。\n\nhttps://t.co/EmDItAEDUB",
+        "has_extended_profile": false,
+        "id": 1206509837967908864,
+        "id_str": "1206509837967908864",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 63,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん「満員電車で床に座らされた」…実は一等車、乗務員が『お気に入り\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri May 29 16:49:10 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "呟きは全て個人の見解であり、RTは賛同とは限りません。All tweets \u0026 RT are on my personal view or opinion.",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 37250,
+            "follow_request_sent": false,
+            "followers_count": 55,
+            "following": false,
+            "friends_count": 105,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 3229989595,
+            "id_str": "3229989595",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 2,
+            "location": "Hessen, Deutschland",
+            "name": "Kisa",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3229989595/1566570515",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/975557435611123712/fRSNF9D7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/975557435611123712/fRSNF9D7_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "jpsgde",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 8417,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @jpsgde: グレタさん「満員電車で床に座らされた」…実は一等車、乗務員が『お気に入り\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 23 06:35:08 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "プロレス語り、音楽創作、政治問題がライフワーク。つぶやきは政治に関することが多い。保守王道＆闘魂、新日＆親日派。反日軍団には延髄斬りからの卍固め！あと言いたいことは……………特にありません❗トランキーロだぜ、焦んなよ‼ 愛してま～す🎵",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/VNEpHYfPU1",
+                        "display_url": "m.facebook.com/story.php?stor…",
+                        "expanded_url": "https://m.facebook.com/story.php?story_fbid=2165910190310291\u0026id=100006739927815"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 24620,
+        "follow_request_sent": false,
+        "followers_count": 1042,
+        "following": false,
+        "friends_count": 1521,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 270766573,
+        "id_str": "270766573",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 6,
+        "location": "東京ドーム 両国国技館 後楽園ホール 日本武道館 靖国神社 ",
+        "name": "宮崎浩司",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/270766573/1567098520",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/453564679793553408/YEmkrUcx_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/453564679793553408/YEmkrUcx_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GREATESTCOZY925",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 20382,
+        "time_zone": "",
+        "url": "https://t.co/VNEpHYfPU1",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

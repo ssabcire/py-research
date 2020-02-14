@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:39:28 +0000 2019",
+    "display_text_range": [
+        0,
+        78
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "統合の失調（てすら）",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "Kohler_volnt",
+                "id": 767009875419209728,
+                "id_str": "767009875419209728"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @Kohler_volnt: グレタさん、CO2削減ではなく、CO2排出そのものを辞めなければならないとイギリスで述べている。CO2排出0ってつまり…",
+    "has_extended_profile": false,
+    "id": 1206554433431097345,
+    "id_str": "1206554433431097345",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 6313,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 13 10:11:35 +0000 2019",
+        "display_text_range": [
+            0,
+            60
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 14763,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん、CO2削減ではなく、CO2排出そのものを辞めなければならないとイギリスで述べている。CO2排出0ってつまり…",
+        "has_extended_profile": false,
+        "id": 1205430056622809088,
+        "id_str": "1205430056622809088",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 6313,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん、CO2削減ではなく、CO2排出そのも",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Aug 20 14:46:19 +0000 2016",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "ツイ廃なのでフォロー注意してね。ネカマ。\nほしいものリスト：https://t.co/pqaXR5GgY9　サブ垢 @Kohler_volnt2",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/s0B10hhAIC",
+                            "display_url": "peoplesstorm.hatenablog.com",
+                            "expanded_url": "http://peoplesstorm.hatenablog.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 9877,
+            "follow_request_sent": false,
+            "followers_count": 2208,
+            "following": false,
+            "friends_count": 131,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 767009875419209728,
+            "id_str": "767009875419209728",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 43,
+            "location": "",
+            "name": "統合の失調（てすら）",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/767009875419209728/1485780325",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1093304201742962688/uWzuM_SO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093304201742962688/uWzuM_SO_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Kohler_volnt",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 32032,
+            "time_zone": "",
+            "url": "https://t.co/s0B10hhAIC",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @Kohler_volnt: グレタさん、CO2削減ではなく、CO2排出そのも",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 01 06:37:44 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "蛇口からは綺麗な水！店には美味しい食べ物！道路はほぼ全部整備されてる！大量の娯楽がある！ふかふかなおふとぅん！豊富なゲーム！日本に生まれてよかったー！悪いとこだけ見てちゃダメだ！良いところも見なきゃ！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 35348,
+        "follow_request_sent": false,
+        "followers_count": 266,
+        "following": false,
+        "friends_count": 395,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 914378782688997377,
+        "id_str": "914378782688997377",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "地球最高",
+        "name": "【大天使】M4大好きもちくそ",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/914378782688997377/1551779881",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1102870871046144000/bGNNOmQx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102870871046144000/bGNNOmQx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sky_blue_2469",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 14778,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

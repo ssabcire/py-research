@@ -1,0 +1,499 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 13:00:44 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "悪葉",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "Aoba_calm",
+                "id": 749895418318770176,
+                "id_str": "749895418318770176"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @Aoba_calm: 実際、日本の部門別のCO2排出量の全体の4分の1が農業となっています。\nCO2排出抑制を進めたらそのコストが食費に跳ね返ってくるんですが、グレタさんにとりあえず賛同している人たちは、自分たちの生活への影響がないまま環境対策が可能とでも思っているんで…",
+    "has_extended_profile": false,
+    "id": 1206559785010597888,
+    "id_str": "1206559785010597888",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206549110318231552,
+    "quoted_status_id_str": "1206549110318231552",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 12:40:28 +0000 2019",
+        "display_text_range": [
+            0,
+            130
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        131,
+                        154
+                    ],
+                    "url": "https://t.co/W40auplji2",
+                    "display_url": "twitter.com/koukix/status/…",
+                    "expanded_url": "https://twitter.com/koukix/status/1206549110318231552"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 4,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "実際、日本の部門別のCO2排出量の全体の4分の1が農業となっています。\nCO2排出抑制を進めたらそのコストが食費に跳ね返ってくるんですが、グレタさんにとりあえず賛同している人たちは、自分たちの生活への影響がないまま環境対策が可能とでも思っているんでしょうか？w https://t.co/W40auplji2",
+        "has_extended_profile": false,
+        "id": 1206554687941443585,
+        "id_str": "1206554687941443585",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206549110318231552,
+        "quoted_status_id_str": "1206549110318231552",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Mon Dec 16 12:18:19 +0000 2019",
+            "display_text_range": [
+                15,
+                116
+            ],
+            "entities": {
+                "urls": [],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [
+                    {
+                        "name": "空幻@くうげん",
+                        "indices": [
+                            0,
+                            14
+                        ],
+                        "screen_name": "qoogen20abzan",
+                        "id": 213258954,
+                        "id_str": "213258954"
+                    }
+                ],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 1,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "@qoogen20abzan ありますね。リベラリストや反原発が安易に「江戸時代に戻ればいい」みたいなことを口走りますけど、江戸時代の自給自足で日本が食っていけるのは3000万人です。残り9000万人に餓死しろと言ってるわけですね。",
+            "has_extended_profile": false,
+            "id": 1206549110318231552,
+            "id_str": "1206549110318231552",
+            "in_reply_to_screen_name": "qoogen20abzan",
+            "in_reply_to_status_id": 1206548668859346948,
+            "in_reply_to_status_id_str": "1206548668859346948",
+            "in_reply_to_user_id": 213258954,
+            "in_reply_to_user_id_str": "213258954",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+            "scopes": null,
+            "text": "ありますね。リベラリストや反原発が安易に「江戸時代に戻ればいい」み\ufffd\ufffd",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu May 07 09:38:47 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Magic : the Gathering（紙＆アリーナ） / ポーカー / 鬱（寛解済み）＆片頭痛 / PCゲー / TRPG / 一応ソフトウェアエンジニア / 政治的なツイートを含みますんで、そういうのが見たくない人はフォロー非推奨",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/7jCZRbI92T",
+                                "display_url": "koukix-mtg.hatenablog.com",
+                                "expanded_url": "http://koukix-mtg.hatenablog.com/"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 10169,
+                "follow_request_sent": false,
+                "followers_count": 1456,
+                "following": false,
+                "friends_count": 1596,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 38402374,
+                "id_str": "38402374",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 60,
+                "location": "Saitama, Japan",
+                "name": "⑨kouki",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/38402374/1513422114",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1098033558554173440/aNilMeFC_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098033558554173440/aNilMeFC_normal.png",
+                "profile_link_color": "0033A0",
+                "profile_sidebar_border_color": "D3D2CF",
+                "profile_sidebar_fill_color": "E3E2DE",
+                "profile_text_color": "634047",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "koukix",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 75615,
+                "time_zone": "",
+                "url": "https://t.co/7jCZRbI92T",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "実際、日本の部門別のCO2排出量の全体の4分の1が農業となっています。\nCO2排出抑制を進めたらそ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jul 04 09:19:34 +0000 2016",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "ルーツは沖縄。立ち位置はアンチ反日。淫らな風紀委員 #ヘンデルベッカーズ",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 16098,
+            "follow_request_sent": false,
+            "followers_count": 1459,
+            "following": false,
+            "friends_count": 392,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 749895418318770176,
+            "id_str": "749895418318770176",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 42,
+            "location": "東京都",
+            "name": "悪葉",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/749895418318770176/1561292735",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1191294494676664320/Y9z6Bdf1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191294494676664320/Y9z6Bdf1_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Aoba_calm",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 11000,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @Aoba_calm: 実際、日本の部門別のCO2排出量の全体の4分の1が農業となっています。\nCO2排出抑制を進めた\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 07 05:05:31 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "サブカルチャーの大海原を韜晦する、不知而天命のタコ足ヲタクです。好物は自分のアシ(マテ) 。トヨの国の神姫ヲタ\u0026“提督”であります。ヘッダーは呉鎮130周年記念関連。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 63779,
+        "follow_request_sent": false,
+        "followers_count": 296,
+        "following": false,
+        "friends_count": 361,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1489523634,
+        "id_str": "1489523634",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "旧関根屋店舗(栃木県w)",
+        "name": "おとちゃ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489523634/1572867586",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1168682576904511488/BjnqK0OZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1168682576904511488/BjnqK0OZ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "issee_1945",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 97822,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

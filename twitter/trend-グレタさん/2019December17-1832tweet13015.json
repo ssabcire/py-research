@@ -1,0 +1,161 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:51:46 +0000 2019",
+    "display_text_range": [
+        0,
+        32
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [
+            {
+                "indices": [
+                    29,
+                    32
+                ],
+                "text": "虎8"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "吉永さんは今で言うグレタさんみたいな立ち位置なのかな。\n #虎8",
+    "has_extended_profile": false,
+    "id": 1206738722915377158,
+    "id_str": "1206738722915377158",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "吉永さんは今で言うグ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 12 02:12:44 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "日本文化は世界の奇跡。。お花畑から覚醒して、沁みじみと感じます。先人に感謝し、文化を守り育む事は現世代の使命。 ・原発再稼働賛成、移民反対。安倍総理支持(≠自民)。 日々の緩いつぶやき多い(^_^;) 猫はチンチラシルバー♪",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 34519,
+        "follow_request_sent": false,
+        "followers_count": 1340,
+        "following": false,
+        "friends_count": 1253,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1587353029,
+        "id_str": "1587353029",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 13,
+        "location": "",
+        "name": "クレームドブリュレ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1587353029/1514963210",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000255033787/6d91664ea852285d1c167e3562bff5ec_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000255033787/6d91664ea852285d1c167e3562bff5ec_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "myu87961",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 108772,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

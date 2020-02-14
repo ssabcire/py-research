@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 18:28:22 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "desean takahashi",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "desean97",
+                "id": 165358782,
+                "id_str": "165358782"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @desean97: 意見を述べようと思わないといいつついうと、グレタさん、批判する人は「彼女の言動」よりも「その（見えない）背後」について批判しているのだよな。「どうせバックに大人がついてる」みたいに。その是非はひとまず措くとして、今風だなあと思う。「こういう人はどうせ…",
+    "has_extended_profile": false,
+    "id": 1206642237183934464,
+    "id_str": "1206642237183934464",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 18,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 00:01:25 +0000 2019",
+        "display_text_range": [
+            0,
+            138
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 23,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "意見を述べようと思わないといいつついうと、グレタさん、批判する人は「彼女の言動」よりも「その（見えない）背後」について批判しているのだよな。「どうせバックに大人がついてる」みたいに。その是非はひとまず措くとして、今風だなあと思う。「こういう人はどうせ背景はこうなんだ」という。",
+        "has_extended_profile": false,
+        "id": 1206363663742853120,
+        "id_str": "1206363663742853120",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 18,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "意見を述べようと思わないといいつついうと、グレタさん、批判する人は「彼女の言動」よりも「その",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Jul 11 10:01:50 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "事実上の大学教員。自称中立。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/4Py6d6iaz9",
+                            "display_url": "d.hatena.ne.jp/sean97/",
+                            "expanded_url": "http://d.hatena.ne.jp/sean97/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 12449,
+            "follow_request_sent": false,
+            "followers_count": 6377,
+            "following": false,
+            "friends_count": 1982,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 165358782,
+            "id_str": "165358782",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 193,
+            "location": "Kochi, Japan",
+            "name": "desean takahashi",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1073409603/PAP_0022_normal.JPG",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1073409603/PAP_0022_normal.JPG",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "desean97",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 73972,
+            "time_zone": "",
+            "url": "http://t.co/4Py6d6iaz9",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @desean97: 意見を述べようと思わないといいつついうと、グレタさん、批判する人は「彼女の言動」より",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 01 01:55:30 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "私立大学の地域連携連載「地域共創の現場」→　https://t.co/vumNn8MdLI\n\n大学試案→　https://t.co/qAoXpaO4j3",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1564,
+        "follow_request_sent": false,
+        "followers_count": 2598,
+        "following": false,
+        "friends_count": 1496,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 86641105,
+        "id_str": "86641105",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 189,
+        "location": "市ヶ谷村など",
+        "name": "小林　功英",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1893181843/IMG_2872_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893181843/IMG_2872_normal.jpg",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "K0Ei",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 44953,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

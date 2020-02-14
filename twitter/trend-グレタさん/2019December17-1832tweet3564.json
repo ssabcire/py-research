@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:14:55 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "mipoko",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "mipoko611",
+                "id": 269661223,
+                "id_str": "269661223"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @mipoko611: 「満員電車をアピールされたらドイツ鉄道は迷惑だ」というのもよく分からない。電車がアクシデントで混雑するのはままあること。グレタさん投稿でDBにクレームした人も変な人だけど、DBの「うちのサービスもぜひ告知して」にグレタさんが応じてそれで終わりの話に…",
+    "has_extended_profile": false,
+    "id": 1206804949591445506,
+    "id_str": "1206804949591445506",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 02:08:20 +0000 2019",
+        "display_text_range": [
+            0,
+            139
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 21,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "「満員電車をアピールされたらドイツ鉄道は迷惑だ」というのもよく分からない。電車がアクシデントで混雑するのはままあること。グレタさん投稿でDBにクレームした人も変な人だけど、DBの「うちのサービスもぜひ告知して」にグレタさんが応じてそれで終わりの話に、なんで日本で大騒ぎしてんの？",
+        "has_extended_profile": false,
+        "id": 1206757991753498624,
+        "id_str": "1206757991753498624",
+        "in_reply_to_screen_name": "mipoko611",
+        "in_reply_to_status_id": 1206532038511095809,
+        "in_reply_to_status_id_str": "1206532038511095809",
+        "in_reply_to_user_id": 269661223,
+        "in_reply_to_user_id_str": "269661223",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "「満員電車をアピールされたらドイツ鉄道は迷惑だ」というのもよく分からない。電車がアクシデント\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Mar 21 06:42:35 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "作業BGは怪談語り系。怪談→オカルト→陰謀論→ネトウヨ地雷があるので困ってます。でも怪談のことはほぼ書きません。色々書き散らします。RTは備忘録にもしてるので超多いです。通知はオフです。通知欄小まめに見てません。ごめんやっしゃー。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                27
+                            ],
+                            "url": "http://seijiinfo.tumblr.com",
+                            "display_url": "",
+                            "expanded_url": ""
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 10401,
+            "follow_request_sent": false,
+            "followers_count": 8538,
+            "following": false,
+            "friends_count": 1879,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 269661223,
+            "id_str": "269661223",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 265,
+            "location": "関西",
+            "name": "mipoko",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/269661223/1469611999",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/452385578613346304/Pwq_LCuP_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/452385578613346304/Pwq_LCuP_normal.jpeg",
+            "profile_link_color": "D43373",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "8A138A",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "mipoko611",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 183008,
+            "time_zone": "",
+            "url": "http://seijiinfo.tumblr.com",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @mipoko611: 「満員電車をアピールされたらドイツ鉄道は迷惑だ」というのもよく分からない。電車がア\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 31 07:08:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "🇯🇵/🇵🇱 KC RYBACK (vo)。普段は書いたり削ったりする仕事をしています。洋画、洋楽、アメコミ、野球=埼玉西武ライオンズ、サッカー=名古屋グランパス、格闘技=UFC関連の投稿多め",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 706,
+        "follow_request_sent": false,
+        "followers_count": 670,
+        "following": false,
+        "friends_count": 572,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 128149011,
+        "id_str": "128149011",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 47,
+        "location": "地獄か新宿かŁódź",
+        "name": "JBLNCK",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/128149011/1560516456",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1188391144293466113/gXGFrnDe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1188391144293466113/gXGFrnDe_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "JAZUMAN",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 119809,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

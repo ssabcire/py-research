@@ -1,0 +1,506 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 21:24:06 +0000 2019",
+    "display_text_range": [
+        0,
+        70
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "鳥取大学自動車部米子支部（非公式）",
+                "indices": [
+                    3,
+                    18
+                ],
+                "screen_name": "yonago_tumc510",
+                "id": 918268823190437888,
+                "id_str": "918268823190437888"
+            }
+        ],
+        "media": [
+            {
+                "id": 1206200321334054913,
+                "id_str": "1206200321334054913",
+                "media_url": "http://pbs.twimg.com/media/EL1IzTEUEAEmzNw.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL1IzTEUEAEmzNw.jpg",
+                "url": "https://t.co/Vqq9Ro12LO",
+                "display_url": "pic.twitter.com/Vqq9Ro12LO",
+                "expanded_url": "https://twitter.com/yonago_tumc510/status/1206200326413438977/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 899,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1441,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206200326413438977,
+                "source_status_id_str": "1206200326413438977",
+                "type": "photo",
+                "indices": [
+                    47,
+                    70
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206200321334054913,
+                "id_str": "1206200321334054913",
+                "media_url": "http://pbs.twimg.com/media/EL1IzTEUEAEmzNw.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL1IzTEUEAEmzNw.jpg",
+                "url": "https://t.co/Vqq9Ro12LO",
+                "display_url": "pic.twitter.com/Vqq9Ro12LO",
+                "expanded_url": "https://twitter.com/yonago_tumc510/status/1206200326413438977/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 899,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1441,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206200326413438977,
+                "source_status_id_str": "1206200326413438977",
+                "type": "photo",
+                "indices": [
+                    47,
+                    70
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @yonago_tumc510: 自動車部の先輩と次郎系ラーメンを食べに来たグレタさん https://t.co/Vqq9Ro12LO",
+    "has_extended_profile": false,
+    "id": 1206686462374076416,
+    "id_str": "1206686462374076416",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 6395,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 13:12:22 +0000 2019",
+        "display_text_range": [
+            0,
+            26
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206200321334054913,
+                    "id_str": "1206200321334054913",
+                    "media_url": "http://pbs.twimg.com/media/EL1IzTEUEAEmzNw.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL1IzTEUEAEmzNw.jpg",
+                    "url": "https://t.co/Vqq9Ro12LO",
+                    "display_url": "pic.twitter.com/Vqq9Ro12LO",
+                    "expanded_url": "https://twitter.com/yonago_tumc510/status/1206200326413438977/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 899,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1441,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        27,
+                        50
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206200321334054913,
+                    "id_str": "1206200321334054913",
+                    "media_url": "http://pbs.twimg.com/media/EL1IzTEUEAEmzNw.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL1IzTEUEAEmzNw.jpg",
+                    "url": "https://t.co/Vqq9Ro12LO",
+                    "display_url": "pic.twitter.com/Vqq9Ro12LO",
+                    "expanded_url": "https://twitter.com/yonago_tumc510/status/1206200326413438977/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 899,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1441,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        27,
+                        50
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 21653,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "自動車部の先輩と次郎系ラーメンを食べに来たグレタさん https://t.co/Vqq9Ro12LO",
+        "has_extended_profile": false,
+        "id": 1206200326413438977,
+        "id_str": "1206200326413438977",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 6395,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "自動車部の先輩と\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Oct 12 00:15:22 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "湖山キャンパスで細々と活動している自動車部が益々細々として医学部キャンパスにやって来た！\n\n\n幾分かマシな鳥大自動車部のアカウントはコチラ\n👉👉👉@tumc510👈👈👈",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/T546YJ0gZW",
+                            "display_url": "peing.net/ja/yonagotumc",
+                            "expanded_url": "https://peing.net/ja/yonagotumc"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 2009,
+            "follow_request_sent": false,
+            "followers_count": 736,
+            "following": false,
+            "friends_count": 772,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 918268823190437888,
+            "id_str": "918268823190437888",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 2,
+            "location": "🚨🎍🎎JDM🎎🎍🚨",
+            "name": "鳥取大学自動車部米子支部（非公式）",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/918268823190437888/1554197120",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1069918988975595520/oXr5vpmQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1069918988975595520/oXr5vpmQ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "yonago_tumc510",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 537,
+            "time_zone": "",
+            "url": "https://t.co/T546YJ0gZW",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @yonago_tumc510: 自動車部の先輩と次郎系ラーメンを\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 18 23:05:29 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 41456,
+        "follow_request_sent": false,
+        "followers_count": 186,
+        "following": false,
+        "friends_count": 1297,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 788516376386293760,
+        "id_str": "788516376386293760",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "トニー",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/788516376386293760/1564296880",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1155370968618946560/jfrOaD4N_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1155370968618946560/jfrOaD4N_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rept44",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 28579,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

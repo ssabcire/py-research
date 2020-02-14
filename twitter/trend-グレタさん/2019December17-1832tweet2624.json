@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:54:56 +0000 2019",
+    "display_text_range": [
+        0,
+        117
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    94,
+                    117
+                ],
+                "url": "https://t.co/az31ZKrpOr",
+                "display_url": "ksl-live.com/blog28363",
+                "expanded_url": "https://ksl-live.com/blog28363"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "梅婆",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "Umeba_0538",
+                "id": 1013439106112630784,
+                "id_str": "1013439106112630784"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @Umeba_0538: 笑。\n\nグレタさん「超満員列車でドイツを移動中よ」床に座る姿を投稿→ドイツ鉄道「ファーストクラスに座っていた」→グレタ「ギャー！」 | KSL-Live! https://t.co/az31ZKrpOr",
+    "has_extended_profile": false,
+    "id": 1206815018483736577,
+    "id_str": "1206815018483736577",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 8,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 04:35:48 +0000 2019",
+        "display_text_range": [
+            0,
+            101
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        78,
+                        101
+                    ],
+                    "url": "https://t.co/az31ZKrpOr",
+                    "display_url": "ksl-live.com/blog28363",
+                    "expanded_url": "https://ksl-live.com/blog28363"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 45,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "笑。\n\nグレタさん「超満員列車でドイツを移動中よ」床に座る姿を投稿→ドイツ鉄道「ファーストクラスに座っていた」→グレタ「ギャー！」 | KSL-Live! https://t.co/az31ZKrpOr",
+        "has_extended_profile": false,
+        "id": 1206795104242958337,
+        "id_str": "1206795104242958337",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 8,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "笑。\n\nグレタさん「超満員列車でドイツを移動中よ」床に座る姿を投稿→ド",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Jul 01 15:08:06 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "30代既婚、二児の母です。 天皇陛下、万歳！ 国体死守！ 憲法は日本にピッタリのものに改正すべし！ 人生は愛を表現するためにある！ と考えています。 ちなみに、2009年1月頃から双極性障害I型。今まで入院6回してます。義両親と円満同居している、二児の母 。極力ブロックしない方針ですが、あまりにお話出来ない方はブロック",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 14950,
+            "follow_request_sent": false,
+            "followers_count": 2212,
+            "following": false,
+            "friends_count": 4023,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1013439106112630784,
+            "id_str": "1013439106112630784",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 4,
+            "location": "日本",
+            "name": "梅婆",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1013439106112630784/1573865715",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1205639592050749445/NC-OwrjB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205639592050749445/NC-OwrjB_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Umeba_0538",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 7855,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @Umeba_0538: 笑。\n\nグレタさん「超満員列車でドイツを移動中よ」床に座る姿を投稿→ド",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 27 04:00:48 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "生まれ育った日本が好き！🇯🇵夜は大概酔ってるので失礼あればゴメンちゃい💦右でも左でもありませんが愛國心は強いです🇯🇵国籍関係無く反日は大嫌いです😆最近涙もろいです😭すぐ感動します💦義理人情には厚いです🇯🇵感情的にコメントした時は口悪く思うかもしれませんが本当は優しいひとです笑😆",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 4245,
+        "follow_request_sent": false,
+        "followers_count": 447,
+        "following": false,
+        "friends_count": 491,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1177432795641081856,
+        "id_str": "1177432795641081856",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "NON-BEE🐝　🍺🍶🍷",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1177432795641081856/1573699422",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1187668381446443009/cuJNnM-o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1187668381446443009/cuJNnM-o_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "yuukokujapan",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 3583,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

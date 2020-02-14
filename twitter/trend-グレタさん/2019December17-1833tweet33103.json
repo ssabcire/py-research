@@ -1,0 +1,516 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 13:44:24 +0000 2019",
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [
+            {
+                "indices": [
+                    124,
+                    138
+                ],
+                "text": "拡散希望RTおねがいします"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "こくまろ",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "1A2nJqqvTlDjxp2",
+                "id": 970568989809102848,
+                "id_str": "970568989809102848"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @1A2nJqqvTlDjxp2: ツイッター上でグレタさんを応援している人達も、この機会に環境保護団体に寄付などしてみてはいかがでしょうか？\n「そんなもんとっくにやっとるわボケ！」「そんな金はねーんだよクソが！」という方には謝罪しますので #拡散希望RTおねがいします…",
+    "has_extended_profile": false,
+    "id": 1206570775383142400,
+    "id_str": "1206570775383142400",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206410545630367744,
+    "quoted_status_id_str": "1206410545630367744",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 14,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 03:29:52 +0000 2019",
+        "display_text_range": [
+            0,
+            132
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        133,
+                        156
+                    ],
+                    "url": "https://t.co/JNgHYd4zl9",
+                    "display_url": "twitter.com/1A2nJqqvTlDjxp…",
+                    "expanded_url": "https://twitter.com/1A2nJqqvTlDjxp2/status/1206410545630367744"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        103,
+                        117
+                    ],
+                    "text": "拡散希望RTおねがいします"
+                },
+                {
+                    "indices": [
+                        121,
+                        132
+                    ],
+                    "text": "ボーナスで寄付・募金"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 25,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "ツイッター上でグレタさんを応援している人達も、この機会に環境保護団体に寄付などしてみてはいかがでしょうか？\n「そんなもんとっくにやっとるわボケ！」「そんな金はねーんだよクソが！」という方には謝罪しますので #拡散希望RTおねがいします ！\n\n#ボーナスで寄付・募金 https://t.co/JNgHYd4zl9",
+        "has_extended_profile": false,
+        "id": 1206416121466802176,
+        "id_str": "1206416121466802176",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206410545630367744,
+        "quoted_status_id_str": "1206410545630367744",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Mon Dec 16 03:07:42 +0000 2019",
+            "display_text_range": [
+                0,
+                82
+            ],
+            "entities": {
+                "urls": [],
+                "hashtags": [
+                    {
+                        "indices": [
+                            54,
+                            67
+                        ],
+                        "text": "拡散希望RTお願いします"
+                    },
+                    {
+                        "indices": [
+                            71,
+                            82
+                        ],
+                        "text": "ボーナスで寄付・募金"
+                    }
+                ],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 66,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "冬のボーナスが入ったので、以前関わったことのある福祉系の団体に寄付してきました！\n承認欲求を満たしたいので #拡散希望RTお願いします ！\n\n#ボーナスで寄付・募金",
+            "has_extended_profile": false,
+            "id": 1206410545630367744,
+            "id_str": "1206410545630367744",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 38,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+            "scopes": null,
+            "text": "冬のボーナスが入ったので、以前関わったことのある福祉系\ufffd",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Mar 05 07:57:34 +0000 2018",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "大量懲戒請求事件の野次馬/みんな、胎界主を読んで",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 101215,
+                "follow_request_sent": false,
+                "followers_count": 420,
+                "following": false,
+                "friends_count": 330,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 970568989809102848,
+                "id_str": "970568989809102848",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 13,
+                "location": "暖かい場所を探し泳いでた最後の離島",
+                "name": "早く寝ろ",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_banner_url": "",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1195303237596766211/ocsShX_U_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195303237596766211/ocsShX_U_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "1A2nJqqvTlDjxp2",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 25894,
+                "time_zone": "",
+                "url": "",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 14,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "ツイッター上でグレタさんを応援している人達も、この機会に環境保護団体に寄付などしてみては",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Mar 05 07:57:34 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "大量懲戒請求事件の野次馬/みんな、胎界主を読んで",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 101215,
+            "follow_request_sent": false,
+            "followers_count": 420,
+            "following": false,
+            "friends_count": 330,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 970568989809102848,
+            "id_str": "970568989809102848",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 13,
+            "location": "暖かい場所を探し泳いでた最後の離島",
+            "name": "早く寝ろ",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1195303237596766211/ocsShX_U_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195303237596766211/ocsShX_U_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "1A2nJqqvTlDjxp2",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 25894,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @1A2nJqqvTlDjxp2: ツイッター上でグレタさんを応援している人達も、この機会に環境保護団体に寄付など\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 13 09:51:33 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "はぐれApplePrincess🍎🍏 歌う事で精神力回復中(ウソジャポネ!!)",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2825,
+        "follow_request_sent": false,
+        "followers_count": 104,
+        "following": false,
+        "friends_count": 196,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1205424866607808513,
+        "id_str": "1205424866607808513",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "スチッキ姫(ささげ○○ぴー)",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1205424866607808513/1576476820",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1206365511178604544/HoDLroqX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1206365511178604544/HoDLroqX_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "7clB4j45wDXkW2B",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 2650,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

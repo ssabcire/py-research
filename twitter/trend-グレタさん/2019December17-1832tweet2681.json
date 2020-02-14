@@ -1,0 +1,174 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:52:36 +0000 2019",
+    "display_text_range": [
+        33,
+        153
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "はるみ",
+                "indices": [
+                    0,
+                    15
+                ],
+                "screen_name": "harumi19762015",
+                "id": 3289960711,
+                "id_str": "3289960711"
+            },
+            {
+                "name": "chocolat.",
+                "indices": [
+                    16,
+                    32
+                ],
+                "screen_name": "chocolat_psyder",
+                "id": 1044587252670578690,
+                "id_str": "1044587252670578690"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@harumi19762015 @chocolat_psyder 真面目な話なんですけど、\n学校での勉強もあるのでしょうが、\n煮え切らない日本政府に喝を入れるため、\nグレタさんの来日・講演等を企画するとして、\n彼女をどうやって日本まで移動させればよいのだろう？\n\n考えると眠れなくなっちゃう。無理か・・・。",
+    "has_extended_profile": false,
+    "id": 1206814431394455552,
+    "id_str": "1206814431394455552",
+    "in_reply_to_screen_name": "harumi19762015",
+    "in_reply_to_status_id": 1206750930638491648,
+    "in_reply_to_status_id_str": "1206750930638491648",
+    "in_reply_to_user_id": 3289960711,
+    "in_reply_to_user_id_str": "3289960711",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "真面目な話なんですけど、\n学校での勉強もあるのでしょうが、\n煮え切らない日本政府に\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 08 02:25:07 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ジャンルを問わない音楽好きでギターも10代のころから弾いてます。そのほか鍵盤や吹奏楽器はひと通りやりました。これまでの人生、北海道（札幌・函館）と東京を行ったり来たり、稀にNYで単身生活を経験しました。学生時代、代々木のカレーライス会議に参加した一人です（知る人ぞ知る）。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 221,
+        "follow_request_sent": false,
+        "followers_count": 25,
+        "following": false,
+        "friends_count": 62,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1115078086788243456,
+        "id_str": "1115078086788243456",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "札幌市",
+        "name": "Sun East",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1115078086788243456/1568168915",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1115078454997708800/K9poAywo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115078454997708800/K9poAywo_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SunEast16",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 552,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

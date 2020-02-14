@@ -1,0 +1,447 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 13:16:03 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "NEO",
+                "indices": [
+                    3,
+                    9
+                ],
+                "screen_name": "fittu",
+                "id": 61415088,
+                "id_str": "61415088"
+            },
+            {
+                "name": "一昨日来やがれ！（QArmyJapanFlynn）",
+                "indices": [
+                    11,
+                    27
+                ],
+                "screen_name": "ototoi_kiyagare",
+                "id": 102304238,
+                "id_str": "102304238"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @fittu: @ototoi_kiyagare なぜ「グレタ」さんを批判するかって？\n\nそれは「優秀」だからです🌸\n\n「アンティファ」のファシズム左翼の連中と一緒にされちゃ困りますよ。\n\n【金儲け】と【人口削減】の道具に「地球温暖化」を掲げられても「優秀」な人間からは「…",
+    "has_extended_profile": false,
+    "id": 1206563640251338753,
+    "id_str": "1206563640251338753",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 15:58:36 +0000 2019",
+        "display_text_range": [
+            17,
+            145
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "一昨日来やがれ！（QArmyJapanFlynn）",
+                    "indices": [
+                        0,
+                        16
+                    ],
+                    "screen_name": "ototoi_kiyagare",
+                    "id": 102304238,
+                    "id_str": "102304238"
+                }
+            ],
+            "media": [
+                {
+                    "id": 1206242155208921088,
+                    "id_str": "1206242155208921088",
+                    "media_url": "http://pbs.twimg.com/media/EL1u2WZUUAAA1dR.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL1u2WZUUAAA1dR.jpg",
+                    "url": "https://t.co/BigPHTBnaQ",
+                    "display_url": "pic.twitter.com/BigPHTBnaQ",
+                    "expanded_url": "https://twitter.com/fittu/status/1206242160476966912/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        146,
+                        169
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206242155208921088,
+                    "id_str": "1206242155208921088",
+                    "media_url": "http://pbs.twimg.com/media/EL1u2WZUUAAA1dR.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL1u2WZUUAAA1dR.jpg",
+                    "url": "https://t.co/BigPHTBnaQ",
+                    "display_url": "pic.twitter.com/BigPHTBnaQ",
+                    "expanded_url": "https://twitter.com/fittu/status/1206242160476966912/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        146,
+                        169
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 3,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@ototoi_kiyagare なぜ「グレタ」さんを批判するかって？\n\nそれは「優秀」だからです🌸\n\n「アンティファ」のファシズム左翼の連中と一緒にされちゃ困りますよ。\n\n【金儲け】と【人口削減】の道具に「地球温暖化」を掲げられても「優秀」な人間からは「冷た～い目」で見られるだけですよ🍜 https://t.co/BigPHTBnaQ",
+        "has_extended_profile": false,
+        "id": 1206242160476966912,
+        "id_str": "1206242160476966912",
+        "in_reply_to_screen_name": "ototoi_kiyagare",
+        "in_reply_to_status_id": 1206173255289016320,
+        "in_reply_to_status_id_str": "1206173255289016320",
+        "in_reply_to_user_id": 102304238,
+        "in_reply_to_user_id_str": "102304238",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": true,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "なぜ「グレタ」さんを批判するかって？\n\nそれは「優秀」だからです🌸\n\n「アンティファ」のフ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jul 30 06:44:36 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "QAnon・NSA(アメリカ国家安全保障局)に2019年スカウトされる。\n\nディープステート（闇の政府）と戦闘中。\nデジタルソルジャーとしてハッキング開始。\n\n東京大学卒・マサチューセッツ工科大学卒。\nアメリカのシリコンバレーにてAI（人口知能）開発。\n\n‘Q’情報拡散プログラム始動！\n\nI am a ‘J.Boy'.",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/PvH419WvN0",
+                            "display_url": "nsa.gov",
+                            "expanded_url": "https://www.nsa.gov/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 1677,
+            "follow_request_sent": false,
+            "followers_count": 2441,
+            "following": false,
+            "friends_count": 4999,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 61415088,
+            "id_str": "61415088",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 13,
+            "location": "",
+            "name": "NEO",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/61415088/1567847862",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1170261366323605505/6tkAmBE8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170261366323605505/6tkAmBE8_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "fittu",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 5828,
+            "time_zone": "",
+            "url": "https://t.co/PvH419WvN0",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @fittu: @ototoi_kiyagare なぜ「グレタ」さんを批判するかって？\n\nそれは「優秀」だからです🌸\n\n「アンテ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 07 17:49:08 +0000 2019",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#Patreon のクリエイター Eri @okabaeri9111 さんへの支援の手続きと Eriさんのツイートについて ブログしています\n勝手にフォローさせて戴いています\n事務連絡以外のDMはスルーしますのでご容赦ください\n#体癖 5-8\n💖 https://t.co/wDZeL7T6zW\n🔗 https://t.co/AWPF0t3ao3",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/aTLS9dMgm3",
+                        "display_url": "support-creators.seesaa.net",
+                        "expanded_url": "https://support-creators.seesaa.net/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 10134,
+        "follow_request_sent": false,
+        "followers_count": 421,
+        "following": false,
+        "friends_count": 605,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1170392907909451776,
+        "id_str": "1170392907909451776",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 5,
+        "location": "Fukuoka 🇯🇵",
+        "name": "こびと (QArmyJapanFlynn)",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1170392907909451776/1572550490",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1206645793395896320/d0atNu69_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1206645793395896320/d0atNu69_normal.jpg",
+        "profile_link_color": "0080FF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "94trtss92",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 6329,
+        "time_zone": "",
+        "url": "https://t.co/aTLS9dMgm3",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

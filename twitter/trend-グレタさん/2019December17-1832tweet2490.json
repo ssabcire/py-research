@@ -1,0 +1,393 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:01:33 +0000 2019",
+    "display_text_range": [
+        0,
+        92
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    62,
+                    85
+                ],
+                "url": "https://t.co/YHTeuN9Gie",
+                "display_url": "gendai.ismedia.jp/articles/-/692…",
+                "expanded_url": "https://gendai.ismedia.jp/articles/-/69226"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    86,
+                    92
+                ],
+                "text": "マネー現代"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "S3-6R Ver.5仙女シンセ降臨！！！碧い旋光@シンセ仙人",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "BLightningM",
+                "id": 779542005915332609,
+                "id_str": "779542005915332609"
+            },
+            {
+                "name": "マネー現代",
+                "indices": [
+                    49,
+                    61
+                ],
+                "screen_name": "moneygendai",
+                "id": 1031386325574799360,
+                "id_str": "1031386325574799360"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @BLightningM: グレタさんも知らない…環境利権のウラで日本が食い物にされる現実 @moneygendai https://t.co/YHTeuN9Gie #マネー現代",
+    "has_extended_profile": false,
+    "id": 1206816681265250304,
+    "id_str": "1206816681265250304",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 05:53:08 +0000 2019",
+        "display_text_range": [
+            0,
+            75
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        45,
+                        68
+                    ],
+                    "url": "https://t.co/YHTeuN9Gie",
+                    "display_url": "gendai.ismedia.jp/articles/-/692…",
+                    "expanded_url": "https://gendai.ismedia.jp/articles/-/69226"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        69,
+                        75
+                    ],
+                    "text": "マネー現代"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "マネー現代",
+                    "indices": [
+                        32,
+                        44
+                    ],
+                    "screen_name": "moneygendai",
+                    "id": 1031386325574799360,
+                    "id_str": "1031386325574799360"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんも知らない…環境利権のウラで日本が食い物にされる現実 @moneygendai https://t.co/YHTeuN9Gie #マネー現代",
+        "has_extended_profile": false,
+        "id": 1206814564408426497,
+        "id_str": "1206814564408426497",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんも知らない…環境利権のウラで日本が食い物",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Sep 24 04:44:32 +0000 2016",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Ｒの元「サウンドエンジニア／鍵盤設計／DSP屋／ファーム屋／Pdr.」、現シンセ仙人in R-MONO Lab。日々カスタムのシンセ・アルゴリズムを創る日々。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/1IazOJc1Ns",
+                            "display_url": "r-mono-lab.tumblr.com/products/S3-6R",
+                            "expanded_url": "http://r-mono-lab.tumblr.com/products/S3-6R"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 103126,
+            "follow_request_sent": false,
+            "followers_count": 1840,
+            "following": false,
+            "friends_count": 1723,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 779542005915332609,
+            "id_str": "779542005915332609",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 84,
+            "location": "",
+            "name": "S3-6R Ver.5仙女シンセ降臨！！！碧い旋光@シンセ仙人",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/779542005915332609/1561671808",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1144360459719471104/PsSnUzz0_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144360459719471104/PsSnUzz0_normal.png",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "BLightningM",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 85572,
+            "time_zone": "",
+            "url": "https://t.co/1IazOJc1Ns",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @BLightningM: グレタさんも知らない…環境利権のウラで日本が食い物",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 10 23:12:11 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "誰かが少しだけでも思ってくれることで僕は存在できている。単に音遊びをしているだけの人。マインドは80'sなレトロテクノ風で、リフレインを軸にした広い意味での電子音楽を作っています。自宅での音楽試聴履歴垂れ流し。Electro - Techno - Cinematic - Soundscape - Ambient",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/qU3ZU5RCkW",
+                        "display_url": "soundcloud.com/art-theater/",
+                        "expanded_url": "https://soundcloud.com/art-theater/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 31322,
+        "follow_request_sent": false,
+        "followers_count": 461,
+        "following": false,
+        "friends_count": 365,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 2382810302,
+        "id_str": "2382810302",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 43,
+        "location": "東京の外れの片隅",
+        "name": "arz - ART THEATER -",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2382810302/1559773742",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1136407337181171712/nF3rhpL6_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1136407337181171712/nF3rhpL6_normal.png",
+        "profile_link_color": "D9D9D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "arzdigdig",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 34072,
+        "time_zone": "",
+        "url": "https://t.co/qU3ZU5RCkW",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

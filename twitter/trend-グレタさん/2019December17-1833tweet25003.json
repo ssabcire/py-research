@@ -1,0 +1,183 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 17:05:10 +0000 2019",
+    "display_text_range": [
+        13,
+        110
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "黒瀬 深",
+                "indices": [
+                    0,
+                    12
+                ],
+                "screen_name": "Shin_kurose",
+                "id": 4838815874,
+                "id_str": "4838815874"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@Shin_kurose 茂木さんは学者で頭は良くても、物事の良し悪しを判別する力が弱いと思います。\n　茂木さんが学者なら、環境問題に関しては科学的な見方から合理的にグレタの言ってる内容を分析してみた方が良いと思うます。",
+    "has_extended_profile": false,
+    "id": 1206621301391015936,
+    "id_str": "1206621301391015936",
+    "in_reply_to_screen_name": "Shin_kurose",
+    "in_reply_to_status_id": 1206353856969338880,
+    "in_reply_to_status_id_str": "1206353856969338880",
+    "in_reply_to_user_id": 4838815874,
+    "in_reply_to_user_id_str": "4838815874",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        139.604025000665,
+                        35.4391830030296
+                    ],
+                    [
+                        139.64555399544,
+                        35.4391830030296
+                    ],
+                    [
+                        139.64555399544,
+                        35.4686610016364
+                    ],
+                    [
+                        139.604025000665,
+                        35.4686610016364
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Japan",
+        "country_code": "JP",
+        "full_name": "Yokohama-shi Nishi, Kanagawa",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "44bd8dbe9ffe1625",
+        "name": "Yokohama-shi Nishi-ku",
+        "place_type": "city",
+        "polylines": null,
+        "url": "https://api.twitter.com/1.1/geo/id/44bd8dbe9ffe1625.json"
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "茂木さんは学者で頭は良くても、物事の良し悪しを判別する力が弱いと\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 22 00:11:11 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "明るく知的で好奇心旺盛な、エロいお兄さんです。 好き→サッカー、音楽、女、都市伝説、アイドル系→ハロプロ系 日向坂46 乃木坂46 好きな推しメンは齊藤京子 松田好花 新内眞衣 梅澤美波 山口真帆、北原里英、指原莉乃。その他には大森靖子、ZOC、B i SHが好きです。基本的にノンジャンルで気の向くまま呟きます。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 14209,
+        "follow_request_sent": false,
+        "followers_count": 641,
+        "following": false,
+        "friends_count": 1483,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 169284804,
+        "id_str": "169284804",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 6,
+        "location": "日本",
+        "name": "SAGANO.D",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/169284804/1410433203",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1117422137822724102/5sru-Ib8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117422137822724102/5sru-Ib8_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "d_sagano",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 7864,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

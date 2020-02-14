@@ -1,0 +1,182 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:08:06 +0000 2019",
+    "display_text_range": [
+        0,
+        95
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    34,
+                    57
+                ],
+                "url": "https://t.co/qT0wDKlLdU",
+                "display_url": "CNN.co.jp",
+                "expanded_url": "http://CNN.co.jp"
+            },
+            {
+                "indices": [
+                    72,
+                    95
+                ],
+                "url": "https://t.co/SmAo8qvOGb",
+                "display_url": "headlines.yahoo.co.jp/hl?a=20191216-…",
+                "expanded_url": "https://headlines.yahoo.co.jp/hl?a=20191216-35146920-cnn-int"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容され（https://t.co/qT0wDKlLdU） - Yahoo!ニュース https://t.co/SmAo8qvOGb",
+    "has_extended_profile": false,
+    "id": 1206818330113241088,
+    "id_str": "1206818330113241088",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": true,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 01 02:47:23 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Twitterもウッカリ10年超えたので、ニュース雑記帳に戻るべな。 摩訶不思議な世の中を納得せずとも理解しながら肌で感じた戯言をブツブツと",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/L9ZpulxF4g",
+                        "display_url": "peninsullusion.blog.jp",
+                        "expanded_url": "http://peninsullusion.blog.jp"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1011,
+        "follow_request_sent": false,
+        "followers_count": 959,
+        "following": false,
+        "friends_count": 1072,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 43813515,
+        "id_str": "43813515",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 31,
+        "location": "隣国之首都",
+        "name": "ﾖﾛｶﾞｼﾞ半島illusion",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/43813515/1364642064",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1170711566389366784/qroHCBsF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170711566389366784/qroHCBsF_normal.jpg",
+        "profile_link_color": "D1192C",
+        "profile_sidebar_border_color": "030303",
+        "profile_sidebar_fill_color": "88E4F0",
+        "profile_text_color": "383838",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "peninsullusion",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 55738,
+        "time_zone": "",
+        "url": "https://t.co/L9ZpulxF4g",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

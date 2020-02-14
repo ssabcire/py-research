@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:58:24 +0000 2019",
+    "display_text_range": [
+        0,
+        82
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    59,
+                    82
+                ],
+                "url": "https://t.co/SAbueLLgh3",
+                "display_url": "netflix.com/title/80197462…",
+                "expanded_url": "https://www.netflix.com/title/80197462?s=i\u0026trkid=14170286"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんを好きな人も嫌いな人もこれ観よう。\n\nNetflixで「デイブレイク ～世界が終わったその先で～」を観よう\nhttps://t.co/SAbueLLgh3",
+    "has_extended_profile": false,
+    "id": 1206830989894283264,
+    "id_str": "1206830989894283264",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんを好きな人も嫌いな人もこれ観よう。\n\nNetflixで「\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 14 01:00:30 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "トレーナーコード: 4914 7109 3971 目に入った他人のツイートを読んで思いついたことを元のツイートの文脈とは無関係に呟くアカウントです。 30年ほど前に悪魔と取引して永遠の若さを手にした筈なんだけど最近反故にされてる気がします。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 57860,
+        "follow_request_sent": false,
+        "followers_count": 342,
+        "following": false,
+        "friends_count": 329,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 96661788,
+        "id_str": "96661788",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 17,
+        "location": "東京都",
+        "name": "いいこ。",
+        "notifications": false,
+        "profile_background_color": "E0D3D3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/96661788/1564930048",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1094347993900146688/88vokbGB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094347993900146688/88vokbGB_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "4A272A",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "minna_iiko",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 60749,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

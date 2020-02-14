@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:15:59 +0000 2019",
+    "display_text_range": [
+        0,
+        17
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんはなあ\n被害者だと思うわ",
+    "has_extended_profile": false,
+    "id": 1206533423667351552,
+    "id_str": "1206533423667351552",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさん\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 29 07:09:52 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "花園たえ、丸山彩、👑真壁瑞希👑、桜守歌織、白石紬、白瀬咲耶、幽谷霧子、大場ななが好き。軽くお絵描きしたりSSを書いたりする百合厨/League of Legends初心者",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/bOer4xVZ55",
+                        "display_url": "touch.pixiv.net/member.php?id=…",
+                        "expanded_url": "https://touch.pixiv.net/member.php?id=24578305"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 36591,
+        "follow_request_sent": false,
+        "followers_count": 205,
+        "following": false,
+        "friends_count": 292,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 858216750017462272,
+        "id_str": "858216750017462272",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 15,
+        "location": "ミリオン、バンドリ、シャニマス、レヴュースタァライト",
+        "name": "しべりあ",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/858216750017462272/1573551591",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1165988854798544898/iPFf_F8B_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1165988854798544898/iPFf_F8B_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Johannes_1030",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 71067,
+        "time_zone": "",
+        "url": "https://t.co/bOer4xVZ55",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

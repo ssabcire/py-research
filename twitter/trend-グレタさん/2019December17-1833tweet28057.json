@@ -1,0 +1,847 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 15:15:12 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Zhuyang",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "Zhuyang201704",
+                "id": 1061156444668489728,
+                "id_str": "1061156444668489728"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @Zhuyang201704: COP25 開催地スペイン\n\n上空の旅客機は、開催国の字も見えない程の数❗️\n\nグレタさん、席を予約した方が無駄な燃料も掛からなかったのでは？\n\nドイツ鉄道でもインチキっぷりを発揮してしまいました。\nhttps://t.co/bZSO97S…",
+    "has_extended_profile": false,
+    "id": 1206593626597249024,
+    "id_str": "1206593626597249024",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206533231249506304,
+    "quoted_status_id_str": "1206533231249506304",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 13:06:23 +0000 2019",
+        "display_text_range": [
+            0,
+            160
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        100,
+                        123
+                    ],
+                    "url": "https://t.co/bZSO97SCRb",
+                    "display_url": "twitter.com/9n7ewqtutsamat…",
+                    "expanded_url": "https://twitter.com/9n7ewqtutsamatw/status/1206533231249506304?s=21"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        131,
+                        142
+                    ],
+                    "text": "ジオエンジニアリング"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206561194179354624,
+                    "id_str": "1206561194179354624",
+                    "media_url": "http://pbs.twimg.com/media/EL6RA3LU4AA1Y52.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL6RA3LU4AA1Y52.jpg",
+                    "url": "https://t.co/yUakSqtwMr",
+                    "display_url": "pic.twitter.com/yUakSqtwMr",
+                    "expanded_url": "https://twitter.com/Zhuyang201704/status/1206561206351171584/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 696,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 394,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 750,
+                            "h": 1294,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        161,
+                        184
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206561194179354624,
+                    "id_str": "1206561194179354624",
+                    "media_url": "http://pbs.twimg.com/media/EL6RA3LU4AA1Y52.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL6RA3LU4AA1Y52.jpg",
+                    "url": "https://t.co/yUakSqtwMr",
+                    "display_url": "pic.twitter.com/yUakSqtwMr",
+                    "expanded_url": "https://twitter.com/Zhuyang201704/status/1206561206351171584/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 696,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 394,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 750,
+                            "h": 1294,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        161,
+                        184
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                },
+                {
+                    "id": 1206561194183577601,
+                    "id_str": "1206561194183577601",
+                    "media_url": "http://pbs.twimg.com/media/EL6RA3MVUAEarJu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL6RA3MVUAEarJu.jpg",
+                    "url": "https://t.co/yUakSqtwMr",
+                    "display_url": "pic.twitter.com/yUakSqtwMr",
+                    "expanded_url": "https://twitter.com/Zhuyang201704/status/1206561206351171584/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 750,
+                            "h": 921,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 554,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 750,
+                            "h": 921,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        161,
+                        184
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                },
+                {
+                    "id": 1206561194196127744,
+                    "id_str": "1206561194196127744",
+                    "media_url": "http://pbs.twimg.com/media/EL6RA3PU0AAB6mF.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL6RA3PU0AAB6mF.jpg",
+                    "url": "https://t.co/yUakSqtwMr",
+                    "display_url": "pic.twitter.com/yUakSqtwMr",
+                    "expanded_url": "https://twitter.com/Zhuyang201704/status/1206561206351171584/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 750,
+                            "h": 918,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 556,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 750,
+                            "h": 918,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        161,
+                        184
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 10,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "COP25 開催地スペイン\n\n上空の旅客機は、開催国の字も見えない程の数❗️\n\nグレタさん、席を予約した方が無駄な燃料も掛からなかったのでは？\n\nドイツ鉄道でもインチキっぷりを発揮してしまいました。\nhttps://t.co/bZSO97SCRb\n\n気候変動は #ジオエンジニアリング によって世界中で操作されています。 https://t.co/yUakSqtwMr",
+        "has_extended_profile": false,
+        "id": 1206561206351171584,
+        "id_str": "1206561206351171584",
+        "in_reply_to_screen_name": "Zhuyang201704",
+        "in_reply_to_status_id": 1206527040033189888,
+        "in_reply_to_status_id_str": "1206527040033189888",
+        "in_reply_to_user_id": 1061156444668489728,
+        "in_reply_to_user_id_str": "1061156444668489728",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206533231249506304,
+        "quoted_status_id_str": "1206533231249506304",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Mon Dec 16 11:15:13 +0000 2019",
+            "display_text_range": [
+                0,
+                178
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "indices": [
+                            113,
+                            136
+                        ],
+                        "url": "https://t.co/3qQq2mIgt1",
+                        "display_url": "rapt-neo.com/?p=35565",
+                        "expanded_url": "http://rapt-neo.com/?p=35565"
+                    },
+                    {
+                        "indices": [
+                            155,
+                            178
+                        ],
+                        "url": "https://t.co/jrLflWSyJO",
+                        "display_url": "twitter.com/ltfc8qi4patlia…",
+                        "expanded_url": "https://twitter.com/ltfc8qi4patliac/status/1206460931829403653"
+                    }
+                ],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": [
+                    {
+                        "id": 1206533221111848961,
+                        "id_str": "1206533221111848961",
+                        "media_url": "http://pbs.twimg.com/media/EL53knYUYAErqL2.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EL53knYUYAErqL2.jpg",
+                        "url": "https://t.co/ODjm7d7aSa",
+                        "display_url": "pic.twitter.com/ODjm7d7aSa",
+                        "expanded_url": "https://twitter.com/9n7eWQtutsamatw/status/1206533231249506304/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 503,
+                                "h": 579,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 503,
+                                "h": 579,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 503,
+                                "h": 579,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            179,
+                            202
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": [
+                    {
+                        "id": 1206533221111848961,
+                        "id_str": "1206533221111848961",
+                        "media_url": "http://pbs.twimg.com/media/EL53knYUYAErqL2.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EL53knYUYAErqL2.jpg",
+                        "url": "https://t.co/ODjm7d7aSa",
+                        "display_url": "pic.twitter.com/ODjm7d7aSa",
+                        "expanded_url": "https://twitter.com/9n7eWQtutsamatw/status/1206533231249506304/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 503,
+                                "h": 579,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 503,
+                                "h": 579,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 503,
+                                "h": 579,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            179,
+                            202
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    },
+                    {
+                        "id": 1206533221111877632,
+                        "id_str": "1206533221111877632",
+                        "media_url": "http://pbs.twimg.com/media/EL53knYU0AAaDHq.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EL53knYU0AAaDHq.jpg",
+                        "url": "https://t.co/ODjm7d7aSa",
+                        "display_url": "pic.twitter.com/ODjm7d7aSa",
+                        "expanded_url": "https://twitter.com/9n7eWQtutsamatw/status/1206533231249506304/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 949,
+                                "h": 1024,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 630,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 949,
+                                "h": 1024,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            179,
+                            202
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 233,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "地球温暖化詐欺師のグレタさんの新たな詐欺が、ドイツ鉄道によってバラされる。\n\nただ怒るだけでノーベル賞候補にまでなった時点で、誰もが違和感しかなかったが、彼女のやることなすこと違和感しかないのは、全てが本当にインチキだから。\nhttps://t.co/3qQq2mIgt1\n\n彼女の背後にいるのは原発利権‼︎ https://t.co/jrLflWSyJO https://t.co/ODjm7d7aSa",
+            "has_extended_profile": false,
+            "id": 1206533231249506304,
+            "id_str": "1206533231249506304",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 1206460931829403653,
+            "quoted_status_id_str": "1206460931829403653",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 196,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+            "scopes": null,
+            "text": "地球温暖化詐欺師のグレタさんの新たな詐欺が、ドイツ鉄道によってバラされる。\n\nただ怒るだけでノーベル賞候補にまでなった時\ufffd\ufffd",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Aug 21 11:18:05 +0000 2018",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "マスコミもジャーナリストも嘘しか言わない。本当のことが伝わり、本当のことだけが知られる社会にしたい。それが私の願いです。",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/DqjVLsg7ZR",
+                                "display_url": "rapt-neo.com",
+                                "expanded_url": "https://rapt-neo.com"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 3414,
+                "follow_request_sent": false,
+                "followers_count": 1102,
+                "following": false,
+                "friends_count": 26,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 1031863002243391489,
+                "id_str": "1031863002243391489",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 14,
+                "location": "",
+                "name": "時計仕掛けのオレンジ",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1031863002243391489/1534986056",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1031909667289542658/S8kxtlHt_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1031909667289542658/S8kxtlHt_normal.jpg",
+                "profile_link_color": "FAB81E",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "9n7eWQtutsamatw",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 1141,
+                "time_zone": "",
+                "url": "https://t.co/DqjVLsg7ZR",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "COP25 開催地スペイン\n\n上空の旅客機は、開催国の字も見えない程の数❗️\n\nグレタさん、席を予約した方が無駄な燃料も",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Nov 10 07:19:46 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "熊本地震のお陰で真実に出会い目覚めました。この世のカラクリを多くの人に伝えたいです。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/AZWFv7g4It",
+                            "display_url": "rapt-neo.com",
+                            "expanded_url": "http://rapt-neo.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 10753,
+            "follow_request_sent": false,
+            "followers_count": 148,
+            "following": false,
+            "friends_count": 49,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1061156444668489728,
+            "id_str": "1061156444668489728",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 4,
+            "location": "",
+            "name": "Zhuyang",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1061156444668489728/1570523244",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1198889059470282754/1i4aHyDR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198889059470282754/1i4aHyDR_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Zhuyang201704",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 7874,
+            "time_zone": "",
+            "url": "https://t.co/AZWFv7g4It",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @Zhuyang201704: COP25 開催地スペイン\n\n上空の旅客機は、開催国の字も見えない程の数❗️\n\nグレタさん、席",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 02 10:16:46 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "日々の繋がりを 大事にしよう！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/3iY2RLYvCt",
+                        "display_url": "ameblo.jp/katuhiko-t/",
+                        "expanded_url": "http://ameblo.jp/katuhiko-t/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 42281,
+        "follow_request_sent": false,
+        "followers_count": 1314,
+        "following": false,
+        "friends_count": 1335,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 110663969,
+        "id_str": "110663969",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 3,
+        "location": "高知県高知市",
+        "name": "高橋勝彦",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/110663969/1539642828",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1045236657123807232/ITqWJypn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045236657123807232/ITqWJypn_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tuincuru",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 38988,
+        "time_zone": "",
+        "url": "https://t.co/3iY2RLYvCt",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

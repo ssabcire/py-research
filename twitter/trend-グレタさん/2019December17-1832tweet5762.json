@@ -1,0 +1,462 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:02:30 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [
+            {
+                "indices": [
+                    18,
+                    22
+                ],
+                "text": "グレタ"
+            },
+            {
+                "indices": [
+                    64,
+                    69
+                ],
+                "text": "仁藤夢乃"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "マス対コア",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "MASS_VS_CORE",
+                "id": 1096837453032214528,
+                "id_str": "1096837453032214528"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @MASS_VS_CORE: #グレタ さん「本当に危険なのは、小泉のような政治家が対策するフリだけで何もしないこと」\n\n#仁藤夢乃 さん「16歳のグレタさんに世界のリーダーが噛みつくのは、彼女の発言が本質を突いているから！人格を貶める口撃は声をあげた女性達に繰り返されて…",
+    "has_extended_profile": false,
+    "id": 1206786723864166402,
+    "id_str": "1206786723864166402",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 918,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 14:45:29 +0000 2019",
+        "display_text_range": [
+            0,
+            152
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [
+                {
+                    "indices": [
+                        0,
+                        4
+                    ],
+                    "text": "グレタ"
+                },
+                {
+                    "indices": [
+                        46,
+                        51
+                    ],
+                    "text": "仁藤夢乃"
+                },
+                {
+                    "indices": [
+                        129,
+                        139
+                    ],
+                    "text": "サンデーモーニング"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206223672693772290,
+                    "id_str": "1206223672693772290",
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206223672693772290/pu/img/LRjb5pIBIzz2qx9_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206223672693772290/pu/img/LRjb5pIBIzz2qx9_.jpg",
+                    "url": "https://t.co/X1e1X3ijWv",
+                    "display_url": "pic.twitter.com/X1e1X3ijWv",
+                    "expanded_url": "https://twitter.com/MASS_VS_CORE/status/1206223760501530625/video/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        153,
+                        176
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206223672693772290,
+                    "id_str": "1206223672693772290",
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206223672693772290/pu/img/LRjb5pIBIzz2qx9_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206223672693772290/pu/img/LRjb5pIBIzz2qx9_.jpg",
+                    "url": "https://t.co/X1e1X3ijWv",
+                    "display_url": "pic.twitter.com/X1e1X3ijWv",
+                    "expanded_url": "https://twitter.com/MASS_VS_CORE/status/1206223760501530625/video/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "video",
+                    "indices": [
+                        153,
+                        176
+                    ],
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 116200,
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1206223672693772290/pu/pl/AIabo8XoNIJCMlfw.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1206223672693772290/pu/vid/640x360/i-fBbUISSqRhi9O0.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1206223672693772290/pu/vid/480x270/-cRMDcH8t1UvWUu4.mp4?tag=10"
+                            }
+                        ]
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1979,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "#グレタ さん「本当に危険なのは、小泉のような政治家が対策するフリだけで何もしないこと」\n\n#仁藤夢乃 さん「16歳のグレタさんに世界のリーダーが噛みつくのは、彼女の発言が本質を突いているから！人格を貶める口撃は声をあげた女性達に繰り返されてきたやり方」\n\n#サンデーモーニング (2019.12.15) https://t.co/X1e1X3ijWv",
+        "has_extended_profile": false,
+        "id": 1206223760501530625,
+        "id_str": "1206223760501530625",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 918,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "#グレタ さん「本当に危険なのは、小泉のような政治家が対策するフリだけで何もしないこと」\n\n#仁藤夢乃 さん\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Feb 16 18:23:21 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "怒れる者の歌が聞こえるか？戦え！それが自由への道『あなたがすることのほとんどは無意味であるが、それでもしなくてはならない。そうしたことをするのは、世界を変えるためではなく、世界によって自分が変えられないようにするためである。』(ガンジー) 『最大の悲劇は、悪人の圧制や残酷さではなく、善人の沈黙である。』(キング牧師)",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 8762,
+            "follow_request_sent": false,
+            "followers_count": 2668,
+            "following": false,
+            "friends_count": 2520,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1096837453032214528,
+            "id_str": "1096837453032214528",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 21,
+            "location": "",
+            "name": "マス対コア",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1096837453032214528/1550428213",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1097137845985144837/k4JLZCPu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097137845985144837/k4JLZCPu_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "MASS_VS_CORE",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 4943,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @MASS_VS_CORE: #グレタ さん「本当に危険なのは、小泉のような政治家が対策するフリだけで何もしないこ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 29 13:10:16 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Armie Hammer, Henry Cavill,\nJesse Eisenberg,Mark Ruffalo,Ethan Hawke\nRyan Reynolds, Paul Dano…etc.増え続ける沼！ \n節操なく新しい沼にハマっていきます‼\n\n勝手にフォロー、ファボ、リツイすみませんm(__)m",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 75851,
+        "follow_request_sent": false,
+        "followers_count": 111,
+        "following": false,
+        "friends_count": 438,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 704292604750360576,
+        "id_str": "704292604750360576",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 12,
+        "location": "",
+        "name": "mosuke",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/704292604750360576/1483288865",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/806447081560817665/TBZDNHdP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/806447081560817665/TBZDNHdP_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mosukemaro",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 48370,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

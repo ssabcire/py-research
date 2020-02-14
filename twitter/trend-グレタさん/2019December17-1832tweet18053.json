@@ -1,0 +1,341 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 22:55:42 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "K.....",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "K_1999_05_10_",
+                "id": 934801232098504710,
+                "id_str": "934801232098504710"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @K_1999_05_10_: 16歳のグレタさんとやら。\n\n抗議のためとはいえ、\n『学校を休むっていう選択』\nをしてしまう子だっていうことよ。\n\nまだまだ“子供”なわけよ。\n\nなにが言いたいって？\n\n担ぐのは勝手だが、\n周囲は彼女の未来を考えろや。\n\nこのままじゃ、\n残…",
+    "has_extended_profile": false,
+    "id": 1206709516168908801,
+    "id_str": "1206709516168908801",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 10:01:11 +0000 2019",
+        "display_text_range": [
+            0,
+            149
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [
+                {
+                    "indices": [
+                        136,
+                        142
+                    ],
+                    "text": "ドイツ鉄道"
+                },
+                {
+                    "indices": [
+                        143,
+                        149
+                    ],
+                    "text": "帰りの電車"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 17,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "16歳のグレタさんとやら。\n\n抗議のためとはいえ、\n『学校を休むっていう選択』\nをしてしまう子だっていうことよ。\n\nまだまだ“子供”なわけよ。\n\nなにが言いたいって？\n\n担ぐのは勝手だが、\n周囲は彼女の未来を考えろや。\n\nこのままじゃ、\n残念な大人になる未来だと思う。\n\n#ドイツ鉄道　#帰りの電車",
+        "has_extended_profile": false,
+        "id": 1206514600197312512,
+        "id_str": "1206514600197312512",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 6,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "16歳のグレタさんとやら。\n\n抗議のためとはいえ、\n『学校を休むっていう選択』\nをしてしまう子だっていうこ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Nov 26 15:09:16 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "高校を半年でリタイアして翌年から社会人です。照準は2022春。同学年が新卒の年に社会人7年目。高学歴どもの看板に泥をぬるべく。あ、性格はクズなんて指標をとーに振りきってます笑。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 39,
+            "follow_request_sent": false,
+            "followers_count": 6,
+            "following": false,
+            "friends_count": 8,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 934801232098504710,
+            "id_str": "934801232098504710",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 0,
+            "location": "",
+            "name": "K.....",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/934801232098504710/1534443559",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1030157382267981824/3xjLNg02_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1030157382267981824/3xjLNg02_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "K_1999_05_10_",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 62,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\"\u003eTweetbot for iΟS\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @K_1999_05_10_: 16歳のグレタさんとやら。\n\n抗議のためとはいえ、\n『学校を休むっていう選択』\nをしてし\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 21 14:49:16 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "昔は電動バイク作ったりエンジン弄ったりミニ蒸気機関作ったりしてた、今はコス衣装製作とか羊毛フェルトマスコットとか、主にひでりんコスでサイフォン使ってコーヒー淹れたりいろいろするねこ とにかくひでりんが可愛くてつらい、ひでりん可愛い  アイコンはカメロー🐢様(@Kame_Low )より",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/fsj1rGXyn0",
+                        "display_url": "amazon.co.jp/registry/wishl…",
+                        "expanded_url": "https://www.amazon.co.jp/registry/wishlist/216PKSZKS68PZ/ref=cm_sw_em_r_mt_awwl_L_ojYjCbDGG2E2D"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 168431,
+        "follow_request_sent": false,
+        "followers_count": 2213,
+        "following": false,
+        "friends_count": 2176,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 205753997,
+        "id_str": "205753997",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 77,
+        "location": "欲しいものリスト↓",
+        "name": "ふぇるねこ@冬コミ2日目コス参加",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/205753997/1569108803",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1105117666853806080/byERydxX_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105117666853806080/byERydxX_normal.png",
+        "profile_link_color": "62EAA3",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kujyou_neko",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 344721,
+        "time_zone": "",
+        "url": "https://t.co/fsj1rGXyn0",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

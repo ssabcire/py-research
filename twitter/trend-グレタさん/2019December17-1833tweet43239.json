@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:04:42 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    57,
+                    80
+                ],
+                "url": "https://t.co/NHLOK7RnHi",
+                "display_url": "asahi.com/articles/ASMDH…",
+                "expanded_url": "https://www.asahi.com/articles/ASMDH6VQYMDGULBJ00F.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "大貫剛",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "ohnuki_tsuyoshi",
+                "id": 61119519,
+                "id_str": "61119519"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @ohnuki_tsuyoshi: グレタさんの訴え届かず　日本、削減目標引き上げスルー：朝日新聞デジタル https://t.co/NHLOK7RnHi そりゃそうだろ、原発やめたんだもの。原発を厳しく批判してきた朝日新聞こそ、率先して「だったらまた原発事故を起こせと言…",
+    "has_extended_profile": false,
+    "id": 1206530585729986560,
+    "id_str": "1206530585729986560",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2857,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 14:55:40 +0000 2019",
+        "display_text_range": [
+            0,
+            142
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        36,
+                        59
+                    ],
+                    "url": "https://t.co/NHLOK7RnHi",
+                    "display_url": "asahi.com/articles/ASMDH…",
+                    "expanded_url": "https://www.asahi.com/articles/ASMDH6VQYMDGULBJ00F.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 3949,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんの訴え届かず　日本、削減目標引き上げスルー：朝日新聞デジタル https://t.co/NHLOK7RnHi そりゃそうだろ、原発やめたんだもの。原発を厳しく批判してきた朝日新聞こそ、率先して「だったらまた原発事故を起こせと言うのか、森を切れと言うのか」と反論するべきでは。",
+        "has_extended_profile": false,
+        "id": 1206226320323051520,
+        "id_str": "1206226320323051520",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2857,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんの訴え届かず　日本、削減目標引き上げスルー：朝日新聞デジタル https://t.co/NHLOK7RnHi そりゃそ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Jul 29 05:09:34 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "「世界」を宇宙に拡げることを仕事にしたいと考える自営業者。主な仕事は科学ライター。主な趣味はパラグライダー。フォローしていない方のmention通知は切っているので気付かないことがあります。お仕事に関する依頼・お問い合わせは contact@下記URLのドメイン のメールへお願いします。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/Ey95kLFnnS",
+                            "display_url": "space-opinion.info",
+                            "expanded_url": "http://space-opinion.info/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 586,
+            "follow_request_sent": false,
+            "followers_count": 26020,
+            "following": false,
+            "friends_count": 1153,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 61119519,
+            "id_str": "61119519",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1359,
+            "location": "東京都豊島区",
+            "name": "大貫剛",
+            "notifications": false,
+            "profile_background_color": "709397",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/61119519/1402614624",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/685101920738881537/6-h_UvEY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/685101920738881537/6-h_UvEY_normal.jpg",
+            "profile_link_color": "FF3300",
+            "profile_sidebar_border_color": "86A4A6",
+            "profile_sidebar_fill_color": "A0C5C7",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "ohnuki_tsuyoshi",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 240575,
+            "time_zone": "",
+            "url": "https://t.co/Ey95kLFnnS",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @ohnuki_tsuyoshi: グレタさんの訴え届かず　日本、削減目標引き上げスルー：朝日新聞デジタル https://t.co/",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 07 13:59:00 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "20歳↑　雑食で色々見ます",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 5787,
+        "follow_request_sent": false,
+        "followers_count": 15,
+        "following": false,
+        "friends_count": 133,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 883324474392584192,
+        "id_str": "883324474392584192",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "おのり",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1118100452300615681/3_ZezMSY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1118100452300615681/3_ZezMSY_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ronrom559fgo",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 2850,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

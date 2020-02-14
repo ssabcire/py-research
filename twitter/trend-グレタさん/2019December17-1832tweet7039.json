@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:35:29 +0000 2019",
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/qnfV0Ld0xd",
+                "display_url": "headlines.yahoo.co.jp/hl?a=20191216-…",
+                "expanded_url": "https://headlines.yahoo.co.jp/hl?a=20191216-35146920-cnn-int"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "\u0026gt;さらに、混雑した列車は発展のシンボルだとも主張、「混雑し過ぎの電車は素晴らしい兆候。なぜなら列車の需要が高いことを意味するから！」とツイートしている。\n\nドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容され\n\nhttps://t.co/qnfV0Ld0xd",
+    "has_extended_profile": false,
+    "id": 1206779922443669504,
+    "id_str": "1206779922443669504",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+    "scopes": null,
+    "text": "\u0026gt;さらに、混雑した列車は発展のシンボルだとも主張、「混雑し過ぎの電車は素晴らしい兆候。なぜな",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 17 04:34:49 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "つ ◕_◕ ༽つ📛\n昔からよく言うけど、ママには逆らうなって事ね",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1462,
+        "follow_request_sent": false,
+        "followers_count": 519,
+        "following": false,
+        "friends_count": 1322,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 74933331,
+        "id_str": "74933331",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 39,
+        "location": "カニ",
+        "name": "sntk",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/74933331/1491800419",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1182928239745855489/9xuhcM4c_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1182928239745855489/9xuhcM4c_normal.png",
+        "profile_link_color": "D64F4F",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sntk",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 154325,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

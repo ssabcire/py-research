@@ -1,0 +1,356 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 20:35:31 +0000 2019",
+    "display_text_range": [
+        0,
+        77
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    41,
+                    64
+                ],
+                "url": "https://t.co/B5LVNZITRk",
+                "display_url": "twitter.com/i/events/12066…",
+                "expanded_url": "https://twitter.com/i/events/1206600997478383617"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "コタチ⚔",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "U10_SUKI",
+                "id": 895036639,
+                "id_str": "895036639"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @U10_SUKI: グレタさん「帰りの列車は超満員」 ドイツ鉄道が応酬  https://t.co/B5LVNZITRk\n\nこいつぁ一本とられたな",
+    "has_extended_profile": false,
+    "id": 1206674237169254401,
+    "id_str": "1206674237169254401",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 20:32:25 +0000 2019",
+        "display_text_range": [
+            0,
+            63
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        27,
+                        50
+                    ],
+                    "url": "https://t.co/B5LVNZITRk",
+                    "display_url": "twitter.com/i/events/12066…",
+                    "expanded_url": "https://twitter.com/i/events/1206600997478383617"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん「帰りの列車は超満員」 ドイツ鉄道が応酬  https://t.co/B5LVNZITRk\n\nこいつぁ一本とられたな",
+        "has_extended_profile": false,
+        "id": 1206673455413972993,
+        "id_str": "1206673455413972993",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん「帰りの列車は超満員」 ドイツ鉄\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Oct 21 09:54:37 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "20↑ モラルを著しく欠いたオタクのアカウンコ ツイットはよく消す RT非表示推奨 フォローの際はツイフィ必読でお願いします",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/yFR8DW8TDT",
+                            "display_url": "twpf.jp/U10_SUKI",
+                            "expanded_url": "http://twpf.jp/U10_SUKI"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 83066,
+            "follow_request_sent": false,
+            "followers_count": 318,
+            "following": false,
+            "friends_count": 237,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 895036639,
+            "id_str": "895036639",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 7,
+            "location": "",
+            "name": "コタチ⚔",
+            "notifications": false,
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/895036639/1547152530",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1158139003167625216/tSMmzdga_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158139003167625216/tSMmzdga_normal.jpg",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "C6E2EE",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "U10_SUKI",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 83527,
+            "time_zone": "",
+            "url": "https://t.co/yFR8DW8TDT",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @U10_SUKI: グレタさん「帰りの列車は超満員」 ドイツ鉄\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 06 09:59:16 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Looneytunes/KungFuPanda/Talespin/WeBareBears/and more/humanization/NSFW/　裏@imotagore",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/uiG3LZAZtE",
+                        "display_url": "imotaco.booth.pm",
+                        "expanded_url": "https://imotaco.booth.pm/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 31264,
+        "follow_request_sent": false,
+        "followers_count": 657,
+        "following": false,
+        "friends_count": 548,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 572484104,
+        "id_str": "572484104",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 45,
+        "location": "フォグホーンの胎内とアブダビ",
+        "name": "トーンベタ①100%②55%③12/20",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/572484104/1568302400",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1206660969721556992/m4t3Dxgj_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1206660969721556992/m4t3Dxgj_normal.png",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "12291F",
+        "profile_text_color": "547B61",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "imotaco",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 137854,
+        "time_zone": "",
+        "url": "https://t.co/uiG3LZAZtE",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

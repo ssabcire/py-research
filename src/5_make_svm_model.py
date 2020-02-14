@@ -24,11 +24,12 @@ def run_svm(csv_path: Path, w2v=True):
         SVC(),
         param_grid={'C': [0.001, 0.01, 0.1, 1, 10, 100],
                     'gamma': [0.001, 0.01, 0.1, 1, 10, 100]},
-        cv=StratifiedShuffleSplit(n_splits=5, test_size=0.2, random_state=5)
+        cv=StratifiedShuffleSplit(n_splits=6, test_size=0.2, random_state=5)
     )
 
     clf.fit(X, y)
     print(clf.best_score_)
+    print(clf.best_params_)
     return clf.best_score_
 
 
@@ -37,7 +38,7 @@ if __name__ == "__main__":
     csv_path = cwd / 'trend-グレタさん-validVector.csv'
 
     # ラベルがつけられたツイートのみで学習, W2V
-    a = run_svm(csv_path, True)
+    # a = run_svm(csv_path, True)
     # ラベルがつけられたツイートのみで学習, BoW
     b = run_svm(csv_path, False)
     # print(b-a)

@@ -1,0 +1,657 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 01:14:13 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "井野達也",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "inocche2222",
+                "id": 3223622010,
+                "id_str": "3223622010"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @inocche2222: 【グレタさんが健気な自分を演出？\nドイツ鉄道から実態を指摘さられる】\n\nもともと中身がスカスカな主張だったグレタさん。\n\n世間の耳目を集めすぎ、自説の稚拙さが露呈。\n\nCOP25でも有効で論理的な主張がなく低評価。\n\n帰途、健気な私を演出するも…",
+    "has_extended_profile": false,
+    "id": 1206744373297213441,
+    "id_str": "1206744373297213441",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206739281546334208,
+    "quoted_status_id_str": "1206739281546334208",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 7,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 01:13:16 +0000 2019",
+        "display_text_range": [
+            0,
+            148
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        149,
+                        172
+                    ],
+                    "url": "https://t.co/KtdE7fLR4q",
+                    "display_url": "twitter.com/seitokamiyo/st…",
+                    "expanded_url": "https://twitter.com/seitokamiyo/status/1206739281546334208"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        129,
+                        133
+                    ],
+                    "text": "グレタ"
+                },
+                {
+                    "indices": [
+                        139,
+                        143
+                    ],
+                    "text": "温暖化"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 8,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "【グレタさんが健気な自分を演出？\nドイツ鉄道から実態を指摘さられる】\n\nもともと中身がスカスカな主張だったグレタさん。\n\n世間の耳目を集めすぎ、自説の稚拙さが露呈。\n\nCOP25でも有効で論理的な主張がなく低評価。\n\n帰途、健気な私を演出するものの自爆。\n\n#グレタ　バレた😅\n#温暖化　非科学的 https://t.co/KtdE7fLR4q",
+        "has_extended_profile": false,
+        "id": 1206744134741970945,
+        "id_str": "1206744134741970945",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206739281546334208,
+        "quoted_status_id_str": "1206739281546334208",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Dec 17 00:53:59 +0000 2019",
+            "display_text_range": [
+                0,
+                200
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "indices": [
+                            177,
+                            200
+                        ],
+                        "url": "https://t.co/R1PxA7Wwj1",
+                        "display_url": "twitter.com/afpbbcom/statu…",
+                        "expanded_url": "https://twitter.com/afpbbcom/status/1206687975733637120"
+                    }
+                ],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": [
+                    {
+                        "id": 1206739276504784896,
+                        "id_str": "1206739276504784896",
+                        "media_url": "http://pbs.twimg.com/media/EL8y-niUYAAMUzq.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EL8y-niUYAAMUzq.jpg",
+                        "url": "https://t.co/6xDg7xvrY3",
+                        "display_url": "pic.twitter.com/6xDg7xvrY3",
+                        "expanded_url": "https://twitter.com/seitokamiyo/status/1206739281546334208/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 225,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 128,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 240,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            201,
+                            224
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": [
+                    {
+                        "id": 1206739276504784896,
+                        "id_str": "1206739276504784896",
+                        "media_url": "http://pbs.twimg.com/media/EL8y-niUYAAMUzq.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EL8y-niUYAAMUzq.jpg",
+                        "url": "https://t.co/6xDg7xvrY3",
+                        "display_url": "pic.twitter.com/6xDg7xvrY3",
+                        "expanded_url": "https://twitter.com/seitokamiyo/status/1206739281546334208/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 225,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 128,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 240,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            201,
+                            224
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    },
+                    {
+                        "id": 1206739276513214464,
+                        "id_str": "1206739276513214464",
+                        "media_url": "http://pbs.twimg.com/media/EL8y-nkVAAA3Kwy.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EL8y-nkVAAA3Kwy.jpg",
+                        "url": "https://t.co/6xDg7xvrY3",
+                        "display_url": "pic.twitter.com/6xDg7xvrY3",
+                        "expanded_url": "https://twitter.com/seitokamiyo/status/1206739281546334208/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 750,
+                                "h": 897,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 569,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 750,
+                                "h": 897,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            201,
+                            224
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 14,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "Deutsche Bahnが皮肉りたくなる気持ちは分かるわ。\n\nバーゼル5:32発 ICE676\nマンハイム8:00着\n乗り換え 8:06発 ICE772\n   ゲッティンゲンはこの途中\nハンブルク12:35着\nで、ストックホルム 23:41着\n\n１日で行こうとするとこれしかない。バーゼル→マンハイムと乗換後Göttingenまで満席？\n考えにくい。 https://t.co/R1PxA7Wwj1 https://t.co/6xDg7xvrY3",
+            "has_extended_profile": false,
+            "id": 1206739281546334208,
+            "id_str": "1206739281546334208",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 1206687975733637120,
+            "quoted_status_id_str": "1206687975733637120",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 7,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+            "scopes": null,
+            "text": "Deutsche Bahnが皮肉りたくなる気持ちは分かるわ。\n\nバーゼル5:32発 ICE676\nマンハイム8:00着\n乗り換え 8:06発 ICE772\n   ゲッティンゲンはこの途中\nハンブルク1",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Aug 17 04:01:44 +0000 2015",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "ホントは歌のレッスン、ドイツ語等のアカウントのはずですが、実は殆ど関係無いことばかり。当分投げやりモードです。※🇯🇵反日はもとより、国益や損得度外視の人は苦手です。風刺、ドイツ語、四柱推命、神社仏閣、当方からの無言フォローお許し下さい。",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/9m4jdfQ2Z4",
+                                "display_url": "blog.livedoor.jp/artmusik/",
+                                "expanded_url": "http://blog.livedoor.jp/artmusik/"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 45022,
+                "follow_request_sent": false,
+                "followers_count": 2209,
+                "following": false,
+                "friends_count": 2273,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 3317428039,
+                "id_str": "3317428039",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 13,
+                "location": "大阪市中央区",
+                "name": "アート音楽教室",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3317428039/1575267644",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1201385687037050881/Wca2xVcL_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201385687037050881/Wca2xVcL_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "seitokamiyo",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 33292,
+                "time_zone": "",
+                "url": "https://t.co/9m4jdfQ2Z4",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 7,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "【グレタさんが健気な自分を演出？\nドイツ鉄道から実態を指摘さられる】\n\nもともと中身がスカスカな主張だ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri May 22 21:50:32 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "武田邦彦先生推しなので真ん中よりチョイ左\nのはずでしたがすぐに［ネトウヨ］認定されます。\n日本が左に傾きすぎなだけだと思うのですがね。\n\nちなみに韓国などへの民族ヘイトも目に余れば注意・通報します。\n\n夜郎自大なパヨクはきらいです、でも民族ヘイトを撒き散らすネトウヨはもっときらいです。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 47326,
+            "follow_request_sent": false,
+            "followers_count": 551,
+            "following": false,
+            "friends_count": 497,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 3223622010,
+            "id_str": "3223622010",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 9,
+            "location": "",
+            "name": "井野達也",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3223622010/1490599601",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1043448912000892929/BdUuQE79_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043448912000892929/BdUuQE79_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "inocche2222",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 9536,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @inocche2222: 【グレタさんが健気な自分を演出？\nドイツ鉄道から実態を指摘さられる】\n\nもともと中身が",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 17 04:01:44 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ホントは歌のレッスン、ドイツ語等のアカウントのはずですが、実は殆ど関係無いことばかり。当分投げやりモードです。※🇯🇵反日はもとより、国益や損得度外視の人は苦手です。風刺、ドイツ語、四柱推命、神社仏閣、当方からの無言フォローお許し下さい。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9m4jdfQ2Z4",
+                        "display_url": "blog.livedoor.jp/artmusik/",
+                        "expanded_url": "http://blog.livedoor.jp/artmusik/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 45022,
+        "follow_request_sent": false,
+        "followers_count": 2209,
+        "following": false,
+        "friends_count": 2273,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 3317428039,
+        "id_str": "3317428039",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 13,
+        "location": "大阪市中央区",
+        "name": "アート音楽教室",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3317428039/1575267644",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1201385687037050881/Wca2xVcL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201385687037050881/Wca2xVcL_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "seitokamiyo",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 33292,
+        "time_zone": "",
+        "url": "https://t.co/9m4jdfQ2Z4",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

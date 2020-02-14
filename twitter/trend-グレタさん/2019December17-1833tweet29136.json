@@ -1,0 +1,316 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:51:56 +0000 2019",
+    "display_text_range": [
+        0,
+        132
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "HAL@古き悪しき時代大好き侍",
+                "indices": [
+                    3,
+                    11
+                ],
+                "screen_name": "HAL9152",
+                "id": 497691408,
+                "id_str": "497691408"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @HAL9152: グレタさんは今でこそ稚拙で浅はかな言動が目立つけれどこれを数年間続ければ\n「何が良くて何が悪いか。どうすれば批判を避けられるか」\nを学ぶはずなので、そうなると最早ネットを使った多少の批判程度では揺るがない究極完全体活動家になる可能性がある",
+    "has_extended_profile": false,
+    "id": 1206587770606501894,
+    "id_str": "1206587770606501894",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 45,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 14:11:53 +0000 2019",
+        "display_text_range": [
+            0,
+            119
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 147,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんは今でこそ稚拙で浅はかな言動が目立つけれどこれを数年間続ければ\n「何が良くて何が悪いか。どうすれば批判を避けられるか」\nを学ぶはずなので、そうなると最早ネットを使った多少の批判程度では揺るがない究極完全体活動家になる可能性がある",
+        "has_extended_profile": false,
+        "id": 1206577690620284928,
+        "id_str": "1206577690620284928",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 45,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんは今でこそ稚拙で浅はかな言動が目立つけれどこれを数年間続ければ\n「何が\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Feb 20 08:02:39 +0000 2012",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "WW1〜WW2という人類暗黒時代を調べたりツェッペリン級飛行船に関してTweetするオタク。アニメと百合を愛している。マリみてをすこれ。SR400というバイクを購入したライダーでもあるよ。質問箱→ https://t.co/137aCzy6Wt",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 31502,
+            "follow_request_sent": false,
+            "followers_count": 8282,
+            "following": false,
+            "friends_count": 1042,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 497691408,
+            "id_str": "497691408",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 128,
+            "location": "",
+            "name": "HAL@古き悪しき時代大好き侍",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/497691408/1435837267",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1172129928545894401/mX5ffMj3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1172129928545894401/mX5ffMj3_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "HAL9152",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 79196,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @HAL9152: グレタさんは今でこそ稚拙で浅はかな言動が目立つけれどこれを数年間続ければ\n「何が\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 14 13:18:53 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "すおみさん。\n模型(戦車)\nサバゲ(海軍陸戦隊、海自)\n音楽(HM、HR、パンク、メロコア)が好き。\nお好み焼きが食えるミリタリーBARを呉市で経営するのが目標。経営の勉強しながら実家でヘルパー派遣事業やってます。\n芸大出身で艦艇勤務を1任期3年間やってました。K363期練。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 14093,
+        "follow_request_sent": false,
+        "followers_count": 313,
+        "following": false,
+        "friends_count": 483,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1040590709072441344,
+        "id_str": "1040590709072441344",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "兵庫県神戸市➡広島県呉市➡兵庫県神戸市",
+        "name": "須臣さん@目指せヘタウマ",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1040590709072441344/1559119567",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1136798558063960065/adhMc0bC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1136798558063960065/adhMc0bC_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "snafkin16",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 4162,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

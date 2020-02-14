@@ -1,0 +1,164 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:40:41 +0000 2019",
+    "display_text_range": [
+        13,
+        51
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "闇の麻薬王よよちー@バイオキラーUにFB",
+                "indices": [
+                    0,
+                    12
+                ],
+                "screen_name": "yoyochi_DQX",
+                "id": 867316879660007425,
+                "id_str": "867316879660007425"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@yoyochi_DQX あ、因みにグレタさんはヴィーガン（笑）ですよ🥺\n\nこの会話聞いたら発狂しそう",
+    "has_extended_profile": false,
+    "id": 1206781233134354432,
+    "id_str": "1206781233134354432",
+    "in_reply_to_screen_name": "yoyochi_DQX",
+    "in_reply_to_status_id": 1206778297108975616,
+    "in_reply_to_status_id_str": "1206778297108975616",
+    "in_reply_to_user_id": 867316879660007425,
+    "in_reply_to_user_id_str": "867316879660007425",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "あ、因みにグレタさんはヴ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 28 09:47:32 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "レグナードとドダイトスが好き。亀と猫も好き。バンドリが楽しすぎて肩凝り悪化しました。棍持ってレグをぽこぽこ！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 7655,
+        "follow_request_sent": false,
+        "followers_count": 81,
+        "following": false,
+        "friends_count": 79,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1133308817352011776,
+        "id_str": "1133308817352011776",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "日常ツイートが多い垢はこちら",
+        "name": "NEARA",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1133308817352011776/1569054058",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1190173932344815616/YaDyOxb-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190173932344815616/YaDyOxb-_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "241307_aingen",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 4482,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

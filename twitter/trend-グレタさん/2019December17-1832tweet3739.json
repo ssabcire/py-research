@@ -1,0 +1,253 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:07:23 +0000 2019",
+    "display_text_range": [
+        0,
+        70
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": [
+            {
+                "id": 1206803046182707200,
+                "id_str": "1206803046182707200",
+                "media_url": "http://pbs.twimg.com/media/EL9s-gGUYAAT-c4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL9s-gGUYAAT-c4.jpg",
+                "url": "https://t.co/xacAyyXhFd",
+                "display_url": "pic.twitter.com/xacAyyXhFd",
+                "expanded_url": "https://twitter.com/hazimesama0215/status/1206803050385461248/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1008,
+                        "h": 526,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 355,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1008,
+                        "h": 526,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    71,
+                    94
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206803046182707200,
+                "id_str": "1206803046182707200",
+                "media_url": "http://pbs.twimg.com/media/EL9s-gGUYAAT-c4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL9s-gGUYAAT-c4.jpg",
+                "url": "https://t.co/xacAyyXhFd",
+                "display_url": "pic.twitter.com/xacAyyXhFd",
+                "expanded_url": "https://twitter.com/hazimesama0215/status/1206803050385461248/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1008,
+                        "h": 526,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 355,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1008,
+                        "h": 526,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    71,
+                    94
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 4,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "ドイツ鉄道に感謝の意を表せなく皮肉られたグレタさんにとって、特大ブーメランになってしまった(笑)環境活動の前に、人としての礼節を学ぶべきやな https://t.co/xacAyyXhFd",
+    "has_extended_profile": false,
+    "id": 1206803050385461248,
+    "id_str": "1206803050385461248",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "ドイツ鉄道に感謝の意を表せなく皮肉られたグレタ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 18 03:46:49 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ON▷ I started a business on May 16, 2000. OFF▶︎ジャンル問わず音楽を楽しんでます/推しはイベノ参照/筋トレ歴15年目/LEXUS LX570owner/ATV-aDrumsUser🥁/I started playing drums on November 20, 2018",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/vAQWnPDsef",
+                        "display_url": "eventernote.com/users/hazimesa…",
+                        "expanded_url": "https://www.eventernote.com/users/hazimesama0215"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 88085,
+        "follow_request_sent": false,
+        "followers_count": 9089,
+        "following": false,
+        "friends_count": 8917,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 830310458,
+        "id_str": "830310458",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 84,
+        "location": "くそったれな世の中に生きる意味を探してます",
+        "name": "はじめちゃん",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/830310458/1521157742",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1167822871202168832/DvzeOofC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1167822871202168832/DvzeOofC_normal.jpg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hazimesama0215",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 549233,
+        "time_zone": "",
+        "url": "https://t.co/vAQWnPDsef",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

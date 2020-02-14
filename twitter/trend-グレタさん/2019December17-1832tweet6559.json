@@ -1,0 +1,706 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:45:02 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    109,
+                    132
+                ],
+                "url": "https://t.co/byVs2oe23a",
+                "display_url": "twitter.com/ezralevant/sta…",
+                "expanded_url": "https://twitter.com/ezralevant/status/1204408758731988992"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "漣改🇯🇵",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "sazanamimod",
+                "id": 2306908489,
+                "id_str": "2306908489"
+            },
+            {
+                "name": "かぐらん＠ぐっどるーさー",
+                "indices": [
+                    17,
+                    25
+                ],
+                "screen_name": "kagglan",
+                "id": 153026750,
+                "id_str": "153026750"
+            },
+            {
+                "name": "nico2san",
+                "indices": [
+                    26,
+                    35
+                ],
+                "screen_name": "nico2san",
+                "id": 277429419,
+                "id_str": "277429419"
+            },
+            {
+                "name": "Dr. OKUYAMA Masashi",
+                "indices": [
+                    36,
+                    47
+                ],
+                "screen_name": "masatheman",
+                "id": 49297464,
+                "id_str": "49297464"
+            },
+            {
+                "name": "佐々木俊尚",
+                "indices": [
+                    48,
+                    63
+                ],
+                "screen_name": "sasakitoshinao",
+                "id": 3619961,
+                "id_str": "3619961"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @sazanamimod: @kagglan @nico2san @masatheman @sasakitoshinao グレタは中国を批判しないって論調は英語圏でもあります。バレタさんの心配しないでも大丈夫。\nhttps://t.co/byVs2oe23a\nhttps:…",
+    "has_extended_profile": false,
+    "id": 1206782328875315200,
+    "id_str": "1206782328875315200",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1204769664636579840,
+    "quoted_status_id_str": "1204769664636579840",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 02:43:40 +0000 2019",
+        "display_text_range": [
+            47,
+            246
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "url": "https://t.co/byVs2oe23a",
+                    "display_url": "twitter.com/ezralevant/sta…",
+                    "expanded_url": "https://twitter.com/ezralevant/status/1204408758731988992"
+                },
+                {
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "url": "https://t.co/XFZ8yXjjPH",
+                    "display_url": "twitter.com/Elladraws1/sta…",
+                    "expanded_url": "https://twitter.com/Elladraws1/status/1204769664636579840"
+                },
+                {
+                    "indices": [
+                        223,
+                        246
+                    ],
+                    "url": "https://t.co/vZeukbspey",
+                    "display_url": "forbes.com/sites/simonlac…",
+                    "expanded_url": "https://www.forbes.com/sites/simonlack/2019/11/26/greta-go-to-china/"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "かぐらん＠ぐっどるーさー",
+                    "indices": [
+                        0,
+                        8
+                    ],
+                    "screen_name": "kagglan",
+                    "id": 153026750,
+                    "id_str": "153026750"
+                },
+                {
+                    "name": "nico2san",
+                    "indices": [
+                        9,
+                        18
+                    ],
+                    "screen_name": "nico2san",
+                    "id": 277429419,
+                    "id_str": "277429419"
+                },
+                {
+                    "name": "Dr. OKUYAMA Masashi",
+                    "indices": [
+                        19,
+                        30
+                    ],
+                    "screen_name": "masatheman",
+                    "id": 49297464,
+                    "id_str": "49297464"
+                },
+                {
+                    "name": "佐々木俊尚",
+                    "indices": [
+                        31,
+                        46
+                    ],
+                    "screen_name": "sasakitoshinao",
+                    "id": 3619961,
+                    "id_str": "3619961"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@kagglan @nico2san @masatheman @sasakitoshinao グレタは中国を批判しないって論調は英語圏でもあります。バレタさんの心配しないでも大丈夫。\nhttps://t.co/byVs2oe23a\nhttps://t.co/XFZ8yXjjPH\nGreta, Go To China And Protest About Climate Change To The World’s Biggest Emitter\nhttps://t.co/vZeukbspey",
+        "has_extended_profile": false,
+        "id": 1206766883975786496,
+        "id_str": "1206766883975786496",
+        "in_reply_to_screen_name": "kagglan",
+        "in_reply_to_status_id": 1206739866723110912,
+        "in_reply_to_status_id_str": "1206739866723110912",
+        "in_reply_to_user_id": 153026750,
+        "in_reply_to_user_id_str": "153026750",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1204769664636579840,
+        "quoted_status_id_str": "1204769664636579840",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Dec 11 14:27:26 +0000 2019",
+            "display_text_range": [
+                15,
+                212
+            ],
+            "entities": {
+                "urls": [],
+                "hashtags": [
+                    {
+                        "indices": [
+                            73,
+                            79
+                        ],
+                        "text": "China"
+                    }
+                ],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [
+                    {
+                        "name": "Greta Thunberg",
+                        "indices": [
+                            0,
+                            14
+                        ],
+                        "screen_name": "GretaThunberg",
+                        "id": 1006419421244678144,
+                        "id_str": "1006419421244678144"
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1204769651927834624,
+                        "id_str": "1204769651927834624",
+                        "media_url": "http://pbs.twimg.com/media/ELgznYNUYAA0BAx.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/ELgznYNUYAA0BAx.jpg",
+                        "url": "https://t.co/aVjDLYtbW8",
+                        "display_url": "pic.twitter.com/aVjDLYtbW8",
+                        "expanded_url": "https://twitter.com/Elladraws1/status/1204769664636579840/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 1190,
+                                "h": 736,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 421,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1190,
+                                "h": 736,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            213,
+                            236
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": [
+                    {
+                        "id": 1204769651927834624,
+                        "id_str": "1204769651927834624",
+                        "media_url": "http://pbs.twimg.com/media/ELgznYNUYAA0BAx.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/ELgznYNUYAA0BAx.jpg",
+                        "url": "https://t.co/aVjDLYtbW8",
+                        "display_url": "pic.twitter.com/aVjDLYtbW8",
+                        "expanded_url": "https://twitter.com/Elladraws1/status/1204769664636579840/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 1190,
+                                "h": 736,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 421,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1190,
+                                "h": 736,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            213,
+                            236
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 497,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "@GretaThunberg Congratulations Greta! We would be glad if you could urge #China, the largest plastic waste contributor, to safe guard the environment like the First World. We believe that you could make a choice! https://t.co/aVjDLYtbW8",
+            "has_extended_profile": false,
+            "id": 1204769664636579840,
+            "id_str": "1204769664636579840",
+            "in_reply_to_screen_name": "GretaThunberg",
+            "in_reply_to_status_id": 1204728167782588416,
+            "in_reply_to_status_id_str": "1204728167782588416",
+            "in_reply_to_user_id": 1006419421244678144,
+            "in_reply_to_user_id_str": "1006419421244678144",
+            "is_translation_enabled": false,
+            "lang": "en",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 87,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+            "scopes": null,
+            "text": "Congratulations Greta! We would be glad if you could urge #China, the largest plastic waste contributor, to safe guard the environment like the First World. We believe that you could make a choice!",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Jun 29 08:26:59 +0000 2018",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "European Hongkonger. Pro-democracy activist. Amateur artist. English, Chinese and a little Japanese.",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/gkIJk4FJkr",
+                                "display_url": "instagram.com/ellacontor?igs…",
+                                "expanded_url": "https://instagram.com/ellacontor?igshid=qoni5ooyke6k"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 20356,
+                "follow_request_sent": false,
+                "followers_count": 1215,
+                "following": false,
+                "friends_count": 1127,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1012613388264861697,
+                "id_str": "1012613388264861697",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 6,
+                "location": "",
+                "name": "Ella Contor",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1012613388264861697/1570884027",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1182999467546464260/yHVEHJcb_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1182999467546464260/yHVEHJcb_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "Elladraws1",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 8254,
+                "time_zone": "",
+                "url": "https://t.co/gkIJk4FJkr",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタは中国を批判しないって論調は英語圏でもあります。バレタさんの心配しないでも大丈夫。\nhttps://t.co/byVs2oe23a\nhttps://t.co/XFZ8yXjjPH\nGreta, Go To China",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jan 23 16:51:01 +0000 2014",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「謝るなよ…、偽善者。」 旗艦「漣改」が大破しました。  ミクロネシアのヤップ島南東300海里でアメリカ海軍の潜水艦アルバコア(SS-218)の雷撃で轟沈。一等駆逐艦吹雪型(特型駆逐艦)の19番艦、綾波型駆逐艦9番艦の漣改です（漣名の艦船としては雷型駆逐艦「漣」に続き2隻目）。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 2417,
+            "follow_request_sent": false,
+            "followers_count": 42,
+            "following": false,
+            "friends_count": 75,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2306908489,
+            "id_str": "2306908489",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 0,
+            "location": "",
+            "name": "漣改🇯🇵",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2306908489/1481543060",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/426423149022822400/4Xdvz5wv_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/426423149022822400/4Xdvz5wv_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "sazanamimod",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 6249,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @sazanamimod: @kagglan @nico2san @masatheman @sasakitoshinao グレタは中国を批判しないって論調は英語圏でもありま\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 07 14:02:34 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "社会の規範には従いますが、規範の側には入れぬフレンズ。\n 何事も斜めに構えて偏見で語るゲスだけど、性癖と食い物の好みの自由だけは守りたい。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 180,
+        "follow_request_sent": false,
+        "followers_count": 357,
+        "following": false,
+        "friends_count": 1811,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 153026750,
+        "id_str": "153026750",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 14,
+        "location": "大阪の西側",
+        "name": "かぐらん＠ぐっどるーさー",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/153026750/1398307831",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1135667625/kagura_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1135667625/kagura_normal.png",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kagglan",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 82200,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

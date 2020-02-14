@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 01:59:29 +0000 2019",
+    "display_text_range": [
+        0,
+        63
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Ken⭐︎Go",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "3dVquFRHTUXAaHU",
+                "id": 845458803667550208,
+                "id_str": "845458803667550208"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @3dVquFRHTUXAaHU: そもそもグレタさんと聞いて、Greta Van Fleetのことだと思っていました。",
+    "has_extended_profile": false,
+    "id": 1206755765291077632,
+    "id_str": "1206755765291077632",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 10 11:28:04 +0000 2019",
+        "display_text_range": [
+            0,
+            42
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "そもそもグレタさんと聞いて、Greta Van Fleetのことだと思っていました。",
+        "has_extended_profile": false,
+        "id": 1204362139122581505,
+        "id_str": "1204362139122581505",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "そもそもグレタさんと聞いて、",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Mar 25 02:14:21 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "46歳山口県周南市在住の会社員 好きなバンドは陰陽座、アイアンメイデン、ブラックサバス、ジューダスプリースト、ディオ、シンリジィ、スレイヤー、メタリカ、メガデス、LOVEBITES 、Arch EnemyとかHM/HRが好きです。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 19889,
+            "follow_request_sent": false,
+            "followers_count": 520,
+            "following": false,
+            "friends_count": 615,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 845458803667550208,
+            "id_str": "845458803667550208",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 3,
+            "location": "山口 周南市",
+            "name": "Ken⭐︎Go",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/845458803667550208/1574577079",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1198931687477874688/9CuK_iK2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198931687477874688/9CuK_iK2_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "3dVquFRHTUXAaHU",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 8363,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @3dVquFRHTUXAaHU: そもそもグレタさんと聞いて、",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 27 13:53:01 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "學生/勞働者",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/IleroLczVI",
+                        "display_url": "instagram.com/r.fujimura/",
+                        "expanded_url": "https://www.instagram.com/r.fujimura/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2975,
+        "follow_request_sent": false,
+        "followers_count": 103,
+        "following": false,
+        "friends_count": 126,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3704149098,
+        "id_str": "3704149098",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "本州",
+        "name": "🍏 Fujeemla 🐮",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3704149098/1443362312",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/984782271264669696/MfaQdTfN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/984782271264669696/MfaQdTfN_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "TokumaruF",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 9173,
+        "time_zone": "",
+        "url": "https://t.co/IleroLczVI",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

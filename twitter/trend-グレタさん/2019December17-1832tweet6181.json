@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:52:43 +0000 2019",
+    "display_text_range": [
+        0,
+        78
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    55,
+                    78
+                ],
+                "url": "https://t.co/EwNJMSE607",
+                "display_url": "asahi.com/articles/ASMDH…",
+                "expanded_url": "https://www.asahi.com/articles/ASMDH6VQYMDGULBJ00F.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "朝日新聞　国際報道部",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "asahi_kokusai",
+                "id": 112690339,
+                "id_str": "112690339"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @asahi_kokusai: グレタさんの訴え届かず　日本、削減目標引き上げスルー：朝日新聞デジタル https://t.co/EwNJMSE607",
+    "has_extended_profile": false,
+    "id": 1206784260188721152,
+    "id_str": "1206784260188721152",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 03:41:14 +0000 2019",
+        "display_text_range": [
+            0,
+            59
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        36,
+                        59
+                    ],
+                    "url": "https://t.co/EwNJMSE607",
+                    "display_url": "asahi.com/articles/ASMDH…",
+                    "expanded_url": "https://www.asahi.com/articles/ASMDH6VQYMDGULBJ00F.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 4,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんの訴え届かず　日本、削減目標引き上げスルー：朝日新聞デジタル https://t.co/EwNJMSE607",
+        "has_extended_profile": false,
+        "id": 1206781369394724866,
+        "id_str": "1206781369394724866",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんの訴え届かず　日本、削減目標\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 09 11:21:02 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "朝日新聞国際報道部のアカウントです。世界中に散らばる特派員のつぶやきをＲＴして紹介します。また、日々のニュースやデジタルコンテンツの見どころもお伝えします。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/QUPKnSXjZR",
+                            "display_url": "asahi.com",
+                            "expanded_url": "http://www.asahi.com"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 200,
+            "follow_request_sent": false,
+            "followers_count": 117518,
+            "following": false,
+            "friends_count": 15345,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 112690339,
+            "id_str": "112690339",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 8311,
+            "location": "世界のあちこち",
+            "name": "朝日新聞　国際報道部",
+            "notifications": false,
+            "profile_background_color": "091D67",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/789783117/twitter_icon_kokusai02_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/789783117/twitter_icon_kokusai02_normal.jpg",
+            "profile_link_color": "2D53D1",
+            "profile_sidebar_border_color": "EFEFEF",
+            "profile_sidebar_fill_color": "D7EAFB",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "asahi_kokusai",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 51991,
+            "time_zone": "",
+            "url": "https://t.co/QUPKnSXjZR",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @asahi_kokusai: グレタさんの訴え届かず　日本、削減目標\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 18 04:01:53 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "猫もち　勤め人　都度関心事",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 159849,
+        "follow_request_sent": false,
+        "followers_count": 1454,
+        "following": false,
+        "friends_count": 2139,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 105984905,
+        "id_str": "105984905",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 11,
+        "location": "都下",
+        "name": "Mikeyuki",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/105984905/1575719983",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1196403899009126401/xn7TUg9q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196403899009126401/xn7TUg9q_normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Hyoukichiii",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 169524,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

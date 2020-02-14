@@ -1,0 +1,756 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:29:30 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    51,
+                    74
+                ],
+                "url": "https://t.co/IGMUWugbHN",
+                "display_url": "afpbb.com/articles/-/325…",
+                "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Ken Sugar🌏",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "ken_sugar",
+                "id": 75876243,
+                "id_str": "75876243"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @ken_sugar: ▼グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い\nhttps://t.co/IGMUWugbHN\nグレタさんvsドイツ鉄道の一戦、グレたんの切り返し対応力のポテンシャルの高さに思わず感心してしまった。\n【一次ソース】（注：英語…",
+    "has_extended_profile": false,
+    "id": 1206536826002931712,
+    "id_str": "1206536826002931712",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206182673888219136,
+    "quoted_status_id_str": "1206182673888219136",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 08:10:45 +0000 2019",
+        "display_text_range": [
+            0,
+            178
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        36,
+                        59
+                    ],
+                    "url": "https://t.co/IGMUWugbHN",
+                    "display_url": "afpbb.com/articles/-/325…",
+                    "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+                },
+                {
+                    "indices": [
+                        131,
+                        154
+                    ],
+                    "url": "https://t.co/dBqIeWb7QM",
+                    "display_url": "twitter.com/GretaThunberg/…",
+                    "expanded_url": "https://twitter.com/GretaThunberg/status/1205969006982815751"
+                },
+                {
+                    "indices": [
+                        155,
+                        178
+                    ],
+                    "url": "https://t.co/ynN72LQ2Ij",
+                    "display_url": "twitter.com/DB_Presse/stat…",
+                    "expanded_url": "https://twitter.com/DB_Presse/status/1206182673888219136"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206486656825454592,
+                    "id_str": "1206486656825454592",
+                    "media_url": "http://pbs.twimg.com/media/EL5NON5UcAAqbV_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL5NON5UcAAqbV_.jpg",
+                    "url": "https://t.co/NwPqb86qah",
+                    "display_url": "pic.twitter.com/NwPqb86qah",
+                    "expanded_url": "https://twitter.com/ken_sugar/status/1206486811112919040/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 597,
+                            "h": 683,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 594,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 597,
+                            "h": 683,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        179,
+                        202
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206486656825454592,
+                    "id_str": "1206486656825454592",
+                    "media_url": "http://pbs.twimg.com/media/EL5NON5UcAAqbV_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL5NON5UcAAqbV_.jpg",
+                    "url": "https://t.co/NwPqb86qah",
+                    "display_url": "pic.twitter.com/NwPqb86qah",
+                    "expanded_url": "https://twitter.com/ken_sugar/status/1206486811112919040/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 597,
+                            "h": 683,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 594,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 597,
+                            "h": 683,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        179,
+                        202
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                },
+                {
+                    "id": 1206486701096370176,
+                    "id_str": "1206486701096370176",
+                    "media_url": "http://pbs.twimg.com/media/EL5NQy0VAAANMEu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL5NQy0VAAANMEu.jpg",
+                    "url": "https://t.co/NwPqb86qah",
+                    "display_url": "pic.twitter.com/NwPqb86qah",
+                    "expanded_url": "https://twitter.com/ken_sugar/status/1206486811112919040/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 597,
+                            "h": 436,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 597,
+                            "h": 436,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 597,
+                            "h": 436,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        179,
+                        202
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                },
+                {
+                    "id": 1206486722009161729,
+                    "id_str": "1206486722009161729",
+                    "media_url": "http://pbs.twimg.com/media/EL5NSAuU4AEjMhm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL5NSAuU4AEjMhm.jpg",
+                    "url": "https://t.co/NwPqb86qah",
+                    "display_url": "pic.twitter.com/NwPqb86qah",
+                    "expanded_url": "https://twitter.com/ken_sugar/status/1206486811112919040/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 601,
+                            "h": 372,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 601,
+                            "h": 372,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 601,
+                            "h": 372,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        179,
+                        202
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                },
+                {
+                    "id": 1206486749993586689,
+                    "id_str": "1206486749993586689",
+                    "media_url": "http://pbs.twimg.com/media/EL5NTo-VUAEC5SZ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL5NTo-VUAEC5SZ.jpg",
+                    "url": "https://t.co/NwPqb86qah",
+                    "display_url": "pic.twitter.com/NwPqb86qah",
+                    "expanded_url": "https://twitter.com/ken_sugar/status/1206486811112919040/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 599,
+                            "h": 493,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 599,
+                            "h": 493,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 599,
+                            "h": 493,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        179,
+                        202
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 8,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "▼グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い\nhttps://t.co/IGMUWugbHN\nグレタさんvsドイツ鉄道の一戦、グレたんの切り返し対応力のポテンシャルの高さに思わず感心してしまった。\n【一次ソース】（注：英語＆ドイツ語）\nhttps://t.co/dBqIeWb7QM\nhttps://t.co/ynN72LQ2Ij https://t.co/NwPqb86qah",
+        "has_extended_profile": false,
+        "id": 1206486811112919040,
+        "id_str": "1206486811112919040",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206182673888219136,
+        "quoted_status_id_str": "1206182673888219136",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Dec 15 12:02:13 +0000 2019",
+            "display_text_range": [
+                0,
+                203
+            ],
+            "entities": {
+                "urls": [],
+                "hashtags": [
+                    {
+                        "indices": [
+                            6,
+                            12
+                        ],
+                        "text": "Greta"
+                    }
+                ],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 12834,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "Liebe #Greta, danke, dass Du uns Eisenbahner im Kampf gegen den Klimawandel unterstützt! Wir haben uns gefreut, dass Du am Samstag mit uns im ICE 74 unterwegs warst. Und das mit 100 Prozent Ökostrom. 1/2",
+            "has_extended_profile": false,
+            "id": 1206182673888219136,
+            "id_str": "1206182673888219136",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "de",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 3763,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+            "scopes": null,
+            "text": "Liebe #Greta, danke, dass Du uns Eisenbahner im Kampf gegen den Klimawandel unterstützt! Wir haben uns gefreut, dass Du am Samstag mit uns im ICE 74 unterwegs warst. Und das mit 100 Prozent Ökostrom. 1",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Jan 02 22:13:31 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Neuigkeiten der DB für Medien u. interessierte Öffentlichkeit. Presse-Anfragen beantworten wir unter presse@deutschebahn.com. Impressum und Datenschutzhinweise:",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/24KVneOH9l",
+                                "display_url": "deutschebahn.com/rechtliches",
+                                "expanded_url": "http://deutschebahn.com/rechtliches"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 833,
+                "follow_request_sent": false,
+                "followers_count": 46506,
+                "following": false,
+                "friends_count": 264,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 18565652,
+                "id_str": "18565652",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 487,
+                "location": "Berlin, Germany",
+                "name": "Deutsche Bahn AG",
+                "notifications": false,
+                "profile_background_color": "BADFCD",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/18565652/1576061651",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/591140150413025280/Cjcqjl2J_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/591140150413025280/Cjcqjl2J_normal.png",
+                "profile_link_color": "FF0000",
+                "profile_sidebar_border_color": "F2E195",
+                "profile_sidebar_fill_color": "FFF7CC",
+                "profile_text_color": "0C3E53",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "DB_Presse",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 7680,
+                "time_zone": "",
+                "url": "https://t.co/24KVneOH9l",
+                "utc_offset": 0,
+                "verified": true,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "scopes": null,
+        "text": "▼グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い\nhttps://t.co/IGMUWugbHN\nグレタさんvsドイツ鉄道の一戦、グレ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Sep 20 21:10:56 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "IT Rev.｜Next Global Society｜Tech ｜#MotoGP_jp｜Movie（https://t.co/nSK7Z8nZHr）｜Music（https://t.co/CU1eGogCXJ）｜etc.｜PostLang mainly JA. https://t.co/IHKzjKjLu5",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/Ybkq38eXUu",
+                            "display_url": "about.me/ken_sugar",
+                            "expanded_url": "https://about.me/ken_sugar"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 63259,
+            "follow_request_sent": false,
+            "followers_count": 3266,
+            "following": false,
+            "friends_count": 666,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 75876243,
+            "id_str": "75876243",
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "lang": "",
+            "listed_count": 412,
+            "location": "Japan (UTC+9) or somewhere",
+            "name": "Ken Sugar🌏",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/75876243/1564589707",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1013717877017341952/rqvJlI5L_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013717877017341952/rqvJlI5L_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "B5B5B5",
+            "profile_sidebar_fill_color": "E0E0E0",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "ken_sugar",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 110875,
+            "time_zone": "",
+            "url": "https://t.co/Ybkq38eXUu",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @ken_sugar: ▼グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い\nhttps://t.co/IGMUWugb",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 14 11:14:20 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 11929,
+        "follow_request_sent": false,
+        "followers_count": 191,
+        "following": false,
+        "friends_count": 156,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1106151572122136576,
+        "id_str": "1106151572122136576",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 2,
+        "location": "",
+        "name": "ゲンタシンちゃん",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1106151572122136576/1552562372",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1114184992198803456/K2U5WCQt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1114184992198803456/K2U5WCQt_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gentashinchan",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 2169,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

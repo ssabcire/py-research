@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 13:58:56 +0000 2019",
+    "display_text_range": [
+        0,
+        43
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "しかし実際、グレタさんにデマで殴りかかっているツイートは、僕もちょくちょく見るのよね。",
+    "has_extended_profile": false,
+    "id": 1206574431784464384,
+    "id_str": "1206574431784464384",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+    "scopes": null,
+    "text": "しかし実際、グレタさんにデマ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 17 09:00:30 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "再修行中。はるか昔に石川海人名義でいくつか執筆しています。 『荒ぶるバロサウルスのポーズ 師範』。 ミステリとかＳＦとか古生物とか。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/xyGDJqZt3V",
+                        "display_url": "dohx.sakura.ne.jp/kiteword/",
+                        "expanded_url": "http://dohx.sakura.ne.jp/kiteword/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 23231,
+        "follow_request_sent": false,
+        "followers_count": 3007,
+        "following": false,
+        "friends_count": 1095,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 21074890,
+        "id_str": "21074890",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 293,
+        "location": "原油が出る北の辺境。",
+        "name": "ＫＩＴＥ",
+        "notifications": false,
+        "profile_background_color": "000080",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21074890/1437085938",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1552977769/kite_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1552977769/kite_normal.jpg",
+        "profile_link_color": "000080",
+        "profile_sidebar_border_color": "000080",
+        "profile_sidebar_fill_color": "D3D3F0",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KITEis",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 107159,
+        "time_zone": "",
+        "url": "https://t.co/xyGDJqZt3V",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

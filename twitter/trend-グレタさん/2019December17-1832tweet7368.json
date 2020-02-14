@@ -1,0 +1,347 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:29:41 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "今西きんじ",
+                "indices": [
+                    3,
+                    18
+                ],
+                "screen_name": "kinnjiimanishi",
+                "id": 106041696,
+                "id_str": "106041696"
+            },
+            {
+                "name": "Shoko Egawa",
+                "indices": [
+                    20,
+                    30
+                ],
+                "screen_name": "amneris84",
+                "id": 101428190,
+                "id_str": "101428190"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @kinnjiimanishi: @amneris84 写真で印象操作しようと言うのは未熟とかのレベルでは無いと思います。\n16歳の頃皆未熟でしょうが、そう言う事をやろうと言う発想はないのでは\n仮にグレタさんの発想でない場合、誰かがマネージメントしてるわけですが、皆グレタ…",
+    "has_extended_profile": false,
+    "id": 1206778466214875137,
+    "id_str": "1206778466214875137",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 03:05:46 +0000 2019",
+        "display_text_range": [
+            11,
+            145
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "Shoko Egawa",
+                    "indices": [
+                        0,
+                        10
+                    ],
+                    "screen_name": "amneris84",
+                    "id": 101428190,
+                    "id_str": "101428190"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 13,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@amneris84 写真で印象操作しようと言うのは未熟とかのレベルでは無いと思います。\n16歳の頃皆未熟でしょうが、そう言う事をやろうと言う発想はないのでは\n仮にグレタさんの発想でない場合、誰かがマネージメントしてるわけですが、皆グレタさんではなくそこに不信感を持っているのだと思います。",
+        "has_extended_profile": false,
+        "id": 1206772446227042304,
+        "id_str": "1206772446227042304",
+        "in_reply_to_screen_name": "amneris84",
+        "in_reply_to_status_id": 1206768959942324224,
+        "in_reply_to_status_id_str": "1206768959942324224",
+        "in_reply_to_user_id": 101428190,
+        "in_reply_to_user_id_str": "101428190",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "写真で印象操作しようと言うのは未熟とかのレベルでは無いと思います。\n16歳の頃皆未熟でしょう\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jan 18 09:13:50 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "中国に興味があり、中国語を勉強しています。中国についてもっと知りたいという思いで日々精進しています。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 3096,
+            "follow_request_sent": false,
+            "followers_count": 656,
+            "following": false,
+            "friends_count": 1526,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 106041696,
+            "id_str": "106041696",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 4,
+            "location": "",
+            "name": "今西きんじ",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000186428310/288091b71e04e70a247a1ccfa23f5bbd_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000186428310/288091b71e04e70a247a1ccfa23f5bbd_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "kinnjiimanishi",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 3132,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @kinnjiimanishi: @amneris84 写真で印象操作しようと言うのは未熟とかのレベルでは無いと思います。\n16歳の\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 06 02:55:56 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "思いつきで色々口走るのが得意なのでこういうのは向いてると思います。現在、色々試し中（色んな意味で",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/aqHpfTaiAY",
+                        "display_url": "nicovideo.jp",
+                        "expanded_url": "http://www.nicovideo.jp/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 26634,
+        "follow_request_sent": false,
+        "followers_count": 954,
+        "following": false,
+        "friends_count": 2079,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 54089508,
+        "id_str": "54089508",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 34,
+        "location": "雲の上",
+        "name": "ojaly 😎",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/54089508/1513315664",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1167475945575337985/E7Rq5Pq-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1167475945575337985/E7Rq5Pq-_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ojalix",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 104470,
+        "time_zone": "",
+        "url": "https://t.co/aqHpfTaiAY",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

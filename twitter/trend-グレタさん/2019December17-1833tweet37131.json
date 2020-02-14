@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:40:32 +0000 2019",
+    "display_text_range": [
+        0,
+        124
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    92,
+                    115
+                ],
+                "url": "https://t.co/s12FVqsX59",
+                "display_url": "moeruasia.net/archives/49657…",
+                "expanded_url": "https://www.moeruasia.net/archives/49657134.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "しろくま団長",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "lvory_bear",
+                "id": 381794687,
+                "id_str": "381794687"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @lvory_bear: 【こえぇｗ】グレタさん、自分に従わない指導者は「against the wall」(壁際に立たせる=銃殺刑)　大炎上、謝罪 ｜ もえるあじあ(･∀･) https://t.co/s12FVqsX59\nバックが見えたな",
+    "has_extended_profile": false,
+    "id": 1206554704420851712,
+    "id_str": "1206554704420851712",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 126,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 01:32:36 +0000 2019",
+        "display_text_range": [
+            0,
+            108
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        76,
+                        99
+                    ],
+                    "url": "https://t.co/s12FVqsX59",
+                    "display_url": "moeruasia.net/archives/49657…",
+                    "expanded_url": "https://www.moeruasia.net/archives/49657134.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 252,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "【こえぇｗ】グレタさん、自分に従わない指導者は「against the wall」(壁際に立たせる=銃殺刑)　大炎上、謝罪 ｜ もえるあじあ(･∀･) https://t.co/s12FVqsX59\nバックが見えたな",
+        "has_extended_profile": false,
+        "id": 1206386613544054784,
+        "id_str": "1206386613544054784",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 126,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "【こえぇｗ】グレタさん、自分に従わない指導者は「against the wall」(壁際に立た\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Sep 28 23:26:05 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "しろくまは、子供の時に内地の先生につけられた、お気に入りのあだ名。色白で可愛いが野生(乱暴者)という意味です。一年の1/3は、外で遊んでいます。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 295,
+            "follow_request_sent": false,
+            "followers_count": 25709,
+            "following": false,
+            "friends_count": 23208,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 381794687,
+            "id_str": "381794687",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 169,
+            "location": "北海道 湘南",
+            "name": "しろくま団長",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/381794687/1402131156",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1592404620/siro_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1592404620/siro_normal.jpg",
+            "profile_link_color": "00B39B",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "lvory_bear",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 245920,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @lvory_bear: 【こえぇｗ】グレタさん、自分に従わない指導者は「against the wall」(壁際に立た\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 03 05:14:20 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "色々な情報を収集するツールの一つとして利用しています",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 7312,
+        "follow_request_sent": false,
+        "followers_count": 2330,
+        "following": false,
+        "friends_count": 2168,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 959656274618023937,
+        "id_str": "959656274618023937",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 9,
+        "location": "",
+        "name": "招き猫🐱(金運・招福・千客万来)",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/959656274618023937/1542438771",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/986032065148739584/DxBwa0Ck_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/986032065148739584/DxBwa0Ck_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TOSHIYA38225944",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 478010,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

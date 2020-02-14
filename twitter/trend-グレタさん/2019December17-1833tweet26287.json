@@ -1,0 +1,357 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 16:07:13 +0000 2019",
+    "display_text_range": [
+        0,
+        100
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "k-nagano",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "nekonekocyan",
+                "id": 58705870,
+                "id_str": "58705870"
+            },
+            {
+                "name": "湘南ペンギン",
+                "indices": [
+                    18,
+                    28
+                ],
+                "screen_name": "shonanpen",
+                "id": 546877099,
+                "id_str": "546877099"
+            },
+            {
+                "name": "リリカルみやみや@田村ゆかりL.L7/6盛岡、水樹奈々L.E9/15千葉",
+                "indices": [
+                    29,
+                    43
+                ],
+                "screen_name": "miyanoki_miya",
+                "id": 346784948,
+                "id_str": "346784948"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @nekonekocyan: @shonanpen @miyanoki_miya 東海道線の混雑緩和には外圧が必要。グレタさんをお招きする必要がある。10両編成なんていう短小列車は追放しないと。",
+    "has_extended_profile": false,
+    "id": 1206606715082309633,
+    "id_str": "1206606715082309633",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 11:00:41 +0000 2019",
+        "display_text_range": [
+            26,
+            82
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "湘南ペンギン",
+                    "indices": [
+                        0,
+                        10
+                    ],
+                    "screen_name": "shonanpen",
+                    "id": 546877099,
+                    "id_str": "546877099"
+                },
+                {
+                    "name": "リリカルみやみや@田村ゆかりL.L7/6盛岡、水樹奈々L.E9/15千葉",
+                    "indices": [
+                        11,
+                        25
+                    ],
+                    "screen_name": "miyanoki_miya",
+                    "id": 346784948,
+                    "id_str": "346784948"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 14,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@shonanpen @miyanoki_miya 東海道線の混雑緩和には外圧が必要。グレタさんをお招きする必要がある。10両編成なんていう短小列車は追放しないと。",
+        "has_extended_profile": false,
+        "id": 1206529573422125056,
+        "id_str": "1206529573422125056",
+        "in_reply_to_screen_name": "shonanpen",
+        "in_reply_to_status_id": 1206519472263024641,
+        "in_reply_to_status_id_str": "1206519472263024641",
+        "in_reply_to_user_id": 546877099,
+        "in_reply_to_user_id_str": "546877099",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "東海道線の混雑緩和には外圧が必要。グ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jul 21 04:38:23 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "鉄ヲタ兼刑法ヲタ　ライオンズファン　旧みんなの党ファンクラブ\n今のみんなの党会派は支持せず\n祖父の出身地釜石応援\n亡き父の親友が住んでいた北海道中川町応援　宗谷線存続",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 13989,
+            "follow_request_sent": false,
+            "followers_count": 1061,
+            "following": false,
+            "friends_count": 518,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 58705870,
+            "id_str": "58705870",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 40,
+            "location": "神奈川県藤沢市",
+            "name": "k-nagano",
+            "notifications": false,
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/58705870/1462624327",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/728925654004043776/kM4YzZju_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/728925654004043776/kM4YzZju_normal.jpg",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "5ED4DC",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "nekonekocyan",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 243911,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @nekonekocyan: @shonanpen @miyanoki_miya 東海道線の混雑緩和には外圧が必要。グ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 06 06:36:17 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ボンベイサファイアを飲みつつハードコア・テクノを聞きながら箱根往路を953形で駆け抜けM82A1と配置したノンノからシージオベロンに向けてサテライトカノンを放ち手には青春18きっぷと夜行バスのチケットを握って暗黒界と共に戦うSP十段の西行寺幽々子の旦那です。アイコンはりゆゆ様(@_riyuyu_)に書いてもらいました！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 88881,
+        "follow_request_sent": false,
+        "followers_count": 1184,
+        "following": false,
+        "friends_count": 1713,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 102294953,
+        "id_str": "102294953",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 58,
+        "location": "幽々子様の中",
+        "name": "だーくろど",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/102294953/1490545243",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/481373756351188992/kymPtkbm_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/481373756351188992/kymPtkbm_normal.png",
+        "profile_link_color": "131516",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fty_darkroad",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 210336,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

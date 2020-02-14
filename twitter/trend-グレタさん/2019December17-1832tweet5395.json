@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:11:20 +0000 2019",
+    "display_text_range": [
+        0,
+        104
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    64,
+                    87
+                ],
+                "url": "https://t.co/oVCRPs0SUp",
+                "display_url": "gendai.ismedia.jp/articles/-/692…",
+                "expanded_url": "https://gendai.ismedia.jp/articles/-/69226"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "加藤AZUKI@「忌」怖い話卒哭怪談",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "azukiglg",
+                "id": 25080638,
+                "id_str": "25080638"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @azukiglg: グレタさんも知らない…環境利権のウラで日本が食い物にされる現実 「化石賞」を笑っている場合ではない https://t.co/oVCRPs0SUp\n原発を再稼働すれば解決するのに。",
+    "has_extended_profile": false,
+    "id": 1206788948330082305,
+    "id_str": "1206788948330082305",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 8,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 03:50:32 +0000 2019",
+        "display_text_range": [
+            0,
+            90
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        50,
+                        73
+                    ],
+                    "url": "https://t.co/oVCRPs0SUp",
+                    "display_url": "gendai.ismedia.jp/articles/-/692…",
+                    "expanded_url": "https://gendai.ismedia.jp/articles/-/69226"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 9,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんも知らない…環境利権のウラで日本が食い物にされる現実 「化石賞」を笑っている場合ではない https://t.co/oVCRPs0SUp\n原発を再稼働すれば解決するのに。",
+        "has_extended_profile": false,
+        "id": 1206783709724045313,
+        "id_str": "1206783709724045313",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": true,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 8,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://www.smartnews.com/\" rel=\"nofollow\"\u003eSmartNews | スマートニュース\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんも知らない…環境利権のウラで日本が食い物にされる現",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Mar 18 14:27:36 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "本来の専門は「怖がる気持ち」。 髪の毛が緑色の実話怪談作家/編者で、電子書籍の竹の子書房で万夜室長を補佐しています。Twitterでは本業の話はあまりしません。安全保障趣味者。脳の過剰占有はコンサルティング料を請求します。アイコンはザムザおねえさん。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/oggMu6f9rD",
+                            "display_url": "amazon.co.jp/dp/B07QN2ZFK4/",
+                            "expanded_url": "https://www.amazon.co.jp/dp/B07QN2ZFK4/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 104,
+            "follow_request_sent": false,
+            "followers_count": 13701,
+            "following": false,
+            "friends_count": 1030,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 25080638,
+            "id_str": "25080638",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 935,
+            "location": "東京10区",
+            "name": "加藤AZUKI@「忌」怖い話卒哭怪談",
+            "notifications": false,
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/25080638/1399371318",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1198994241327747072/-WYxpvU9_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198994241327747072/-WYxpvU9_normal.png",
+            "profile_link_color": "00DB71",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "azukiglg",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 570743,
+            "time_zone": "",
+            "url": "https://t.co/oggMu6f9rD",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @azukiglg: グレタさんも知らない…環境利権のウラで日本が食い物にされる現",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 16 11:06:14 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "毒舌家になりたい愚痴吐き屋・基本的に天の邪鬼。\n和太鼓からグラインドコアまで美味しく頂きます。\n嫌なことも大事な約束も一晩寝ればケロっと忘れる、典型的O型。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 548,
+        "follow_request_sent": false,
+        "followers_count": 139,
+        "following": false,
+        "friends_count": 84,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 74705128,
+        "id_str": "74705128",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 11,
+        "location": "Chiyoda, Tokyo JAPAN",
+        "name": "cro_pel",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/568070629023170560/5Nw9sqEt_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/568070629023170560/5Nw9sqEt_normal.png",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cro_pel",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 31758,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

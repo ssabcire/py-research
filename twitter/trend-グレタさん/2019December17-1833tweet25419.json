@@ -1,0 +1,508 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 16:45:57 +0000 2019",
+    "display_text_range": [
+        0,
+        88
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    65,
+                    88
+                ],
+                "url": "https://t.co/uoWC4b01IX",
+                "display_url": "twitter.com/mosgoro/status…",
+                "expanded_url": "https://twitter.com/mosgoro/status/1206420792788930560"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "芦原省一",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "ShoichiAshihara",
+                "id": 2899749630,
+                "id_str": "2899749630"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @ShoichiAshihara: 私は、先のグレタさんのツイートに感じた違和を指摘したまでで、彼女の行動は評価しています。https://t.co/uoWC4b01IX",
+    "has_extended_profile": false,
+    "id": 1206616462124699648,
+    "id_str": "1206616462124699648",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206420792788930560,
+    "quoted_status_id_str": "1206420792788930560",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 04:27:19 +0000 2019",
+        "display_text_range": [
+            0,
+            67
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        44,
+                        67
+                    ],
+                    "url": "https://t.co/uoWC4b01IX",
+                    "display_url": "twitter.com/mosgoro/status…",
+                    "expanded_url": "https://twitter.com/mosgoro/status/1206420792788930560"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 4,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "私は、先のグレタさんのツイートに感じた違和を指摘したまでで、彼女の行動は評価しています。https://t.co/uoWC4b01IX",
+        "has_extended_profile": false,
+        "id": 1206430581371703297,
+        "id_str": "1206430581371703297",
+        "in_reply_to_screen_name": "ShoichiAshihara",
+        "in_reply_to_status_id": 1206388137024315395,
+        "in_reply_to_status_id_str": "1206388137024315395",
+        "in_reply_to_user_id": 2899749630,
+        "in_reply_to_user_id_str": "2899749630",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206420792788930560,
+        "quoted_status_id_str": "1206420792788930560",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Mon Dec 16 03:48:25 +0000 2019",
+            "display_text_range": [
+                0,
+                127
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "indices": [
+                            128,
+                            151
+                        ],
+                        "url": "https://t.co/XC6kIrvU25",
+                        "display_url": "twitter.com/ShoichiAshihar…",
+                        "expanded_url": "https://twitter.com/ShoichiAshihara/status/1206320394795245571"
+                    }
+                ],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 2,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "右でも左でもない、ってのは決起の出発点としてはよくある話(俺も10年前はそだった)だけど、色々な非和解の現場を目にして左旋回する感じと思う。\nグレタ氏の今の立場性では勝利できないと思う。でも、俺は彼女の決起するエネルギー及びパッションにはリスペクトやな。 https://t.co/XC6kIrvU25",
+            "has_extended_profile": false,
+            "id": 1206420792788930560,
+            "id_str": "1206420792788930560",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 1206320394795245571,
+            "quoted_status_id_str": "1206320394795245571",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+            "scopes": null,
+            "text": "右でも左でもない、ってのは決起の出発点としてはよくある話(俺も10年前はそだった)だけど、",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Mar 22 14:36:31 +0000 2019",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "もす！╰(‘ω’ )╯三／ヘッダーの中でにやけている青シャツがワイ／改憲戦争阻止！大行進神奈川@SKSyokosukaに参加しはじめた若造／心理学にわか勢／筋トレにわか勢／プロフ画は@__naopy__からの頂き物です。ありがとうございます。個人的に仲はいいですがもす！のコンテンツとは一切関係はありません！",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 2466,
+                "follow_request_sent": false,
+                "followers_count": 238,
+                "following": false,
+                "friends_count": 276,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 1109101555557388289,
+                "id_str": "1109101555557388289",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 4,
+                "location": "",
+                "name": "もす！",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1109101555557388289/1568691810",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1183668939747782656/-yRdcKLI_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1183668939747782656/-yRdcKLI_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "mosgoro",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 4415,
+                "time_zone": "",
+                "url": "",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 6,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "scopes": null,
+        "text": "私は、先のグレタさんのツイートに感じた違和を\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Nov 14 23:46:28 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "どこにでもいるごく普通のコミュニスト。朝鮮半島にルーツがある日本国籍者。うつ病及びPTSD。翻訳書『ウォール街を占拠せよ』。「#大月書店」から民族差別を受け、福岡地区合同労働組合に加盟して係争中。「新しい国民運動」の列には加わりません。https://t.co/al0RdO2rBz",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/PmRN8ptHS5",
+                            "display_url": "beneverba.exblog.jp",
+                            "expanded_url": "http://beneverba.exblog.jp/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 55620,
+            "follow_request_sent": false,
+            "followers_count": 1517,
+            "following": false,
+            "friends_count": 963,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2899749630,
+            "id_str": "2899749630",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 67,
+            "location": "博多",
+            "name": "芦原省一",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2899749630/1501548369",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/892184710947852288/Uthk5GKZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/892184710947852288/Uthk5GKZ_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "ShoichiAshihara",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 26206,
+            "time_zone": "",
+            "url": "https://t.co/PmRN8ptHS5",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @ShoichiAshihara: 私は、先のグレタさんのツイートに感じた違和を\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 13 04:38:54 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "クラシック音楽／自然科学／工学全般／数学教育・産業教育／雇用・労働／落語／政治／プロ野球・サッカー／外国語と文化／ラジオ／鉄道／アイドル／萌え／秋葉原周辺／北海道／東北／欧州／反表現規制　RTかなり多めですが必ずしもその全てに賛同するものではありません.",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 79692,
+        "follow_request_sent": false,
+        "followers_count": 3273,
+        "following": false,
+        "friends_count": 4990,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 143320253,
+        "id_str": "143320253",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 22,
+        "location": "青森 弘前市",
+        "name": "KK生",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/143320253/1430406877",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/609215678969610240/OHSsl_40_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/609215678969610240/OHSsl_40_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kk_says",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 970519,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

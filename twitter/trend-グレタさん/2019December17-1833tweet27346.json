@@ -1,0 +1,347 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 15:33:02 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ikkan",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "kunne_urara",
+                "id": 259322444,
+                "id_str": "259322444"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @kunne_urara: 乗車率が高い方が環境問題への取り組みという観点からは好ましいのであれば、日々超々満員電車での通勤地獄に耐えている日本人はもっと評価されてもいいのでは。とか何とか\n\nグレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い http…",
+    "has_extended_profile": false,
+    "id": 1206598114800390144,
+    "id_str": "1206598114800390144",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": true,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 15:29:42 +0000 2019",
+        "display_text_range": [
+            0,
+            155
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        118,
+                        141
+                    ],
+                    "url": "https://t.co/uab88hwZnY",
+                    "display_url": "afpbb.com/articles/-/325…",
+                    "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "AFPBB News",
+                    "indices": [
+                        142,
+                        151
+                    ],
+                    "screen_name": "afpbbcom",
+                    "id": 90841111,
+                    "id_str": "90841111"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "乗車率が高い方が環境問題への取り組みという観点からは好ましいのであれば、日々超々満員電車での通勤地獄に耐えている日本人はもっと評価されてもいいのでは。とか何とか\n\nグレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い https://t.co/uab88hwZnY @afpbbcomさんから",
+        "has_extended_profile": false,
+        "id": 1206597275662741505,
+        "id_str": "1206597275662741505",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "scopes": null,
+        "text": "乗車率が高い方が環境問題への取り組みという観点からは好ましいのであれば、日々超々満員電車での通勤地獄に\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Mar 01 16:40:17 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "この星の欠片を纏った意識",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/PyVXy8Fz2g",
+                            "display_url": "kaeka.starfree.jp",
+                            "expanded_url": "http://kaeka.starfree.jp/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 1471,
+            "follow_request_sent": false,
+            "followers_count": 280,
+            "following": false,
+            "friends_count": 69,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 259322444,
+            "id_str": "259322444",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 20,
+            "location": "北海道",
+            "name": "ikkan",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/259322444/1394901483",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1077606078395777024/AlEKzhvj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1077606078395777024/AlEKzhvj_normal.jpg",
+            "profile_link_color": "808080",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "kunne_urara",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 8272,
+            "time_zone": "",
+            "url": "https://t.co/PyVXy8Fz2g",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @kunne_urara: 乗車率が高い方が環境問題への取り組みという観点からは好ましいのであれば、日々超々満",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 05 12:58:37 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "元ナース 双極2型 ADHD 軽い強迫障害持ち 気軽にフォローして下さい✩.*˚ 自立出来るよう頑張る☻",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1185,
+        "follow_request_sent": false,
+        "followers_count": 19,
+        "following": false,
+        "friends_count": 14,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1147127644749611013,
+        "id_str": "1147127644749611013",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "はむにゃ",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1147127644749611013/1575217344",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1201169109653676032/p5ezI-oK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201169109653676032/p5ezI-oK_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "neige_no_nuit",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 1049,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

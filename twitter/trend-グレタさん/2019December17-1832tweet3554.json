@@ -1,0 +1,357 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:15:18 +0000 2019",
+    "display_text_range": [
+        0,
+        91
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ブブブブ青多",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "gs9HZbgxWBPIJDN",
+                "id": 1094808904792301569,
+                "id_str": "1094808904792301569"
+            },
+            {
+                "name": "はるみ",
+                "indices": [
+                    21,
+                    36
+                ],
+                "screen_name": "harumi19762015",
+                "id": 3289960711,
+                "id_str": "3289960711"
+            },
+            {
+                "name": "K",
+                "indices": [
+                    37,
+                    45
+                ],
+                "screen_name": "nhydhpk",
+                "id": 2174228089,
+                "id_str": "2174228089"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @gs9HZbgxWBPIJDN: @harumi19762015 @nhydhpk グレタさんは環境問題とは\n国策ビジネスとの戦いであるとアピールしてます。イコール軍需産業。",
+    "has_extended_profile": false,
+    "id": 1206805045515177984,
+    "id_str": "1206805045515177984",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 04:05:48 +0000 2019",
+        "display_text_range": [
+            25,
+            70
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "はるみ",
+                    "indices": [
+                        0,
+                        15
+                    ],
+                    "screen_name": "harumi19762015",
+                    "id": 3289960711,
+                    "id_str": "3289960711"
+                },
+                {
+                    "name": "K",
+                    "indices": [
+                        16,
+                        24
+                    ],
+                    "screen_name": "nhydhpk",
+                    "id": 2174228089,
+                    "id_str": "2174228089"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 11,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@harumi19762015 @nhydhpk グレタさんは環境問題とは\n国策ビジネスとの戦いであるとアピールしてます。イコール軍需産業。",
+        "has_extended_profile": false,
+        "id": 1206787553468137472,
+        "id_str": "1206787553468137472",
+        "in_reply_to_screen_name": "harumi19762015",
+        "in_reply_to_status_id": 1206750930638491648,
+        "in_reply_to_status_id_str": "1206750930638491648",
+        "in_reply_to_user_id": 3289960711,
+        "in_reply_to_user_id_str": "3289960711",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんは環境問題とは\n国策\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Feb 11 04:02:38 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "温厚、夜行性、反アベ、反自民、アナキスト(日常の中でのパワーゲームから体制・権力まで) 好物 ライトニンホプキンス パーカー ドルフィー コールマン パブリックエネミー マッドリブ アンダーソンパク 韓国映画 特にソンガンホ キムユンソク チョンドヨン ムンソリ ダイエット中だが頻繁にスリップ",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 36935,
+            "follow_request_sent": false,
+            "followers_count": 456,
+            "following": false,
+            "friends_count": 391,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 1094808904792301569,
+            "id_str": "1094808904792301569",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 10,
+            "location": "",
+            "name": "ブブブブ青多",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1142459007208001537/6dksAWza_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1142459007208001537/6dksAWza_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "gs9HZbgxWBPIJDN",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 28126,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @gs9HZbgxWBPIJDN: @harumi19762015 @nhydhpk グレタさんは環境問題とは\n国策\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 30 09:47:19 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 13253,
+        "follow_request_sent": false,
+        "followers_count": 228,
+        "following": false,
+        "friends_count": 886,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 274450561,
+        "id_str": "274450561",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 6,
+        "location": "",
+        "name": "kazu",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/274450561/1349050102",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1847446350/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1847446350/image_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "roybean009",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 61590,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

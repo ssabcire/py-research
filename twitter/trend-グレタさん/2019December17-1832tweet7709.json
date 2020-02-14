@@ -1,0 +1,369 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:23:25 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [
+            {
+                "indices": [
+                    21,
+                    32
+                ],
+                "text": "グレタ・トゥーンベリ"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "NHK国際報道",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "nhk_kokusainews",
+                "id": 381411921,
+                "id_str": "381411921"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @nhk_kokusainews: #グレタ・トゥーンベリ さんが アメリカの雑誌が選ぶ「ことしの人」に。\nこれを米トランプ大統領が批判、 グレタさんは皮肉で対抗 \n\n一方、EU首脳会議では、\n2050年には温室効果ガス排出量 実質ゼロにすることで一致 \n\n#国際報道20…",
+    "has_extended_profile": false,
+    "id": 1206776888426844160,
+    "id_str": "1206776888426844160",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 13 07:32:29 +0000 2019",
+        "display_text_range": [
+            0,
+            165
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        142,
+                        165
+                    ],
+                    "url": "https://t.co/gln9qpBb2V",
+                    "display_url": "www3.nhk.or.jp/news/html/2019…",
+                    "expanded_url": "https://www3.nhk.or.jp/news/html/20191213/k10012213661000.html"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        0,
+                        11
+                    ],
+                    "text": "グレタ・トゥーンベリ"
+                },
+                {
+                    "indices": [
+                        111,
+                        120
+                    ],
+                    "text": "国際報道2019"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 9,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "#グレタ・トゥーンベリ さんが アメリカの雑誌が選ぶ「ことしの人」に。\nこれを米トランプ大統領が批判、 グレタさんは皮肉で対抗 \n\n一方、EU首脳会議では、\n2050年には温室効果ガス排出量 実質ゼロにすることで一致 \n\n#国際報道2019 (BS1 夜10時～) \nEUの思惑は↓\nhttps://t.co/gln9qpBb2V",
+        "has_extended_profile": false,
+        "id": 1205390015708254209,
+        "id_str": "1205390015708254209",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://www.salesforce.com\" rel=\"nofollow\"\u003eSalesforce - Social Studio\u003c/a\u003e",
+        "scopes": null,
+        "text": "#グレタ・トゥーンベリ さんが アメリカの雑誌が選ぶ「ことしの人」に。\nこれを米トランプ大統領が批判、 グレタさんは\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Sep 28 08:51:57 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "(月)～(金)BS1夜10時「国際報道2019」など、国際情報を専門に伝えるNHK公式アカウント。国際ニュース、国際系番組、海外こぼれ話などに反応します。▼https://t.co/Q11WanxIUhをご確認・ご了承ください。▼フォローの考え方はコチラ→https://t.co/8lVsvM27YP",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/FJtIocZjyN",
+                            "display_url": "nhk.or.jp/kokusaihoudou/…",
+                            "expanded_url": "http://www.nhk.or.jp/kokusaihoudou/bs22/index.html"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 63806,
+            "following": false,
+            "friends_count": 30,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 381411921,
+            "id_str": "381411921",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1841,
+            "location": "Shibuya-ku, Tokyo, JAPAN",
+            "name": "NHK国際報道",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/381411921/1420471328",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1117655281326936064/fZ_ZR1U7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117655281326936064/fZ_ZR1U7_normal.jpg",
+            "profile_link_color": "FBD75B",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "nhk_kokusainews",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 919,
+            "time_zone": "",
+            "url": "https://t.co/FJtIocZjyN",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @nhk_kokusainews: #グレタ・トゥーンベリ さんが アメリカの雑誌が選ぶ「ことしの人」に。\nこれを米トラ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 10 04:01:12 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "最近、タイムチケットというマッチングサイトに登録してみた。東京感覚過ぎて地方では無理だろうと思ったが、意外や意外、TVの影響でユーザーに東京とか地方という地域差が消えているようだ。地域でのサービス提供は競争がなくて穴場なのかも？・・・ご利用には会員登録が必要です・・・ #タイムチケット",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/jtGoAx4NCO",
+                        "display_url": "timeticket.jp/show21up",
+                        "expanded_url": "https://www.timeticket.jp/show21up"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 7,
+        "follow_request_sent": false,
+        "followers_count": 470,
+        "following": false,
+        "friends_count": 832,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 520070979,
+        "id_str": "520070979",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 2,
+        "location": "onomichi, japan",
+        "name": "photo_matching_creation@time_chiket",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1885282585/a001_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1885282585/a001_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "show100up",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 26605,
+        "time_zone": "",
+        "url": "https://t.co/jtGoAx4NCO",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

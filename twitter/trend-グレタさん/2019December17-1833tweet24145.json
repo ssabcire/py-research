@@ -1,0 +1,192 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 18:04:56 +0000 2019",
+    "display_text_range": [
+        0,
+        49
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    26,
+                    49
+                ],
+                "url": "https://t.co/wtLxVLzzoG",
+                "display_url": "twitter.com/i/events/12066…",
+                "expanded_url": "https://twitter.com/i/events/1206600997478383617"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさん「帰りは超満員電車」 ドイツ鉄道が応酬  https://t.co/wtLxVLzzoG",
+    "has_extended_profile": false,
+    "id": 1206636339862495232,
+    "id_str": "1206636339862495232",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        139.582428,
+                        35.590036
+                    ],
+                    [
+                        139.686603,
+                        35.590036
+                    ],
+                    [
+                        139.686603,
+                        35.682992
+                    ],
+                    [
+                        139.582428,
+                        35.682992
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Japan",
+        "country_code": "JP",
+        "full_name": "Setagaya-ku, Tokyo",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "1b0cfebe3424e14f",
+        "name": "Setagaya-ku",
+        "place_type": "city",
+        "polylines": null,
+        "url": "https://api.twitter.com/1.1/geo/id/1b0cfebe3424e14f.json"
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさん「帰りは超満員電車」 ド",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 02 08:18:57 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "アイマスしたりイベント運営したりします。申し訳程度のプログラミング要素/お仕事のご依頼: m@sterpiece.jp",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/qEuM4NSrKU",
+                        "display_url": "amzn.asia/h9oJ5Qz",
+                        "expanded_url": "http://amzn.asia/h9oJ5Qz"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 66411,
+        "follow_request_sent": false,
+        "followers_count": 930,
+        "following": false,
+        "friends_count": 1003,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1013698526683934720,
+        "id_str": "1013698526683934720",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 22,
+        "location": "新宿とか",
+        "name": "主犯🌻",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1013698526683934720/1573722835",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1186935550361493504/EJTiXdtg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186935550361493504/EJTiXdtg_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "shuhannn",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 67845,
+        "time_zone": "",
+        "url": "https://t.co/qEuM4NSrKU",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

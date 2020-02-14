@@ -1,0 +1,372 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:47:51 +0000 2019",
+    "display_text_range": [
+        0,
+        93
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    63,
+                    86
+                ],
+                "url": "https://t.co/pnYVnYxoOE",
+                "display_url": "gendai.ismedia.jp/articles/-/677…",
+                "expanded_url": "https://gendai.ismedia.jp/articles/-/67794"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    87,
+                    93
+                ],
+                "text": "マネー現代"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "森山和道／ライター、書評屋",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "kmoriyama",
+                "id": 43043475,
+                "id_str": "43043475"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @kmoriyama: RT\nグレタさん演説のウラで、日本メディアが報じない「ヤバすぎる現実」\n巨額マネーが動き出した https://t.co/pnYVnYxoOE #マネー現代",
+    "has_extended_profile": false,
+    "id": 1206783035531644928,
+    "id_str": "1206783035531644928",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 03:44:39 +0000 2019",
+        "display_text_range": [
+            0,
+            78
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        48,
+                        71
+                    ],
+                    "url": "https://t.co/pnYVnYxoOE",
+                    "display_url": "gendai.ismedia.jp/articles/-/677…",
+                    "expanded_url": "https://gendai.ismedia.jp/articles/-/67794"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        72,
+                        78
+                    ],
+                    "text": "マネー現代"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 8,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "RT\nグレタさん演説のウラで、日本メディアが報じない「ヤバすぎる現実」\n巨額マネーが動き出した https://t.co/pnYVnYxoOE #マネー現代",
+        "has_extended_profile": false,
+        "id": 1206782229893902336,
+        "id_str": "1206782229893902336",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "RT\nグレタさん演説のウラで、日本メディアが報じない「ヤ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu May 28 04:04:13 +0000 2009",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "日経サイエンス「読書日記」、「ヒトと機械の境界面（https://t.co/SwKboy8Zsc）」、「ロボット基礎講座（https://t.co/GNDl8zt0Qc）」メルマガ「サイエンス・メール（https://t.co/gOVBY5tGlE）」等。ロボット、脳、バイオ、地球科学等よろず承ります",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/8d4EksgwVV",
+                            "display_url": "moriyama.com",
+                            "expanded_url": "http://moriyama.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 10,
+            "follow_request_sent": false,
+            "followers_count": 8937,
+            "following": false,
+            "friends_count": 3778,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 43043475,
+            "id_str": "43043475",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 659,
+            "location": "東京",
+            "name": "森山和道／ライター、書評屋",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/43043475/1439285432",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1313670153/______normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1313670153/______normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "kmoriyama",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 145314,
+            "time_zone": "",
+            "url": "http://t.co/8d4EksgwVV",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @kmoriyama: RT\nグレタさん演説のウラで、日本メディアが報じない「ヤ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 03 14:53:29 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "1978年生の元引きこもり、電子系専門出版社の編集(老)。好きなのは電子回路と一部のデジものとエロ。元オーディオマニア。Oculus Rift／Oculus Go／DayDream View／MO-01K／moto Z（XT1650-03）／P-01G／VK12C/S-K／KBM14HD／WKA-W10HBK／iPad",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/XctopOgkU3",
+                        "display_url": "geocities.jp/kzuticd/",
+                        "expanded_url": "http://www.geocities.jp/kzuticd/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 35117,
+        "follow_request_sent": false,
+        "followers_count": 1158,
+        "following": false,
+        "friends_count": 1177,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 198165351,
+        "id_str": "198165351",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 92,
+        "location": "埼玉県川越市/文京区千石（最寄駅は巣鴨）",
+        "name": "UTiCd/うちかど",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1861393219/icon_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1861393219/icon_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "UTiCd",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 153031,
+        "time_zone": "",
+        "url": "https://t.co/XctopOgkU3",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

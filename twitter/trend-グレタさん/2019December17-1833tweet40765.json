@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:43:51 +0000 2019",
+    "display_text_range": [
+        0,
+        143
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    120,
+                    143
+                ],
+                "url": "https://t.co/RHkCrucEcF",
+                "display_url": "article.auone.jp/detail/1/4/8/6…",
+                "expanded_url": "https://article.auone.jp/detail/1/4/8/6_8_r_20191211_1576064982556460"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんはまた、「（気候変動問題で）一番危険なのは、政治家や企業トップが実際は何もしていないのに、行動していると見せかけていることだ」と言われてますよ～！\nどこぞの環境大臣さん達！\n\n温暖化対策「抜け道を協議」＝グレタさん、ＣＯＰを批判 https://t.co/RHkCrucEcF",
+    "has_extended_profile": false,
+    "id": 1206540437927813120,
+    "id_str": "1206540437927813120",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんはまた、「（気候変動問題で）一番危険なのは、政治家や企業トップが実際は何もしていない\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 19 02:20:47 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "お茶好き。(紅茶、中国茶、緑茶、珈琲も少々)万年筆好きです。(グランセ増殖中。。。インクも含みます。)\nたまに(しばしば)言葉足らずになります。。。\nまた、両方の意見を言う時がありますので皆さんでお考えください。\n(表に出ているモノだけが真実ではありませんし、リツイートしても必ずしも賛同とは限りません。。。)",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 61150,
+        "follow_request_sent": false,
+        "followers_count": 424,
+        "following": false,
+        "friends_count": 821,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 833139235842449412,
+        "id_str": "833139235842449412",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 6,
+        "location": "",
+        "name": "水金鉄観",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/833139235842449412/1493764489",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1119498604521988097/m3ueE_xx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1119498604521988097/m3ueE_xx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "assamgt",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 13286,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

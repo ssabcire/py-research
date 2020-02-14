@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:07:26 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "tama nekono",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "tomcat2013",
+                "id": 1416971184,
+                "id_str": "1416971184"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @tomcat2013: お節介な野口健\nグレタさんにチョッカイ出す前に、イギリスのロックバンドコールドプレイにもチョッカイ。コールドプレイが飛行機の利用が地球温暖化に影響を与えることを考慮してワールドツアーを休止したことに対して「単なるパフォーマンス」「ファッションとい…",
+    "has_extended_profile": false,
+    "id": 1206818165809795072,
+    "id_str": "1206818165809795072",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 9,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 02:49:02 +0000 2019",
+        "display_text_range": [
+            0,
+            139
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 4,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "お節介な野口健\nグレタさんにチョッカイ出す前に、イギリスのロックバンドコールドプレイにもチョッカイ。コールドプレイが飛行機の利用が地球温暖化に影響を与えることを考慮してワールドツアーを休止したことに対して「単なるパフォーマンス」「ファッションというか子供の発想」と非難している。",
+        "has_extended_profile": false,
+        "id": 1206043459942899712,
+        "id_str": "1206043459942899712",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 9,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "scopes": null,
+        "text": "お節介な野口健\nグレタさんにチョッカイ出す前に、イギリスのロックバンドコールドプレイにもチョッ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri May 10 02:38:13 +0000 2013",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "猫好き/酒好き//♂/原発反対/憲法改悪阻止/最高裁裁判官国民審査制度の是正/再生可能エネルギー大好き/小選挙区制反対/NHK解体/ブロック有/",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 1044,
+            "follow_request_sent": false,
+            "followers_count": 4032,
+            "following": false,
+            "friends_count": 3824,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1416971184,
+            "id_str": "1416971184",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 110,
+            "location": "",
+            "name": "tama nekono",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3687571034/e2503d21598bae370bcddb415b965221_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3687571034/e2503d21598bae370bcddb415b965221_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "tomcat2013",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 30843,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @tomcat2013: お節介な野口健\nグレタさんにチョッカイ出す前に、イギリスのロックバンドコールドプレイ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 09 12:08:20 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "◾️京都在住💮第26回eco検定合格者🎬映画検定2級■＃短歌 空撮のヘリからわれら見下ろされ大きな河の一滴となる【『時代の危機と向き合う短歌』（青磁社/2016年）に収録📙「未来」短歌会・夏韻集📘大辻隆弘📕青木俊📣2020年2月2日投開票 #京都市長選 は #福山和人（#つなぐ京都2020）#れいわ新選組",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/cNIKPBf2Ee",
+                        "display_url": "ameblo.jp/ootsukisan",
+                        "expanded_url": "http://ameblo.jp/ootsukisan"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 197781,
+        "follow_request_sent": false,
+        "followers_count": 3012,
+        "following": false,
+        "friends_count": 3302,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3146064212,
+        "id_str": "3146064212",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 51,
+        "location": "京都府 京都市 中京区",
+        "name": "大槻サンライズ（大槻和央）🌅京都人",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3146064212/1576325816",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1194955968934596608/cFYS4cFJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194955968934596608/cFYS4cFJ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ootsukisan126",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 97132,
+        "time_zone": "",
+        "url": "https://t.co/cNIKPBf2Ee",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

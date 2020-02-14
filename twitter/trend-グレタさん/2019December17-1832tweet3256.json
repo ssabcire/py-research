@@ -1,0 +1,174 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:28:18 +0000 2019",
+    "display_text_range": [
+        27,
+        84
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "KSL-Live!",
+                "indices": [
+                    0,
+                    9
+                ],
+                "screen_name": "ksl_live",
+                "id": 121298303,
+                "id_str": "121298303"
+            },
+            {
+                "name": "空",
+                "indices": [
+                    10,
+                    26
+                ],
+                "screen_name": "allnaturelove35",
+                "id": 232447571,
+                "id_str": "232447571"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@ksl_live @allnaturelove35 グレタさんも先進国が如何に恵まれているかを勉強しなければ成らない\n自分の主張と行動が噛み合わないって可笑しいよね。",
+    "has_extended_profile": false,
+    "id": 1206808313582641152,
+    "id_str": "1206808313582641152",
+    "in_reply_to_screen_name": "ksl_live",
+    "in_reply_to_status_id": 1206588854129422336,
+    "in_reply_to_status_id_str": "1206588854129422336",
+    "in_reply_to_user_id": 121298303,
+    "in_reply_to_user_id_str": "121298303",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんも先進国が如何に恵まれている",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 01 02:02:53 +0000 2018",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "航空自衛隊、海上自衛隊、陸上自衛を応援しています。   フォロー宜しく御願い致します。  此方からの突然のフォローも何卒お許しください。  大手スポーツメーカーＮＰＢ認定硬式ボール磨き砂 各地有名球場のグラウンド用黒土や スポーツターフ用砂などのアドバイザー 詳細はＤＭ迄宜しく御願い致します🏈⚽️🥎",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 32536,
+        "follow_request_sent": false,
+        "followers_count": 1759,
+        "following": false,
+        "friends_count": 2349,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1046581182572285952,
+        "id_str": "1046581182572285952",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 7,
+        "location": "Kobe-shi Chuo-ku, Hyogo",
+        "name": "FIGHTING 201ＳＱ Tomcat FOREVER F35B",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1046581182572285952/1567477525",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1062744588157218816/YtYTOCoZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062744588157218816/YtYTOCoZ_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Yamada201sq",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 8103,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

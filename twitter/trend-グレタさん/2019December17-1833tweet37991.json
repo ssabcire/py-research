@@ -1,0 +1,254 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:28:02 +0000 2019",
+    "display_text_range": [
+        16,
+        48
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "相田彦一",
+                "indices": [
+                    0,
+                    15
+                ],
+                "screen_name": "yo_check_yahhh",
+                "id": 889437433363709952,
+                "id_str": "889437433363709952"
+            }
+        ],
+        "media": [
+            {
+                "id": 1206551541710065664,
+                "id_str": "1206551541710065664",
+                "media_url": "http://pbs.twimg.com/media/EL6IPA7UEAA147b.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL6IPA7UEAA147b.jpg",
+                "url": "https://t.co/QSa2WXY97K",
+                "display_url": "pic.twitter.com/QSa2WXY97K",
+                "expanded_url": "https://twitter.com/Tsumutsumutsumy/status/1206551555186384896/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    49,
+                    72
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206551541710065664,
+                "id_str": "1206551541710065664",
+                "media_url": "http://pbs.twimg.com/media/EL6IPA7UEAA147b.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL6IPA7UEAA147b.jpg",
+                "url": "https://t.co/QSa2WXY97K",
+                "display_url": "pic.twitter.com/QSa2WXY97K",
+                "expanded_url": "https://twitter.com/Tsumutsumutsumy/status/1206551555186384896/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    49,
+                    72
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@yo_check_yahhh おんおんおん！グレタさんは16歳だ！危ない！その発言は危ない！！ https://t.co/QSa2WXY97K",
+    "has_extended_profile": false,
+    "id": 1206551555186384896,
+    "id_str": "1206551555186384896",
+    "in_reply_to_screen_name": "yo_check_yahhh",
+    "in_reply_to_status_id": 1206546323102564359,
+    "in_reply_to_status_id_str": "1206546323102564359",
+    "in_reply_to_user_id": 889437433363709952,
+    "in_reply_to_user_id_str": "889437433363709952",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "おんおんおん！グレタ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 25 12:30:24 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "2018年出川組の仮想通貨エンジョイ勢。 BTCFX、草いじりなど幅広く遊んでます。ビットコインFX初心者向けのBitMEXの使い方note書いてます。\nhttps://t.co/4TVEbatob6",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 25556,
+        "follow_request_sent": false,
+        "followers_count": 1454,
+        "following": false,
+        "friends_count": 1166,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 4355773814,
+        "id_str": "4355773814",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 12,
+        "location": "股間",
+        "name": "つむさん",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4355773814/1567089123",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1206532813895294976/sdFbp_au_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1206532813895294976/sdFbp_au_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Tsumutsumutsumy",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 24366,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

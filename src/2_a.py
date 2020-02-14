@@ -13,6 +13,7 @@ def make_df_valid_label(csv_path: Path):
             init_df = init_df.append(Series(row, index=df.columns),
                                      ignore_index=True
                                      )
+    return init_df
 
 
 def b(csv_path: Path):
@@ -32,6 +33,5 @@ if __name__ == "__main__":
     csv_path = cwd / 'trend-グレタさん-label.csv'
     valid_label_path = cwd / 'trend-グレタさん-validLabel.csv'
 
-    make_df_valid_label(csv_path).dropna().to_csv(
-        valid_label_path, index=False)
+    make_df_valid_label(csv_path).dropna().to_csv(valid_label_path, index=False)
     b(valid_label_path)

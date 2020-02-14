@@ -1,0 +1,416 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 23:08:53 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ネコムスメ",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "nekomusumeJAPAN",
+                "id": 173752115,
+                "id_str": "173752115"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @nekomusumeJAPAN: グレタさんを特別支持していない私でも思うんだが、事実を曲げてまでこの人を叩こうという風潮がある。元ツイを見ても\"可哀想な私\"なんて言っていないし逆ギレもしていない。フランクフルトまでは本当に床に座る必要があり、同じ電車に乗り合わせた人も…",
+    "has_extended_profile": false,
+    "id": 1206712831959171072,
+    "id_str": "1206712831959171072",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 21:40:01 +0000 2019",
+        "display_text_range": [
+            0,
+            139
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206690461458415616,
+                    "id_str": "1206690461458415616",
+                    "media_url": "http://pbs.twimg.com/media/EL8GlNUUwAAhoGk.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL8GlNUUwAAhoGk.jpg",
+                    "url": "https://t.co/WgWq0M9b3Q",
+                    "display_url": "pic.twitter.com/WgWq0M9b3Q",
+                    "expanded_url": "https://twitter.com/nekomusumeJAPAN/status/1206690468110536704/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 723,
+                            "h": 1084,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 454,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 723,
+                            "h": 1084,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        140,
+                        163
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206690461458415616,
+                    "id_str": "1206690461458415616",
+                    "media_url": "http://pbs.twimg.com/media/EL8GlNUUwAAhoGk.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL8GlNUUwAAhoGk.jpg",
+                    "url": "https://t.co/WgWq0M9b3Q",
+                    "display_url": "pic.twitter.com/WgWq0M9b3Q",
+                    "expanded_url": "https://twitter.com/nekomusumeJAPAN/status/1206690468110536704/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 723,
+                            "h": 1084,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 454,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 723,
+                            "h": 1084,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        140,
+                        163
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんを特別支持していない私でも思うんだが、事実を曲げてまでこの人を叩こうという風潮がある。元ツイを見ても\"可哀想な私\"なんて言っていないし逆ギレもしていない。フランクフルトまでは本当に床に座る必要があり、同じ電車に乗り合わせた人も動画を投稿している。なのにこの言われよう。 https://t.co/WgWq0M9b3Q",
+        "has_extended_profile": false,
+        "id": 1206690468110536704,
+        "id_str": "1206690468110536704",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんを特別支持していない私でも思うんだが、事実を曲げてまでこの人を叩こうという風潮があ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Aug 02 07:52:07 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "猫/映画/海外ﾄﾞﾗﾏ/SOUL/花/英語/タイ語/乗馬/美術品/文化財/ｽｷｭｰﾊﾞ/和太鼓/Trp/白州次郎/田中角榮/Bruce Lee/さだまさし/高橋ﾖｼｷ/宇多丸/春日太一/井上達夫/伊藤祐靖/47都道府県全制覇への道(33ヶ所で小休止)/国際結婚🇫🇷/空手家の夫\u0026茶トラのもんじろうとBKK🇹🇭在住",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/XKjIIEJwfG",
+                            "display_url": "twpf.jp/nekomusumeJAPAN",
+                            "expanded_url": "http://twpf.jp/nekomusumeJAPAN"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 19958,
+            "follow_request_sent": false,
+            "followers_count": 1116,
+            "following": false,
+            "friends_count": 221,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 173752115,
+            "id_str": "173752115",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 46,
+            "location": "Bangkok, Tokyo (南魚沼産)",
+            "name": "ネコムスメ",
+            "notifications": false,
+            "profile_background_color": "642D8B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/173752115/1492426687",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1026754567717838848/yFxPE60K_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1026754567717838848/yFxPE60K_normal.jpg",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "65B0DA",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "nekomusumeJAPAN",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 81521,
+            "time_zone": "",
+            "url": "https://t.co/XKjIIEJwfG",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @nekomusumeJAPAN: グレタさんを特別支持していない私でも思うんだが、事実を曲げてまでこの人を叩こう\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 01 06:30:23 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "後攻率高し_:(´ཀ`」 ∠):",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 189,
+        "follow_request_sent": false,
+        "followers_count": 42,
+        "following": false,
+        "friends_count": 133,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 150553579,
+        "id_str": "150553579",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "日本",
+        "name": "Anotherblood",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/150553579/1506338909",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1075775012974424065/zB-KPpKJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1075775012974424065/zB-KPpKJ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "makotosk",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 2801,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

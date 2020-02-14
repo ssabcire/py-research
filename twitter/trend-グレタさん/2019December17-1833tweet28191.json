@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 15:12:23 +0000 2019",
+    "display_text_range": [
+        0,
+        105
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    82,
+                    105
+                ],
+                "url": "https://t.co/pSY3a9FPlg",
+                "display_url": "time.com/5747261/person…",
+                "expanded_url": "https://time.com/5747261/person-of-the-year-2019-reader-poll-results/"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "もへもへ",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "gerogeroR",
+                "id": 499524198,
+                "id_str": "499524198"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @gerogeroR: 今年の人で香港デモの指導者の子が事前では圧倒的だったのにグレタさんになったことが発覚して大荒れって記事。これがしんの忖度だ!震えろ。 https://t.co/pSY3a9FPlg",
+    "has_extended_profile": false,
+    "id": 1206592917118210048,
+    "id_str": "1206592917118210048",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1201,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 08:16:05 +0000 2019",
+        "display_text_range": [
+            0,
+            90
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        67,
+                        90
+                    ],
+                    "url": "https://t.co/pSY3a9FPlg",
+                    "display_url": "time.com/5747261/person…",
+                    "expanded_url": "https://time.com/5747261/person-of-the-year-2019-reader-poll-results/"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1969,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "今年の人で香港デモの指導者の子が事前では圧倒的だったのにグレタさんになったことが発覚して大荒れって記事。これがしんの忖度だ!震えろ。 https://t.co/pSY3a9FPlg",
+        "has_extended_profile": false,
+        "id": 1206125761993658368,
+        "id_str": "1206125761993658368",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1201,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "今年の人で香港デモの指導者の子が事前では圧倒的だったのにグレ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Feb 22 06:24:46 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "洋ゲーマニアで世界史マニアでオカルトマニア。政治的には生まれてずっと共産党に票をほりこんでるのになぜか集団自衛権とか賛成で共産党の考えと真逆だったりします。実はあんまり政治思想はないです。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 262395,
+            "follow_request_sent": false,
+            "followers_count": 38591,
+            "following": false,
+            "friends_count": 534,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 499524198,
+            "id_str": "499524198",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 758,
+            "location": "日本",
+            "name": "もへもへ",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1018836582441218049/D2QWJ6kC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1018836582441218049/D2QWJ6kC_normal.jpg",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "gerogeroR",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 45116,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @gerogeroR: 今年の人で香港デモの指導者の子が事前では圧倒的だったのにグレ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 24 13:01:53 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "動物と旅、映画が好きです。あ、お察しかもしれませんが、猫バカです(//∇//)「聞くは一時の恥、聞かぬは…」基本バカなので、勉強の為に備忘録としてリツィートさせて頂いたりもしてます。失礼があったらすいません💦ツイッター初心者ですが宜しくお願いします😊",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 95521,
+        "follow_request_sent": false,
+        "followers_count": 2189,
+        "following": false,
+        "friends_count": 4669,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 3670577533,
+        "id_str": "3670577533",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 32,
+        "location": "",
+        "name": "モフ猫",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3670577533/1485339597",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/692405916776304640/ML1bPOpr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/692405916776304640/ML1bPOpr_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LadySarika",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 275593,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

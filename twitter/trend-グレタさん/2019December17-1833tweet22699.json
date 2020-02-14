@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 20:23:46 +0000 2019",
+    "display_text_range": [
+        0,
+        72
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    49,
+                    72
+                ],
+                "url": "https://t.co/WNux6nJjn9",
+                "display_url": "raiharusaaoc.livedoor.blog/archives/50353…",
+                "expanded_url": "http://raiharusaaoc.livedoor.blog/archives/5035300.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "【悲報】グレタさん「満員列車で帰りました」鉄道会社「ファーストクラスご利用ありがとうございます」\nhttps://t.co/WNux6nJjn9",
+    "has_extended_profile": false,
+    "id": 1206671277206978562,
+    "id_str": "1206671277206978562",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": true,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://blog.livedoor.com/\" rel=\"nofollow\"\u003elivedoor Blog\u003c/a\u003e",
+    "scopes": null,
+    "text": "【悲報】グレタさん「満員列車で帰りました」鉄道会",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 04 04:00:57 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#相互フォロー フォロー お願いします アンテナブログ【宣伝】自動演奏MIDI制作してます。 楽譜読めない方、ピアノ独学練習したい方 、YouTubeチャンネル登録よろしくお願いします。↓↓",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/odtSl442NX",
+                        "display_url": "m.youtube.com/channel/UC5KGy…",
+                        "expanded_url": "https://m.youtube.com/channel/UC5KGyucblkVjGt4vH0IhNNw"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1,
+        "follow_request_sent": false,
+        "followers_count": 510,
+        "following": false,
+        "friends_count": 704,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1191203593564504066,
+        "id_str": "1191203593564504066",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "情報発信 ニュース📡",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1191203593564504066/1576071013",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1204753634916880384/5l3WOCQ7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1204753634916880384/5l3WOCQ7_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ZBmjx",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 2063,
+        "time_zone": "",
+        "url": "https://t.co/odtSl442NX",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

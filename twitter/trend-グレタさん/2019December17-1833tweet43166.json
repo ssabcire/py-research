@@ -1,0 +1,299 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:06:08 +0000 2019",
+    "display_text_range": [
+        0,
+        88
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    65,
+                    88
+                ],
+                "url": "https://t.co/AyYUVJfpAR",
+                "display_url": "switch-news.com/whole/post-412…",
+                "expanded_url": "https://switch-news.com/whole/post-41297/"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    36,
+                    46
+                ],
+                "text": "グレタトゥーンベリ"
+            },
+            {
+                "indices": [
+                    47,
+                    51
+                ],
+                "text": "ドイツ"
+            },
+            {
+                "indices": [
+                    52,
+                    55
+                ],
+                "text": "鉄道"
+            },
+            {
+                "indices": [
+                    56,
+                    58
+                ],
+                "text": "床"
+            },
+            {
+                "indices": [
+                    59,
+                    64
+                ],
+                "text": "ツイート"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": [
+            {
+                "id": 1206530942669594624,
+                "id_str": "1206530942669594624",
+                "media_url": "http://pbs.twimg.com/media/EL51f_hWoAAAWOJ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL51f_hWoAAAWOJ.jpg",
+                "url": "https://t.co/GFOA31hZAl",
+                "display_url": "pic.twitter.com/GFOA31hZAl",
+                "expanded_url": "https://twitter.com/switch_news_ofc/status/1206530944963956736/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 600,
+                        "h": 400,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 600,
+                        "h": 400,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 600,
+                        "h": 400,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    89,
+                    112
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206530942669594624,
+                "id_str": "1206530942669594624",
+                "media_url": "http://pbs.twimg.com/media/EL51f_hWoAAAWOJ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL51f_hWoAAAWOJ.jpg",
+                "url": "https://t.co/GFOA31hZAl",
+                "display_url": "pic.twitter.com/GFOA31hZAl",
+                "expanded_url": "https://twitter.com/switch_news_ofc/status/1206530944963956736/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 600,
+                        "h": 400,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 600,
+                        "h": 400,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 600,
+                        "h": 400,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    89,
+                    112
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 50,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんが列車の床に座っている写真を投稿、独鉄道会社が皮肉のツイート\n#グレタトゥーンベリ #ドイツ #鉄道 #床 #ツイート https://t.co/AyYUVJfpAR https://t.co/GFOA31hZAl",
+    "has_extended_profile": false,
+    "id": 1206530944963956736,
+    "id_str": "1206530944963956736",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://publicize.wp.com/\" rel=\"nofollow\"\u003eWordPress.com\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんが列車の床に座っている写真を投稿、独鉄道会社が皮\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 16 04:40:45 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "国内外のさまざまなニュースをお届けします。真面目な問題からユニークなものまでテーマはさまざま。海外大手メディアの記事を毎日検索し、いち早く翻訳、お伝えしています。ここにしかないニュースを是非、お楽しみください。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/HiJNSOPt5y",
+                        "display_url": "switch-news.com",
+                        "expanded_url": "https://switch-news.com"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 216632,
+        "follow_request_sent": false,
+        "followers_count": 4691,
+        "following": false,
+        "friends_count": 4977,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 931019181608202240,
+        "id_str": "931019181608202240",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 45,
+        "location": "千葉県",
+        "name": "switch news/スイッチ・ニュース",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/931019181608202240/1548291968",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1088402781776490496/_ncUQjIH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088402781776490496/_ncUQjIH_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "switch_news_ofc",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 4594,
+        "time_zone": "",
+        "url": "https://t.co/HiJNSOPt5y",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

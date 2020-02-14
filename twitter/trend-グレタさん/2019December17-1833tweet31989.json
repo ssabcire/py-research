@@ -1,0 +1,506 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:02:25 +0000 2019",
+    "display_text_range": [
+        0,
+        60
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "きゃんたろう",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "FE51CBT114514",
+                "id": 2914249140,
+                "id_str": "2914249140"
+            }
+        ],
+        "media": [
+            {
+                "id": 1206497977772064768,
+                "id_str": "1206497977772064768",
+                "media_url": "http://pbs.twimg.com/media/EL5XhLtUwAAGJAU.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL5XhLtUwAAGJAU.jpg",
+                "url": "https://t.co/hnP2epLf44",
+                "display_url": "pic.twitter.com/hnP2epLf44",
+                "expanded_url": "https://twitter.com/FE51CBT114514/status/1206497983266607104/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 960,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 960,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206497983266607104,
+                "source_status_id_str": "1206497983266607104",
+                "type": "photo",
+                "indices": [
+                    37,
+                    60
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206497977772064768,
+                "id_str": "1206497977772064768",
+                "media_url": "http://pbs.twimg.com/media/EL5XhLtUwAAGJAU.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL5XhLtUwAAGJAU.jpg",
+                "url": "https://t.co/hnP2epLf44",
+                "display_url": "pic.twitter.com/hnP2epLf44",
+                "expanded_url": "https://twitter.com/FE51CBT114514/status/1206497983266607104/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 960,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 960,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206497983266607104,
+                "source_status_id_str": "1206497983266607104",
+                "type": "photo",
+                "indices": [
+                    37,
+                    60
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @FE51CBT114514: 美味しいラーメン見つけたグレタさん https://t.co/hnP2epLf44",
+    "has_extended_profile": false,
+    "id": 1206575307987116032,
+    "id_str": "1206575307987116032",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 185,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 08:55:09 +0000 2019",
+        "display_text_range": [
+            0,
+            17
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206497977772064768,
+                    "id_str": "1206497977772064768",
+                    "media_url": "http://pbs.twimg.com/media/EL5XhLtUwAAGJAU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL5XhLtUwAAGJAU.jpg",
+                    "url": "https://t.co/hnP2epLf44",
+                    "display_url": "pic.twitter.com/hnP2epLf44",
+                    "expanded_url": "https://twitter.com/FE51CBT114514/status/1206497983266607104/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 960,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        18,
+                        41
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206497977772064768,
+                    "id_str": "1206497977772064768",
+                    "media_url": "http://pbs.twimg.com/media/EL5XhLtUwAAGJAU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL5XhLtUwAAGJAU.jpg",
+                    "url": "https://t.co/hnP2epLf44",
+                    "display_url": "pic.twitter.com/hnP2epLf44",
+                    "expanded_url": "https://twitter.com/FE51CBT114514/status/1206497983266607104/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 960,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        18,
+                        41
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 488,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "美味しいラーメン見つけたグレタさん https://t.co/hnP2epLf44",
+        "has_extended_profile": false,
+        "id": 1206497983266607104,
+        "id_str": "1206497983266607104",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 185,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "美味しいラ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Nov 30 03:07:20 +0000 2014",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "10尺ファイターミニヨンとシルビアじゃないS15 フォロバ率3.14%♨️湯平燈華♨️修善寺透子♨️",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/oQb7Cx8olK",
+                            "display_url": "m.yahoo.co.jp",
+                            "expanded_url": "https://m.yahoo.co.jp"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 56986,
+            "follow_request_sent": false,
+            "followers_count": 933,
+            "following": false,
+            "friends_count": 247,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 2914249140,
+            "id_str": "2914249140",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 11,
+            "location": "東京都台東区千束",
+            "name": "きゃんたろう",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2914249140/1574411209",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1191371844219109376/TqShRLAH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191371844219109376/TqShRLAH_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "FE51CBT114514",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 25919,
+            "time_zone": "",
+            "url": "https://t.co/oQb7Cx8olK",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @FE51CBT114514: 美味しいラーメン見つけたグ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 21 09:32:11 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "TUST。 すいまー。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 23705,
+        "follow_request_sent": false,
+        "followers_count": 337,
+        "following": false,
+        "friends_count": 327,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1445894120,
+        "id_str": "1445894120",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "つじつじ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1445894120/1561081862",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615464989743124480/J2_f4MR1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/615464989743124480/J2_f4MR1_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Tsuji_Tsuji_",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 9916,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

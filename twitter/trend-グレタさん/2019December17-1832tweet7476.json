@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:27:41 +0000 2019",
+    "display_text_range": [
+        0,
+        89
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    66,
+                    89
+                ],
+                "url": "https://t.co/eYhp38hJHb",
+                "display_url": "twitter.com/i/events/12066…",
+                "expanded_url": "https://twitter.com/i/events/1206600997478383617"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "ファーストクラスの床にわざわざ座って満員アピールとかただの詐欺師では…\n\n「グレタさん「帰りの列車は超満員」 ドイツ鉄道が応酬」  https://t.co/eYhp38hJHb",
+    "has_extended_profile": false,
+    "id": 1206777961413632006,
+    "id_str": "1206777961413632006",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": true,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "ファーストクラスの床にわざわざ座って満員アピールとかただの\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 25 18:06:24 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ゲームとか。G+難民\n\n※RT、いいねは必ずしも賛意を示すものではありません",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 17462,
+        "follow_request_sent": false,
+        "followers_count": 283,
+        "following": false,
+        "friends_count": 1090,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 85131932,
+        "id_str": "85131932",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 34,
+        "location": "",
+        "name": "陸離",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85131932/1527219896",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1203515671113388033/xQB0MqZF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1203515671113388033/xQB0MqZF_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Rikuri_Tukimoto",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 24718,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

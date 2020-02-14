@@ -1,0 +1,356 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:39:35 +0000 2019",
+    "display_text_range": [
+        0,
+        118
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    95,
+                    118
+                ],
+                "url": "https://t.co/A2DbfWsG6C",
+                "display_url": "news.yahoo.co.jp/byline/shivare…",
+                "expanded_url": "https://news.yahoo.co.jp/byline/shivarei/20191213-00154732/"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "志葉玲",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "reishiva",
+                "id": 51894123,
+                "id_str": "51894123"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @reishiva: 堀江氏に限らず、グレタさんを批判する大人達は、さも自分は世の中の真理を理解しているかのように、やたら高飛車に物事を語るが、それらの言動は何の変革も起こしてない。\nhttps://t.co/A2DbfWsG6C",
+    "has_extended_profile": false,
+    "id": 1206584662216175617,
+    "id_str": "1206584662216175617",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 3025,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 13 03:31:28 +0000 2019",
+        "display_text_range": [
+            0,
+            104
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        81,
+                        104
+                    ],
+                    "url": "https://t.co/A2DbfWsG6C",
+                    "display_url": "news.yahoo.co.jp/byline/shivare…",
+                    "expanded_url": "https://news.yahoo.co.jp/byline/shivarei/20191213-00154732/"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 8459,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "堀江氏に限らず、グレタさんを批判する大人達は、さも自分は世の中の真理を理解しているかのように、やたら高飛車に物事を語るが、それらの言動は何の変革も起こしてない。\nhttps://t.co/A2DbfWsG6C",
+        "has_extended_profile": false,
+        "id": 1205329363144597505,
+        "id_str": "1205329363144597505",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 3025,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "scopes": null,
+        "text": "堀江氏に限らず、グレタさんを批判する大人達は、さも自分は世の中の真理\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jun 29 00:21:14 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "いわゆる戦場ジャーナリスト。環境(原発問題も)、人権、反貧困なども取材執筆。Yahoo!ニュース個人オーサー（オフィシャルライター）。\nhttps://t.co/HGXskchJ7F\n 講演、原稿等のご依頼は公式ウェブサイトのメールフォームから。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/ABAPNqrGGj",
+                            "display_url": "reishiva.net",
+                            "expanded_url": "https://www.reishiva.net/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 26116,
+            "follow_request_sent": false,
+            "followers_count": 53787,
+            "following": false,
+            "friends_count": 2739,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 51894123,
+            "id_str": "51894123",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 2180,
+            "location": "神出鬼没",
+            "name": "志葉玲",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/51894123/1425634325",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1001851416024039424/X5o64HSr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1001851416024039424/X5o64HSr_normal.jpg",
+            "profile_link_color": "0D07B3",
+            "profile_sidebar_border_color": "0051E8",
+            "profile_sidebar_fill_color": "FFA600",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "reishiva",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 50881,
+            "time_zone": "",
+            "url": "https://t.co/ABAPNqrGGj",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @reishiva: 堀江氏に限らず、グレタさんを批判する大人達は、さも自分は世の中の真理\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 24 03:45:27 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "世界征服を目論む悪の競技ダンスドレス工房。ドレスラテンシャツ在庫数百点。A級選手出身の怪人組が勝てる衣装をご提案\u0026増強アレンジ。クリスタル装飾輸入衣装販売小物制作。クリーニング装飾補修格安対応。女子美→香港中文大学、FTMgayLGBT。JDSF公認競技力指導員、相方は@matarochan9999",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/SrX3ucQMt4",
+                        "display_url": "facebook.com/dressunico",
+                        "expanded_url": "https://www.facebook.com/dressunico"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 28314,
+        "follow_request_sent": false,
+        "followers_count": 1689,
+        "following": false,
+        "friends_count": 2206,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 271240511,
+        "id_str": "271240511",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 14,
+        "location": "東京 世田谷区",
+        "name": "DRESSUNICOドレスウニコ",
+        "notifications": false,
+        "profile_background_color": "F01616",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/271240511/1573562954",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/797252910618845184/tJ7kTagQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/797252910618845184/tJ7kTagQ_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dressunico",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 15750,
+        "time_zone": "",
+        "url": "https://t.co/SrX3ucQMt4",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

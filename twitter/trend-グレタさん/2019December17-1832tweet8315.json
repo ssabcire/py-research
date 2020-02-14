@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:11:02 +0000 2019",
+    "display_text_range": [
+        0,
+        124
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    101,
+                    124
+                ],
+                "url": "https://t.co/eTb3l5JfJI",
+                "display_url": "news.livedoor.com/article/detail…",
+                "expanded_url": "https://news.livedoor.com/article/detail/17533199/"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    93,
+                    100
+                ],
+                "text": "ldnews"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "そうか、飛行機に乗らない理由に「環境問題（Co2）」も言えるのかｗ これから飛行機に乗らない理由はそれにしよう（ぉぃ\n\nグレタさん「帰りの列車は超満員」 ドイツ鉄道がいら立ち気味に反応 #ldnews https://t.co/eTb3l5JfJI",
+    "has_extended_profile": false,
+    "id": 1206773772516114432,
+    "id_str": "1206773772516114432",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+    "scopes": null,
+    "text": "そうか、飛行機に乗らない理由に「環境問題（Co2）」も言えるのかｗ これから飛行機に乗ら",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 31 04:34:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Objective-Cと、CoffeeScriptしか書きません。オリジナルフレームワーク「ViewllerJS」作っています。npmでインストール出来ます。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 7153,
+        "follow_request_sent": false,
+        "followers_count": 796,
+        "following": false,
+        "friends_count": 330,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 61692099,
+        "id_str": "61692099",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 83,
+        "location": "マグラシア",
+        "name": "☯️おおやけハジメ@JIS配列撲滅委員会",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/61692099/1551407138",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1182207738618662912/hBGO7E6J_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1182207738618662912/hBGO7E6J_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "digitarhythm",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 77526,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

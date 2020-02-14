@@ -1,0 +1,535 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 01:11:50 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "岩川文門",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "fumikado55",
+                "id": 3147226349,
+                "id_str": "3147226349"
+            },
+            {
+                "name": "石井孝明（Ishii Takaaki）",
+                "indices": [
+                    85,
+                    98
+                ],
+                "screen_name": "ishiitakaaki",
+                "id": 240698532,
+                "id_str": "240698532"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @fumikado55: 4️⃣グレタさんの背後にいる組織、やっぱり中国か 支援する環境団体が中国共産党政府の代理人の疑い\n\n石井孝明（Ishii Takaaki）@ishiitakaaki\n⬇️\n世界最大の温室効果ガス排出国の中国に行かないグレタ 。まさか欧州過激NGO…",
+    "has_extended_profile": false,
+    "id": 1206743772475715585,
+    "id_str": "1206743772475715585",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 14 10:51:45 +0000 2019",
+        "display_text_range": [
+            0,
+            183
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        160,
+                        183
+                    ],
+                    "url": "https://t.co/ULg7HksVxc",
+                    "display_url": "matomedane.jp/page/42677",
+                    "expanded_url": "https://matomedane.jp/page/42677"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "石井孝明（Ishii Takaaki）",
+                    "indices": [
+                        69,
+                        82
+                    ],
+                    "screen_name": "ishiitakaaki",
+                    "id": 240698532,
+                    "id_str": "240698532"
+                }
+            ],
+            "media": [
+                {
+                    "id": 1203186430660374528,
+                    "id_str": "1203186430660374528",
+                    "media_url": "http://pbs.twimg.com/media/ELKTrxYU8AAJwgY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELKTrxYU8AAJwgY.jpg",
+                    "url": "https://t.co/Bkon7DuyCz",
+                    "display_url": "pic.twitter.com/Bkon7DuyCz",
+                    "expanded_url": "https://twitter.com/ishiitakaaki/status/1203186438491136000/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1203186438491136000,
+                    "source_status_id_str": "1203186438491136000",
+                    "type": "photo",
+                    "indices": [
+                        135,
+                        158
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1203186430660374528,
+                    "id_str": "1203186430660374528",
+                    "media_url": "http://pbs.twimg.com/media/ELKTrxYU8AAJwgY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELKTrxYU8AAJwgY.jpg",
+                    "url": "https://t.co/Bkon7DuyCz",
+                    "display_url": "pic.twitter.com/Bkon7DuyCz",
+                    "expanded_url": "https://twitter.com/ishiitakaaki/status/1203186438491136000/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1203186438491136000,
+                    "source_status_id_str": "1203186438491136000",
+                    "type": "photo",
+                    "indices": [
+                        135,
+                        158
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                },
+                {
+                    "id": 1203186430660378624,
+                    "id_str": "1203186430660378624",
+                    "media_url": "http://pbs.twimg.com/media/ELKTrxYVAAATqhB.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELKTrxYVAAATqhB.jpg",
+                    "url": "https://t.co/Bkon7DuyCz",
+                    "display_url": "pic.twitter.com/Bkon7DuyCz",
+                    "expanded_url": "https://twitter.com/ishiitakaaki/status/1203186438491136000/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 700,
+                            "h": 700,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 700,
+                            "h": 700,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1203186438491136000,
+                    "source_status_id_str": "1203186438491136000",
+                    "type": "photo",
+                    "indices": [
+                        135,
+                        158
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                },
+                {
+                    "id": 1203186430668722176,
+                    "id_str": "1203186430668722176",
+                    "media_url": "http://pbs.twimg.com/media/ELKTrxaUUAAc_1n.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELKTrxaUUAAc_1n.jpg",
+                    "url": "https://t.co/Bkon7DuyCz",
+                    "display_url": "pic.twitter.com/Bkon7DuyCz",
+                    "expanded_url": "https://twitter.com/ishiitakaaki/status/1203186438491136000/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 700,
+                            "h": 700,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 700,
+                            "h": 700,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1203186438491136000,
+                    "source_status_id_str": "1203186438491136000",
+                    "type": "photo",
+                    "indices": [
+                        135,
+                        158
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "4️⃣グレタさんの背後にいる組織、やっぱり中国か 支援する環境団体が中国共産党政府の代理人の疑い\n\n石井孝明（Ishii Takaaki）@ishiitakaaki\n⬇️\n世界最大の温室効果ガス排出国の中国に行かないグレタ 。まさか欧州過激NGOにも、赤いお金が・・・ https://t.co/Bkon7DuyCz\n\nhttps://t.co/ULg7HksVxc",
+        "has_extended_profile": false,
+        "id": 1205802552157040642,
+        "id_str": "1205802552157040642",
+        "in_reply_to_screen_name": "fumikado55",
+        "in_reply_to_status_id": 1205799740891262977,
+        "in_reply_to_status_id_str": "1205799740891262977",
+        "in_reply_to_user_id": 3147226349,
+        "in_reply_to_user_id_str": "3147226349",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "4️⃣グレタさんの背後にいる組織、やっぱり中国か 支援する環境団体が中国共産党政府の代理人の疑い\n\n石井孝明（Ishii Takaaki）@ishiitaka",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Apr 08 08:28:28 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "2019年～ツィート本格的参入、欧米ニュース、ロイター、BBC、、、産経、Zakzak、チャンネルくらら、奥山真司アメ通LIVE!、、、視聴しています。\n尚、2011年～朝日、毎日、NHK、地デジ、、、は記者の雑感【本来は雑観でしょう】が多く偏向しますので、視聴はしていません。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 1078,
+            "follow_request_sent": false,
+            "followers_count": 429,
+            "following": false,
+            "friends_count": 1054,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 3147226349,
+            "id_str": "3147226349",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1,
+            "location": " 神奈川県【出身地は高知市、高知学園卒業】",
+            "name": "岩川文門",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1084037836779601920/PlZsYC7I_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084037836779601920/PlZsYC7I_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "fumikado55",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 8334,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @fumikado55: 4️⃣グレタさんの背後にいる組織、やっぱり中国か 支援する環境団体が中国共産党政府の\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 04:45:30 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "天之御中主(モノマー)末裔",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/CoPNPIhqB7",
+                        "display_url": "twilog.org/springwaker",
+                        "expanded_url": "http://twilog.org/springwaker"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2198,
+        "follow_request_sent": false,
+        "followers_count": 2053,
+        "following": false,
+        "friends_count": 2037,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104382510,
+        "id_str": "104382510",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 49,
+        "location": "東京都",
+        "name": "ฅ^._.^ฅ",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1171755471/1267342239700_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171755471/1267342239700_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "springwaker",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 38821,
+        "time_zone": "",
+        "url": "https://t.co/CoPNPIhqB7",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

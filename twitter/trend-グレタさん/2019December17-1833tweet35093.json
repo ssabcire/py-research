@@ -1,0 +1,164 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 13:12:47 +0000 2019",
+    "display_text_range": [
+        17,
+        141
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ヘルおじさん",
+                "indices": [
+                    0,
+                    16
+                ],
+                "screen_name": "uncle_from_hell",
+                "id": 96727147,
+                "id_str": "96727147"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@uncle_from_hell 「地球の権利」の前では人権など存在しないのです。性犯罪者か否か関係なく。こんな議論にエネルギー費やして地球を傷つける我々は滅ぶべきなのです。あなたも私も含めて。\nってグレタさんが教えてくれたので。(相手方の弁護士さんにも同様のクソリプを投げてます)",
+    "has_extended_profile": false,
+    "id": 1206562817530155011,
+    "id_str": "1206562817530155011",
+    "in_reply_to_screen_name": "uncle_from_hell",
+    "in_reply_to_status_id": 1205831644776521729,
+    "in_reply_to_status_id_str": "1205831644776521729",
+    "in_reply_to_user_id": 96727147,
+    "in_reply_to_user_id_str": "96727147",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "「地球の権利」の前では人権など存在しないのです。性犯罪者か否か関係なく。こんな議論\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 06 12:32:25 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "平和憲法9条っていうけど「朝鮮特需を違憲判決で止められなかった」時点で平和憲法失格だよね。今の9条は平和憲法の抜け殻。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 4053,
+        "follow_request_sent": false,
+        "followers_count": 46,
+        "following": false,
+        "friends_count": 129,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 330305446,
+        "id_str": "330305446",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "名古屋市内のどこか",
+        "name": "レッドほむ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1056895413721083905/01IdkOls_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056895413721083905/01IdkOls_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "red_hom",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 10864,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

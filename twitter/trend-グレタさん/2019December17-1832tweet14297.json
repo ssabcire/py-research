@@ -1,0 +1,406 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:19:31 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "増子典男",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "MasikoMm1nn1",
+                "id": 1569836934,
+                "id_str": "1569836934"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @MasikoMm1nn1: まったく❗\n小池さんのいう通りだ❗。小泉環境相は、マイクの前で、いろいろしゃべっているが、何を言っているのか、何が言いたいのか、さっぱりわからない。\nグレタさんは、こういう政治家を痛烈に批判した。\n腹が立つのは日本のマスコミ。\n安倍内閣の無責…",
+    "has_extended_profile": false,
+    "id": 1206730608312909824,
+    "id_str": "1206730608312909824",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 51,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 22:00:04 +0000 2019",
+        "display_text_range": [
+            0,
+            142
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206695504668590080,
+                    "id_str": "1206695504668590080",
+                    "media_url": "http://pbs.twimg.com/media/EL8LKwvVAAAm7sp.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL8LKwvVAAAm7sp.jpg",
+                    "url": "https://t.co/Do9GPmEB9L",
+                    "display_url": "pic.twitter.com/Do9GPmEB9L",
+                    "expanded_url": "https://twitter.com/MasikoMm1nn1/status/1206695515913515008/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 837,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 474,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1429,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        143,
+                        166
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206695504668590080,
+                    "id_str": "1206695504668590080",
+                    "media_url": "http://pbs.twimg.com/media/EL8LKwvVAAAm7sp.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL8LKwvVAAAm7sp.jpg",
+                    "url": "https://t.co/Do9GPmEB9L",
+                    "display_url": "pic.twitter.com/Do9GPmEB9L",
+                    "expanded_url": "https://twitter.com/MasikoMm1nn1/status/1206695515913515008/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 837,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 474,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1429,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        143,
+                        166
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 48,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "まったく❗\n小池さんのいう通りだ❗。小泉環境相は、マイクの前で、いろいろしゃべっているが、何を言っているのか、何が言いたいのか、さっぱりわからない。\nグレタさんは、こういう政治家を痛烈に批判した。\n腹が立つのは日本のマスコミ。\n安倍内閣の無責任と背任をまともに報じない。\n記事｢赤旗｣ https://t.co/Do9GPmEB9L",
+        "has_extended_profile": false,
+        "id": 1206695515913515008,
+        "id_str": "1206695515913515008",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 51,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "まったく❗\n小池さんのいう通りだ❗。小泉環境相は、マイクの前で、いろいろしゃべっているが、何を言",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Jul 05 06:24:48 +0000 2013",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "19歳で日本共産党に入党。党員歴59年に。戦争と貧乏が、子どもの頃からの｢何で❓｣だった。民青同盟で学び、❓が解けたとき自ずと党員の道を選択した。平坦ではなかったが、｢間違いなかった｣と言えることは幸せだ。埼玉で活動し、14年前に党本部に。いま、青年学生分野を担当。若い世代の入党を心から歓迎。栃木県生まれ、福島県育ち。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 309,
+            "follow_request_sent": false,
+            "followers_count": 5891,
+            "following": false,
+            "friends_count": 3936,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 1569836934,
+            "id_str": "1569836934",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 106,
+            "location": "",
+            "name": "増子典男",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1569836934/1547872169",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1153393864381628416/ZioOTt8A_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153393864381628416/ZioOTt8A_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "MasikoMm1nn1",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 12371,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @MasikoMm1nn1: まったく❗\n小池さんのいう通りだ❗。小泉環境相は、マイクの前で、いろいろしゃべって\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 21 07:56:24 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 37351,
+        "follow_request_sent": false,
+        "followers_count": 341,
+        "following": false,
+        "friends_count": 486,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 756035081324474368,
+        "id_str": "756035081324474368",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "たつや",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/756063219408437250/hVNxCYwK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/756063219408437250/hVNxCYwK_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "t283_y",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 1036,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

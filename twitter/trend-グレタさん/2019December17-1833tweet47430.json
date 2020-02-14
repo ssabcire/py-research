@@ -1,0 +1,182 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 09:59:11 +0000 2019",
+    "display_text_range": [
+        0,
+        14
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさん130歳だったのか",
+    "has_extended_profile": false,
+    "id": 1206514099213000704,
+    "id_str": "1206514099213000704",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        7.6881601,
+                        48.4924213
+                    ],
+                    [
+                        7.836256,
+                        48.4924213
+                    ],
+                    [
+                        7.836256,
+                        48.6461915
+                    ],
+                    [
+                        7.6881601,
+                        48.6461915
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Strasbourg, France",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "0701e94ee168b555",
+        "name": "Strasbourg",
+        "place_type": "city",
+        "polylines": null,
+        "url": "https://api.twitter.com/1.1/geo/id/0701e94ee168b555.json"
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 01 13:22:34 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "しょっちゅう名前が変わることに定評のあるkennです。MMDとマリカ8DXの垢を兼用。今はマリオカートメインです。にじさんじ好き。アイコンはあるぱかしより。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/naY3HB2xIX",
+                        "display_url": "sp.nicovideo.jp/user/43644777/…",
+                        "expanded_url": "http://sp.nicovideo.jp/user/43644777/video?cp_in=uservideo_user"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 24211,
+        "follow_request_sent": false,
+        "followers_count": 437,
+        "following": false,
+        "friends_count": 527,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3303317994,
+        "id_str": "3303317994",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 8,
+        "location": "",
+        "name": "kenn",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3303317994/1575376431",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1197558027051626496/uk8j4eHd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197558027051626496/uk8j4eHd_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kenn_mmd",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 37460,
+        "time_zone": "",
+        "url": "https://t.co/naY3HB2xIX",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

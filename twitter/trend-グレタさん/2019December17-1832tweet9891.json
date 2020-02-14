@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:22:12 +0000 2019",
+    "display_text_range": [
+        0,
+        62
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "元酒王 セルヴェーサ",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "hashimoshi110",
+                "id": 504660908,
+                "id_str": "504660908"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @hashimoshi110: グレタさん色々活動するのは良いけど、学校は行った方が良いのでは…算数とか大丈夫なのか…",
+    "has_extended_profile": false,
+    "id": 1206761483473805313,
+    "id_str": "1206761483473805313",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 14 00:21:42 +0000 2019",
+        "display_text_range": [
+            0,
+            43
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 4,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん色々活動するのは良いけど、学校は行った方が良いのでは…算数とか大丈夫なのか…",
+        "has_extended_profile": false,
+        "id": 1205643995331756032,
+        "id_str": "1205643995331756032",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん色々活動するのは良\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Feb 26 15:47:06 +0000 2012",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "ようこそ、堕落の都へ。さあ、お手をどうぞ。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 883,
+            "follow_request_sent": false,
+            "followers_count": 108,
+            "following": false,
+            "friends_count": 214,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 504660908,
+            "id_str": "504660908",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1,
+            "location": "ネオヴェネチアか書庫",
+            "name": "元酒王 セルヴェーサ",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3435492427/06c15124a91ae2fa9c7d5239bd36a608_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3435492427/06c15124a91ae2fa9c7d5239bd36a608_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "hashimoshi110",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 8686,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @hashimoshi110: グレタさん色々活動するのは良\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 13 16:42:26 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I like travel and photography. Camera：Canon EOS 5D Mark III,REBEL T4i 趣味は旅行＆写真。 カメラ：Canon EOS 5D Mark III､ Kiss X6i #日本道路好団 #日本一周 #道路 #高速道路 #交通 #バイク #海外ドライブ",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/IRAUb8c6Zk",
+                        "display_url": "festiva1202.livedoor.blog",
+                        "expanded_url": "http://festiva1202.livedoor.blog/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 86117,
+        "follow_request_sent": false,
+        "followers_count": 3843,
+        "following": false,
+        "friends_count": 3678,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 166218872,
+        "id_str": "166218872",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 90,
+        "location": "日本",
+        "name": "ふぇー@道・道路・ROAD",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/166218872/1439547059",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1604327263/011_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1604327263/011_normal.JPG",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "festiva1202",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 45807,
+        "time_zone": "",
+        "url": "https://t.co/IRAUb8c6Zk",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

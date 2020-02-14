@@ -1,0 +1,519 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:12:26 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Hideki Kakeya",
+                "indices": [
+                    3,
+                    11
+                ],
+                "screen_name": "hkakeya",
+                "id": 243798036,
+                "id_str": "243798036"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @hkakeya: この論理はよく見かけるが、そういう人は他国であっても米国は批判する。グレタさんを見ても分かる通り、自国だから批判するのではなく、自由主義・民主主義国が相手だと他国でも批判し、独裁国はスルーするというのが左派の言論のパターンである。 https://t.…",
+    "has_extended_profile": false,
+    "id": 1206577830546427904,
+    "id_str": "1206577830546427904",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1203103560759513088,
+    "quoted_status_id_str": "1203103560759513088",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 201,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 07 12:07:28 +0000 2019",
+        "display_text_range": [
+            0,
+            115
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "url": "https://t.co/ygkwqKawHO",
+                    "display_url": "twitter.com/rei_ktrg/statu…",
+                    "expanded_url": "https://twitter.com/rei_ktrg/status/1203103560759513088"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 436,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "この論理はよく見かけるが、そういう人は他国であっても米国は批判する。グレタさんを見ても分かる通り、自国だから批判するのではなく、自由主義・民主主義国が相手だと他国でも批判し、独裁国はスルーするというのが左派の言論のパターンである。 https://t.co/ygkwqKawHO",
+        "has_extended_profile": false,
+        "id": 1203284888394141697,
+        "id_str": "1203284888394141697",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1203103560759513088,
+        "quoted_status_id_str": "1203103560759513088",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sat Dec 07 00:06:56 +0000 2019",
+            "display_text_range": [
+                20,
+                77
+            ],
+            "entities": {
+                "urls": [],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [
+                    {
+                        "name": "Hideki Kakeya",
+                        "indices": [
+                            0,
+                            8
+                        ],
+                        "screen_name": "hkakeya",
+                        "id": 243798036,
+                        "id_str": "243798036"
+                    },
+                    {
+                        "name": "ゆう@12/22a!（行かないかも…）",
+                        "indices": [
+                            9,
+                            19
+                        ],
+                        "screen_name": "ysknkn119",
+                        "id": 1058475450807201793,
+                        "id_str": "1058475450807201793"
+                    }
+                ],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 3,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "@hkakeya @ysknkn119 自国の批判と他国の批判は別の話。自分の国だからこそ批判するって話で（中共は余りにも酷いので声明出したりしてますが）",
+            "has_extended_profile": false,
+            "id": 1203103560759513088,
+            "id_str": "1203103560759513088",
+            "in_reply_to_screen_name": "hkakeya",
+            "in_reply_to_status_id": 1202591221161398273,
+            "in_reply_to_status_id_str": "1202591221161398273",
+            "in_reply_to_user_id": 243798036,
+            "in_reply_to_user_id_str": "243798036",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 1,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+            "scopes": null,
+            "text": "自国の批判と他国の批判は別の話。自分の",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Jul 24 14:20:15 +0000 2013",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "ミラーレス一眼初心者。Python 3/Perl/C++/Java/PHP/Linuxまるで分からん ITエンジニア フリーランス 写真置き場 @ktrg_nikon",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/HC6sDPWH06",
+                                "display_url": "twpf.jp/rei_ktrg",
+                                "expanded_url": "http://twpf.jp/rei_ktrg"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 261310,
+                "follow_request_sent": false,
+                "followers_count": 2338,
+                "following": false,
+                "friends_count": 2589,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 1617850074,
+                "id_str": "1617850074",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 106,
+                "location": "ガラル地方",
+                "name": "葛城玲@ガラル地方",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1617850074/1569596523",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1074231206911168512/K1OfKTf7_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1074231206911168512/K1OfKTf7_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "rei_ktrg",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 137689,
+                "time_zone": "",
+                "url": "https://t.co/HC6sDPWH06",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 201,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "この論理はよく見かけるが、そういう人は他国であっても米国は批判する。グレタさ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jan 27 20:55:26 +0000 2011",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "3D, VR, AR, AI, NLP for Social Science, Engineering Ethics, Research Integrity, Science Literacy, Media Literacy, English-Japanese Translation",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 418,
+            "follow_request_sent": false,
+            "followers_count": 11319,
+            "following": false,
+            "friends_count": 96,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 243798036,
+            "id_str": "243798036",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 180,
+            "location": "",
+            "name": "Hideki Kakeya",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/243798036/1575082972",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1114909906698526720/lSnSN_Mn_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1114909906698526720/lSnSN_Mn_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "hkakeya",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 3351,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://googledrive.com/host/0B5gzbaRv6hqXN0VCQjhDZU5xZTA/test001.html\" rel=\"nofollow\"\u003eyrw2\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @hkakeya: この論理はよく見かけるが、そういう人は他国であっても米国は批判する。グレタさんを見て\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 13 14:30:31 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "《本垢凍結につき暫くこちらを運用》元は規制用垢でした。今は #花王 不買情報botの他、本垢よりぶっちゃけたことを書く時や、本垢TWの再拡散等に使用。\n本垢の始めは #ステマ 追求の為の垢でしたが、調べるうちに #民主党 にぶち当たり、思い切り保守憂国化。隠れ石鹸マニアでもあります。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/QwHZn1uHrm",
+                        "display_url": "yachtrightwing.tumblr.com",
+                        "expanded_url": "http://yachtrightwing.tumblr.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 66952,
+        "follow_request_sent": false,
+        "followers_count": 1446,
+        "following": false,
+        "friends_count": 1267,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 552740921,
+        "id_str": "552740921",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 42,
+        "location": "サムゲ荘のキムチな彼女",
+        "name": "ペートナー＠丁寧に無視",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/552740921/1537813933",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2110506915/tumblr_lz77rdeOvl1rpqk10o1_500_2__normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2110506915/tumblr_lz77rdeOvl1rpqk10o1_500_2__normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "yrw2",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 534500,
+        "time_zone": "",
+        "url": "https://t.co/QwHZn1uHrm",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

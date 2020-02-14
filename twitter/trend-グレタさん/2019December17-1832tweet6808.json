@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:39:56 +0000 2019",
+    "display_text_range": [
+        0,
+        50
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "これがH.イワシタ",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "iwa_jose",
+                "id": 40914423,
+                "id_str": "40914423"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @iwa_jose: やっぱり、グレタさんじゃなくてトゥンベリ氏と書かないとダメだなと思った。",
+    "has_extended_profile": false,
+    "id": 1206781045879689217,
+    "id_str": "1206781045879689217",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 02:13:28 +0000 2019",
+        "display_text_range": [
+            0,
+            36
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 17,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "やっぱり、グレタさんじゃなくてトゥンベリ氏と書かないとダメだなと思った。",
+        "has_extended_profile": false,
+        "id": 1206759282672144384,
+        "id_str": "1206759282672144384",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "やっぱり、グレタさんじゃ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon May 18 17:00:39 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Parental Advisory - Inexplicit Tweet\nとんかつ／NO LIMIT ／マンガ研究者／大学教員\n https://t.co/GIfFu1Akab…",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/aWGBFagAHq",
+                            "display_url": "note.mu/iwa_jose",
+                            "expanded_url": "https://note.mu/iwa_jose"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 45200,
+            "follow_request_sent": false,
+            "followers_count": 4823,
+            "following": false,
+            "friends_count": 1476,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 40914423,
+            "id_str": "40914423",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 259,
+            "location": "THA GAMI",
+            "name": "これがH.イワシタ",
+            "notifications": false,
+            "profile_background_color": "8B542B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/40914423/1464257419",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1705482941/3758532_1263049469_210large_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1705482941/3758532_1263049469_210large_normal.jpg",
+            "profile_link_color": "9D582E",
+            "profile_sidebar_border_color": "D9B17E",
+            "profile_sidebar_fill_color": "EADEAA",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "iwa_jose",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 184862,
+            "time_zone": "",
+            "url": "https://t.co/aWGBFagAHq",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @iwa_jose: やっぱり、グレタさんじゃ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 07 18:16:25 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "アニメ漫画ドラマ映画、フィギュアスケート。好きなスケーターはJ.アボット、B.ジュベール、鈴木明子、村上佳菜子、田中刑事などなど。 二次創作・同人活動についてはこちらで（主にサイボーグ009。薄く腐）。 https://t.co/uOzazZU9Jy",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 8468,
+        "follow_request_sent": false,
+        "followers_count": 315,
+        "following": false,
+        "friends_count": 119,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 141297970,
+        "id_str": "141297970",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 19,
+        "location": "nagoya japan",
+        "name": "バンビーナ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/141297970/1399988390",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1339806163/bill-murray-4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1339806163/bill-murray-4_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "d_bambina",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 144525,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

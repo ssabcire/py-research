@@ -1,0 +1,153 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 23:23:16 +0000 2019",
+    "display_text_range": [
+        0,
+        22
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんが鉄道オタクのおもちゃになっている",
+    "has_extended_profile": false,
+    "id": 1206716452176162816,
+    "id_str": "1206716452176162816",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんが鉄\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 04 11:51:36 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "グラスリップとかストライク・ザ・ブラッドとか好きです。種田梨沙さんと瀬戸麻沙美さん好きです。 2018年はJALに50回乗りました。2019年は50000PP貯めました。好きな騎手は福永祐一と和田竜二と江田照男です。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 6823,
+        "follow_request_sent": false,
+        "followers_count": 402,
+        "following": false,
+        "friends_count": 438,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 276943469,
+        "id_str": "276943469",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 32,
+        "location": "御獅舞村",
+        "name": "TND",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/276943469/1511693406",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/775164429872750592/hZr2bGQY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/775164429872750592/hZr2bGQY_normal.jpg",
+        "profile_link_color": "9B00B3",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ondr_is_great_p",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 235298,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,643 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 23:26:43 +0000 2019",
+    "display_text_range": [
+        0,
+        79
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [
+            {
+                "indices": [
+                    46,
+                    51
+                ],
+                "text": "千代田線"
+            },
+            {
+                "indices": [
+                    52,
+                    55
+                ],
+                "text": "遅延"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "KIKUCHI( ･ิω･ิ)息子大好きパパ",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "kikuchi92469428",
+                "id": 721205724471103488,
+                "id_str": "721205724471103488"
+            }
+        ],
+        "media": [
+            {
+                "id": 1206715726419021824,
+                "id_str": "1206715726419021824",
+                "media_url": "http://pbs.twimg.com/media/EL8dj0oVUAAoyR1.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL8dj0oVUAAoyR1.jpg",
+                "url": "https://t.co/EEEJLwbHQ2",
+                "display_url": "pic.twitter.com/EEEJLwbHQ2",
+                "expanded_url": "https://twitter.com/kikuchi92469428/status/1206715904181977089/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206715904181977089,
+                "source_status_id_str": "1206715904181977089",
+                "type": "photo",
+                "indices": [
+                    56,
+                    79
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206715726419021824,
+                "id_str": "1206715726419021824",
+                "media_url": "http://pbs.twimg.com/media/EL8dj0oVUAAoyR1.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL8dj0oVUAAoyR1.jpg",
+                "url": "https://t.co/EEEJLwbHQ2",
+                "display_url": "pic.twitter.com/EEEJLwbHQ2",
+                "expanded_url": "https://twitter.com/kikuchi92469428/status/1206715904181977089/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206715904181977089,
+                "source_status_id_str": "1206715904181977089",
+                "type": "photo",
+                "indices": [
+                    56,
+                    79
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            },
+            {
+                "id": 1206715793561407489,
+                "id_str": "1206715793561407489",
+                "media_url": "http://pbs.twimg.com/media/EL8dnuwU0AE7a8K.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL8dnuwU0AE7a8K.jpg",
+                "url": "https://t.co/EEEJLwbHQ2",
+                "display_url": "pic.twitter.com/EEEJLwbHQ2",
+                "expanded_url": "https://twitter.com/kikuchi92469428/status/1206715904181977089/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206715904181977089,
+                "source_status_id_str": "1206715904181977089",
+                "type": "photo",
+                "indices": [
+                    56,
+                    79
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @kikuchi92469428: 今日もぶれない満員電車\nグレタさん乗せたい………\n#千代田線\n#遅延 https://t.co/EEEJLwbHQ2",
+    "has_extended_profile": false,
+    "id": 1206717320900464641,
+    "id_str": "1206717320900464641",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 23:21:05 +0000 2019",
+        "display_text_range": [
+            0,
+            34
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [
+                {
+                    "indices": [
+                        25,
+                        30
+                    ],
+                    "text": "千代田線"
+                },
+                {
+                    "indices": [
+                        31,
+                        34
+                    ],
+                    "text": "遅延"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206715726419021824,
+                    "id_str": "1206715726419021824",
+                    "media_url": "http://pbs.twimg.com/media/EL8dj0oVUAAoyR1.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL8dj0oVUAAoyR1.jpg",
+                    "url": "https://t.co/EEEJLwbHQ2",
+                    "display_url": "pic.twitter.com/EEEJLwbHQ2",
+                    "expanded_url": "https://twitter.com/kikuchi92469428/status/1206715904181977089/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1920,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        35,
+                        58
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206715726419021824,
+                    "id_str": "1206715726419021824",
+                    "media_url": "http://pbs.twimg.com/media/EL8dj0oVUAAoyR1.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL8dj0oVUAAoyR1.jpg",
+                    "url": "https://t.co/EEEJLwbHQ2",
+                    "display_url": "pic.twitter.com/EEEJLwbHQ2",
+                    "expanded_url": "https://twitter.com/kikuchi92469428/status/1206715904181977089/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1920,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        35,
+                        58
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                },
+                {
+                    "id": 1206715793561407489,
+                    "id_str": "1206715793561407489",
+                    "media_url": "http://pbs.twimg.com/media/EL8dnuwU0AE7a8K.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL8dnuwU0AE7a8K.jpg",
+                    "url": "https://t.co/EEEJLwbHQ2",
+                    "display_url": "pic.twitter.com/EEEJLwbHQ2",
+                    "expanded_url": "https://twitter.com/kikuchi92469428/status/1206715904181977089/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1920,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        35,
+                        58
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 15,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "今日もぶれない満員電車\nグレタさん乗せたい………\n#千代田線\n#遅延 https://t.co/EEEJLwbHQ2",
+        "has_extended_profile": false,
+        "id": 1206715904181977089,
+        "id_str": "1206715904181977089",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            139.735751,
+                            35.738659
+                        ],
+                        [
+                            139.858685,
+                            35.738659
+                        ],
+                        [
+                            139.858685,
+                            35.817519
+                        ],
+                        [
+                            139.735751,
+                            35.817519
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "Japan",
+            "country_code": "JP",
+            "full_name": "Adachi-ku, Tokyo",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "76c498282a5a7997",
+            "name": "Adachi-ku",
+            "place_type": "city",
+            "polylines": null,
+            "url": "https://api.twitter.com/1.1/geo/id/76c498282a5a7997.json"
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "今日もぶれない満員電車\n",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Apr 16 05:16:58 +0000 2016",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "息子に見せるため電車を撮影しYouTubeに上げ始めました🔰仕事は建設会社でHP制作・運用など色々やります。noteもはじめました：https://t.co/mwHKaa6wlD　◇無言フォローＯＫ！フォロバします。/ダイエット/神輿/祭り/不動産/ジブリ/格闘技/文京区/ラーメン好き💡　",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/32MYlL1eW2",
+                            "display_url": "youtube.com/channel/UCQjiT…",
+                            "expanded_url": "https://www.youtube.com/channel/UCQjiTWQhk4EGfnLU_lS0EMg"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 76539,
+            "follow_request_sent": false,
+            "followers_count": 12759,
+            "following": false,
+            "friends_count": 6975,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 721205724471103488,
+            "id_str": "721205724471103488",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 39,
+            "location": "🙇ちゃんねる登録お願いします🙇",
+            "name": "KIKUCHI( ･ิω･ิ)息子大好きパパ",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/721205724471103488/1460786188",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1014494160840085511/1YZhd2_y_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1014494160840085511/1YZhd2_y_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "kikuchi92469428",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 7159,
+            "time_zone": "",
+            "url": "https://t.co/32MYlL1eW2",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @kikuchi92469428: 今日もぶれない満員電車\nグレタさん乗せた",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 26 05:12:51 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "PIO_RITKERRのお話用アカウントです。通称（青ぴお）　フォローはしたりしなかったり。ちちぶ学上級合格　誕生日：登録12/15,現実12/25　3重人格　煩い時はミュート推奨\n「あの花・ここさけ・空青」応援中！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 26308,
+        "follow_request_sent": false,
+        "followers_count": 212,
+        "following": false,
+        "friends_count": 140,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 703085294380126209,
+        "id_str": "703085294380126209",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 8,
+        "location": "",
+        "name": "PIO_RITKERR_BLUE",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/703087423723429889/RYLoBmZb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/703087423723429889/RYLoBmZb_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PIO_RITKERR_B",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 9208,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

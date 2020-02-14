@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:06:40 +0000 2019",
+    "display_text_range": [
+        0,
+        46
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "「尾畠さんの腕にグレタさんの名前」 一瞬掘ったのかと思ったけど、映像みたらマジックで書いてた",
+    "has_extended_profile": false,
+    "id": 1206787772268199936,
+    "id_str": "1206787772268199936",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://sites.google.com/site/tweentwitterclient/\" rel=\"nofollow\"\u003eTween\u003c/a\u003e",
+    "scopes": null,
+    "text": "「尾畠さんの腕にグレタさんの名\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 07 01:40:31 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "生粋のエセ★関西人　ガンプラ,オリカ作ったり、アニメ,実況動画,生配信を見たり・・・　ゆかなさん,タイナカ彩智さん、angelaが好き　たまにTINAMIにガンプラを投稿もしてます 今年の目標：今年もミキシング頑張る。来年も…再来年も…？",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/7nMbaqQpOZ",
+                        "display_url": "tinami.com/search/list?pr…",
+                        "expanded_url": "http://www.tinami.com/search/list?prof_id=52530"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 168,
+        "follow_request_sent": false,
+        "followers_count": 253,
+        "following": false,
+        "friends_count": 167,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 141042471,
+        "id_str": "141042471",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 27,
+        "location": "大阪市",
+        "name": "X62S:夢幻探求(むーたん)",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/141042471/1512909400",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1204770629922066433/s-JFv6OB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1204770629922066433/s-JFv6OB_normal.jpg",
+        "profile_link_color": "0C67AD",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "E2EFF5",
+        "profile_text_color": "2E2E2E",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "infieth",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 220139,
+        "time_zone": "",
+        "url": "https://t.co/7nMbaqQpOZ",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

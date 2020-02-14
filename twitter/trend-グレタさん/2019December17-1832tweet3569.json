@@ -1,0 +1,367 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:14:49 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "リアル友人からフォローされて焦るおじさん😅",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "pommta72",
+                "id": 70639419,
+                "id_str": "70639419"
+            },
+            {
+                "name": "Mei Kaigai",
+                "indices": [
+                    14,
+                    26
+                ],
+                "screen_name": "Mitchan_599",
+                "id": 151876299,
+                "id_str": "151876299"
+            },
+            {
+                "name": "ぱらみり（自動呟き人形サービス）",
+                "indices": [
+                    27,
+                    39
+                ],
+                "screen_name": "paramilipic",
+                "id": 2878151370,
+                "id_str": "2878151370"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @pommta72: @Mitchan_599 @paramilipic あと、グレタさんはゲッティンゲンから座ったと書いていますが、DBは手前のフランクフルトから一等車だと書いています。\n\nこれって2時間近く差があって、ずいぶんな違いなのですが、どうして差異が生じている…",
+    "has_extended_profile": false,
+    "id": 1206804921766440960,
+    "id_str": "1206804921766440960",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 02:20:02 +0000 2019",
+        "display_text_range": [
+            26,
+            133
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "Mei Kaigai",
+                    "indices": [
+                        0,
+                        12
+                    ],
+                    "screen_name": "Mitchan_599",
+                    "id": 151876299,
+                    "id_str": "151876299"
+                },
+                {
+                    "name": "ぱらみり（自動呟き人形サービス）",
+                    "indices": [
+                        13,
+                        25
+                    ],
+                    "screen_name": "paramilipic",
+                    "id": 2878151370,
+                    "id_str": "2878151370"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 6,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@Mitchan_599 @paramilipic あと、グレタさんはゲッティンゲンから座ったと書いていますが、DBは手前のフランクフルトから一等車だと書いています。\n\nこれって2時間近く差があって、ずいぶんな違いなのですが、どうして差異が生じているのか不思議です。",
+        "has_extended_profile": false,
+        "id": 1206760934808547328,
+        "id_str": "1206760934808547328",
+        "in_reply_to_screen_name": "pommta72",
+        "in_reply_to_status_id": 1206759653461225472,
+        "in_reply_to_status_id_str": "1206759653461225472",
+        "in_reply_to_user_id": 70639419,
+        "in_reply_to_user_id_str": "70639419",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "あと、グレタさんはゲッティンゲンから座ったと書いていますが、DBは手前のフ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Sep 01 09:23:16 +0000 2009",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "#光復香港 #和理非 #徹査警黒 #追究警暴",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 58133,
+            "follow_request_sent": false,
+            "followers_count": 389,
+            "following": false,
+            "friends_count": 647,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 70639419,
+            "id_str": "70639419",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 33,
+            "location": "西日本主基地方",
+            "name": "リアル友人からフォローされて焦るおじさん😅",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/70639419/1565760528",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/392649642/IMG_19751_normal.JPG",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/392649642/IMG_19751_normal.JPG",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "pommta72",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 72824,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @pommta72: @Mitchan_599 @paramilipic あと、グレタさんはゲッティンゲンから座ったと書いていますが、DBは手\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 06 22:53:11 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "毎日ゆるく生活しているおじさん•反復性うつ病障害2級。中道右派＝自民党支持者。\nPlidaC-2. LGBTIANXP+. Calcio italiano. La politica italiana. Risolse la prostituta per la truppa Coreana.",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/wqbMfvi039",
+                        "display_url": "proffy.jp/fachetti3333",
+                        "expanded_url": "https://proffy.jp/fachetti3333"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 192223,
+        "follow_request_sent": false,
+        "followers_count": 928,
+        "following": false,
+        "friends_count": 1774,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 278257691,
+        "id_str": "278257691",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 14,
+        "location": "日本→Italia→Australia→France今ここ",
+        "name": "un tifoso di ex-US Cagliari",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/278257691/1525856346",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/969030678690934784/4ccmB-OH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/969030678690934784/4ccmB-OH_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fachetti3333",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 138634,
+        "time_zone": "",
+        "url": "https://t.co/wqbMfvi039",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

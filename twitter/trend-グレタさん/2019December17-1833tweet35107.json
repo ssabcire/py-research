@@ -1,0 +1,459 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 13:12:33 +0000 2019",
+    "display_text_range": [
+        0,
+        144
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ほうとうひろし 호토 히로시 Хироши Хото",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "HiroshiHootoo",
+                "id": 96127915,
+                "id_str": "96127915"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @HiroshiHootoo: 野口健\u0026amp;コスモ石油の《環境活動「コスモ アースコンシャスアクト」では、わざわざ〈地球中心のストイックな活動から自分らしいカジュアルな活動へ〉など…グレタさんが取り組んでいるような地球全体の環境保護を考える運動をディスっている。》リテラ\nht…",
+    "has_extended_profile": false,
+    "id": 1206562760051445760,
+    "id_str": "1206562760051445760",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 13:09:57 +0000 2019",
+        "display_text_range": [
+            0,
+            169
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        122,
+                        145
+                    ],
+                    "url": "https://t.co/aQ8nFQNbnX",
+                    "display_url": "lite-ra.com/2019/12/post-5…",
+                    "expanded_url": "https://lite-ra.com/2019/12/post-5146.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206461043871846400,
+                    "id_str": "1206461043871846400",
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206461043871846400/pu/img/ilN4iwGgiPB6SRPK.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206461043871846400/pu/img/ilN4iwGgiPB6SRPK.jpg",
+                    "url": "https://t.co/iKygFC5ESJ",
+                    "display_url": "pic.twitter.com/iKygFC5ESJ",
+                    "expanded_url": "https://twitter.com/HiroshiHootoo/status/1206461327025197056/video/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1206461327025197056,
+                    "source_status_id_str": "1206461327025197056",
+                    "type": "photo",
+                    "indices": [
+                        146,
+                        169
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206461043871846400,
+                    "id_str": "1206461043871846400",
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206461043871846400/pu/img/ilN4iwGgiPB6SRPK.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206461043871846400/pu/img/ilN4iwGgiPB6SRPK.jpg",
+                    "url": "https://t.co/iKygFC5ESJ",
+                    "display_url": "pic.twitter.com/iKygFC5ESJ",
+                    "expanded_url": "https://twitter.com/HiroshiHootoo/status/1206461327025197056/video/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1206461327025197056,
+                    "source_status_id_str": "1206461327025197056",
+                    "type": "video",
+                    "indices": [
+                        146,
+                        169
+                    ],
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 65800,
+                        "variants": [
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1206461043871846400/pu/vid/1280x720/Nt2I9e_mZ_HLJj1p.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1206461043871846400/pu/vid/640x360/Wg-lXymt-hm3uN9t.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1206461043871846400/pu/vid/480x270/8-wQgxVut3B-zJwR.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 0,
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1206461043871846400/pu/pl/0KHwQ1Lg0YEJCKpY.m3u8?tag=10"
+                            }
+                        ]
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 5,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "野口健\u0026amp;コスモ石油の《環境活動「コスモ アースコンシャスアクト」では、わざわざ〈地球中心のストイックな活動から自分らしいカジュアルな活動へ〉など…グレタさんが取り組んでいるような地球全体の環境保護を考える運動をディスっている。》リテラ\nhttps://t.co/aQ8nFQNbnX\nhttps://t.co/iKygFC5ESJ",
+        "has_extended_profile": false,
+        "id": 1206562106729889793,
+        "id_str": "1206562106729889793",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            139.7578,
+                            35.651573
+                        ],
+                        [
+                            139.7578,
+                            35.651573
+                        ],
+                        [
+                            139.7578,
+                            35.651573
+                        ],
+                        [
+                            139.7578,
+                            35.651573
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "Japan",
+            "country_code": "JP",
+            "full_name": "コスモエネルギーホールディングス株式会社",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "0bb9b1f40156b001",
+            "name": "コスモエネルギーホールディングス株式会社",
+            "place_type": "poi",
+            "polylines": null,
+            "url": "https://api.twitter.com/1.1/geo/id/0bb9b1f40156b001.json"
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 6,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "野口健\u0026amp;コスモ石油の《環境活動「コスモ アースコンシャスアクト」では、わざわざ〈地球中心のストイックな活動から自\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Dec 11 13:41:07 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "特殊デザイナー。『デラべっぴん』に十年間連載された〈オナマイド〉などの工作企画や『小松崎茂絵物語』などの画像修復、『少女たちの日々へ』『昭和ちびっこ広告手帳』『アカツカNo.1 』『S.M.H.』『与偶人形作品集』企画編集、『被爆電車75年の旅』構成装幀など。本人の来歴は有野陽一著『エロの「デザインの現場」』に詳しい。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 90436,
+            "follow_request_sent": false,
+            "followers_count": 5738,
+            "following": false,
+            "friends_count": 5587,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 96127915,
+            "id_str": "96127915",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 179,
+            "location": "日本 東京",
+            "name": "ほうとうひろし 호토 히로시 Хироши Хото",
+            "notifications": false,
+            "profile_background_color": "DFE6D4",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96127915/1348421568",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/465132526869020672/yGRAkbpV_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/465132526869020672/yGRAkbpV_normal.jpeg",
+            "profile_link_color": "14A325",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "HiroshiHootoo",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 155464,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @HiroshiHootoo: 野口健\u0026amp;コスモ石油の《環境活動「コスモ アースコンシャスアクト」では、わざわざ〈地\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 14 09:24:40 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "最近は気功にもはまっています。 世の中と気功についてつぶやいたりします。アイコンはシンガポールの天福宮の観世音菩薩像です。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 79944,
+        "follow_request_sent": false,
+        "followers_count": 1541,
+        "following": false,
+        "friends_count": 2961,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 390646035,
+        "id_str": "390646035",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 33,
+        "location": "山梨県",
+        "name": "くろやす",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/390646035/1469613555",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/758240315459252224/MguYABos_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/758240315459252224/MguYABos_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kuroyasu17",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 137682,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

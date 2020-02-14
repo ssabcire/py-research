@@ -1,0 +1,434 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 21:42:18 +0000 2019",
+    "display_text_range": [
+        0,
+        86
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    31,
+                    54
+                ],
+                "url": "https://t.co/4TYhz6SQ6H",
+                "display_url": "twitter.com/_rai__1/status…",
+                "expanded_url": "https://twitter.com/_rai__1/status/1204037070726918144"
+            },
+            {
+                "indices": [
+                    63,
+                    86
+                ],
+                "url": "https://t.co/wwuZpD4XLB",
+                "display_url": "albina.wpblog.jp/?p=18574",
+                "expanded_url": "http://albina.wpblog.jp/?p=18574"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "「グレタさん、あれ？電車に乗っていらっしゃるのかな？」 出典：https://t.co/4TYhz6SQ6Hより引用...  https://t.co/wwuZpD4XLB",
+    "has_extended_profile": false,
+    "id": 1206691043195752449,
+    "id_str": "1206691043195752449",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1204037070726918144,
+    "quoted_status_id_str": "1204037070726918144",
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 09 13:56:22 +0000 2019",
+        "display_text_range": [
+            0,
+            27
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1204037066046107648,
+                    "id_str": "1204037066046107648",
+                    "media_url": "http://pbs.twimg.com/media/ELWZVRIU8AAQcN3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELWZVRIU8AAQcN3.jpg",
+                    "url": "https://t.co/GdAN1K6nSQ",
+                    "display_url": "pic.twitter.com/GdAN1K6nSQ",
+                    "expanded_url": "https://twitter.com/_rai__1/status/1204037070726918144/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 640,
+                            "h": 354,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 354,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 354,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        28,
+                        51
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1204037066046107648,
+                    "id_str": "1204037066046107648",
+                    "media_url": "http://pbs.twimg.com/media/ELWZVRIU8AAQcN3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELWZVRIU8AAQcN3.jpg",
+                    "url": "https://t.co/GdAN1K6nSQ",
+                    "display_url": "pic.twitter.com/GdAN1K6nSQ",
+                    "expanded_url": "https://twitter.com/_rai__1/status/1204037070726918144/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 640,
+                            "h": 354,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 354,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 354,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        28,
+                        51
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 40479,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "自分が今乗る電車は地球温暖化に影響してないと思ってる女 https://t.co/GdAN1K6nSQ",
+        "has_extended_profile": false,
+        "id": 1204037070726918144,
+        "id_str": "1204037070726918144",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 10684,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "自分が今乗る電車は",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Mar 15 15:02:50 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Jリーグ(アントラーズ多め)/プレミア/サッカー/巨人/ミリタリー/ワタチル/ヨコハゲ/カツドンチャンネル/best700\n\n サブ→ @sutebaka_sute_  大切な人→ @sutelviss @sutemaru21",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/M0SfaqJNI0",
+                            "display_url": "sutehage.com",
+                            "expanded_url": "http://sutehage.com"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 20721,
+            "follow_request_sent": false,
+            "followers_count": 3089,
+            "following": false,
+            "friends_count": 2124,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 1106571462347911168,
+            "id_str": "1106571462347911168",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 37,
+            "location": "Rio de Janeiro, Brazil",
+            "name": "陰の堕天使",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1106571462347911168/1569264673",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1205165676836487168/i1HT_MeT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205165676836487168/i1HT_MeT_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "_rai__1",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 17061,
+            "time_zone": "",
+            "url": "https://t.co/M0SfaqJNI0",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://nendeb.jp\" rel=\"nofollow\"\u003enendeb Tweet Old Post\u003c/a\u003e",
+    "scopes": null,
+    "text": "「グレタさん、あれ？電車に乗っていらっしゃるのかな？」 出\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 19 05:15:04 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ツイート 話題を検索 ニュース",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/rQG6AnEzSj",
+                        "display_url": "delco.webcrow.jp",
+                        "expanded_url": "http://delco.webcrow.jp"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 6,
+        "follow_request_sent": false,
+        "followers_count": 133,
+        "following": false,
+        "friends_count": 181,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 711058385001521152,
+        "id_str": "711058385001521152",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "日本",
+        "name": "笑いの壺",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/711058385001521152/1558387712",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1130586366557868033/551EL_tJ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586366557868033/551EL_tJ_normal.png",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "shimanabi",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 555,
+        "time_zone": "",
+        "url": "https://t.co/rQG6AnEzSj",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

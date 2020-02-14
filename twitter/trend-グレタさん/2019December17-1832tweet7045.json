@@ -1,0 +1,446 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:35:15 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    99,
+                    122
+                ],
+                "url": "https://t.co/g9g1PiNB3P",
+                "display_url": "rief-jp.org/ct8/97199",
+                "expanded_url": "http://rief-jp.org/ct8/97199"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "一般社団法人環境金融研究機構(RIEF)",
+                "indices": [
+                    3,
+                    10
+                ],
+                "screen_name": "riefjp",
+                "id": 247221719,
+                "id_str": "247221719"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @riefjp: COP25閉幕。グテレス国連事務総長「がっかりした」とツィッターで感想。グレタさんも「科学が無視された」と落胆。小泉環境相は「（日本は）貢献できた」とKYな評価（RIEF） https://t.co/g9g1PiNB3P https://t.co/kQ5…",
+    "has_extended_profile": false,
+    "id": 1206779867523452928,
+    "id_str": "1206779867523452928",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 14:45:30 +0000 2019",
+        "display_text_range": [
+            0,
+            110
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        87,
+                        110
+                    ],
+                    "url": "https://t.co/g9g1PiNB3P",
+                    "display_url": "rief-jp.org/ct8/97199",
+                    "expanded_url": "http://rief-jp.org/ct8/97199"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206586151747887105,
+                    "id_str": "1206586151747887105",
+                    "media_url": "http://pbs.twimg.com/media/EL6ntlXWoAEmpPr.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EL6ntlXWoAEmpPr.png",
+                    "url": "https://t.co/kQ5gkLK19B",
+                    "display_url": "pic.twitter.com/kQ5gkLK19B",
+                    "expanded_url": "https://twitter.com/riefjp/status/1206586153379471360/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 742,
+                            "h": 410,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 376,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 742,
+                            "h": 410,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        111,
+                        134
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206586151747887105,
+                    "id_str": "1206586151747887105",
+                    "media_url": "http://pbs.twimg.com/media/EL6ntlXWoAEmpPr.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EL6ntlXWoAEmpPr.png",
+                    "url": "https://t.co/kQ5gkLK19B",
+                    "display_url": "pic.twitter.com/kQ5gkLK19B",
+                    "expanded_url": "https://twitter.com/riefjp/status/1206586153379471360/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 742,
+                            "h": 410,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 376,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 742,
+                            "h": 410,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        111,
+                        134
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "COP25閉幕。グテレス国連事務総長「がっかりした」とツィッターで感想。グレタさんも「科学が無視された」と落胆。小泉環境相は「（日本は）貢献できた」とKYな評価（RIEF） https://t.co/g9g1PiNB3P https://t.co/kQ5gkLK19B",
+        "has_extended_profile": false,
+        "id": 1206586153379471360,
+        "id_str": "1206586153379471360",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://publicize.wp.com/\" rel=\"nofollow\"\u003eWordPress.com\u003c/a\u003e",
+        "scopes": null,
+        "text": "COP25閉幕。グテレス国連事務総長「がっかりした」とツィッターで感想。グレタさ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Feb 04 10:31:34 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "「一般社団法人環境金融研究機構(RIEF)」は2015年3月に非営利団体として発足しました。日本の金融機関のESG（環境・社会・ガバナンス）活動をウォッチする情報発信を中心に、サステナブルファイナンス大賞の選定なども行っています。情報提供も大歓迎です。会員の支援で活動しており、新たな会員を募集しています。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/ALSrQT9iyz",
+                            "display_url": "rief-jp.org",
+                            "expanded_url": "http://rief-jp.org/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 60,
+            "follow_request_sent": false,
+            "followers_count": 2942,
+            "following": false,
+            "friends_count": 1592,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 247221719,
+            "id_str": "247221719",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 166,
+            "location": "東京都千代田区神田淡路町1-9-5 天翔お茶の水ビル303号",
+            "name": "一般社団法人環境金融研究機構(RIEF)",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/247221719/1438744480",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/628766181990641664/PVtN1VWF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/628766181990641664/PVtN1VWF_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "riefjp",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 16988,
+            "time_zone": "",
+            "url": "http://t.co/ALSrQT9iyz",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @riefjp: COP25閉幕。グテレス国連事務総長「がっかりした」とツィッターで感想。グレタさんも「科学が",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 20 13:43:18 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "滋賀県在住の社会人 ZENKO京都 基本的には相互フォローを返しますが反原発派です どうぞ宜しく！ 脱原発、反TPP、消費税増税反対 不正選挙反対 WWFサポートメンバー 福島集団疎開裁判賛同 野党は共闘！ 続きはツイプロで→https://t.co/EojxhogvrQ",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/N8whKuKXQw",
+                        "display_url": "mdskyoto.seesaa.net",
+                        "expanded_url": "http://mdskyoto.seesaa.net/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 157017,
+        "follow_request_sent": false,
+        "followers_count": 7193,
+        "following": false,
+        "friends_count": 7902,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 168664169,
+        "id_str": "168664169",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 166,
+        "location": "滋賀",
+        "name": "katsuhiro放射能健診署名運動京都",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/168664169/1429365774",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3529865570/03277a431bd7c03a68e577a2118f20e8_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3529865570/03277a431bd7c03a68e577a2118f20e8_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "katsuhiro223",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 246615,
+        "time_zone": "",
+        "url": "https://t.co/N8whKuKXQw",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

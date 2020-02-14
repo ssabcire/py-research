@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 15:00:04 +0000 2019",
+    "display_text_range": [
+        0,
+        71
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "あんなの満員電車じゃねえ！ってのをグレタさん関連で見たがドイツと日本では満員電車の概念が違うのでは？日本のは満員電車じゃねえ。ありゃあ地獄だ。",
+    "has_extended_profile": false,
+    "id": 1206589817837907968,
+    "id_str": "1206589817837907968",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "あんなの満員電車じゃねえ！ってのをグレタさん関\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 10 14:49:12 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "旧HN小覇王。映画とか漫画（アメコミ）とかスタートレックとかプロレスとかアイドルとか。意見の違いは大体は許容しますが差別と弱者いじめだけはダメ！絶対！公式RTは基本賛同です。「フランケンシュタイン」大好き。東軍\u0026佐幕派。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/fem4FCfZJX",
+                        "display_url": "susahadeth52623.hatenablog.com",
+                        "expanded_url": "http://susahadeth52623.hatenablog.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 24044,
+        "follow_request_sent": false,
+        "followers_count": 1102,
+        "following": false,
+        "friends_count": 995,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 225045645,
+        "id_str": "225045645",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 58,
+        "location": "バビルの塔",
+        "name": "スー2世（コンピュータに弱い）",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/225045645/1572802295",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1185900327318372354/9SEYfGXJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1185900327318372354/9SEYfGXJ_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "susahadeth52623",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 85712,
+        "time_zone": "",
+        "url": "https://t.co/fem4FCfZJX",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

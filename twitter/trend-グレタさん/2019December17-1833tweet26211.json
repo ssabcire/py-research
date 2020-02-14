@@ -1,0 +1,316 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 16:10:20 +0000 2019",
+    "display_text_range": [
+        0,
+        117
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "あかま@使い捨てプラ研究員",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "akama58250735",
+                "id": 1193891508992110593,
+                "id_str": "1193891508992110593"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @akama58250735: グレタさん効果なのか、環境問題に多くの人が関心を持っているのは素晴らしい事です。しかしこういった事情が殆ど知られる事無く、皆が心の中に漠然と作り出した「悪者」を叩いている状況には危機感を覚えます。",
+    "has_extended_profile": false,
+    "id": 1206607502604812289,
+    "id_str": "1206607502604812289",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 42,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 13 11:01:16 +0000 2019",
+        "display_text_range": [
+            0,
+            98
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 68,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん効果なのか、環境問題に多くの人が関心を持っているのは素晴らしい事です。しかしこういった事情が殆ど知られる事無く、皆が心の中に漠然と作り出した「悪者」を叩いている状況には危機感を覚えます。",
+        "has_extended_profile": false,
+        "id": 1205442557989154816,
+        "id_str": "1205442557989154816",
+        "in_reply_to_screen_name": "akama58250735",
+        "in_reply_to_status_id": 1205442555711590401,
+        "in_reply_to_status_id_str": "1205442555711590401",
+        "in_reply_to_user_id": 1193891508992110593,
+        "in_reply_to_user_id_str": "1193891508992110593",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 42,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん効果なのか、環境問題に多くの人が関心を持っているのは素\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Nov 11 14:01:41 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "使い捨てプラスチックの研究に従事しています。 プラスチックは、正しく廃棄すれば人類の生活を豊かにしてくれます。 人間とプラスチックの共存を",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 26,
+            "follow_request_sent": false,
+            "followers_count": 36,
+            "following": false,
+            "friends_count": 34,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1193891508992110593,
+            "id_str": "1193891508992110593",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 2,
+            "location": "",
+            "name": "あかま@使い捨てプラ研究員",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1193891508992110593/1576162142",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1205136130863026176/9QL3NYpZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205136130863026176/9QL3NYpZ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "akama58250735",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 57,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @akama58250735: グレタさん効果なのか、環境問題に多くの人が関心を持っているのは素\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 13 14:24:09 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "大宇宙ひとりぼっち 競泳水着とか恐竜とか",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 61828,
+        "follow_request_sent": false,
+        "followers_count": 571,
+        "following": false,
+        "friends_count": 891,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2289763184,
+        "id_str": "2289763184",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 16,
+        "location": "",
+        "name": "あくろ",
+        "notifications": false,
+        "profile_background_color": "290D5C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2289763184/1504321063",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1188738295095689216/DOucobY__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1188738295095689216/DOucobY__normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "suruasomsies",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 116659,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

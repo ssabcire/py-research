@@ -1,0 +1,182 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 22:28:17 +0000 2019",
+    "display_text_range": [
+        0,
+        82
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    34,
+                    57
+                ],
+                "url": "https://t.co/BqGK9LeYVP",
+                "display_url": "CNN.co.jp",
+                "expanded_url": "http://CNN.co.jp"
+            },
+            {
+                "indices": [
+                    59,
+                    82
+                ],
+                "url": "https://t.co/DRa4uwsefw",
+                "display_url": "headlines.yahoo.co.jp/hl?a=20191216-…",
+                "expanded_url": "https://headlines.yahoo.co.jp/hl?a=20191216-35146920-cnn-int"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容され（https://t.co/BqGK9LeYVP） https://t.co/DRa4uwsefw",
+    "has_extended_profile": false,
+    "id": 1206702614437490693,
+    "id_str": "1206702614437490693",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 13 16:30:57 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "はじめまして・・・  いろいろなことに興味がある精神年齢です。 アニメ・アニソン/気持ちイイこと/東京銀河/夜の名古屋の大三角/軟式テニス、バドミントン/バイク/既婚だけど心は独り/ラノベ、ポエム、狂歌/十六夜（月って年に約3.8センチずつ地球から離れていってしまう不思議な天体）  よろしく・・・",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/EJUwWVyQa5",
+                        "display_url": "mayakayu777.starfree.jp",
+                        "expanded_url": "http://mayakayu777.starfree.jp/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 44907,
+        "follow_request_sent": false,
+        "followers_count": 4115,
+        "following": false,
+        "friends_count": 5001,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 334756096,
+        "id_str": "334756096",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 45,
+        "location": "愛媛県と あなたの心に少しばかり",
+        "name": "てるき",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/334756096/1521409085",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000312572584/e8aaf922887479f898731d0e2892e35a_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000312572584/e8aaf922887479f898731d0e2892e35a_normal.jpeg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mayakayu777",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 155760,
+        "time_zone": "",
+        "url": "https://t.co/EJUwWVyQa5",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

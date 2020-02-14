@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 07:17:26 +0000 2019",
+    "display_text_range": [
+        0,
+        78
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "したっぱ💊💉スマホ版ハクフロ(仮)開発中",
+                "indices": [
+                    3,
+                    11
+                ],
+                "screen_name": "Sitacom",
+                "id": 83511518,
+                "id_str": "83511518"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @Sitacom: グレタさんも真正面向きながら痙攣してるLive2Dの偶像を身に纏って啓発動画出せば練度はともかく熱心なファンというか囲いが作れそう",
+    "has_extended_profile": false,
+    "id": 1206835780003348480,
+    "id_str": "1206835780003348480",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 04:21:09 +0000 2019",
+        "display_text_range": [
+            0,
+            65
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 3,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんも真正面向きながら痙攣してるLive2Dの偶像を身に纏って啓発動画出せば練度はともかく熱心なファンというか囲いが作れそう",
+        "has_extended_profile": false,
+        "id": 1206791414840905728,
+        "id_str": "1206791414840905728",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんも真正面向きながら痙攣してるLive2D\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Oct 19 03:17:51 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "2019年内に遊べなくなると噂の綺麗な東方二次創作ブラウザゲーム「ハクレイフロンティア」の運営や開発をするのは仮の姿。何でもゲームにするぞ、震えて眠れ。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/yXR3lg4RPQ",
+                            "display_url": "sitappa.com/hakurei/",
+                            "expanded_url": "https://sitappa.com/hakurei/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 51179,
+            "follow_request_sent": false,
+            "followers_count": 6439,
+            "following": false,
+            "friends_count": 455,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 83511518,
+            "id_str": "83511518",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 126,
+            "location": "立教帝国",
+            "name": "したっぱ💊💉スマホ版ハクフロ(仮)開発中",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/83511518/1556725834",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1112534627120349185/xeQydT3W_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112534627120349185/xeQydT3W_normal.jpg",
+            "profile_link_color": "3366FF",
+            "profile_sidebar_border_color": "3366FF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "292729",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Sitacom",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 102008,
+            "time_zone": "",
+            "url": "https://t.co/yXR3lg4RPQ",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @Sitacom: グレタさんも真正面向きながら痙攣してるLive2D\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 14 23:01:12 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ツイ衛門 特撮にわか モンハンにわか ツイフェミ憎い",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 50,
+        "follow_request_sent": false,
+        "followers_count": 79,
+        "following": false,
+        "friends_count": 467,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1205986067641335808,
+        "id_str": "1205986067641335808",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "復活のオゲドス",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1205986264177987584/owD-gWyG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205986264177987584/owD-gWyG_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tuifemikorosu",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 37,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

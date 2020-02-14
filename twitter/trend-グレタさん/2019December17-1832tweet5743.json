@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:03:02 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    41,
+                    64
+                ],
+                "url": "https://t.co/pbvak2K6OF",
+                "display_url": "asahi.com/articles/ASMDC…",
+                "expanded_url": "https://www.asahi.com/articles/ASMDC4T24MDCUHBI026.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "黒瀬 深",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "Shin_kurose",
+                "id": 4838815874,
+                "id_str": "4838815874"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @Shin_kurose: グレタさん、米タイム誌「今年の人」に　史上最年少https://t.co/pbvak2K6OF\n\n経済が発展途上の国では飢え死にしている子どもが沢山いるのに、先進国の恵まれた家庭に育ちながら「経済成長いらない！」と叫んだ少女が何か受賞したらしい…",
+    "has_extended_profile": false,
+    "id": 1206786856852963328,
+    "id_str": "1206786856852963328",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1878,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 12 10:54:55 +0000 2019",
+        "display_text_range": [
+            0,
+            152
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        24,
+                        47
+                    ],
+                    "url": "https://t.co/pbvak2K6OF",
+                    "display_url": "asahi.com/articles/ASMDC…",
+                    "expanded_url": "https://www.asahi.com/articles/ASMDC4T24MDCUHBI026.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 4413,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん、米タイム誌「今年の人」に　史上最年少https://t.co/pbvak2K6OF\n\n経済が発展途上の国では飢え死にしている子どもが沢山いるのに、先進国の恵まれた家庭に育ちながら「経済成長いらない！」と叫んだ少女が何か受賞したらしい。どこの国でも左翼のコミュニティは偽善的で吐き気がしますね。",
+        "has_extended_profile": false,
+        "id": 1205078570076213248,
+        "id_str": "1205078570076213248",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1878,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん、米タイム誌「今年の人」に　史上最年少https://t.co/pbvak2K6OF\n\n経済が発展途上の国では飢え死にしてい\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Jan 31 07:32:02 +0000 2016",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "政治をわかりやすく呟きます！他にも哲学、科学、経済、投資、音楽、海外旅行などの話題も少々。noteとブログもよろしくお願いします！https://t.co/dzgnaqnteP",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/Fq8sN1GKzj",
+                            "display_url": "kumakuma30.hatenablog.com",
+                            "expanded_url": "http://kumakuma30.hatenablog.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 37883,
+            "follow_request_sent": false,
+            "followers_count": 40391,
+            "following": false,
+            "friends_count": 5706,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 4838815874,
+            "id_str": "4838815874",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 464,
+            "location": "",
+            "name": "黒瀬 深",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4838815874/1569404358",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1200404600525709312/fNJOGT20_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1200404600525709312/fNJOGT20_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Shin_kurose",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 8337,
+            "time_zone": "",
+            "url": "https://t.co/Fq8sN1GKzj",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @Shin_kurose: グレタさん、米タイム誌「今年の人」に　史上最年少https://t.co/pbvak2K6OF\n\n経済が発展途上の\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 28 12:46:58 +0000 2017",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "捏造・偏向報道を続ける日本の報道機関に危機感を持っております。NHKは嫌いだがセクスィー部長は嫌いになれない😅あ、猫好きです🐱永遠の17歳乙女です😌エロ・投資勧誘・面倒な方は即ブロック致します。 #安倍政権支持 (是々非々) #銀魂好き #うたプリ好き #セシル推し トキヤとレン カルナイも好きです💕",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 95469,
+        "follow_request_sent": false,
+        "followers_count": 1154,
+        "following": false,
+        "friends_count": 1330,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 935490196161757184,
+        "id_str": "935490196161757184",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 9,
+        "location": "吉原桃源郷",
+        "name": "月詠",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/935490196161757184/1515218384",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1145544266866839554/rOD5CCI-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145544266866839554/rOD5CCI-_normal.jpg",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Tsukuyo1833",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 64982,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

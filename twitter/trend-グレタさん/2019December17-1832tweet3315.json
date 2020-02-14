@@ -1,0 +1,506 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:25:20 +0000 2019",
+    "display_text_range": [
+        0,
+        61
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "温泉親父＠色即是空 空即是色",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "ONSEN_OYAJI_2",
+                "id": 114349360,
+                "id_str": "114349360"
+            }
+        ],
+        "media": [
+            {
+                "id": 1206798538379653120,
+                "id_str": "1206798538379653120",
+                "media_url": "http://pbs.twimg.com/media/EL9o4HOUcAALXyU.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL9o4HOUcAALXyU.jpg",
+                "url": "https://t.co/lKNmSrnf3E",
+                "display_url": "pic.twitter.com/lKNmSrnf3E",
+                "expanded_url": "https://twitter.com/ONSEN_OYAJI_2/status/1206798542985027584/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 340,
+                        "h": 432,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 340,
+                        "h": 432,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 340,
+                        "h": 432,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206798542985027584,
+                "source_status_id_str": "1206798542985027584",
+                "type": "photo",
+                "indices": [
+                    38,
+                    61
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206798538379653120,
+                "id_str": "1206798538379653120",
+                "media_url": "http://pbs.twimg.com/media/EL9o4HOUcAALXyU.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL9o4HOUcAALXyU.jpg",
+                "url": "https://t.co/lKNmSrnf3E",
+                "display_url": "pic.twitter.com/lKNmSrnf3E",
+                "expanded_url": "https://twitter.com/ONSEN_OYAJI_2/status/1206798542985027584/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 340,
+                        "h": 432,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 340,
+                        "h": 432,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 340,
+                        "h": 432,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206798542985027584,
+                "source_status_id_str": "1206798542985027584",
+                "type": "photo",
+                "indices": [
+                    38,
+                    61
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @ONSEN_OYAJI_2: グレタさんといえば、こちらのお方だな https://t.co/lKNmSrnf3E",
+    "has_extended_profile": false,
+    "id": 1206807568896552960,
+    "id_str": "1206807568896552960",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 04:49:28 +0000 2019",
+        "display_text_range": [
+            0,
+            18
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206798538379653120,
+                    "id_str": "1206798538379653120",
+                    "media_url": "http://pbs.twimg.com/media/EL9o4HOUcAALXyU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL9o4HOUcAALXyU.jpg",
+                    "url": "https://t.co/lKNmSrnf3E",
+                    "display_url": "pic.twitter.com/lKNmSrnf3E",
+                    "expanded_url": "https://twitter.com/ONSEN_OYAJI_2/status/1206798542985027584/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 340,
+                            "h": 432,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 432,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 340,
+                            "h": 432,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        19,
+                        42
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206798538379653120,
+                    "id_str": "1206798538379653120",
+                    "media_url": "http://pbs.twimg.com/media/EL9o4HOUcAALXyU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL9o4HOUcAALXyU.jpg",
+                    "url": "https://t.co/lKNmSrnf3E",
+                    "display_url": "pic.twitter.com/lKNmSrnf3E",
+                    "expanded_url": "https://twitter.com/ONSEN_OYAJI_2/status/1206798542985027584/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 340,
+                            "h": 432,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 432,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 340,
+                            "h": 432,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        19,
+                        42
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんといえば、こちらのお方だな https://t.co/lKNmSrnf3E",
+        "has_extended_profile": false,
+        "id": 1206798542985027584,
+        "id_str": "1206798542985027584",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんと",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Feb 15 03:26:21 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "オジサンです。色々な事に食いつきます。 ズレたRTをする事がありますが、悪気は無いので華麗にスルーしてくださいませ。猫合体党260番。（合体には別アカを使っています。@onsen_mark2 )プラモスキー（スケールからガンプラまで色々）。FBは写真とかそっち方面中心。LOVE CARS! No.1865",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 42540,
+            "follow_request_sent": false,
+            "followers_count": 2136,
+            "following": false,
+            "friends_count": 2365,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 114349360,
+            "id_str": "114349360",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 123,
+            "location": "神奈川の隅っこ在住。熊本産。東京、中部、中国、九州転勤組。",
+            "name": "温泉親父＠色即是空 空即是色",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/114349360/1563740781",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000065048560/a36d2474f90480093185e7c8a73c037c_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000065048560/a36d2474f90480093185e7c8a73c037c_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "ONSEN_OYAJI_2",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 333671,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @ONSEN_OYAJI_2: グレタさんといえば、こちらの",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 21 05:59:27 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "写真(X-Pro2)、バイク(JA10クロスカブ125cc)、自転車(BD-1 ti)、電脳小物(主にApple系)、アウトドア(ウォーキングや山散歩など比較的軽めなもの)…興味の赴くまま気の向くまま広く浅く細く長く愉しんでいます。  アマチュア無線(JJ1NYA)の実運用再開♪…FT8限定で細々とやってます。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/k62QntrKC7",
+                        "display_url": "ryo.net",
+                        "expanded_url": "https://ryo.net"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 5310,
+        "follow_request_sent": false,
+        "followers_count": 818,
+        "following": false,
+        "friends_count": 811,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 98300875,
+        "id_str": "98300875",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 38,
+        "location": "",
+        "name": "𝓡𝓨𝓞♨𝓙𝓙1𝓝𝓨𝓐",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/98300875/1536187660",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1037466359901315072/aZETiZIl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1037466359901315072/aZETiZIl_normal.jpg",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ryo_cub",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 27036,
+        "time_zone": "",
+        "url": "https://t.co/k62QntrKC7",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

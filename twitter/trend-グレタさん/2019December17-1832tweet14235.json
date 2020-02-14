@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:20:57 +0000 2019",
+    "display_text_range": [
+        0,
+        51
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "白金桜花＠四日目 西『む』24b委託",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "YamanekoOuka",
+                "id": 96291810,
+                "id_str": "96291810"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @YamanekoOuka: トランプ、グレタさんを一人の人間と受け止めて戦ってるので好感持てる",
+    "has_extended_profile": false,
+    "id": 1206730968012247041,
+    "id_str": "1206730968012247041",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 00:13:14 +0000 2019",
+        "display_text_range": [
+            0,
+            33
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 3,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "トランプ、グレタさんを一人の人間と受け止めて戦ってるので好感持てる",
+        "has_extended_profile": false,
+        "id": 1206729024682090497,
+        "id_str": "1206729024682090497",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "トランプ、グレタさんを",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Dec 12 06:37:48 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "サークル：アカシャエフェクト観測委員会主催 陽炎と叢雲ラブ \nアイコンはＮ２さんから。\n PXIV:https://t.co/tq5bB9M8ij  #地獄鎮守府の日常",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/lL9VCgmryi",
+                            "display_url": "togetter.com/id/YamanekoOuka",
+                            "expanded_url": "http://togetter.com/id/YamanekoOuka"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 319586,
+            "follow_request_sent": false,
+            "followers_count": 3676,
+            "following": false,
+            "friends_count": 3878,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 96291810,
+            "id_str": "96291810",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 197,
+            "location": "新潟",
+            "name": "白金桜花＠四日目 西『む』24b委託",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96291810/1398231037",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1109436442248282113/95XN7ZEQ_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109436442248282113/95XN7ZEQ_normal.png",
+            "profile_link_color": "454445",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "YamanekoOuka",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 547594,
+            "time_zone": "",
+            "url": "https://t.co/lL9VCgmryi",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @YamanekoOuka: トランプ、グレタさんを",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 20 21:02:56 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "フェチ全開のMMDやら政治ネタやらごった煮アカウント お題箱https://t.co/vYN0DJPVH9 渋https://t.co/cA2m2avb6a",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/nhh7jfWumY",
+                        "display_url": "nicovideo.jp/user/67906202/…",
+                        "expanded_url": "http://www.nicovideo.jp/user/67906202/video"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 57302,
+        "follow_request_sent": false,
+        "followers_count": 713,
+        "following": false,
+        "friends_count": 1161,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 2750389141,
+        "id_str": "2750389141",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 7,
+        "location": "",
+        "name": "飯テロ＠MMDer",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2750389141/1536343539",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1038777970993713158/ENc9QV9U_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1038777970993713158/ENc9QV9U_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kksft",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 61279,
+        "time_zone": "",
+        "url": "https://t.co/nhh7jfWumY",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

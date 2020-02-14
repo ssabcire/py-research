@@ -1,0 +1,415 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 08:01:18 +0000 2019",
+    "display_text_range": [
+        0,
+        32
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    33,
+                    56
+                ],
+                "url": "https://t.co/uypQADfjNZ",
+                "display_url": "twitter.com/kunitachisan/s…",
+                "expanded_url": "https://twitter.com/kunitachisan/status/1206554197497241601"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんが乗っていたのはドイツ鉄道ではなく特急あずさだった…？ https://t.co/uypQADfjNZ",
+    "has_extended_profile": false,
+    "id": 1206846818929168385,
+    "id_str": "1206846818929168385",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206554197497241601,
+    "quoted_status_id_str": "1206554197497241601",
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 12:38:32 +0000 2019",
+        "display_text_range": [
+            0,
+            48
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206554182628466694,
+                    "id_str": "1206554182628466694",
+                    "media_url": "http://pbs.twimg.com/media/EL6KovHU4AY6If3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL6KovHU4AY6If3.jpg",
+                    "url": "https://t.co/5JQasILyrF",
+                    "display_url": "pic.twitter.com/5JQasILyrF",
+                    "expanded_url": "https://twitter.com/kunitachisan/status/1206554197497241601/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1024,
+                            "h": 768,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 768,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        49,
+                        72
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206554182628466694,
+                    "id_str": "1206554182628466694",
+                    "media_url": "http://pbs.twimg.com/media/EL6KovHU4AY6If3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL6KovHU4AY6If3.jpg",
+                    "url": "https://t.co/5JQasILyrF",
+                    "display_url": "pic.twitter.com/5JQasILyrF",
+                    "expanded_url": "https://twitter.com/kunitachisan/status/1206554197497241601/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1024,
+                            "h": 768,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 768,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        49,
+                        72
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 3452,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "ｶﾗｶﾗｶﾗｶﾗ\nｼﾞｭﾋﾞｯｼﾞｭﾎﾞｼﾞｭﾎﾞｼﾞｭﾎﾞｯ!!\n\nグレタ「おいしいかもー！」 https://t.co/5JQasILyrF",
+        "has_extended_profile": false,
+        "id": 1206554197497241601,
+        "id_str": "1206554197497241601",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1499,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "ｶﾗｶﾗｶﾗｶﾗ\nｼﾞｭﾋﾞｯｼ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Nov 27 11:02:38 +0000 2014",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "説明しよう！くにたちとは本州の西の端に生息する愛車ルーテシアをシバきまわし車と西木野真姫とラーメンと音楽とクソコラをこよなく愛する西木野症候群末期（真っ姫）患者のことである！※このアカウントは限界要素を多く含んでます。フォローは計画的に。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/uu1fJwbb19",
+                            "display_url": "instagram.com/kunitachisan",
+                            "expanded_url": "https://www.instagram.com/kunitachisan"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 52662,
+            "follow_request_sent": false,
+            "followers_count": 429,
+            "following": false,
+            "friends_count": 1034,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 2911809247,
+            "id_str": "2911809247",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 4,
+            "location": "西",
+            "name": "くにたち《》🇫🇷",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2911809247/1573628527",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1205063591549751296/l9Lqeoe-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205063591549751296/l9Lqeoe-_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "kunitachisan",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 10714,
+            "time_zone": "",
+            "url": "https://t.co/uu1fJwbb19",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんが乗ってい\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 29 09:18:53 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "色々と疲れてしまったげっ歯類。\n死んだように生きてます。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 9479,
+        "follow_request_sent": false,
+        "followers_count": 68,
+        "following": false,
+        "friends_count": 133,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 852548900,
+        "id_str": "852548900",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 2,
+        "location": "",
+        "name": "ぴーす",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/852548900/1547949530",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1084285321037017089/Nk-kMxj__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084285321037017089/Nk-kMxj__normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lath_lapis",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 45197,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

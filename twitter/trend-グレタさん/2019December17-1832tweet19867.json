@@ -1,0 +1,352 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 22:17:07 +0000 2019",
+    "display_text_range": [
+        0,
+        79
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    49,
+                    72
+                ],
+                "url": "https://t.co/UjU6yZMYoA",
+                "display_url": "gendai.ismedia.jp/articles/-/677…",
+                "expanded_url": "https://gendai.ismedia.jp/articles/-/67794"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    73,
+                    79
+                ],
+                "text": "マネー現代"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "池田 修",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "ikedaosamu",
+                "id": 86879483,
+                "id_str": "86879483"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @ikedaosamu: グレタさん演説のウラで、日本メディアが報じない「ヤバすぎる現実」 https://t.co/UjU6yZMYoA #マネー現代",
+    "has_extended_profile": false,
+    "id": 1206699804346077186,
+    "id_str": "1206699804346077186",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 5,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 21:57:27 +0000 2019",
+        "display_text_range": [
+            0,
+            63
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        33,
+                        56
+                    ],
+                    "url": "https://t.co/UjU6yZMYoA",
+                    "display_url": "gendai.ismedia.jp/articles/-/677…",
+                    "expanded_url": "https://gendai.ismedia.jp/articles/-/67794"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        57,
+                        63
+                    ],
+                    "text": "マネー現代"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 9,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん演説のウラで、日本メディアが報じない「ヤバすぎる現実」 https://t.co/UjU6yZMYoA #マネー現代",
+        "has_extended_profile": false,
+        "id": 1206694855579058176,
+        "id_str": "1206694855579058176",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 5,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん演説のウラで、日本メディアが報じ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Nov 02 05:24:05 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "京都橘大学 発達教育学部 児童教育学科 教授。国語科教育法、学級担任論などを担当しています。元中学校国語科教師。「国語科を実技教科にしたい」「学級を楽しく経営したい」が研究テーマです。学習材開発に関心があります。作って学ぶを研究しています。ハンモッカー。抹茶書道、ガラス書道家元。琵琶湖と料理と娘の話題が得意です。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 2831,
+            "follow_request_sent": false,
+            "followers_count": 12929,
+            "following": false,
+            "friends_count": 1132,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 86879483,
+            "id_str": "86879483",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 431,
+            "location": "琵琶湖の畔",
+            "name": "池田 修",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/86879483/1463810786",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1289474873/Ch_biggCh_biggerer_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1289474873/Ch_biggCh_biggerer_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "ikedaosamu",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 73050,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @ikedaosamu: グレタさん演説のウラで、日本メディアが報じ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 15 09:54:32 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "よく生きる\nワクワク生きる\n\nひとつ、ひとつ…\nゆっくりやっていこう\n\nヒトは一回限りの個別性を生きている\n\n☆彡",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 46217,
+        "follow_request_sent": false,
+        "followers_count": 305,
+        "following": false,
+        "friends_count": 635,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 554309919,
+        "id_str": "554309919",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "",
+        "name": "暑さ寒さも彼岸まで",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/554309919/1531598137",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2150444900/_________normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2150444900/_________normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "soseirannzou",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 30970,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

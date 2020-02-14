@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 01:22:39 +0000 2019",
+    "display_text_range": [
+        0,
+        98
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    27,
+                    50
+                ],
+                "url": "https://t.co/ghtAwwYvUY",
+                "display_url": "twitter.com/i/events/12066…",
+                "expanded_url": "https://twitter.com/i/events/1206600997478383617"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさん「帰りの列車は超満員」 ドイツ鉄道が応酬: https://t.co/ghtAwwYvUY \nな？お発達様は平気でこういうセコい嘘をつくんだよ。この人は世への影響考えてかもしんねーけど。",
+    "has_extended_profile": false,
+    "id": 1206746495627563008,
+    "id_str": "1206746495627563008",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": true,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさん「帰りの列車は超満員」 ドイツ鉄道が応酬: https://t.co/ghtAwwYvUY",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 15 16:41:03 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "食品工場でアパ社長カレーを作ってます\n寛大な措置（笑）で許されたらしい犯罪者かも\n一人でも頑張るから！\nくせぇラーメン屋のファン\n半額惣菜Digger\nハイパーメディアクリエイター\nパラパラ講師\n21世紀のスポーツ冒険家\nヒップホップアクティビスト\nハプキドー鳥取チャンピオン\nYoung大神源太\n謙虚雷音",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 8215,
+        "follow_request_sent": false,
+        "followers_count": 82,
+        "following": false,
+        "friends_count": 400,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1117830201805664256,
+        "id_str": "1117830201805664256",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 2,
+        "location": "",
+        "name": "方世玉",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1117830201805664256/1572124033",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1174642697992167424/bx3CGHmB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174642697992167424/bx3CGHmB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rasutoenpera",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 4852,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

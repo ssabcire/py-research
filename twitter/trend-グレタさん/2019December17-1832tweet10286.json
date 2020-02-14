@@ -1,0 +1,498 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:10:51 +0000 2019",
+    "display_text_range": [
+        0,
+        120
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    97,
+                    120
+                ],
+                "url": "https://t.co/ZDWXU5horK",
+                "display_url": "twitter.com/bci_/status/12…",
+                "expanded_url": "https://twitter.com/bci_/status/1205114872419106817"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "真田 鷹山、新時代沖縄！",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "yo_zansanada",
+                "id": 860038334814367744,
+                "id_str": "860038334814367744"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @yo_zansanada: ネトウヨにグレタさんが支持されない理由は「中国と戦ってないから」に尽きると思います。もしグレタさんが「中国がー」って言ってたら喝采浴びてたと思いますよ(笑) https://t.co/ZDWXU5horK",
+    "has_extended_profile": false,
+    "id": 1206758624644583425,
+    "id_str": "1206758624644583425",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1205114872419106817,
+    "quoted_status_id_str": "1205114872419106817",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 40,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 13 12:35:24 +0000 2019",
+        "display_text_range": [
+            0,
+            78
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        79,
+                        102
+                    ],
+                    "url": "https://t.co/ZDWXU5horK",
+                    "display_url": "twitter.com/bci_/status/12…",
+                    "expanded_url": "https://twitter.com/bci_/status/1205114872419106817"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 90,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "ネトウヨにグレタさんが支持されない理由は「中国と戦ってないから」に尽きると思います。もしグレタさんが「中国がー」って言ってたら喝采浴びてたと思いますよ(笑) https://t.co/ZDWXU5horK",
+        "has_extended_profile": false,
+        "id": 1205466247934046208,
+        "id_str": "1205466247934046208",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1205114872419106817,
+        "quoted_status_id_str": "1205114872419106817",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Thu Dec 12 13:19:10 +0000 2019",
+            "display_text_range": [
+                0,
+                143
+            ],
+            "entities": {
+                "urls": [],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 814,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "私はTIMEの表紙にグレタさんが選ばれたのを、「香港デモを抑えて」と見てない。香港デモは6月以来ずっと見てきたけど、あれは単に民主の戦い…香港vs中国という以外に、「社会を変えようとする若者の戦い」であり、これは世界的な現象なのだろう。グレタさんはその「代表」として選ばれたのではないか",
+            "has_extended_profile": false,
+            "id": 1205114872419106817,
+            "id_str": "1205114872419106817",
+            "in_reply_to_screen_name": "bci_",
+            "in_reply_to_status_id": 1205107444717744130,
+            "in_reply_to_status_id_str": "1205107444717744130",
+            "in_reply_to_user_id": 44386311,
+            "in_reply_to_user_id_str": "44386311",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 318,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+            "scopes": null,
+            "text": "私はTIMEの表紙にグレタさんが選ばれたのを、「香港デモを抑えて」と見てない。香港デモは6月以来ずっと",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Jun 03 15:52:51 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "中国について学び・考え・行動するのが私のライフワークです ■インスタグラム https://t.co/65XxsWOBiM ■ご連絡等ありましたら DMか、https://t.co/m1eNpwtNSN ←こちらにお送り下さい ※ワタシハニホンジンデス🇯🇵",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/rRmQoahHKV",
+                                "display_url": "bci.hatenablog.com",
+                                "expanded_url": "http://bci.hatenablog.com/"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 89403,
+                "follow_request_sent": false,
+                "followers_count": 51060,
+                "following": false,
+                "friends_count": 299,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 44386311,
+                "id_str": "44386311",
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "lang": "",
+                "listed_count": 1621,
+                "location": "東アジア",
+                "name": "黒色中国",
+                "notifications": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44386311/1569015182",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1175160556325523456/Guh4jIWz_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1175160556325523456/Guh4jIWz_normal.png",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "bci_",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 343972,
+                "time_zone": "",
+                "url": "https://t.co/rRmQoahHKV",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 40,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "ネトウヨにグレタさんが支持されない理由は「中国と戦っ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu May 04 07:48:12 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "上杉鷹山「伝国の辞」\nhttps://t.co/v2rdXls5S4\n「戦争責任者の問題」\nhttps://t.co/YRwPkmlKC0…\nこの二つは必読。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 40610,
+            "follow_request_sent": false,
+            "followers_count": 2633,
+            "following": false,
+            "friends_count": 1348,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 860038334814367744,
+            "id_str": "860038334814367744",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 43,
+            "location": "ウチナー",
+            "name": "真田 鷹山、新時代沖縄！",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/860038334814367744/1522373212",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1077162191210479616/A2j6mES5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1077162191210479616/A2j6mES5_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "yo_zansanada",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 70197,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @yo_zansanada: ネトウヨにグレタさんが支持されない理由は「中国と戦ってないから」に尽",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 02 04:49:38 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "稚拙な議論をしてますので、間違いは正して下さいm(_ _)m",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 233,
+        "follow_request_sent": false,
+        "followers_count": 687,
+        "following": false,
+        "friends_count": 551,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 327792438,
+        "id_str": "327792438",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 20,
+        "location": "",
+        "name": "修司",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/432185345266810880/KLY1cnVB_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/432185345266810880/KLY1cnVB_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "auonedocomo",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 83498,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

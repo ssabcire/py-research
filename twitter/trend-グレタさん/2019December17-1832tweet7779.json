@@ -1,0 +1,356 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:22:14 +0000 2019",
+    "display_text_range": [
+        0,
+        86
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    63,
+                    86
+                ],
+                "url": "https://t.co/pZx4VHW54f",
+                "display_url": "epochtimes.jp/p/2019/09/4770…",
+                "expanded_url": "https://www.epochtimes.jp/p/2019/09/47700.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "KimK/ふるくらむ@31日(火)西た10b",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "KimK91fw",
+                "id": 104235892,
+                "id_str": "104235892"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @KimK91fw: 「環境活動家・グレタさんを支える環境団体、中国政府の代理人の疑い」なる情報、元ネタは法輪功だな。\nhttps://t.co/pZx4VHW54f",
+    "has_extended_profile": false,
+    "id": 1206776591319060480,
+    "id_str": "1206776591319060480",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 68,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 12 00:03:38 +0000 2019",
+        "display_text_range": [
+            0,
+            72
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        49,
+                        72
+                    ],
+                    "url": "https://t.co/pZx4VHW54f",
+                    "display_url": "epochtimes.jp/p/2019/09/4770…",
+                    "expanded_url": "https://www.epochtimes.jp/p/2019/09/47700.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 76,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "「環境活動家・グレタさんを支える環境団体、中国政府の代理人の疑い」なる情報、元ネタは法輪功だな。\nhttps://t.co/pZx4VHW54f",
+        "has_extended_profile": false,
+        "id": 1204914669741166592,
+        "id_str": "1204914669741166592",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 68,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://sites.google.com/site/tweentwitterclient/\" rel=\"nofollow\"\u003eTween\u003c/a\u003e",
+        "scopes": null,
+        "text": "「環境活動家・グレタさんを支える環境団体、中国政",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jan 12 18:31:48 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "軍事外交安保・国際法関連のライターです。たまに雑誌に載る。剣道、釣り、葉巻、水たばこが好きです。声優上坂すみれさんのファンでもあり、USAGIRB第一親衛隊106番",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/qyvCzNWSXj",
+                            "display_url": "kimk91fw.blogspot.jp",
+                            "expanded_url": "http://kimk91fw.blogspot.jp/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 102713,
+            "follow_request_sent": false,
+            "followers_count": 3499,
+            "following": false,
+            "friends_count": 3134,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 104235892,
+            "id_str": "104235892",
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "lang": "",
+            "listed_count": 169,
+            "location": "多摩",
+            "name": "KimK/ふるくらむ@31日(火)西た10b",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/104235892/1399775689",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/619834782914998272/F-yRvo6c_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/619834782914998272/F-yRvo6c_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "KimK91fw",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 246279,
+            "time_zone": "",
+            "url": "https://t.co/qyvCzNWSXj",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @KimK91fw: 「環境活動家・グレタさんを支える環境団体、中国政",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 27 05:01:12 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Po of Open棟梁 Pj / WAIS-Ⅲ:128, RS:320cm / PMP / net, netstandard, netcoreapp ≫ OAuth2 / OIDC, FAPI, FIDO2, SAML2 ≫ IdMaaS, mBaaS ≫ IoT Edge.",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/dsjgRDaST2",
+                        "display_url": "github.com/daisukenishino2",
+                        "expanded_url": "https://github.com/daisukenishino2"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 5629,
+        "follow_request_sent": false,
+        "followers_count": 410,
+        "following": false,
+        "friends_count": 398,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2465564594,
+        "id_str": "2465564594",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 22,
+        "location": "広島 廿日市市",
+        "name": "🇯🇵🗻⛩️Hi🏐🚲🎾承🐍🐂",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2465564594/1526461387",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150612215889686528/njdhcavM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150612215889686528/njdhcavM_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "openhishopjpo",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 31770,
+        "time_zone": "",
+        "url": "https://t.co/dsjgRDaST2",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

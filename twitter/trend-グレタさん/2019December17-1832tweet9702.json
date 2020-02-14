@@ -1,0 +1,450 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:28:49 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "マハー朮° ］ 二 ｬ ･/",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "ponpokocat23",
+                "id": 942989329726455808,
+                "id_str": "942989329726455808"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @ponpokocat23: 16歳の活動家、革命家、ジャンヌダルクの再来と言われる点で共通するグレタさんとクーデリア（鉄血やオルフェンズ）\n\nクーデリアも最初期は理想ばかりで現実が見えておらず、目的の実現に向けた具体的ビジョンがなかったりしてたけど、最後はそれらを乗り越…",
+    "has_extended_profile": false,
+    "id": 1206763149153619968,
+    "id_str": "1206763149153619968",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 10:30:17 +0000 2019",
+        "display_text_range": [
+            0,
+            134
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206159449942937600,
+                    "id_str": "1206159449942937600",
+                    "media_url": "http://pbs.twimg.com/media/EL0joRRUUAAqljC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL0joRRUUAAqljC.jpg",
+                    "url": "https://t.co/Jb0aEfwf7H",
+                    "display_url": "pic.twitter.com/Jb0aEfwf7H",
+                    "expanded_url": "https://twitter.com/ponpokocat23/status/1206159536005926912/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 960,
+                            "h": 503,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 356,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 503,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        135,
+                        158
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206159449942937600,
+                    "id_str": "1206159449942937600",
+                    "media_url": "http://pbs.twimg.com/media/EL0joRRUUAAqljC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL0joRRUUAAqljC.jpg",
+                    "url": "https://t.co/Jb0aEfwf7H",
+                    "display_url": "pic.twitter.com/Jb0aEfwf7H",
+                    "expanded_url": "https://twitter.com/ponpokocat23/status/1206159536005926912/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 960,
+                            "h": 503,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 356,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 503,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        135,
+                        158
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                },
+                {
+                    "id": 1206159449951363072,
+                    "id_str": "1206159449951363072",
+                    "media_url": "http://pbs.twimg.com/media/EL0joRTU4AA-hfL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL0joRTU4AA-hfL.jpg",
+                    "url": "https://t.co/Jb0aEfwf7H",
+                    "display_url": "pic.twitter.com/Jb0aEfwf7H",
+                    "expanded_url": "https://twitter.com/ponpokocat23/status/1206159536005926912/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 480,
+                            "h": 271,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 480,
+                            "h": 271,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 271,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        135,
+                        158
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 5,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "16歳の活動家、革命家、ジャンヌダルクの再来と言われる点で共通するグレタさんとクーデリア（鉄血やオルフェンズ）\n\nクーデリアも最初期は理想ばかりで現実が見えておらず、目的の実現に向けた具体的ビジョンがなかったりしてたけど、最後はそれらを乗り越えたよね。アニメだけどね。 https://t.co/Jb0aEfwf7H",
+        "has_extended_profile": false,
+        "id": 1206159536005926912,
+        "id_str": "1206159536005926912",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": true,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "16歳の活動家、革命家、ジャンヌダルクの再来と言われる点で共通するグレタさんとクーデリア（鉄",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Dec 19 05:25:50 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "尊師に帰依しないぞ〜",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 8910,
+            "follow_request_sent": false,
+            "followers_count": 221,
+            "following": false,
+            "friends_count": 168,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 942989329726455808,
+            "id_str": "942989329726455808",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 11,
+            "location": "東京特許許可局",
+            "name": "マハー朮° ］ 二 ｬ ･/",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/942989329726455808/1534142474",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1156539390262308864/JPpe13Cz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156539390262308864/JPpe13Cz_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "ponpokocat23",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 5237,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @ponpokocat23: 16歳の活動家、革命家、ジャンヌダルクの再来と言われる点で共通するグレタさんとクーデ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 29 11:31:15 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "特にこれといった趣味・嗜好は多々ありすぎて 一つの嗜好に集中した場合 別の嗜好の人に迷惑を\nかけてしまう恐れがありますが 宜しくお願いします（汗）!!!",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 37774,
+        "follow_request_sent": false,
+        "followers_count": 166,
+        "following": false,
+        "friends_count": 147,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 209536621,
+        "id_str": "209536621",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "",
+        "name": "せつなやす＠外の世界へ!!",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/209536621/1573897121",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1195636952155840512/Zdun_ymK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195636952155840512/Zdun_ymK_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "setsunayasu",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 38512,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

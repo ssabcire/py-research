@@ -1,0 +1,181 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:34:14 +0000 2019",
+    "display_text_range": [
+        0,
+        58
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    23,
+                    46
+                ],
+                "url": "https://t.co/rmjMZvB7JK",
+                "display_url": "ndjust.in/1AyBivbE",
+                "expanded_url": "https://ndjust.in/1AyBivbE"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    47,
+                    58
+                ],
+                "text": "NewsDigest"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "尾畠春夫さん新たな挑戦 腕に「グレタ」なぜ?\nhttps://t.co/rmjMZvB7JK\n#NewsDigest",
+    "has_extended_profile": false,
+    "id": 1206538019555069953,
+    "id_str": "1206538019555069953",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "尾畠春夫さん新たな挑戦 腕に「グレタ」な",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 03 11:14:19 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "広島東洋カープ、Yellow Magic Orchestra、エレファントカシマシ アフリエイトお断り",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/jNLrHWxNHI",
+                        "display_url": "toshi26-carpfan.hateblo.jp",
+                        "expanded_url": "https://toshi26-carpfan.hateblo.jp/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 5826,
+        "follow_request_sent": false,
+        "followers_count": 2700,
+        "following": false,
+        "friends_count": 2592,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 922993189,
+        "id_str": "922993189",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 38,
+        "location": "新潟 柏崎市",
+        "name": "toshi26_carpfan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/922993189/1551366144",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1178595611802660864/nz1d0yqE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1178595611802660864/nz1d0yqE_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "toshi26_carpfan",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 98143,
+        "time_zone": "",
+        "url": "https://t.co/jNLrHWxNHI",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

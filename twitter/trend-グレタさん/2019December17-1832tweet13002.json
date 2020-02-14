@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:52:06 +0000 2019",
+    "display_text_range": [
+        0,
+        30
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 5,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "え、天満さんのグレタのツイート、AKBアカでも流れてきたww",
+    "has_extended_profile": false,
+    "id": 1206738808412110848,
+    "id_str": "1206738808412110848",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "え、天満さんのグレタ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 17 03:17:22 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "2018/6/15タモリ倶楽部、2019/11/19にマツコの知らない世界に信号機マニアとして出ました。99人の壁にジャンル信号機で出場。札幌在住。大学院2年(北大)。Let's enjoy signal!!を運営しています。小嶋陽菜1推し、柏木由紀2推し。AKBアカ@kojiharuosi1996",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/3eQbpl1QQV",
+                        "display_url": "trafficsignal.jp/~thinsignal/",
+                        "expanded_url": "http://trafficsignal.jp/~thinsignal/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 29946,
+        "follow_request_sent": false,
+        "followers_count": 950,
+        "following": false,
+        "friends_count": 358,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2393670739,
+        "id_str": "2393670739",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 36,
+        "location": "札幌市豊平区",
+        "name": "薄型@マツコの知らない世界",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2393670739/1514793547",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1127226953302282240/ngPScLVF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1127226953302282240/ngPScLVF_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LED60590495",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 107052,
+        "time_zone": "",
+        "url": "https://t.co/3eQbpl1QQV",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,164 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:28:11 +0000 2019",
+    "display_text_range": [
+        11,
+        79
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "細川昌彦",
+                "indices": [
+                    0,
+                    10
+                ],
+                "screen_name": "mHosokawa",
+                "id": 107620049,
+                "id_str": "107620049"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@mHosokawa 見に来て良かったです💦\nグレタちゃんとか、メラニアさんがどうとか、いつになったら細川さん出てきはるんやー！！！とイラッとしちゃいました💦",
+    "has_extended_profile": false,
+    "id": 1206823384853532672,
+    "id_str": "1206823384853532672",
+    "in_reply_to_screen_name": "mHosokawa",
+    "in_reply_to_status_id": 1206800347361988608,
+    "in_reply_to_status_id_str": "1206800347361988608",
+    "in_reply_to_user_id": 107620049,
+    "in_reply_to_user_id_str": "107620049",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "見に来て良かったです💦\nグレタちゃんとか、メラ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 21 05:55:45 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "令和元年5月正式に脱会出来た創価2世。安倍政権支持。安倍さんだから自民党を支持。子宮けい癌ワクチン阻止したい。祝日は必ず日の丸掲揚しています。日本に日本人として生まれてきたことを誇りに思う。日本大好き🇯🇵🎌⚾️阪神ファン🐯矢野監督88ファン📯梅ちゃん44をオカンのような気持ちで応援⚾️",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 115634,
+        "follow_request_sent": false,
+        "followers_count": 1859,
+        "following": false,
+        "friends_count": 376,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 837097452,
+        "id_str": "837097452",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 27,
+        "location": "京都",
+        "name": "ひろ",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/837097452/1495934152",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3344663183/27e39d80bc7d18774abb1a80290edbf4_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3344663183/27e39d80bc7d18774abb1a80290edbf4_normal.png",
+        "profile_link_color": "FFCC4D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "sayasukajepun",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 146085,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

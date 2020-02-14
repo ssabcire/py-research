@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:38:31 +0000 2019",
+    "display_text_range": [
+        0,
+        114
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "柏崎@垢凍結",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "miraikogoods",
+                "id": 2721196658,
+                "id_str": "2721196658"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @miraikogoods: グレタさん、発達障害だし、原子力も温暖化のためならやむなしだし、学校も金曜日は休みにしようだし、鉄道好きだし、科学に耳を傾けろだし、おまえらがふだん賛同してることだらけの人物なのになんでだよ。",
+    "has_extended_profile": false,
+    "id": 1206539097734385665,
+    "id_str": "1206539097734385665",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1238,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 03:29:21 +0000 2019",
+        "display_text_range": [
+            0,
+            96
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 4168,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん、発達障害だし、原子力も温暖化のためならやむなしだし、学校も金曜日は休みにしようだし、鉄道好きだし、科学に耳を傾けろだし、おまえらがふだん賛同してることだらけの人物なのになんでだよ。",
+        "has_extended_profile": false,
+        "id": 1206053604093595649,
+        "id_str": "1206053604093595649",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1238,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん、発達障害だし、原子力も温暖化のためならやむなしだし、",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Aug 10 09:01:20 +0000 2014",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "@miraikoが凍結したため、こっちに転生しようかと考え中。なに垢で転生するかの。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 5385,
+            "follow_request_sent": false,
+            "followers_count": 199,
+            "following": false,
+            "friends_count": 172,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2721196658,
+            "id_str": "2721196658",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 7,
+            "location": "",
+            "name": "柏崎@垢凍結",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2721196658/1572089741",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1188058260697272320/qIRu3-w__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1188058260697272320/qIRu3-w__normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "miraikogoods",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 6410,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @miraikogoods: グレタさん、発達障害だし、原子力も温暖化のためならやむなしだし、",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 01 07:56:37 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "2Dドットインディーゲームを愛する/ガンジョンきりたんMOD/NuclearThrone有志日本語/最近の流行→インディゲームMOD/VOICEROID",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/eRJ5cDgC5u",
+                        "display_url": "ibushi-maru.hatenablog.com",
+                        "expanded_url": "https://ibushi-maru.hatenablog.com"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 110706,
+        "follow_request_sent": false,
+        "followers_count": 781,
+        "following": false,
+        "friends_count": 1378,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 4088588912,
+        "id_str": "4088588912",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 20,
+        "location": "煙の中",
+        "name": "燻丸@停学",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4088588912/1490186148",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1008151159838670848/9cbm8G1i_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1008151159838670848/9cbm8G1i_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ibushi_maru",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 112328,
+        "time_zone": "",
+        "url": "https://t.co/eRJ5cDgC5u",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

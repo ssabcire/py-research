@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 22:00:09 +0000 2019",
+    "display_text_range": [
+        0,
+        123
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    100,
+                    123
+                ],
+                "url": "https://t.co/fMQwULKleR",
+                "display_url": "news.yahoo.co.jp/pickup/6345504",
+                "expanded_url": "https://news.yahoo.co.jp/pickup/6345504"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "誰でもコメンテーター",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "sgsdogrun",
+                "id": 123214805,
+                "id_str": "123214805"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @sgsdogrun: 日本では、床で寝るほど混雑し過ぎてるというイメージは無くなった？民営化の勝利？ドイツは確か国営。『ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容された』 https://t.co/fMQwULKleR",
+    "has_extended_profile": false,
+    "id": 1206695536478175232,
+    "id_str": "1206695536478175232",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 21:36:46 +0000 2019",
+        "display_text_range": [
+            0,
+            108
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        85,
+                        108
+                    ],
+                    "url": "https://t.co/fMQwULKleR",
+                    "display_url": "news.yahoo.co.jp/pickup/6345504",
+                    "expanded_url": "https://news.yahoo.co.jp/pickup/6345504"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "日本では、床で寝るほど混雑し過ぎてるというイメージは無くなった？民営化の勝利？ドイツは確か国営。『ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容された』 https://t.co/fMQwULKleR",
+        "has_extended_profile": false,
+        "id": 1206689649596350464,
+        "id_str": "1206689649596350464",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "日本では、床で寝るほど混雑し過ぎてるというイメージは無くなった？民営化の",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Mar 15 10:59:32 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "都民。定年退職。若い世代の稼ぎで年金をもらう事に後ろめたさを感じるので、アルバイトで生活費を補完してちょっと税金を払ってる。国税より『住民税＋都民税＋国保』が高いねーと感じる昨今。古典的、鉄オタ、カメラ爺、PC使い。ついにスマホを購入。いいなと思ったものは適当に『リツイート』。原則ブロックせず、批判的な意見は注目。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/32FVabcmAC",
+                            "display_url": "page.is/kzmat",
+                            "expanded_url": "http://page.is/kzmat"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 728,
+            "follow_request_sent": false,
+            "followers_count": 3085,
+            "following": false,
+            "friends_count": 4875,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 123214805,
+            "id_str": "123214805",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 51,
+            "location": "Tokyo",
+            "name": "誰でもコメンテーター",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/123214805/1457385443",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1273363834/cat_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1273363834/cat_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "sgsdogrun",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 113197,
+            "time_zone": "",
+            "url": "http://t.co/32FVabcmAC",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @sgsdogrun: 日本では、床で寝るほど混雑し過ぎてるというイメージは無くなった？民営化の",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 30 06:56:38 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "絵を描いたり、踊ったりしています。現在、フラメンコ修行中。美しいもの、可愛いもの、妖しいもの大好きです。映画(ヴィスコンティからホラーまで）、音楽（最近クラッシック）、本、高橋大輔、浅田真央、ネイサン・チェン、パパシゼetc",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 122959,
+        "follow_request_sent": false,
+        "followers_count": 1659,
+        "following": false,
+        "friends_count": 1507,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 232097496,
+        "id_str": "232097496",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 32,
+        "location": "Japan",
+        "name": "yu-ri@スケオタ　ラルク部",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/232097496/1563558934",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1201516712966799360/naAbclB2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201516712966799360/naAbclB2_normal.jpg",
+        "profile_link_color": "00CCFF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "yuri030916",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 181541,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

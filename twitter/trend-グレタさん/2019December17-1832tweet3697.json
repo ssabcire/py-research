@@ -1,0 +1,182 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:09:09 +0000 2019",
+    "display_text_range": [
+        0,
+        74
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    26,
+                    49
+                ],
+                "url": "https://t.co/27HwrvI0Au",
+                "display_url": "sankei.com/world/news/191…",
+                "expanded_url": "https://www.sankei.com/world/news/191217/wor1912170015-n1.html"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    66,
+                    74
+                ],
+                "text": "わっくニュース"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "産経ニュース",
+                "indices": [
+                    50,
+                    62
+                ],
+                "screen_name": "Sankei_news",
+                "id": 562773398,
+                "id_str": "562773398"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "独鉄道、グレタさんと応酬　「列車大混雑」の投稿受け https://t.co/27HwrvI0Au @Sankei_newsより\n\n#わっくニュース",
+    "has_extended_profile": false,
+    "id": 1206803496789405698,
+    "id_str": "1206803496789405698",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "独鉄道、グレタさんと応酬　「列車大混雑」の投稿受\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 19 13:18:37 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "本好きで気になることがあるとその分野に関する本をすぐ買ってしまいます。色々と自分の気に入ったものを蒐集しているコレクターです。（苦笑）\n近頃では色々モバイル・ガジェットにハマっています。（苦笑）",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 5386,
+        "follow_request_sent": false,
+        "followers_count": 2165,
+        "following": false,
+        "friends_count": 2138,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 268784808,
+        "id_str": "268784808",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 12,
+        "location": "埼玉県越谷市",
+        "name": "H-Wac(わっく) 何でもコレクター",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/268784808/1554930141",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1139724123762909184/nSeEMmXP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139724123762909184/nSeEMmXP_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "HWac1912",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 95800,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

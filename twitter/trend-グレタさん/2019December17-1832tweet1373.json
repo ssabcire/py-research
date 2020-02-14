@@ -1,0 +1,164 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:53:19 +0000 2019",
+    "display_text_range": [
+        9,
+        30
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ルシアンP",
+                "indices": [
+                    0,
+                    8
+                ],
+                "screen_name": "rusianp",
+                "id": 67526512,
+                "id_str": "67526512"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@rusianp グレタさん「大人を教育しなければならない」",
+    "has_extended_profile": false,
+    "id": 1206829712196063232,
+    "id_str": "1206829712196063232",
+    "in_reply_to_screen_name": "rusianp",
+    "in_reply_to_status_id": 1206829568155217920,
+    "in_reply_to_status_id_str": "1206829568155217920",
+    "in_reply_to_user_id": 67526512,
+    "in_reply_to_user_id_str": "67526512",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさん「大",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 07 02:24:03 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "党員、乳酸菌の摂取は義務です。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2637,
+        "follow_request_sent": false,
+        "followers_count": 574,
+        "following": false,
+        "friends_count": 296,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 95117861,
+        "id_str": "95117861",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 44,
+        "location": "ヤヌエル XI ―衛星16 - タウイタウイ泊地",
+        "name": "とーみんねむろ@ホイール変更\u0026車高調導入",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/95117861/1544658504",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/594474977220395009/bjcNT2Cc_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/594474977220395009/bjcNT2Cc_normal.png",
+        "profile_link_color": "2613AC",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "471266",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TMN_Nemuro",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 122500,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

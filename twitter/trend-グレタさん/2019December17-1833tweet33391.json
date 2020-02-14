@@ -1,0 +1,357 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 13:40:16 +0000 2019",
+    "display_text_range": [
+        0,
+        97
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "泰平山(龍神)",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "E9xSAiUyGPZonl0",
+                "id": 1205123203632230400,
+                "id_str": "1205123203632230400"
+            },
+            {
+                "name": "もえるあじあ ･∀･",
+                "indices": [
+                    21,
+                    33
+                ],
+                "screen_name": "moeruasia01",
+                "id": 1178994547302354945,
+                "id_str": "1178994547302354945"
+            },
+            {
+                "name": "和",
+                "indices": [
+                    34,
+                    45
+                ],
+                "screen_name": "kazu000001",
+                "id": 144876419,
+                "id_str": "144876419"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @E9xSAiUyGPZonl0: @moeruasia01 @kazu000001 確かに呼吸出来なくなれば多少削減されるでしょうけど。その前にグレタさん自身が模範になってくれないとね。",
+    "has_extended_profile": false,
+    "id": 1206569735237718016,
+    "id_str": "1206569735237718016",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 04:08:40 +0000 2019",
+        "display_text_range": [
+            25,
+            76
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "もえるあじあ ･∀･",
+                    "indices": [
+                        0,
+                        12
+                    ],
+                    "screen_name": "moeruasia01",
+                    "id": 1178994547302354945,
+                    "id_str": "1178994547302354945"
+                },
+                {
+                    "name": "和",
+                    "indices": [
+                        13,
+                        24
+                    ],
+                    "screen_name": "kazu000001",
+                    "id": 144876419,
+                    "id_str": "144876419"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 4,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@moeruasia01 @kazu000001 確かに呼吸出来なくなれば多少削減されるでしょうけど。その前にグレタさん自身が模範になってくれないとね。",
+        "has_extended_profile": false,
+        "id": 1206425888780275713,
+        "id_str": "1206425888780275713",
+        "in_reply_to_screen_name": "moeruasia01",
+        "in_reply_to_status_id": 1206254593656705025,
+        "in_reply_to_status_id_str": "1206254593656705025",
+        "in_reply_to_user_id": 1178994547302354945,
+        "in_reply_to_user_id_str": "1178994547302354945",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "確かに呼吸出来なくなれば多少削減さ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Dec 12 13:52:32 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "端末変えたらまた入れなくなっちゃいました😓また一からです。フォロワーの皆様申し訳ありません🙇💦💦また、無言フォローも🙇💦💦",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 339,
+            "follow_request_sent": false,
+            "followers_count": 378,
+            "following": false,
+            "friends_count": 602,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1205123203632230400,
+            "id_str": "1205123203632230400",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 0,
+            "location": "",
+            "name": "泰平山(龍神)",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1205123203632230400/1576159303",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1205123545849724928/4oeDXzbK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205123545849724928/4oeDXzbK_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "E9xSAiUyGPZonl0",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 412,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @E9xSAiUyGPZonl0: @moeruasia01 @kazu000001 確かに呼吸出来なくなれば多少削減さ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 17 14:54:19 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "流離の漫画好き\nマイナー調と三拍子の音楽に目がない\n鉄分多め\n艦これ提督(ハル＠呉鎮守府)。 霧島さんLove!\n親米保守・緊縮財政派・憲法9条2項改憲派\n\nフォローはお気軽に。フォローバックはTLと気分次第です。(^_^;)",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 3544,
+        "follow_request_sent": false,
+        "followers_count": 3458,
+        "following": false,
+        "friends_count": 4759,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 144876419,
+        "id_str": "144876419",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 20,
+        "location": "神奈川県川崎市",
+        "name": "和",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1371979720/bakeneko_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1371979720/bakeneko_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kazu000001",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 291737,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:02:39 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Freeman",
+                "indices": [
+                    3,
+                    18
+                ],
+                "screen_name": "freeobligation",
+                "id": 223524256,
+                "id_str": "223524256"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @freeobligation: そうかー、グレタさんはドイツ鉄道から\nファーストクラスの乗車券を買ったのに\n苦労してますアピールをしてたんだｗｗｗ\nまあどこかのお困りの組織からお金をもらってるっていう\n報道もありますから、こういう環境ビジネスは儲かるんでしょうな。 \nh…",
+    "has_extended_profile": false,
+    "id": 1206771662160457730,
+    "id_str": "1206771662160457730",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 73,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 23:59:28 +0000 2019",
+        "display_text_range": [
+            0,
+            141
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        118,
+                        141
+                    ],
+                    "url": "https://t.co/rgoKcyymZr",
+                    "display_url": "moeruasia.net/archives/49657…",
+                    "expanded_url": "https://www.moeruasia.net/archives/49657163.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 171,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "そうかー、グレタさんはドイツ鉄道から\nファーストクラスの乗車券を買ったのに\n苦労してますアピールをしてたんだｗｗｗ\nまあどこかのお困りの組織からお金をもらってるっていう\n報道もありますから、こういう環境ビジネスは儲かるんでしょうな。 \nhttps://t.co/rgoKcyymZr",
+        "has_extended_profile": false,
+        "id": 1206725560640032768,
+        "id_str": "1206725560640032768",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 73,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "scopes": null,
+        "text": "そうかー、グレタさんはドイツ鉄道から\nファーストクラスの乗車券を買ったのに\n苦労してますアピール\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Dec 06 16:46:12 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "音楽好きで、社会的な話も発信してます。I love music, and I also post social and political concerns on my blog and video. お仕事のご依頼はDMから。\n\nYouTube https://t.co/98oI0bIowH https://t.co/m02ZyVN0w5",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/tONMjiaz5R",
+                            "display_url": "ameblo.jp/free-and-oblig…",
+                            "expanded_url": "http://ameblo.jp/free-and-obligation/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 15201,
+            "follow_request_sent": false,
+            "followers_count": 8315,
+            "following": false,
+            "friends_count": 8247,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 223524256,
+            "id_str": "223524256",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 38,
+            "location": "神奈川県",
+            "name": "Freeman",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/223524256/1469944366",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1117460838158221313/5VbGjV3o_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117460838158221313/5VbGjV3o_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "freeobligation",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 17951,
+            "time_zone": "",
+            "url": "http://t.co/tONMjiaz5R",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @freeobligation: そうかー、グレタさんはドイツ鉄道から\nファーストクラスの乗車券を買ったのに\n苦労し\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 19 00:28:18 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "せっかく痩せたのに最近またリーバン、リーバン気味だ、、、。汗",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 46725,
+        "follow_request_sent": false,
+        "followers_count": 454,
+        "following": false,
+        "friends_count": 396,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 766431559624843264,
+        "id_str": "766431559624843264",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 5,
+        "location": "",
+        "name": "コウヘイ",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766438397409832960/KZHmt_ih_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/766438397409832960/KZHmt_ih_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kouheichn",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 52001,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

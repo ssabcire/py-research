@@ -1,0 +1,400 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 20:10:50 +0000 2019",
+    "display_text_range": [
+        0,
+        96
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    49,
+                    72
+                ],
+                "url": "https://t.co/lAKpQpTDUu",
+                "display_url": "dlvr.it/RLP8Zk",
+                "expanded_url": "http://dlvr.it/RLP8Zk"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    73,
+                    78
+                ],
+                "text": "ニュース"
+            },
+            {
+                "indices": [
+                    79,
+                    86
+                ],
+                "text": "47NEWS"
+            },
+            {
+                "indices": [
+                    87,
+                    96
+                ],
+                "text": "共同通信ニュース"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "47NEWS",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "47news_official",
+                "id": 1072373414029971456,
+                "id_str": "1072373414029971456"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @47news_official: ドイツ鉄道、グレタさんと応酬 「列車大混雑」の投稿受け https://t.co/lAKpQpTDUu #ニュース #47NEWS #共同通信ニュース",
+    "has_extended_profile": false,
+    "id": 1206668023513460742,
+    "id_str": "1206668023513460742",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 20:10:32 +0000 2019",
+        "display_text_range": [
+            0,
+            75
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        28,
+                        51
+                    ],
+                    "url": "https://t.co/lAKpQpTDUu",
+                    "display_url": "dlvr.it/RLP8Zk",
+                    "expanded_url": "http://dlvr.it/RLP8Zk"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        52,
+                        57
+                    ],
+                    "text": "ニュース"
+                },
+                {
+                    "indices": [
+                        58,
+                        65
+                    ],
+                    "text": "47NEWS"
+                },
+                {
+                    "indices": [
+                        66,
+                        75
+                    ],
+                    "text": "共同通信ニュース"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "ドイツ鉄道、グレタさんと応酬 「列車大混雑」の投稿受け https://t.co/lAKpQpTDUu #ニュース #47NEWS #共同通信ニュース",
+        "has_extended_profile": false,
+        "id": 1206667950918422528,
+        "id_str": "1206667950918422528",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://dlvrit.com/\" rel=\"nofollow\"\u003edlvr.it\u003c/a\u003e",
+        "scopes": null,
+        "text": "ドイツ鉄道、グレタさんと応酬 「列車大混雑」の投稿\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Dec 11 06:12:00 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "47NEWS(よんななニュース)の公式Twitterです。\n全国の地方紙に掲載される地方ニュースから共同通信の全国ニュースまで幅広くお届けします。\nFacebook：https://t.co/ud6HZOTjza",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/T3WF2LH30s",
+                            "display_url": "47news.jp",
+                            "expanded_url": "https://www.47news.jp/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 1,
+            "follow_request_sent": false,
+            "followers_count": 5448,
+            "following": false,
+            "friends_count": 24,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1072373414029971456,
+            "id_str": "1072373414029971456",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 203,
+            "location": "",
+            "name": "47NEWS",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072373414029971456/1550023162",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1072374944007364608/aaL1xS7__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1072374944007364608/aaL1xS7__normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "47news_official",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 112401,
+            "time_zone": "",
+            "url": "https://t.co/T3WF2LH30s",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.softama.com/\" rel=\"nofollow\"\u003eツイタマ for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @47news_official: ドイツ鉄道、グレタさんと応酬 「列車大混雑」の投稿\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 06 14:18:32 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "いつもどこにでもいる、どこにもいない、うるさいやつ。\n[理解者][未来があるから]好き。\n🏖️「ブラックペッパー」byるーりー🏖️\n🐱れったんがおっしゃったので「ブラックバード」です。🐱\n🐨🖤🐨\n🌿🐰\n[🐨🏖️🤣🦋🌷🐥🐈🍓🐰⛵👑]\n🎀\n[かぜよめない民]",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/eIVKjcqGOx",
+                        "display_url": "twpf.jp/CARAS_1989",
+                        "expanded_url": "http://twpf.jp/CARAS_1989"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 241347,
+        "follow_request_sent": false,
+        "followers_count": 1212,
+        "following": false,
+        "friends_count": 4245,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 120463781,
+        "id_str": "120463781",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 63,
+        "location": "秩父湾沖",
+        "name": "烏[ブラックバード]",
+        "notifications": false,
+        "profile_background_color": "021A03",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/120463781/1576134695",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1205021283781492736/X_7SVer6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205021283781492736/X_7SVer6_normal.jpg",
+        "profile_link_color": "2F6100",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CARAS_1989",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 841413,
+        "time_zone": "",
+        "url": "https://t.co/eIVKjcqGOx",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

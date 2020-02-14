@@ -1,0 +1,182 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:56:14 +0000 2019",
+    "display_text_range": [
+        0,
+        151
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    128,
+                    151
+                ],
+                "url": "https://t.co/BmSnzg7KS0",
+                "display_url": "va.topbuzz.com/s/vNbpdj",
+                "expanded_url": "http://va.topbuzz.com/s/vNbpdj"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "この少女はの後ろ盾は米国ビル・クリントン、ゴア、中国人リチャード・リー、ビル・ゲイツ等にリーが設立した環境団体に賛同。中国政府が絡んでいる事が須田純一郎さんの情報で分かった。\n\nグレタさん「帰り中国とのの列車は超満員」 ドイツ鉄道とツイッターで小競り合い https://t.co/BmSnzg7KS0",
+    "has_extended_profile": false,
+    "id": 1206800247214575616,
+    "id_str": "1206800247214575616",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        135.440841,
+                        34.730787
+                    ],
+                    [
+                        135.508447,
+                        34.730787
+                    ],
+                    [
+                        135.508447,
+                        34.824835
+                    ],
+                    [
+                        135.440841,
+                        34.824835
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Japan",
+        "country_code": "JP",
+        "full_name": "Toyonaka-shi, Osaka",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "9725d1db70df75e7",
+        "name": "Toyonaka-shi",
+        "place_type": "city",
+        "polylines": null,
+        "url": "https://api.twitter.com/1.1/geo/id/9725d1db70df75e7.json"
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "この少女はの後ろ盾は米国ビル・クリントン、ゴア、中国人リチャード・リー、ビル・ゲイツ等にリーが設立し\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 19 09:26:18 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "中・朝・韓大嫌い！日本を守る安倍首相を応援。憲法改正を求める事を批判する人は許せない。9条で国を守れると信じる人に本当に呆れる。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 3150,
+        "follow_request_sent": false,
+        "followers_count": 437,
+        "following": false,
+        "friends_count": 1148,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1042344120562270208,
+        "id_str": "1042344120562270208",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "Japan",
+        "name": "コミチ",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1186908166727974912/F1ywhTHq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186908166727974912/F1ywhTHq_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "eteko59",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 3129,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

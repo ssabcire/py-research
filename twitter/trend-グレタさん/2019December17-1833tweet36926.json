@@ -1,0 +1,182 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:43:48 +0000 2019",
+    "display_text_range": [
+        0,
+        78
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさん、けっこう攻撃されているけど私は味方したいかな。\nというか、世界中の全員がグレタさんのように環境問題に関心持つようになってくれたらどんなにいいか。",
+    "has_extended_profile": false,
+    "id": 1206555524939960327,
+    "id_str": "1206555524939960327",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        139.557687,
+                        36.028816
+                    ],
+                    [
+                        139.727104,
+                        36.028816
+                    ],
+                    [
+                        139.727104,
+                        36.144929
+                    ],
+                    [
+                        139.557687,
+                        36.144929
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Japan",
+        "country_code": "JP",
+        "full_name": "Kuki-shi, Saitama",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "a15a1748820b699d",
+        "name": "Kuki-shi",
+        "place_type": "city",
+        "polylines": null,
+        "url": "https://api.twitter.com/1.1/geo/id/a15a1748820b699d.json"
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさん、けっこう攻撃されているけど私は味方したい",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 18 12:08:40 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ツイッターらしい雑多なアカウント。 主にトレンドから話題を拾うので時事的です。アフィ\u0026フォロアー稼ぎはご遠慮下さい(フォロバは不自然なFF比で無ければ概ね返す。 https://t.co/zoyUE3VIIg",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/iTE8wuygSc",
+                        "display_url": "goo.gl/maps/TUFhd9gxz…",
+                        "expanded_url": "https://goo.gl/maps/TUFhd9gxzFQ2"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 22618,
+        "follow_request_sent": false,
+        "followers_count": 687,
+        "following": false,
+        "friends_count": 679,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 115360294,
+        "id_str": "115360294",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 20,
+        "location": "日本 埼玉",
+        "name": "憑き狐娘",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/115360294/1389103958",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000487831486/65a61787354fd7644a85e73985aa7ede_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000487831486/65a61787354fd7644a85e73985aa7ede_normal.jpeg",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "FF0000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tukikoko",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 46014,
+        "time_zone": "",
+        "url": "https://t.co/iTE8wuygSc",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

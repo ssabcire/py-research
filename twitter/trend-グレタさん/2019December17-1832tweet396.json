@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 07:44:24 +0000 2019",
+    "display_text_range": [
+        0,
+        72
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    49,
+                    72
+                ],
+                "url": "https://t.co/8TFMMsBS23",
+                "display_url": "tokyo-np.co.jp/article/world/…",
+                "expanded_url": "https://www.tokyo-np.co.jp/article/world/list/201912/CK2019121702000262.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "東京新聞（TOKYO Web）",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "tokyo_shimbun",
+                "id": 268213306,
+                "id_str": "268213306"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @tokyo_shimbun: 【国際】モスクワ記録的暖冬　サンタ「グレタさん来てほしい」\nhttps://t.co/8TFMMsBS23",
+    "has_extended_profile": false,
+    "id": 1206842567809101826,
+    "id_str": "1206842567809101826",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 05:55:02 +0000 2019",
+        "display_text_range": [
+            0,
+            53
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        30,
+                        53
+                    ],
+                    "url": "https://t.co/8TFMMsBS23",
+                    "display_url": "tokyo-np.co.jp/article/world/…",
+                    "expanded_url": "https://www.tokyo-np.co.jp/article/world/list/201912/CK2019121702000262.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 10,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "【国際】モスクワ記録的暖冬　サンタ「グレタさん来てほしい」\nhttps://t.co/8TFMMsBS23",
+        "has_extended_profile": false,
+        "id": 1206815041971879936,
+        "id_str": "1206815041971879936",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://www.tokyo-np.co.jp/\" rel=\"nofollow\"\u003etokyo_shimbun bot\u003c/a\u003e",
+        "scopes": null,
+        "text": "【国際】モスクワ記録的暖冬　サンタ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Mar 18 10:38:45 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "東京新聞のニュースサイト『TOKYO Web』の公式アカウントです。本紙サイトのおすすめ記事や、東京新聞電子版に関するお知らせなどをツイートします。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/O1rTKcPbZp",
+                            "display_url": "tokyo-np.co.jp",
+                            "expanded_url": "http://www.tokyo-np.co.jp"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 4,
+            "follow_request_sent": false,
+            "followers_count": 61495,
+            "following": false,
+            "friends_count": 41,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 268213306,
+            "id_str": "268213306",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1412,
+            "location": "東京都 千代田区",
+            "name": "東京新聞（TOKYO Web）",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/268213306/1468047387",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/876241787160940544/ltZCPxQY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/876241787160940544/ltZCPxQY_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "tokyo_shimbun",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 95711,
+            "time_zone": "",
+            "url": "https://t.co/O1rTKcPbZp",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @tokyo_shimbun: 【国際】モスクワ記録的暖冬　サンタ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 12 08:44:53 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "魅力的な唇のためには優しい言葉を紡ぐこと｡愛らしい瞳のためには､人々の素晴らしさを見つけること｡アイコンは実家で一緒に暮らしてくれた黒猫のSHU｡ 情報収集(カオス)＞呟き(備忘録│毒)＞交流(兼業ｼｭﾌは忙しい)。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 12228,
+        "follow_request_sent": false,
+        "followers_count": 218,
+        "following": false,
+        "friends_count": 598,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2189928692,
+        "id_str": "2189928692",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 7,
+        "location": "",
+        "name": "SHO",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2189928692/1497093317",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/873499604305625088/ZxsfehqI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/873499604305625088/ZxsfehqI_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "SHOKO3490",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 80550,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

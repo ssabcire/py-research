@@ -1,0 +1,184 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:53:52 +0000 2019",
+    "display_text_range": [
+        0,
+        66
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    26,
+                    49
+                ],
+                "url": "https://t.co/7M41VeydP2",
+                "display_url": "sankei.com/world/news/191…",
+                "expanded_url": "https://www.sankei.com/world/news/191217/wor1912170015-n1.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "産経ニュース",
+                "indices": [
+                    50,
+                    62
+                ],
+                "screen_name": "Sankei_news",
+                "id": 562773398,
+                "id_str": "562773398"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "独鉄道、グレタさんと応酬　「列車大混雑」の投稿受け https://t.co/7M41VeydP2 @Sankei_newsさんから",
+    "has_extended_profile": false,
+    "id": 1206784550593892357,
+    "id_str": "1206784550593892357",
+    "in_reply_to_screen_name": "ed0wataru",
+    "in_reply_to_status_id": 1206708524174065666,
+    "in_reply_to_status_id_str": "1206708524174065666",
+    "in_reply_to_user_id": 796034381475291136,
+    "in_reply_to_user_id_str": "796034381475291136",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "独鉄道、グレタさんと応酬　「列車大混雑」の投",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 08 16:59:20 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "がんばれ日本だいすき　温泉＆ラーメンは正義！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/kBdELuEvwe",
+                        "display_url": "vill.aogashima.tokyo.jp",
+                        "expanded_url": "http://www.vill.aogashima.tokyo.jp/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 10208,
+        "follow_request_sent": false,
+        "followers_count": 253,
+        "following": false,
+        "friends_count": 1174,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 796034381475291136,
+        "id_str": "796034381475291136",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "太古より倭人の故郷である美しき瑞穂の敷島",
+        "name": "江渡航",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/796034381475291136/1575252582",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/796036915891834880/SLDOg4bN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/796036915891834880/SLDOg4bN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ed0wataru",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 10039,
+        "time_zone": "",
+        "url": "https://t.co/kBdELuEvwe",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

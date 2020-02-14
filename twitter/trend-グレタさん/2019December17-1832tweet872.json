@@ -1,0 +1,708 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 07:19:22 +0000 2019",
+    "display_text_range": [
+        0,
+        90
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    43,
+                    66
+                ],
+                "url": "https://t.co/beHCNIzR0X",
+                "display_url": "twitter.com/coin_post/stat…",
+                "expanded_url": "https://twitter.com/coin_post/status/1205403570515804162"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ビケルマン2.0XRP＠BKF48 補欠",
+                "indices": [
+                    3,
+                    18
+                ],
+                "screen_name": "BK_Black_white",
+                "id": 817795587026210821,
+                "id_str": "817795587026210821"
+            }
+        ],
+        "media": [
+            {
+                "id": 1205461940203479040,
+                "id_str": "1205461940203479040",
+                "media_url": "http://pbs.twimg.com/media/ELqpP3AU4AA4zzt.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ELqpP3AU4AA4zzt.jpg",
+                "url": "https://t.co/WMUNvuCAm1",
+                "display_url": "pic.twitter.com/WMUNvuCAm1",
+                "expanded_url": "https://twitter.com/BK_Black_white/status/1205461949963632644/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 500,
+                        "h": 280,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 500,
+                        "h": 280,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 500,
+                        "h": 280,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1205461949963632644,
+                "source_status_id_str": "1205461949963632644",
+                "type": "photo",
+                "indices": [
+                    67,
+                    90
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1205461940203479040,
+                "id_str": "1205461940203479040",
+                "media_url": "http://pbs.twimg.com/media/ELqpP3AU4AA4zzt.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ELqpP3AU4AA4zzt.jpg",
+                "url": "https://t.co/WMUNvuCAm1",
+                "display_url": "pic.twitter.com/WMUNvuCAm1",
+                "expanded_url": "https://twitter.com/BK_Black_white/status/1205461949963632644/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 500,
+                        "h": 280,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 500,
+                        "h": 280,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 500,
+                        "h": 280,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1205461949963632644,
+                "source_status_id_str": "1205461949963632644",
+                "type": "photo",
+                "indices": [
+                    67,
+                    90
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @BK_Black_white: グレタさん\nこっちです\n( ˙꒳​˙ )ﾉｼ https://t.co/beHCNIzR0X https://t.co/WMUNvuCAm1",
+    "has_extended_profile": false,
+    "id": 1206836264764203008,
+    "id_str": "1206836264764203008",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1205403570515804162,
+    "quoted_status_id_str": "1205403570515804162",
+    "quoted_status": null,
+    "possibly_sensitive": true,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 19,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 13 12:18:19 +0000 2019",
+        "display_text_range": [
+            0,
+            46
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        23,
+                        46
+                    ],
+                    "url": "https://t.co/beHCNIzR0X",
+                    "display_url": "twitter.com/coin_post/stat…",
+                    "expanded_url": "https://twitter.com/coin_post/status/1205403570515804162"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1205461940203479040,
+                    "id_str": "1205461940203479040",
+                    "media_url": "http://pbs.twimg.com/media/ELqpP3AU4AA4zzt.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELqpP3AU4AA4zzt.jpg",
+                    "url": "https://t.co/WMUNvuCAm1",
+                    "display_url": "pic.twitter.com/WMUNvuCAm1",
+                    "expanded_url": "https://twitter.com/BK_Black_white/status/1205461949963632644/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 500,
+                            "h": 280,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 500,
+                            "h": 280,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 500,
+                            "h": 280,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        47,
+                        70
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1205461940203479040,
+                    "id_str": "1205461940203479040",
+                    "media_url": "http://pbs.twimg.com/media/ELqpP3AU4AA4zzt.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELqpP3AU4AA4zzt.jpg",
+                    "url": "https://t.co/WMUNvuCAm1",
+                    "display_url": "pic.twitter.com/WMUNvuCAm1",
+                    "expanded_url": "https://twitter.com/BK_Black_white/status/1205461949963632644/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 500,
+                            "h": 280,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 500,
+                            "h": 280,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 500,
+                            "h": 280,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        47,
+                        70
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 124,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん\nこっちです\n( ˙꒳​˙ )ﾉｼ https://t.co/beHCNIzR0X https://t.co/WMUNvuCAm1",
+        "has_extended_profile": false,
+        "id": 1205461949963632644,
+        "id_str": "1205461949963632644",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1205403570515804162,
+        "quoted_status_id_str": "1205403570515804162",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Fri Dec 13 08:26:21 +0000 2019",
+            "display_text_range": [
+                0,
+                152
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "indices": [
+                            43,
+                            66
+                        ],
+                        "url": "https://t.co/OzNPgs2DZL",
+                        "display_url": "coinpost.jp/?p=122924",
+                        "expanded_url": "https://coinpost.jp/?p=122924"
+                    }
+                ],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 45,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "マイナーの大量電力消費問題、仮想通貨に寛容なジョージアにも波及　政府が規制強化を発表\nhttps://t.co/OzNPgs2DZL\n\nジョージア北西部に属するアブハジア自治共和国が、マイニングに関する規制を強化を発表。\nマイナーの消費電力はジョージア全体の電力供給量の約10%にまで拡大しているという。",
+            "has_extended_profile": false,
+            "id": 1205403570515804162,
+            "id_str": "1205403570515804162",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 20,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+            "scopes": null,
+            "text": "マイナーの大量電力消費問題、仮想通貨に寛容なジョージアにも波及　政府が規制強化を発表\nhttps://t.co/OzNPgs2DZL\n\n",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Jul 04 08:29:57 +0000 2017",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Japanese Cryptocurrency \u0026 Blockchain Media 暗号資産（仮想通貨）情報サイトコインポスト。 ニュース/重要イベント情報など配信中。NODEE by CoinPostアカウントはこちら　→@Nodee_coinpost",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/3YbzBJI1mb",
+                                "display_url": "coinpost.jp",
+                                "expanded_url": "http://coinpost.jp/"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 2443,
+                "follow_request_sent": false,
+                "followers_count": 74624,
+                "following": false,
+                "friends_count": 1164,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 882154500240228353,
+                "id_str": "882154500240228353",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 1060,
+                "location": "Tokyo, Japan",
+                "name": "CoinPost -仮想通貨情報サイト-",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/882154500240228353/1546918697",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/885078538113757185/DavNXvIe_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/885078538113757185/DavNXvIe_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "coin_post",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 12593,
+                "time_zone": "",
+                "url": "https://t.co/3YbzBJI1mb",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 19,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん\nこっちです\n( ˙꒳​˙ )",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jan 07 18:10:36 +0000 2017",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "ＢＫです、たまにつぶやきます、たまにブログも更新します ラインスタンプhttps://t.co/3afHDLvdIZ ブログ２つあるよ https://t.co/YcL8pUfWf5",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/7C4k1iRAvp",
+                            "display_url": "okanefuyasuzo.muragon.com",
+                            "expanded_url": "http://okanefuyasuzo.muragon.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 38820,
+            "follow_request_sent": false,
+            "followers_count": 18249,
+            "following": false,
+            "friends_count": 3433,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 817795587026210821,
+            "id_str": "817795587026210821",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 245,
+            "location": "",
+            "name": "ビケルマン2.0XRP＠BKF48 補欠",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/817795587026210821/1574221531",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1202412960087298048/fV2k4vhG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202412960087298048/fV2k4vhG_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "BK_Black_white",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 19287,
+            "time_zone": "",
+            "url": "https://t.co/7C4k1iRAvp",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @BK_Black_white: グレタさん\nこっちです\n( ˙꒳​˙ )ﾉｼ https://t.co/beHC",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 01 02:27:03 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "東京・渋谷区広尾生まれ🏹",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/vGR20lK7K0",
+                        "display_url": "kosei-kai.or.jp/kaiso100/messa…",
+                        "expanded_url": "http://www.kosei-kai.or.jp/kaiso100/message/kaiso2.cgi"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 434,
+        "follow_request_sent": false,
+        "followers_count": 1029,
+        "following": false,
+        "friends_count": 279,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 150493886,
+        "id_str": "150493886",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 53,
+        "location": "Tokyo",
+        "name": "*ଘ(੭*ˊᵕˋ)੭* ੈ✩‧",
+        "notifications": false,
+        "profile_background_color": "A58778",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/150493886/1560118738",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/608832102763618304/PWZWoJzE_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/608832102763618304/PWZWoJzE_normal.png",
+        "profile_link_color": "CFB0A9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F4A695",
+        "profile_text_color": "E0AF98",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "3iwa",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 248116,
+        "time_zone": "",
+        "url": "https://t.co/vGR20lK7K0",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

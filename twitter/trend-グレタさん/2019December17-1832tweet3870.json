@@ -1,0 +1,508 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:01:31 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "岩﨑大　帰国しました",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "maningway",
+                "id": 1223594246,
+                "id_str": "1223594246"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @maningway: グレタさんがどうのこうのでゃなくて\n私たちの問題として地球温暖化は考える必要が\n今いる神津島のおじさんの話だと\n神津島でも温暖化の影響で海水温度が上がり、貝や伊勢海老は採れなくなった。\n南極や北極の話ではない。\n日本でも。 https://t.co…",
+    "has_extended_profile": false,
+    "id": 1206801576112689152,
+    "id_str": "1206801576112689152",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1205231858566303744,
+    "quoted_status_id_str": "1205231858566303744",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 14 05:46:33 +0000 2019",
+        "display_text_range": [
+            0,
+            111
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        112,
+                        135
+                    ],
+                    "url": "https://t.co/r3HolyXy6O",
+                    "display_url": "twitter.com/nhk_kokusai/st…",
+                    "expanded_url": "https://twitter.com/nhk_kokusai/status/1205231858566303744"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんがどうのこうのでゃなくて\n私たちの問題として地球温暖化は考える必要が\n今いる神津島のおじさんの話だと\n神津島でも温暖化の影響で海水温度が上がり、貝や伊勢海老は採れなくなった。\n南極や北極の話ではない。\n日本でも。 https://t.co/r3HolyXy6O",
+        "has_extended_profile": false,
+        "id": 1205725745177169920,
+        "id_str": "1205725745177169920",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1205231858566303744,
+        "quoted_status_id_str": "1205231858566303744",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Thu Dec 12 21:04:01 +0000 2019",
+            "display_text_range": [
+                0,
+                127
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "indices": [
+                            104,
+                            127
+                        ],
+                        "url": "https://t.co/RXzDipnqzo",
+                        "display_url": "www3.nhk.or.jp/news/html/2019…",
+                        "expanded_url": "https://www3.nhk.or.jp/news/html/20191213/k10012213391000.html?utm_int=news_contents_news-main_001"
+                    }
+                ],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 4140,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "地球温暖化対策を訴える活動家、グレタ・トゥーンベリさんが、アメリカの雑誌が選ぶ「ことしの人」になったことについて、アメリカのトランプ大統領が批判し、それを受けたグレタさんが、皮肉で対抗して話題になっています。https://t.co/RXzDipnqzo",
+            "has_extended_profile": false,
+            "id": 1205231858566303744,
+            "id_str": "1205231858566303744",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 1837,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://www.nhk.or.jp/\" rel=\"nofollow\"\u003eNHK\u003c/a\u003e",
+            "scopes": null,
+            "text": "地球温暖化対策を訴える活動家、グレタ・トゥーンベリさんが、アメリカの雑誌が選ぶ「こと\ufffd",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Sep 10 07:05:29 +0000 2013",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "ＮＨＫ国際部の公式アカウントです。かたいニュースからゆるい話題まで、世界で起きていることをツイートします。利用規約です→ https://t.co/Q11WanxIUh",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/YELvIW7Cjp",
+                                "display_url": "nhk.jp/S0Aysl",
+                                "expanded_url": "http://nhk.jp/S0Aysl"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 0,
+                "follow_request_sent": false,
+                "followers_count": 128402,
+                "following": false,
+                "friends_count": 81,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1850680093,
+                "id_str": "1850680093",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 3081,
+                "location": "東京都渋谷区",
+                "name": "ＮＨＫ国際部",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1850680093/1574986986",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/587690077137977344/fijgwKv8_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/587690077137977344/fijgwKv8_normal.png",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "nhk_kokusai",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 72970,
+                "time_zone": "",
+                "url": "https://t.co/YELvIW7Cjp",
+                "utc_offset": 0,
+                "verified": true,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんがどうのこうのでゃなくて\n私たちの問題として地球温暖化は考える必\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Feb 27 04:14:01 +0000 2013",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "旅のブログ書いています。 https://t.co/3KldPQvC6J   🇮🇩🇲🇲🇹🇭🇱🇦🇨🇳🇰🇬🇺🇿🇹🇷🇮🇷🇦🇿🇬🇪🇦🇲🇺🇦🇧🇾🇪🇪🇱🇻🇵🇱🇨🇿🇸🇰🇭🇺🇷🇴🇧🇬🇬🇷🇯🇴🇮🇱🇵🇸🇪🇬🇪🇹🇰🇪🇺🇬",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/y3pXqEzz9z",
+                            "display_url": "matabi1977.com",
+                            "expanded_url": "https://matabi1977.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 5768,
+            "follow_request_sent": false,
+            "followers_count": 356,
+            "following": false,
+            "friends_count": 995,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 1223594246,
+            "id_str": "1223594246",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 2,
+            "location": "",
+            "name": "岩﨑大　帰国しました",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223594246/1534951487",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1085617124897406977/Lxob6cLz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085617124897406977/Lxob6cLz_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "maningway",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 5127,
+            "time_zone": "",
+            "url": "https://t.co/y3pXqEzz9z",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://yubitter.com/\" rel=\"nofollow\"\u003eyubitter\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @maningway: グレタさんがどうのこうのでゃなくて\n私たちの問題として地球温暖化は考える必要が\n今いる",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 01 17:03:34 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "猫に埋もれてのんきな暮らし。\n日々の出来事や心に浮かんだヨシナシゴトを我もツイートしてみんとてするナリ。軽めウザめ振り幅広めでおやじギャグから哲学風味まで各種取り揃えてメモ帳代わり。手芸/うまいもの/ふんどし//いくらのんきでも今の日本がやばいのわかるぜ護憲＆脱原発。最近はRT祭りワッショイ。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 12311,
+        "follow_request_sent": false,
+        "followers_count": 249,
+        "following": false,
+        "friends_count": 57,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 232889638,
+        "id_str": "232889638",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "東北の町と村の隙間",
+        "name": "猫親分",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/232889638/1466431573",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3099712691/669b5451ec13e43e3216633b7c85b1e1_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3099712691/669b5451ec13e43e3216633b7c85b1e1_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "neko_oyabun",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 124972,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

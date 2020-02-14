@@ -1,0 +1,325 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:50:24 +0000 2019",
+    "display_text_range": [
+        0,
+        123
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    124,
+                    147
+                ],
+                "url": "https://t.co/3IrQkXrVHI",
+                "display_url": "twitter.com/joshuawongcf/s…",
+                "expanded_url": "https://twitter.com/joshuawongcf/status/1206101079579971585"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "2)私は彼女の声明に拍手を送ります\n\n「まるで明日がないかのように生き続ける事など出来ません。と言うのも、明日は厳然としてあるからです」\n\nグレタさんにも私にも見るに十分な長さの未来があり、従って我々にはそれを望ましいものに形作る責任があります… https://t.co/3IrQkXrVHI",
+    "has_extended_profile": false,
+    "id": 1206542087455330304,
+    "id_str": "1206542087455330304",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206101079579971585,
+    "quoted_status_id_str": "1206101079579971585",
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 06:38:00 +0000 2019",
+        "display_text_range": [
+            0,
+            243
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 4038,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "2/ I applaud for her statement “We can’t just continue living as if there was no tomorrow, because there is a tomorrow.” There is a future where Greta and I will live long enough to see, and we are responsible to shape it into a desirable one.",
+        "has_extended_profile": false,
+        "id": 1206101079579971585,
+        "id_str": "1206101079579971585",
+        "in_reply_to_screen_name": "joshuawongcf",
+        "in_reply_to_status_id": 1206101077407305728,
+        "in_reply_to_status_id_str": "1206101077407305728",
+        "in_reply_to_user_id": 18798768,
+        "in_reply_to_user_id_str": "18798768",
+        "is_translation_enabled": false,
+        "lang": "en",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 574,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "2/ I applaud for her statement “We can’t just continue living as if there was no tomorrow, because there is a tomorrow.” There is a future where Greta and I will live long enough to see, and we are responsible to shape it into a desirabl",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Jan 09 11:23:36 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Activist #HongKong. Secretary General of @demosisto. joshua@demosisto.hk. https://t.co/dAHvbwZ9Tj Donation: https://t.co/qUJMto0diY…",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/B3O49Kzf3Y",
+                            "display_url": "facebook.com/joshuawongchif…",
+                            "expanded_url": "https://www.facebook.com/joshuawongchifung"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 1541,
+            "follow_request_sent": false,
+            "followers_count": 490440,
+            "following": false,
+            "friends_count": 1036,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 18798768,
+            "id_str": "18798768",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1759,
+            "location": "Hong Kong",
+            "name": "Joshua Wong 黃之鋒 😷",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18798768/1573291559",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1180060625596084225/YV9clDcC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180060625596084225/YV9clDcC_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "joshuawongcf",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 12677,
+            "time_zone": "",
+            "url": "https://t.co/B3O49Kzf3Y",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "2)私は彼女の声明に拍手を送ります\n\n「まるで明日がないかのように生き続ける事など出来\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 26 09:07:03 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "僕の名はサファイア! 実際とは違っていい歳のオッサンだかんなw 事情があって男装した王女様でもなんでもないかんな…そこんとこヨロシコ〜だよ♪ (^_−)−☆ メンテ終了! 開国はしたけど、城を離れるときは鍵を掛けるよ🥺",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 12679,
+        "follow_request_sent": false,
+        "followers_count": 35,
+        "following": false,
+        "friends_count": 5,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1459180082,
+        "id_str": "1459180082",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "シルバーランド",
+        "name": "リボンの騎士",
+        "notifications": false,
+        "profile_background_color": "33CCFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1459180082/1566398139",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3712480986/bdb79bbb7bdfae51addb543211bfb57b_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3712480986/bdb79bbb7bdfae51addb543211bfb57b_normal.jpeg",
+        "profile_link_color": "888888",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "00455C",
+        "profile_text_color": "00A8E0",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "spirtofsapphire",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 13406,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:14:44 +0000 2019",
+    "display_text_range": [
+        0,
+        30
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 4,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんに繁忙期の東海道新幹線グリーン無座していただきたい",
+    "has_extended_profile": false,
+    "id": 1206729403960418304,
+    "id_str": "1206729403960418304",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんに繁忙期の",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 02 06:04:27 +0000 2019",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "某工業大学 EMj B1 (鉄研副部長/某0de/DappistProject/元JSK71th){鉄道/艦これ(吹雪提督)/デレステ(雪美\u0026よしのんp)/工作いろいろ/Arduino/Kotlin学習中}",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/RbGgU1c3vL",
+                        "display_url": "tk03.org",
+                        "expanded_url": "https://tk03.org"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 75474,
+        "follow_request_sent": false,
+        "followers_count": 445,
+        "following": false,
+        "friends_count": 607,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1112958957050458114,
+        "id_str": "1112958957050458114",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 9,
+        "location": "Toyokawa-city, Aichi",
+        "name": "m-Tech@4日目西え11a(委託\u0026売り子)",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1112958957050458114/1564413092",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1175288118422822912/2ytf6_y4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1175288118422822912/2ytf6_y4_normal.jpg",
+        "profile_link_color": "137A7F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "mykz_n",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 52958,
+        "time_zone": "",
+        "url": "https://t.co/RbGgU1c3vL",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

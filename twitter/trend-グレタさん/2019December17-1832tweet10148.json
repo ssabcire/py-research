@@ -1,0 +1,406 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:14:49 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Yoshikazu",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "OftcMMdUmSxyoVP",
+                "id": 1167725896066723840,
+                "id_str": "1167725896066723840"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @OftcMMdUmSxyoVP: 日本化石賞を受賞 した安倍晋三と小泉進次郎に贈呈する言葉 ですね。\n\nプラス茂木とホリエモンにも！\n\nＣＯＰ２５ グレタさんの訴えは日本に届かず！！\n\n自民党安倍政権は削減目標引き上げから逃げ去りました。\n\nまたもや逃げ腰政権は世界中に…",
+    "has_extended_profile": false,
+    "id": 1206759624780726273,
+    "id_str": "1206759624780726273",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 32,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 23:17:56 +0000 2019",
+        "display_text_range": [
+            0,
+            146
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206352716630355969,
+                    "id_str": "1206352716630355969",
+                    "media_url": "http://pbs.twimg.com/media/EL3TZ3yUcAEyBOm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL3TZ3yUcAEyBOm.jpg",
+                    "url": "https://t.co/8lUJF9qCxK",
+                    "display_url": "pic.twitter.com/8lUJF9qCxK",
+                    "expanded_url": "https://twitter.com/OftcMMdUmSxyoVP/status/1206352722632400897/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        147,
+                        170
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206352716630355969,
+                    "id_str": "1206352716630355969",
+                    "media_url": "http://pbs.twimg.com/media/EL3TZ3yUcAEyBOm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL3TZ3yUcAEyBOm.jpg",
+                    "url": "https://t.co/8lUJF9qCxK",
+                    "display_url": "pic.twitter.com/8lUJF9qCxK",
+                    "expanded_url": "https://twitter.com/OftcMMdUmSxyoVP/status/1206352722632400897/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        147,
+                        170
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 55,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "日本化石賞を受賞 した安倍晋三と小泉進次郎に贈呈する言葉 ですね。\n\nプラス茂木とホリエモンにも！\n\nＣＯＰ２５ グレタさんの訴えは日本に届かず！！\n\n自民党安倍政権は削減目標引き上げから逃げ去りました。\n\nまたもや逃げ腰政権は世界中に露見しました。\n\n安倍政権は一日も早く消えさるべきです。 https://t.co/8lUJF9qCxK",
+        "has_extended_profile": false,
+        "id": 1206352722632400897,
+        "id_str": "1206352722632400897",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 32,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "日本化石賞を受賞 した安倍晋三と小泉進次郎に贈呈する言葉 ですね。\n\nプラス茂木とホリエモンにも！\n\nＣ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Aug 31 09:10:58 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 1627,
+            "follow_request_sent": false,
+            "followers_count": 107,
+            "following": false,
+            "friends_count": 284,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1167725896066723840,
+            "id_str": "1167725896066723840",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1,
+            "location": "",
+            "name": "Yoshikazu",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1167725896066723840/1576304999",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1205736668591837184/L0PTTJJs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205736668591837184/L0PTTJJs_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "OftcMMdUmSxyoVP",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 516,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @OftcMMdUmSxyoVP: 日本化石賞を受賞 した安倍晋三と小泉進次郎に贈呈する言葉 ですね。\n\nプラス茂木とホ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 04 11:32:12 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 11029,
+        "follow_request_sent": false,
+        "followers_count": 44,
+        "following": false,
+        "friends_count": 93,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1069917279687606272,
+        "id_str": "1069917279687606272",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "8632",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1069917739379093504/7ckbYYIR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1069917739379093504/7ckbYYIR_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Hc5cBKkRLgJnXST",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 2804,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:23:17 +0000 2019",
+    "display_text_range": [
+        0,
+        18
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんから漂うはるかぜちゃん臭な",
+    "has_extended_profile": false,
+    "id": 1206807052057624576,
+    "id_str": "1206807052057624576",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://theworld09.com/\" rel=\"nofollow\"\u003eon TheWorld\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんか",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 01 17:52:11 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Pinazou Test Teamという自転車系広域呑み会集団のオーナーです。PTTにはツールドフランスに出るような選手のライバルを作るというマジ目標があります。いきらない、いちびらない、うれしがらないが人生のテーマです。タメ口・マジレス系メンションはスルーします。レッドは好んで飲みません。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/tkd91xrj1o",
+                        "display_url": "pinazou.com",
+                        "expanded_url": "http://pinazou.com"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1062,
+        "follow_request_sent": false,
+        "followers_count": 1693,
+        "following": false,
+        "friends_count": 1298,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 118765952,
+        "id_str": "118765952",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 192,
+        "location": "大人は質問に答えたりしない",
+        "name": "得する実業団チームPTTの秘密とは？",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1425852428/icon539548411998262747920100801_04_tour_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1425852428/icon539548411998262747920100801_04_tour_normal.jpg",
+        "profile_link_color": "B30000",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pinazou",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 325728,
+        "time_zone": "",
+        "url": "https://t.co/tkd91xrj1o",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

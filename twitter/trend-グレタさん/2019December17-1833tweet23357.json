@@ -1,0 +1,488 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 19:18:54 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "冬目岩石",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "mt1831283",
+                "id": 2387310038,
+                "id_str": "2387310038"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @mt1831283: 確かにグレタさんは〈現代のジャンヌダルク〉ですね。\n２１世紀の前半にフランスじゃなくスウェーデンに現れた。\n昔の欧州と今の日本とは違い１６歳で英語を流暢に話すし、親や祖父が政治家の世襲娘でもない。そう言えは〈未成年〉？だが親は全く出てこない。「この…",
+    "has_extended_profile": false,
+    "id": 1206654953617420289,
+    "id_str": "1206654953617420289",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206130198690725889,
+    "quoted_status_id_str": "1206130198690725889",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 13,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 17:03:19 +0000 2019",
+        "display_text_range": [
+            0,
+            141
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        142,
+                        165
+                    ],
+                    "url": "https://t.co/sFuHOCyTfI",
+                    "display_url": "twitter.com/doctor0621/sta…",
+                    "expanded_url": "https://twitter.com/doctor0621/status/1206130198690725889"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 23,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "確かにグレタさんは〈現代のジャンヌダルク〉ですね。\n２１世紀の前半にフランスじゃなくスウェーデンに現れた。\n昔の欧州と今の日本とは違い１６歳で英語を流暢に話すし、親や祖父が政治家の世襲娘でもない。そう言えは〈未成年〉？だが親は全く出てこない。「この度、父の跡を～」なんて言わないし笑 https://t.co/sFuHOCyTfI",
+        "has_extended_profile": false,
+        "id": 1206258446460317696,
+        "id_str": "1206258446460317696",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206130198690725889,
+        "quoted_status_id_str": "1206130198690725889",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Dec 15 08:33:42 +0000 2019",
+            "display_text_range": [
+                0,
+                122
+            ],
+            "entities": {
+                "urls": [],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 179,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "グレタ嬢の演説を聞くと圧倒される。私は例えばジャンヌ・ダルクは作り話だろうと思っていたが、彼女を見てからはやはり時々は天才少女が現れるのだなと自説を変えた。でも日本でもいつか聞いた沖縄の少女の演説も感動した。永田町にいる連中は足元にも及ばない。",
+            "has_extended_profile": false,
+            "id": 1206130198690725889,
+            "id_str": "1206130198690725889",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 70,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+            "scopes": null,
+            "text": "グレタ嬢の演説を聞くと圧倒される。私は例えばジャンヌ・ダルクは作り話だろうと思っ\ufffd\ufffd",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Oct 07 13:27:23 +0000 2010",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "都内の怪しい老内科医、小説家。酒とモーツァルトとワグナーを愛す。医師としての研究テーマは今後急増が予測される慢性心不全の早期発見。心エコーを用いた新手法を開発しました。  最近加齢臭の恐怖におびえている。  https://t.co/z8sJfSwhYY  著作『アンダンテで歌えDNA』",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/hvA7F7CL8c",
+                                "display_url": "jnc.or.jp",
+                                "expanded_url": "http://www.jnc.or.jp"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 7002,
+                "follow_request_sent": false,
+                "followers_count": 3032,
+                "following": false,
+                "friends_count": 4621,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 199671856,
+                "id_str": "199671856",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 73,
+                "location": "東京",
+                "name": "怪老医@doctor0621",
+                "notifications": false,
+                "profile_background_color": "352726",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/199671856/1445911939",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1189111241421148161/dqaP3CXs_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1189111241421148161/dqaP3CXs_normal.jpg",
+                "profile_link_color": "D02B55",
+                "profile_sidebar_border_color": "829D5E",
+                "profile_sidebar_fill_color": "99CC33",
+                "profile_text_color": "3E4415",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "doctor0621",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 31461,
+                "time_zone": "",
+                "url": "http://t.co/hvA7F7CL8c",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 13,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "確かにグレタさんは〈現代のジャンヌダルク〉ですね。\n２１世紀の前半にフランスじゃなくスウェーデ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Mar 13 15:57:07 +0000 2014",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "英国各紙の論述スタイルから影響を受け、シニカルに事象を観察し論評することを心掛けている。マックス・ウェーバーが予言した、合理性の飽くなき追求の果てに到来する「豊かな地獄」の展望に感化され今日に至っている。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 21487,
+            "follow_request_sent": false,
+            "followers_count": 1421,
+            "following": false,
+            "friends_count": 3093,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 2387310038,
+            "id_str": "2387310038",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 24,
+            "location": "",
+            "name": "冬目岩石",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/568948729764253696/O6cll-Li_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/568948729764253696/O6cll-Li_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "mt1831283",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 22650,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @mt1831283: 確かにグレタさんは〈現代のジャンヌダルク〉ですね。\n２１世紀の前半にフランスじゃなく\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 30 03:27:06 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 37250,
+        "follow_request_sent": false,
+        "followers_count": 280,
+        "following": false,
+        "friends_count": 79,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 161151328,
+        "id_str": "161151328",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "",
+        "name": "tsumamon",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/161151328/1461847158",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000659486903/d963bcc2503680ce0af7aef605be84c8_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000659486903/d963bcc2503680ce0af7aef605be84c8_normal.jpeg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "shokyoto007",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 33372,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

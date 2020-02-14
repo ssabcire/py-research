@@ -1,0 +1,354 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:38:06 +0000 2019",
+    "display_text_range": [
+        0,
+        107
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    50,
+                    73
+                ],
+                "url": "https://t.co/DRMwbCRgwJ",
+                "display_url": "CNN.co.jp",
+                "expanded_url": "http://CNN.co.jp"
+            },
+            {
+                "indices": [
+                    84,
+                    107
+                ],
+                "url": "https://t.co/iyLynx6Qvl",
+                "display_url": "headlines.yahoo.co.jp/hl?a=20191216-…",
+                "expanded_url": "https://headlines.yahoo.co.jp/hl?a=20191216-35146920-cnn-int"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "しばだあと ルミエールＡＤ２年連続的中",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "shiba_dirt",
+                "id": 251111435,
+                "id_str": "251111435"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @shiba_dirt: ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容され（https://t.co/DRMwbCRgwJ） - Y!ニュース https://t.co/iyLynx6Qvl",
+    "has_extended_profile": false,
+    "id": 1206584289623592960,
+    "id_str": "1206584289623592960",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 14:00:07 +0000 2019",
+        "display_text_range": [
+            0,
+            91
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        34,
+                        57
+                    ],
+                    "url": "https://t.co/DRMwbCRgwJ",
+                    "display_url": "CNN.co.jp",
+                    "expanded_url": "http://CNN.co.jp"
+                },
+                {
+                    "indices": [
+                        68,
+                        91
+                    ],
+                    "url": "https://t.co/iyLynx6Qvl",
+                    "display_url": "headlines.yahoo.co.jp/hl?a=20191216-…",
+                    "expanded_url": "https://headlines.yahoo.co.jp/hl?a=20191216-35146920-cnn-int"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容され（https://t.co/DRMwbCRgwJ） - Y!ニュース https://t.co/iyLynx6Qvl",
+        "has_extended_profile": false,
+        "id": 1206574731165462534,
+        "id_str": "1206574731165462534",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Feb 12 13:21:41 +0000 2011",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "大台到達▶競馬メインに稼動（競馬ニュース・グリーンチャンネル・三連複と馬連派）▶世相ニュース、ネットの話題ネタ▶気になるテレビやワイドショーの視聴ツイート▶スポーツ▶アニメ（ウマ娘・ガルパン・ごちうさ・けもフレ・けいおん他。声優少々）▶面白いツイートはRTしてます▶クイズ関係少々",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 1719,
+            "follow_request_sent": false,
+            "followers_count": 2951,
+            "following": false,
+            "friends_count": 4078,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 251111435,
+            "id_str": "251111435",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 92,
+            "location": "第100回ダービーを見る為に健康重視で生きよう……。",
+            "name": "しばだあと ルミエールＡＤ２年連続的中",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/251111435/1576529331",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1205113670419673088/SECdE3OM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205113670419673088/SECdE3OM_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "shiba_dirt",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 312016,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @shiba_dirt: ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 06 23:38:05 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "よろしくお願いいたします。 鉄道､ディズニー関係等でツイートします、年パスはランド１７周年から持ってます、一時期香港ディズニーの年パス所持、英語、広東語まだまだ習得中！ 湾岸ミッドナイト、頭文字D両アーケードゲーム全国対戦よろしくお願いします。電車でGO楽しみ！精力善用、自他共栄の柔道精神、嘉納治五郎先生万歳！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 213700,
+        "follow_request_sent": false,
+        "followers_count": 658,
+        "following": false,
+        "friends_count": 474,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1573884836,
+        "id_str": "1573884836",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 37,
+        "location": "ディズニー城下町",
+        "name": "頭文字D@柔道黒帯",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573884836/1476356172",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/873997090237501440/kn0xl5Ys_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/873997090237501440/kn0xl5Ys_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "c6120cassiopeia",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 470774,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

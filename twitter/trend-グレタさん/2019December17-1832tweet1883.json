@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:26:05 +0000 2019",
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "岡田ヨブぱみゅ@暫定アイコン",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "Awesome_Okapamy",
+                "id": 778594957435088900,
+                "id_str": "778594957435088900"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @Awesome_Okapamy: グレタさんの主張、大筋ではわからんでもない話なんだけど、とにかく彼女自身から、永田洋子や北九州監禁事件の松永や尼崎事件の角田美代子のように、他人を罪人認定してコントロールする、洗脳支配系の毒親じみた空気がプンプンするので近寄りたくない",
+    "has_extended_profile": false,
+    "id": 1206822858711695361,
+    "id_str": "1206822858711695361",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 47,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 13:48:35 +0000 2019",
+        "display_text_range": [
+            0,
+            117
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 100,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんの主張、大筋ではわからんでもない話なんだけど、とにかく彼女自身から、永田洋子や北九州監禁事件の松永や尼崎事件の角田美代子のように、他人を罪人認定してコントロールする、洗脳支配系の毒親じみた空気がプンプンするので近寄りたくない",
+        "has_extended_profile": false,
+        "id": 1206209439151181824,
+        "id_str": "1206209439151181824",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 47,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんの主張、大筋ではわからんでもない話なんだけど、とにかく彼女自身から、",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Sep 21 14:01:18 +0000 2016",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "なんか前のアカウント@kettansai　が制限食らったので全裸で呟くアカウント。まれに衣服を着ます。\n\nこっちのアカウントは鍵なしにつきRT可能、どなた様からのDMも受信可能になってます。ペニス",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/5mfdHBp2Ey",
+                            "display_url": "note.mu/kettansai",
+                            "expanded_url": "https://note.mu/kettansai"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 790,
+            "follow_request_sent": false,
+            "followers_count": 5014,
+            "following": false,
+            "friends_count": 1,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 778594957435088900,
+            "id_str": "778594957435088900",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 110,
+            "location": "",
+            "name": "岡田ヨブぱみゅ@暫定アイコン",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/778594957435088900/1571452420",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1185383481951412224/LzFc2XuO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1185383481951412224/LzFc2XuO_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Awesome_Okapamy",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 7100,
+            "time_zone": "",
+            "url": "https://t.co/5mfdHBp2Ey",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @Awesome_Okapamy: グレタさんの主張、大筋ではわからんでもない話なんだけど、とにかく彼女自身から、",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 21 16:34:31 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "元→警備員,観光地記念撮影写真販売＠南紀白浜,林業見習,カメラ店員＠梅田,DTPオペ▼非煙下戸恋愛歴ゼロ献血不可近眼▼阪神/聖飢魔II/大相撲/'80-90年代F1/まどマギ/エヴァ/山田太郎議員▼RTはメモ・政治は是々非々路線◆https://t.co/BjsQnWWJrm",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/mfpBZUW5Ha",
+                        "display_url": "amazon.co.jp/registry/wishl…",
+                        "expanded_url": "http://www.amazon.co.jp/registry/wishlist/76S0799Q049M"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 502991,
+        "follow_request_sent": false,
+        "followers_count": 2880,
+        "following": false,
+        "friends_count": 49,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 16888821,
+        "id_str": "16888821",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 159,
+        "location": "near Nagai Park, Osaka, Jpn",
+        "name": "guldeen/父は要介護5/求職中",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16888821/1479292930",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/915089995161001985/ZzbLH5TC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/915089995161001985/ZzbLH5TC_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "guldeen",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 1284151,
+        "time_zone": "",
+        "url": "https://t.co/mfpBZUW5Ha",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:15:17 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "コウチ（KOUCHIE）",
+                "indices": [
+                    3,
+                    11
+                ],
+                "screen_name": "yonsuke",
+                "id": 32340767,
+                "id_str": "32340767"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @yonsuke: この件に沸き出たアンチテーゼの形の醜さには、それ自体が雄弁に語っていると感じるだけなのだが、それとは別に僕等夫婦はイタルの事を重ねずには居られない。彼はグレタさんの様に環境について考えたりその考えを述べたり出来ないが、存在するだけで周囲に変化をもたらし…",
+    "has_extended_profile": false,
+    "id": 1206729541378461697,
+    "id_str": "1206729541378461697",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 23:10:16 +0000 2019",
+        "display_text_range": [
+            0,
+            151
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        128,
+                        151
+                    ],
+                    "url": "https://t.co/CdPppYm7WO",
+                    "display_url": "gendai.ismedia.jp/articles/-/675…",
+                    "expanded_url": "https://gendai.ismedia.jp/articles/-/67532"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 23,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "この件に沸き出たアンチテーゼの形の醜さには、それ自体が雄弁に語っていると感じるだけなのだが、それとは別に僕等夫婦はイタルの事を重ねずには居られない。彼はグレタさんの様に環境について考えたりその考えを述べたり出来ないが、存在するだけで周囲に変化をもたらした。https://t.co/CdPppYm7WO",
+        "has_extended_profile": false,
+        "id": 1206713181923463169,
+        "id_str": "1206713181923463169",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "この件に沸き出たアンチテーゼの形の醜さには、それ自体が雄弁に語っていると感じるだけなのだが、それとは\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Apr 17 07:30:44 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "ベーシスト、息子が4人。バンドでベースを弾き、誰かに踊って貰うことが何よりも好事。まもなく成人する自閉症の長男と仲睦まじく暮らしていますよ。日本大学芸術学部写真学科中退。KODAMA AND THE DUB STATION BAND ALCAMONE KOUCHIE RIDDIM SECTION SALIKAMI 等々",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/KiNwMzlGLk",
+                            "display_url": "dubstation.info",
+                            "expanded_url": "http://dubstation.info"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 41253,
+            "follow_request_sent": false,
+            "followers_count": 2365,
+            "following": false,
+            "friends_count": 1902,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 32340767,
+            "id_str": "32340767",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 37,
+            "location": "　東京　",
+            "name": "コウチ（KOUCHIE）",
+            "notifications": false,
+            "profile_background_color": "642D8B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/32340767/1489076319",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1004188286858874880/BpEyqVmK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004188286858874880/BpEyqVmK_normal.jpg",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "65B0DA",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "yonsuke",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 40571,
+            "time_zone": "",
+            "url": "https://t.co/KiNwMzlGLk",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @yonsuke: この件に沸き出たアンチテーゼの形の醜さには、それ自体が雄弁に語っていると感じるだけな\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 09 12:54:11 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "北九州生まれ東京〜北信濃〜駿河国在住・木版画やらイラストやら描いてます♪ここはボクの好きな世界のスクラップブック♪音楽と珈琲、ステキなART、言葉のつづれ織りと木版画 /Art・musics＆coffee lover / Woodblock Printmaker",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 74221,
+        "follow_request_sent": false,
+        "followers_count": 617,
+        "following": false,
+        "friends_count": 1492,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 3836504060,
+        "id_str": "3836504060",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 20,
+        "location": "日本☆Japan",
+        "name": "Aquihilo",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3836504060/1512132525",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1111561404216041472/4X184cYI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111561404216041472/4X184cYI_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tobata_akihiro",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 20984,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

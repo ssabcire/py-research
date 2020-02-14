@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:34:10 +0000 2019",
+    "display_text_range": [
+        0,
+        113
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    90,
+                    113
+                ],
+                "url": "https://t.co/cUMe9SoHHK",
+                "display_url": "mainichi.jp/articles/20191…",
+                "expanded_url": "https://mainichi.jp/articles/20191211/k00/00m/030/319000c"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "木野龍逸 (Ryuichi KINO)",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "kinoryuichi",
+                "id": 144395772,
+                "id_str": "144395772"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @kinoryuichi: 日本は行動をとらない宣言してしまいました(\u0026gt;_\u0026lt;)\n\n→グレタさん「最大の脅威は行動を取らないこと」COP25演説全文 - 毎日新聞 https://t.co/cUMe9SoHHK",
+    "has_extended_profile": false,
+    "id": 1206537999237799936,
+    "id_str": "1206537999237799936",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": true,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 40,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 12 21:08:32 +0000 2019",
+        "display_text_range": [
+            0,
+            96
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        73,
+                        96
+                    ],
+                    "url": "https://t.co/cUMe9SoHHK",
+                    "display_url": "mainichi.jp/articles/20191…",
+                    "expanded_url": "https://mainichi.jp/articles/20191211/k00/00m/030/319000c"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 31,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "日本は行動をとらない宣言してしまいました(\u0026gt;_\u0026lt;)\n\n→グレタさん「最大の脅威は行動を取らないこと」COP25演説全文 - 毎日新聞 https://t.co/cUMe9SoHHK",
+        "has_extended_profile": false,
+        "id": 1205232995256287232,
+        "id_str": "1205232995256287232",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 40,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "日本は行動をとらない宣言してしまいました(\u0026gt;_\u0026lt;)\n\n→グレタさん「\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun May 16 05:06:37 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "取材活動は皆さまのご支援に支えられています https://t.co/MP0cUQqAUG／メルマガ配信中→https://t.co/pcTEEsvigw https://t.co/5B5hsSOFb9／「検証 福島原発事故・記者会見３（岩波書店）／連絡先 rkino@nifty.com",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/B0KUcY481l",
+                            "display_url": "ch.nicovideo.jp/kinoryu",
+                            "expanded_url": "http://ch.nicovideo.jp/kinoryu"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 5307,
+            "follow_request_sent": false,
+            "followers_count": 38599,
+            "following": false,
+            "friends_count": 2006,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 144395772,
+            "id_str": "144395772",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 2390,
+            "location": "原発事故から日本が見えるところ",
+            "name": "木野龍逸 (Ryuichi KINO)",
+            "notifications": false,
+            "profile_background_color": "EAEBE8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/144395772/1399905291",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1276114098/face2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276114098/face2_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "kinoryuichi",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 67797,
+            "time_zone": "",
+            "url": "https://t.co/B0KUcY481l",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @kinoryuichi: 日本は行動をとらない宣言してしまいました(\u0026gt;_\u0026lt;)\n\n→グレタさん「\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 04 03:52:51 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "はじめまして、タイガー佐藤と申します。山梨県都留市在住の、J-waveグルーブラインZのリスナーのおっさんです。現在はトラックから降りて、ダンボールと複合性局所疼痛症候群と戦っている毎日です。以後よろしくお願いします。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 116074,
+        "follow_request_sent": false,
+        "followers_count": 1457,
+        "following": false,
+        "friends_count": 1615,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 111204317,
+        "id_str": "111204317",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 48,
+        "location": "山梨県の山岳基地",
+        "name": "タイガー佐藤",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2769468504/d343475a8b9f30267a302b8287ddc1db_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2769468504/d343475a8b9f30267a302b8287ddc1db_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tigar_satou_666",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 270981,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

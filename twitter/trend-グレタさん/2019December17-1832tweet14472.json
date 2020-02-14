@@ -1,0 +1,184 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:15:24 +0000 2019",
+    "display_text_range": [
+        0,
+        63
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    29,
+                    52
+                ],
+                "url": "https://t.co/Pa2BqT2TV2",
+                "display_url": "youtu.be/xC3haNLQpV4",
+                "expanded_url": "https://youtu.be/xC3haNLQpV4"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "YouTube",
+                "indices": [
+                    53,
+                    61
+                ],
+                "screen_name": "YouTube",
+                "id": 10228272,
+                "id_str": "10228272"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんが鉄道会社の“反論”に釈明(19/12/17) https://t.co/Pa2BqT2TV2 @YouTubeより",
+    "has_extended_profile": false,
+    "id": 1206729571329957888,
+    "id_str": "1206729571329957888",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんが鉄道会社の“反論”に釈明(19/12/17",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 20 04:08:10 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ブログ：https://t.co/U5UWwBc2Ro　商業誌等でイラスト描いてます。プロフ詳細は　https://t.co/jT20f1sF6W",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/MqU9xmnYTX",
+                        "display_url": "nkmr-sun.amebaownd.com",
+                        "expanded_url": "https://nkmr-sun.amebaownd.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 117420,
+        "follow_request_sent": false,
+        "followers_count": 1931,
+        "following": false,
+        "friends_count": 3952,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 124659093,
+        "id_str": "124659093",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 43,
+        "location": "Kanto Japan,関東ベイエリア",
+        "name": "Takuya,中村卓也,나카무라 타쿠야",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1195686843/twiprof_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195686843/twiprof_normal.png",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nkmr_sun",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 249297,
+        "time_zone": "",
+        "url": "https://t.co/MqU9xmnYTX",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

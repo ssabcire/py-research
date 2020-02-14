@@ -1,0 +1,331 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 19:09:17 +0000 2019",
+    "display_text_range": [
+        0,
+        19
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": [
+            {
+                "id": 1206652516802236416,
+                "id_str": "1206652516802236416",
+                "media_url": "http://pbs.twimg.com/media/EL7kEidUEAA8zXb.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL7kEidUEAA8zXb.jpg",
+                "url": "https://t.co/q42eNYbOt1",
+                "display_url": "pic.twitter.com/q42eNYbOt1",
+                "expanded_url": "https://twitter.com/241307_aingen/status/1206652535370440704/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1072,
+                        "h": 926,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 587,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1072,
+                        "h": 926,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    20,
+                    43
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206652516802236416,
+                "id_str": "1206652516802236416",
+                "media_url": "http://pbs.twimg.com/media/EL7kEidUEAA8zXb.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL7kEidUEAA8zXb.jpg",
+                "url": "https://t.co/q42eNYbOt1",
+                "display_url": "pic.twitter.com/q42eNYbOt1",
+                "expanded_url": "https://twitter.com/241307_aingen/status/1206652535370440704/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1072,
+                        "h": 926,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 587,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1072,
+                        "h": 926,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    20,
+                    43
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            },
+            {
+                "id": 1206652522716258304,
+                "id_str": "1206652522716258304",
+                "media_url": "http://pbs.twimg.com/media/EL7kE4fU4AA1PxI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL7kE4fU4AA1PxI.jpg",
+                "url": "https://t.co/q42eNYbOt1",
+                "display_url": "pic.twitter.com/q42eNYbOt1",
+                "expanded_url": "https://twitter.com/241307_aingen/status/1206652535370440704/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1075,
+                        "h": 602,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 381,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1075,
+                        "h": 602,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    20,
+                    43
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            },
+            {
+                "id": 1206652528965771264,
+                "id_str": "1206652528965771264",
+                "media_url": "http://pbs.twimg.com/media/EL7kFPxU4AARSI2.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL7kFPxU4AARSI2.jpg",
+                "url": "https://t.co/q42eNYbOt1",
+                "display_url": "pic.twitter.com/q42eNYbOt1",
+                "expanded_url": "https://twitter.com/241307_aingen/status/1206652535370440704/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1042,
+                        "h": 1065,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 665,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1042,
+                        "h": 1065,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    20,
+                    43
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんのwiki、くっそ攻撃的ww https://t.co/q42eNYbOt1",
+    "has_extended_profile": false,
+    "id": 1206652535370440704,
+    "id_str": "1206652535370440704",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんのw",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 28 09:47:32 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "レグナードとドダイトスが好き。亀と猫も好き。バンドリが楽しすぎて肩凝り悪化しました。棍持ってレグをぽこぽこ！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 7656,
+        "follow_request_sent": false,
+        "followers_count": 81,
+        "following": false,
+        "friends_count": 79,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1133308817352011776,
+        "id_str": "1133308817352011776",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "日常ツイートが多い垢はこちら",
+        "name": "NEARA",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1133308817352011776/1569054058",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1190173932344815616/YaDyOxb-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190173932344815616/YaDyOxb-_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "241307_aingen",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 4482,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

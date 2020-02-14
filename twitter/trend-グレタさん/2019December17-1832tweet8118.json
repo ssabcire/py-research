@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:15:30 +0000 2019",
+    "display_text_range": [
+        0,
+        82
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "NORA@4日目南カ20b煉獄杏寿郎写真集",
+                "indices": [
+                    3,
+                    11
+                ],
+                "screen_name": "nora912",
+                "id": 90192338,
+                "id_str": "90192338"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @nora912: 水曜どうでしょうに出演したグレタさん、高速バスを出したミスターを睨みつけながらしれっとサイコロを踏み潰して行き先をフェリーで石垣島に変更。",
+    "has_extended_profile": false,
+    "id": 1206774894005874688,
+    "id_str": "1206774894005874688",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 03:15:05 +0000 2019",
+        "display_text_range": [
+            0,
+            69
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 5,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "水曜どうでしょうに出演したグレタさん、高速バスを出したミスターを睨みつけながらしれっとサイコロを踏み潰して行き先をフェリーで石垣島に変更。",
+        "has_extended_profile": false,
+        "id": 1206774790381391872,
+        "id_str": "1206774790381391872",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "水曜どうでしょうに出演したグレタさん、高速バス",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Nov 15 16:21:41 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "仮装してる♂たまに中の人。なんかありましたらDMまで。(ง ˙ω˙)ว",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/WlHqCUKOz4",
+                            "display_url": "nora912.hatenablog.com",
+                            "expanded_url": "http://nora912.hatenablog.com"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 51133,
+            "follow_request_sent": false,
+            "followers_count": 8233,
+            "following": false,
+            "friends_count": 2887,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 90192338,
+            "id_str": "90192338",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 514,
+            "location": "関東",
+            "name": "NORA@4日目南カ20b煉獄杏寿郎写真集",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/90192338/1575957577",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1203628260417884160/yh-wEAM9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1203628260417884160/yh-wEAM9_normal.jpg",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "nora912",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 88433,
+            "time_zone": "",
+            "url": "https://t.co/WlHqCUKOz4",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @nora912: 水曜どうでしょうに出演したグレタさん、高速バス",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 11 10:56:46 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "20↑ 関東で活動中のコスプレイヤー 本職はITのお仕事 BoxTVで悪巧みをする人 新シンロビン三日月ノクト推しの夢豚 夢妄想メインでBL雑食NLTS地雷無し BoxTV/刀剣乱舞/刀ミュ/FF15/FF14/FGO/プロ野球/競馬/プロレス/FC東京 夢妄想・肌色コス用→@mikaduki_love",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/eMmIhkUznL",
+                        "display_url": "instagram.com/fctokyo1016/",
+                        "expanded_url": "https://www.instagram.com/fctokyo1016/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 18047,
+        "follow_request_sent": false,
+        "followers_count": 1804,
+        "following": false,
+        "friends_count": 830,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 96104208,
+        "id_str": "96104208",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 104,
+        "location": "東京都調布市西町376-3",
+        "name": "リョウ（凌）@P5Rプレイ中",
+        "notifications": false,
+        "profile_background_color": "0022FF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/96104208/1494222494",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1188423960888668160/uc0X2LZL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1188423960888668160/uc0X2LZL_normal.jpg",
+        "profile_link_color": "000080",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fctokyo1016",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 180738,
+        "time_zone": "",
+        "url": "https://t.co/eMmIhkUznL",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:11:14 +0000 2019",
+    "display_text_range": [
+        0,
+        106
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    83,
+                    106
+                ],
+                "url": "https://t.co/OVT06cSRan",
+                "display_url": "matome.naver.jp/odai/215758162…",
+                "expanded_url": "https://matome.naver.jp/odai/2157581628975787801"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "kafkaesque🏳️‍🌈",
+                "indices": [
+                    3,
+                    18
+                ],
+                "screen_name": "kafkaesque1924",
+                "id": 225026134,
+                "id_str": "225026134"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @kafkaesque1924: 賀東招二氏がグレタさんに対しひどすぎるツイートで批判殺到→「反省・削除・Twitter休止・お詫び」 - NAVER まとめ https://t.co/OVT06cSRan",
+    "has_extended_profile": false,
+    "id": 1206819119258947584,
+    "id_str": "1206819119258947584",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 10 10:45:04 +0000 2019",
+        "display_text_range": [
+            0,
+            86
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        63,
+                        86
+                    ],
+                    "url": "https://t.co/OVT06cSRan",
+                    "display_url": "matome.naver.jp/odai/215758162…",
+                    "expanded_url": "https://matome.naver.jp/odai/2157581628975787801"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "賀東招二氏がグレタさんに対しひどすぎるツイートで批判殺到→「反省・削除・Twitter休止・お詫び」 - NAVER まとめ https://t.co/OVT06cSRan",
+        "has_extended_profile": false,
+        "id": 1204351317449117697,
+        "id_str": "1204351317449117697",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "賀東招二氏がグレタさんに対しひどすぎるツイートで批判殺到\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Dec 10 13:39:39 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "ブログ「KAFKAESQUE（日垣隆検証委員会）」管理人のアカウント（現在、冷温停止中。時々、呟きます）。同人サークル「カフカールナ！」代表。「https://t.co/1iwpaUdYmR」にて同人誌の既刊本の電子書籍が販売中です。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/sX6waaIJRX",
+                            "display_url": "kafkaesque.hateblo.jp",
+                            "expanded_url": "https://kafkaesque.hateblo.jp/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 6142,
+            "follow_request_sent": false,
+            "followers_count": 571,
+            "following": false,
+            "friends_count": 465,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 225026134,
+            "id_str": "225026134",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 48,
+            "location": "Turkey（fake）",
+            "name": "kafkaesque🏳️‍🌈",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225026134/1399708881",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/436118401606356993/vNLACVJu_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/436118401606356993/vNLACVJu_normal.jpeg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "kafkaesque1924",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 51399,
+            "time_zone": "",
+            "url": "https://t.co/sX6waaIJRX",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @kafkaesque1924: 賀東招二氏がグレタさんに対しひどすぎるツイートで批判殺到\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 23 18:24:11 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "【NPO】シンプルな政府（透明公正普遍行政）と高福祉の組み合わせの実現を！すべての人々が健康で文化的な生活を送れる生き易い社会を望む。最低保障年金制度創設を！個人の尊厳をおびやかす安倍政権の体質＝公文書の改竄や即時破棄、統計の粉飾、そして報道の自由度低下等に象徴される政府のブラックボックス化、権力税金報道の私物化にNO",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 28666,
+        "follow_request_sent": false,
+        "followers_count": 1744,
+        "following": false,
+        "friends_count": 1863,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 842169588,
+        "id_str": "842169588",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 20,
+        "location": "",
+        "name": "立憲民主主義派／正直で透明・公正な政治の実現を！貧困や差別のない社会の実現を！",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "binit2028",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 138975,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,345 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:21:40 +0000 2019",
+    "display_text_range": [
+        0,
+        67
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    68,
+                    91
+                ],
+                "url": "https://t.co/a6LHKxwuVo",
+                "display_url": "twitter.com/kenichiromogi/…",
+                "expanded_url": "https://twitter.com/kenichiromogi/status/1206709381192007681"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 58,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "本当にそうだなぁと思います。\nあと、グレタさんに対してどんな言葉を使っているかで、その人の大人としての成熟度が透けて見える気がします。 https://t.co/a6LHKxwuVo",
+    "has_extended_profile": false,
+    "id": 1206731149470392320,
+    "id_str": "1206731149470392320",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206709381192007681,
+    "quoted_status_id_str": "1206709381192007681",
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 22:55:10 +0000 2019",
+        "display_text_range": [
+            0,
+            53
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        30,
+                        53
+                    ],
+                    "url": "https://t.co/BUKYPTHxLL",
+                    "display_url": "lineblog.me/mogikenichiro/…",
+                    "expanded_url": "https://lineblog.me/mogikenichiro/archives/8431809.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 80,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんをめぐる右往左往に学ぶ。ノイズを無視して本質に。 https://t.co/BUKYPTHxLL",
+        "has_extended_profile": false,
+        "id": 1206709381192007681,
+        "id_str": "1206709381192007681",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 24,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://www.lineblog.me/\" rel=\"nofollow\"\u003eLINE BLOG\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんをめぐる右往左往に学ぶ。\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Nov 26 04:46:37 +0000 2009",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "脳科学者、作家、ブロードキャスター。クオリアを研究。『脳とクオリア』『生きて死ぬ私』『脳と仮想』『今、ここからすべての場所へ』『東京藝大物語』『ペンチメント』kenmogi2005qualia@gmail.com    研究 https://t.co/xJxmj9pFUF",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/kGNugKwDBj",
+                            "display_url": "qualia-manifesto.com",
+                            "expanded_url": "http://www.qualia-manifesto.com"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 22,
+            "follow_request_sent": false,
+            "followers_count": 1450542,
+            "following": false,
+            "friends_count": 4537,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 92686016,
+            "id_str": "92686016",
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "lang": "",
+            "listed_count": 22117,
+            "location": "東京",
+            "name": "茂木健一郎",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1129253096868069376/Onx6-O-T_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1129253096868069376/Onx6-O-T_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "kenichiromogi",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 111645,
+            "time_zone": "",
+            "url": "http://t.co/kGNugKwDBj",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 15,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "本当にそうだなぁと思います。\nあと、グレタさん",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 02 20:21:47 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "小説家。「自由で粋でロッケンロール、遊び心を忘れない」がモットー♪「夏美のホタル」は有村架純ちゃん主演で、「虹の岬の喫茶店」は吉永小百合さん主演で映画に。「きらきら眼鏡」「あなたへ」「津軽百年食堂」「ライアの祈り」も映画で話題に。「癒し屋キリコの約束」はフジTVで昼ドラに。無宗教。地球人。Gooner！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/3Ll9Rj2vEH",
+                        "display_url": "note.mu/morisawaakio",
+                        "expanded_url": "https://note.mu/morisawaakio"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 4695,
+        "follow_request_sent": false,
+        "followers_count": 3476,
+        "following": false,
+        "friends_count": 234,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 233275999,
+        "id_str": "233275999",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 80,
+        "location": "",
+        "name": "森沢明夫",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/233275999/1554461678",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/803082033450741760/M9vjA2oY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/803082033450741760/M9vjA2oY_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "morisawa_akio",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 28081,
+        "time_zone": "",
+        "url": "https://t.co/3Ll9Rj2vEH",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

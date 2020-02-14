@@ -1,0 +1,181 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 13:30:54 +0000 2019",
+    "display_text_range": [
+        0,
+        156
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    31,
+                    54
+                ],
+                "url": "https://t.co/CPedRWRMFp",
+                "display_url": "news.yahoo.co.jp/pickup/6345504",
+                "expanded_url": "https://news.yahoo.co.jp/pickup/6345504"
+            },
+            {
+                "indices": [
+                    105,
+                    128
+                ],
+                "url": "https://t.co/Etiy6SSr3z",
+                "display_url": "iss.ndl.go.jp/books/R1000000…",
+                "expanded_url": "http://iss.ndl.go.jp/books/R100000067-I000366333-00"
+            },
+            {
+                "indices": [
+                    133,
+                    156
+                ],
+                "url": "https://t.co/i46Cd6G9Iy",
+                "display_url": "iss.ndl.go.jp/api/openurl?an…",
+                "expanded_url": "https://iss.ndl.go.jp/api/openurl?any=%E9%89%84%E9%81%93"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "こんなニュースがあるみたい\n「ドイツ鉄道 グレタさんに皮肉」\nhttps://t.co/CPedRWRMFp\n\n鉄道についてはこんな資料があるかも\nタイトル:注文の多い料理店\n著者:宮沢 賢治 著・文・その他\nhttps://t.co/Etiy6SSr3z\nほかにはhttps://t.co/i46Cd6G9Iy",
+    "has_extended_profile": false,
+    "id": 1206567378508754946,
+    "id_str": "1206567378508754946",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://twitter.com/honnobot1\" rel=\"nofollow\"\u003eHon_no_bot\u003c/a\u003e",
+    "scopes": null,
+    "text": "こんなニュースがあるみたい\n「ドイツ鉄道 グレタさんに皮肉」\nhttps://t.co/CPedRWRMFp\n\n鉄道についてはこんな資料があ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 15 11:45:39 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "トレンドワード、YahooNewsから関係の資料をツイートするBot（試行中）. NDLサーチAPI、Google NLP API、青空文庫、新書マップの各メタデータを使用。\n写真はPhoto by Mike Bird from Pexelsm , Photo by Devon Divine on Unsplash",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1,
+        "follow_request_sent": false,
+        "followers_count": 13,
+        "following": false,
+        "friends_count": 11,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1161967183007633409,
+        "id_str": "1161967183007633409",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "hon_no_bot",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1161967183007633409/1566048513",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1162717850408120321/TGk4-nLN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1162717850408120321/TGk4-nLN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "honnobot1",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 2536,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

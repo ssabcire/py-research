@@ -1,0 +1,416 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:31:39 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Shoko Egawa",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "amneris84",
+                "id": 101428190,
+                "id_str": "101428190"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @amneris84: 今日の読売新聞国際面、プラスチックゴミによる海洋汚染が深刻化している東南アジアで対策が加速している状況を報じる中で、タイの少女の活躍を伝える。ゴミ拾いから始まり、スーパーを訪ね歩き、政府庁舎の前で1人デモ…。グレタさんについて「刺激になる。1人では…",
+    "has_extended_profile": false,
+    "id": 1206809158483247104,
+    "id_str": "1206809158483247104",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 156,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 00:45:36 +0000 2019",
+        "display_text_range": [
+            0,
+            133
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206737163276042240,
+                    "id_str": "1206737163276042240",
+                    "media_url": "http://pbs.twimg.com/media/EL8xDnJUwAAwmtr.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL8xDnJUwAAwmtr.jpg",
+                    "url": "https://t.co/1kjRJJ9oAE",
+                    "display_url": "pic.twitter.com/1kjRJJ9oAE",
+                    "expanded_url": "https://twitter.com/amneris84/status/1206737173375963137/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 986,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 559,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1683,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        134,
+                        157
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206737163276042240,
+                    "id_str": "1206737163276042240",
+                    "media_url": "http://pbs.twimg.com/media/EL8xDnJUwAAwmtr.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL8xDnJUwAAwmtr.jpg",
+                    "url": "https://t.co/1kjRJJ9oAE",
+                    "display_url": "pic.twitter.com/1kjRJJ9oAE",
+                    "expanded_url": "https://twitter.com/amneris84/status/1206737173375963137/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 986,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 559,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1683,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        134,
+                        157
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 400,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "今日の読売新聞国際面、プラスチックゴミによる海洋汚染が深刻化している東南アジアで対策が加速している状況を報じる中で、タイの少女の活躍を伝える。ゴミ拾いから始まり、スーパーを訪ね歩き、政府庁舎の前で1人デモ…。グレタさんについて「刺激になる。1人ではないと思える」と。 https://t.co/1kjRJJ9oAE",
+        "has_extended_profile": false,
+        "id": 1206737173375963137,
+        "id_str": "1206737173375963137",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 156,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "scopes": null,
+        "text": "今日の読売新聞国際面、プラスチックゴミによる海洋汚染が深刻化している東南アジアで対策が加\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Jan 03 07:45:28 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「いいね」は備忘のマークとしても使います。 常に「支持」表明とは限りませんので、よろしくお願いします。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/ATA33ajr6X",
+                            "display_url": "egawashoko.com",
+                            "expanded_url": "http://www.egawashoko.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 8710,
+            "follow_request_sent": false,
+            "followers_count": 271095,
+            "following": false,
+            "friends_count": 594,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 101428190,
+            "id_str": "101428190",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 10961,
+            "location": "Tokyo, Japan",
+            "name": "Shoko Egawa",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3297225282/080b925f66fb1ff4019b43c89b022938_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3297225282/080b925f66fb1ff4019b43c89b022938_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "amneris84",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 103338,
+            "time_zone": "",
+            "url": "https://t.co/ATA33ajr6X",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @amneris84: 今日の読売新聞国際面、プラスチックゴミによる海洋汚染が深刻化している東南アジアで対\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 27 02:44:39 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "アイコン画像はますます近影。来たるべき季節に備えて脂肪チャージ中。が、来るべき季節がいつなのかは自分にもわからない。大人の社会科って難しい。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 22675,
+        "follow_request_sent": false,
+        "followers_count": 64,
+        "following": false,
+        "friends_count": 90,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 725153658426388480,
+        "id_str": "725153658426388480",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "ややまんぞくさん(体重は大満足を通り越した)",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/725153658426388480/1572761306",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1190872156533596160/1r1b2y2k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190872156533596160/1r1b2y2k_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "yagurimikan",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 12610,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

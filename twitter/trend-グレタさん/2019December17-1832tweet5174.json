@@ -1,0 +1,164 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:17:05 +0000 2019",
+    "display_text_range": [
+        11,
+        125
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "emaema220",
+                "indices": [
+                    0,
+                    10
+                ],
+                "screen_name": "emaema220",
+                "id": 1117682420587712512,
+                "id_str": "1117682420587712512"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@emaema220 いえ、読んでいませんでした。ご提示頂き感謝いたします。\n\n私もグレタさんの凄さは分かっているつもりです。各企業に行動を起こさせる事に成功されてますので、やはり凄いですね。\n\nemaemaさんに私から質問させて頂けますでしょうか？",
+    "has_extended_profile": false,
+    "id": 1206790391275507712,
+    "id_str": "1206790391275507712",
+    "in_reply_to_screen_name": "emaema220",
+    "in_reply_to_status_id": 1206786473384529920,
+    "in_reply_to_status_id_str": "1206786473384529920",
+    "in_reply_to_user_id": 1117682420587712512,
+    "in_reply_to_user_id_str": "1117682420587712512",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "いえ、読んでいませんでした。ご提示頂き感謝いたします。\n\n私もグレタさんの凄さ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 29 15:59:20 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "短足おぢさん フォロバ100%なわけではありません",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 35559,
+        "follow_request_sent": false,
+        "followers_count": 50,
+        "following": false,
+        "friends_count": 78,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1133764771356917760,
+        "id_str": "1133764771356917760",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 2,
+        "location": "",
+        "name": "とら",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1133764771356917760/1576355621",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1204508566465310720/AUyIuSN3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1204508566465310720/AUyIuSN3_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "E1Cpc8",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 10368,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

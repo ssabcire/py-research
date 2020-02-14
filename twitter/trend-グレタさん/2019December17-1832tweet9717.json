@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:28:19 +0000 2019",
+    "display_text_range": [
+        0,
+        136
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    137,
+                    160
+                ],
+                "url": "https://t.co/7Z1go0uOH4",
+                "display_url": "twitter.com/JXENJ5oxd9RTIu…",
+                "expanded_url": "https://twitter.com/JXENJ5oxd9RTIug/status/1206750272321548289"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "私は正直、グレタさんが列車に乗ろうとファーストクラスに座ろうと、別にいいと思ってます。許せないのは環境破壊を問題にしているのに、中国には一切なにも言わないところ。これでグレタさんの正体がバレているにもかかわらず、彼女を持ち上げている左派やメディアの愚かさにも辟易とします。 https://t.co/7Z1go0uOH4",
+    "has_extended_profile": false,
+    "id": 1206763019310526465,
+    "id_str": "1206763019310526465",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206750272321548289,
+    "quoted_status_id_str": "1206750272321548289",
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 01:37:39 +0000 2019",
+        "display_text_range": [
+            14,
+            110
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "ぴよち",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "screen_name": "piyochi_piyo",
+                    "id": 2942406594,
+                    "id_str": "2942406594"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@piyochi_piyo 床に座るグレタの写真を見、実に、汚いやり口。今、グレタに、英文で、ドイツ鉄道の誇りを傷つけたねとツイートしたところだ。本当に小狡い子供ですね。家に帰ったなら、学校へ行って勉強したらとも言った。",
+        "has_extended_profile": false,
+        "id": 1206750272321548289,
+        "id_str": "1206750272321548289",
+        "in_reply_to_screen_name": "piyochi_piyo",
+        "in_reply_to_status_id": 1206584101517422592,
+        "in_reply_to_status_id_str": "1206584101517422592",
+        "in_reply_to_user_id": 2942406594,
+        "in_reply_to_user_id_str": "2942406594",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "床に座るグレタの写真を見、実に、汚いやり口。今、グレタに、英文で",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Feb 07 08:18:18 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "クラシックギター",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 249,
+            "follow_request_sent": false,
+            "followers_count": 91,
+            "following": false,
+            "friends_count": 36,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1093423693181546497,
+            "id_str": "1093423693181546497",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1,
+            "location": "",
+            "name": "ryujin",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093423693181546497/1568374729",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1172473957120757761/SaqExzyk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1172473957120757761/SaqExzyk_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "JXENJ5oxd9RTIug",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 2719,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "私は正直、グレタさんが列車に乗ろうとファーストクラスに座ろうと、別にいいと思ってます。許せ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 25 03:32:49 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "日本の行く末を憂う専業主婦でございます。学も教養もありませんが日々思うことをつぶやいています。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 242,
+        "follow_request_sent": false,
+        "followers_count": 433,
+        "following": false,
+        "friends_count": 215,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2942406594,
+        "id_str": "2942406594",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 5,
+        "location": "日本",
+        "name": "ぴよち",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2942406594/1419561540",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080287034252582913/sjLZNMPA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080287034252582913/sjLZNMPA_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "piyochi_piyo",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 14172,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

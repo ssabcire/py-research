@@ -1,0 +1,506 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:10:23 +0000 2019",
+    "display_text_range": [
+        0,
+        83
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    60,
+                    83
+                ],
+                "url": "https://t.co/Mj45Kb1KpM",
+                "display_url": "twitter.com/DB_Presse/stat…",
+                "expanded_url": "https://twitter.com/DB_Presse/status/1206182673888219136"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "さくら",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "sakura_univ_t",
+                "id": 1005804022953988098,
+                "id_str": "1005804022953988098"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @sakura_univ_t: グレタさん、どうして簡単にバレる嘘をつくのでしょうか？全てが嘘だと思われるのに。 https://t.co/Mj45Kb1KpM",
+    "has_extended_profile": false,
+    "id": 1206758506239410176,
+    "id_str": "1206758506239410176",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206182673888219136,
+    "quoted_status_id_str": "1206182673888219136",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 01:45:04 +0000 2019",
+        "display_text_range": [
+            0,
+            40
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        41,
+                        64
+                    ],
+                    "url": "https://t.co/Mj45Kb1KpM",
+                    "display_url": "twitter.com/DB_Presse/stat…",
+                    "expanded_url": "https://twitter.com/DB_Presse/status/1206182673888219136"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 10,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん、どうして簡単にバレる嘘をつくのでしょうか？全てが嘘だと思われるのに。 https://t.co/Mj45Kb1KpM",
+        "has_extended_profile": false,
+        "id": 1206752138916818944,
+        "id_str": "1206752138916818944",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206182673888219136,
+        "quoted_status_id_str": "1206182673888219136",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Dec 15 12:02:13 +0000 2019",
+            "display_text_range": [
+                0,
+                203
+            ],
+            "entities": {
+                "urls": [],
+                "hashtags": [
+                    {
+                        "indices": [
+                            6,
+                            12
+                        ],
+                        "text": "Greta"
+                    }
+                ],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 12765,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "Liebe #Greta, danke, dass Du uns Eisenbahner im Kampf gegen den Klimawandel unterstützt! Wir haben uns gefreut, dass Du am Samstag mit uns im ICE 74 unterwegs warst. Und das mit 100 Prozent Ökostrom. 1/2",
+            "has_extended_profile": false,
+            "id": 1206182673888219136,
+            "id_str": "1206182673888219136",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "de",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 3741,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+            "scopes": null,
+            "text": "Liebe #Greta, danke, dass Du uns Eisenbahner im Kampf gegen den Klimawandel unterstützt! Wir haben uns gefreut, dass Du am Samstag mit uns im ICE 74 unterwegs warst. Und das mit 100 Prozent Ökostrom. 1",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Jan 02 22:13:31 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Neuigkeiten der DB für Medien u. interessierte Öffentlichkeit. Presse-Anfragen beantworten wir unter presse@deutschebahn.com. Impressum und Datenschutzhinweise:",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/24KVneOH9l",
+                                "display_url": "deutschebahn.com/rechtliches",
+                                "expanded_url": "http://deutschebahn.com/rechtliches"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 833,
+                "follow_request_sent": false,
+                "followers_count": 46492,
+                "following": false,
+                "friends_count": 264,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 18565652,
+                "id_str": "18565652",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 487,
+                "location": "Berlin, Germany",
+                "name": "Deutsche Bahn AG",
+                "notifications": false,
+                "profile_background_color": "BADFCD",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/18565652/1576061651",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/591140150413025280/Cjcqjl2J_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/591140150413025280/Cjcqjl2J_normal.png",
+                "profile_link_color": "FF0000",
+                "profile_sidebar_border_color": "F2E195",
+                "profile_sidebar_fill_color": "FFF7CC",
+                "profile_text_color": "0C3E53",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "DB_Presse",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 7680,
+                "time_zone": "",
+                "url": "https://t.co/24KVneOH9l",
+                "utc_offset": 0,
+                "verified": true,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん、どうして簡単に\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Jun 10 13:29:00 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "ニューロモルフィックの研究をしています。ツイッター始めて1年たちました。☺\n先端研究に従事して日本を蝕む権力者に気が付きました。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 794,
+            "follow_request_sent": false,
+            "followers_count": 909,
+            "following": false,
+            "friends_count": 345,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1005804022953988098,
+            "id_str": "1005804022953988098",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 5,
+            "location": "",
+            "name": "さくら",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1005804022953988098/1528640431",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1194000923762159616/NzcSR7i8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194000923762159616/NzcSR7i8_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "sakura_univ_t",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 5916,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @sakura_univ_t: グレタさん、どうして簡単にバレる嘘をつくの\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 22 00:45:39 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "左翼は反日レイシスト。\nとにかく反日が大嫌い。\n自分の目で見て、自分の耳で聞く。政治と報道の嘘には騙されない。\n起こった事実は変わらないが、\n恣意的に操作された情報は信じない。\n「助けるな」「教えるな」「関わるな」\n幸も千の春を越えて。君が代の精神。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 12690,
+        "follow_request_sent": false,
+        "followers_count": 342,
+        "following": false,
+        "friends_count": 843,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 2753488886,
+        "id_str": "2753488886",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "Chiharu Yukisaki",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2753488886/1572920726",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1135794667482537984/_lvPaQv0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1135794667482537984/_lvPaQv0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sachimochiharu",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 9671,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

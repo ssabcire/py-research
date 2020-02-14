@@ -1,0 +1,384 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:37:42 +0000 2019",
+    "display_text_range": [
+        0,
+        137
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [
+            {
+                "indices": [
+                    118,
+                    121
+                ],
+                "text": "日常"
+            },
+            {
+                "indices": [
+                    122,
+                    126
+                ],
+                "text": "グレタ"
+            },
+            {
+                "indices": [
+                    127,
+                    132
+                ],
+                "text": "環境問題"
+            },
+            {
+                "indices": [
+                    133,
+                    137
+                ],
+                "text": "優しさ"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "海藻(タムリエル育ち)",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "kRUutPgEYMgpoZ1",
+                "id": 1112579152970842112,
+                "id_str": "1112579152970842112"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @kRUutPgEYMgpoZ1: 店員「箸ですね、このパスタソース入ってるので、スプーンも付けておきますね🤗」\n\n海藻「oh ジーザス😫」\n\n私の地球🌏に対するの優しさを上回る、店員さんの私に対する優しさを感じた1日であった\n\n#日常 #グレタ #環境問題 #優しさ",
+    "has_extended_profile": false,
+    "id": 1206553988205703168,
+    "id_str": "1206553988205703168",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 12:28:39 +0000 2019",
+        "display_text_range": [
+            0,
+            116
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [
+                {
+                    "indices": [
+                        97,
+                        100
+                    ],
+                    "text": "日常"
+                },
+                {
+                    "indices": [
+                        101,
+                        105
+                    ],
+                    "text": "グレタ"
+                },
+                {
+                    "indices": [
+                        106,
+                        111
+                    ],
+                    "text": "環境問題"
+                },
+                {
+                    "indices": [
+                        112,
+                        116
+                    ],
+                    "text": "優しさ"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 34,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "店員「箸ですね、このパスタソース入ってるので、スプーンも付けておきますね🤗」\n\n海藻「oh ジーザス😫」\n\n私の地球🌏に対するの優しさを上回る、店員さんの私に対する優しさを感じた1日であった\n\n#日常 #グレタ #環境問題 #優しさ",
+        "has_extended_profile": false,
+        "id": 1206551710610509824,
+        "id_str": "1206551710610509824",
+        "in_reply_to_screen_name": "kRUutPgEYMgpoZ1",
+        "in_reply_to_status_id": 1206551708249182214,
+        "in_reply_to_status_id_str": "1206551708249182214",
+        "in_reply_to_user_id": 1112579152970842112,
+        "in_reply_to_user_id_str": "1112579152970842112",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "店員「箸ですね、このパスタソース入ってるので、スプーンも付けておきますね🤗」\n",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Apr 01 04:55:15 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "♂/gamer /ゲームのSS、動画を上げます/フォロワーを増やしたいので相互フォロー無い場合は解除する可能性あります/ リプ大歓迎/無言フォローお許しを/ゲーム関連フォロバ97%",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 30729,
+            "follow_request_sent": false,
+            "followers_count": 4162,
+            "following": false,
+            "friends_count": 4221,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1112579152970842112,
+            "id_str": "1112579152970842112",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 10,
+            "location": "",
+            "name": "海藻(タムリエル育ち)",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1112579152970842112/1554363410",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1128706708400771072/SR0saXGY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1128706708400771072/SR0saXGY_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "kRUutPgEYMgpoZ1",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 3261,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @kRUutPgEYMgpoZ1: 店員「箸ですね、このパスタソース入ってるので、スプーンも付けておきますね🤗」\n",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 12 09:36:29 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "２０年ほど前からの聖飢魔Ⅱ信者ですが、少し離れていたので出戻りです。\r\n卯年の一児の母。仕事中は　J－WAVE　聴いてます。\r\nFF13のライトニングを愛しつつ、ただいまゾンビサバイバルと仮面ライダーウィザードのフェニ凛とDBのベジブルに嵌り中",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/4kYJjBGqAZ",
+                        "display_url": "youtube.com/channel/UCEkYF…",
+                        "expanded_url": "https://www.youtube.com/channel/UCEkYFssLRBCnweWqp9u2LpQ?view_as=subscriber"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 32234,
+        "follow_request_sent": false,
+        "followers_count": 576,
+        "following": false,
+        "friends_count": 509,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 251041260,
+        "id_str": "251041260",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 41,
+        "location": "東京の空の下",
+        "name": "極楽鳥花（蝋人形）",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/251041260/1361072066",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000843843376/15fd86b977900075097737cc58aa2e14_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000843843376/15fd86b977900075097737cc58aa2e14_normal.jpeg",
+        "profile_link_color": "191970",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gokuraku_cyoka",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 186123,
+        "time_zone": "",
+        "url": "https://t.co/4kYJjBGqAZ",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

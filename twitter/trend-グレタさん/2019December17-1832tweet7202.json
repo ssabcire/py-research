@@ -1,0 +1,153 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:32:17 +0000 2019",
+    "display_text_range": [
+        0,
+        141
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんドイツ鉄道の件でファーストクラスだ！ってネットで騒いでるけど「一等車」の直訳であって飛行機みたいな豪華なファーストクラス想像すると違って、特にICEの一等車ってJALでいうクラスJみたいなもの。席が広くて革張りになってるだけ。早割もあったりしてグリーン車よりも敷居が低い。",
+    "has_extended_profile": false,
+    "id": 1206779117221269505,
+    "id_str": "1206779117221269505",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんドイツ鉄道の件でファーストクラスだ！ってネットで騒いでるけど「一等車」の直訳であって",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 26 07:20:11 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "意識の低い、しがない若手サラリーマンのボヤキが中心。プロフ画像のように真っ昼間からダラダラしている猫みたいな人間です。\n旅行や乗り物が現実逃避ツール。名古屋人なので東海地方の地域経済ニュースにも興味あり。\nあと、稀なプライベートのネガティブな投稿はお忘れくださいませ。。。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 555,
+        "follow_request_sent": false,
+        "followers_count": 202,
+        "following": false,
+        "friends_count": 121,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 272307986,
+        "id_str": "272307986",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 7,
+        "location": "JR東海エリア",
+        "name": "長万部幸太郎",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/272307986/1553172324",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1108711432592343040/BFIt1GXS_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1108711432592343040/BFIt1GXS_normal.png",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JL_MD11",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 30421,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

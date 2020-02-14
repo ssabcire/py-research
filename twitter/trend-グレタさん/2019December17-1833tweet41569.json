@@ -1,0 +1,271 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:31:00 +0000 2019",
+    "display_text_range": [
+        0,
+        146
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    35,
+                    58
+                ],
+                "url": "https://t.co/eeSSJ6sDZO",
+                "display_url": "afpbb.com/articles/-/325…",
+                "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    59,
+                    65
+                ],
+                "text": "あとで読む"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": [
+            {
+                "id": 1206518965452836865,
+                "id_str": "1206518965452836865",
+                "media_url": "http://pbs.twimg.com/media/EL5qm06WkAEcBlT.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL5qm06WkAEcBlT.jpg",
+                "url": "https://t.co/Q5D8QzhEdh",
+                "display_url": "pic.twitter.com/Q5D8QzhEdh",
+                "expanded_url": "https://twitter.com/iPhoone3G/status/1206518966937624576/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1000,
+                        "h": 738,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 502,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1000,
+                        "h": 738,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206518966937624576,
+                "source_status_id_str": "1206518966937624576",
+                "type": "photo",
+                "indices": [
+                    123,
+                    146
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206518965452836865,
+                "id_str": "1206518965452836865",
+                "media_url": "http://pbs.twimg.com/media/EL5qm06WkAEcBlT.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL5qm06WkAEcBlT.jpg",
+                "url": "https://t.co/Q5D8QzhEdh",
+                "display_url": "pic.twitter.com/Q5D8QzhEdh",
+                "expanded_url": "https://twitter.com/iPhoone3G/status/1206518966937624576/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1000,
+                        "h": 738,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 502,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1000,
+                        "h": 738,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206518966937624576,
+                "source_status_id_str": "1206518966937624576",
+                "type": "photo",
+                "indices": [
+                    123,
+                    146
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い https://t.co/eeSSJ6sDZO #あとで読む ドイツ鉄道はさらにプレスリリースで、グレタさんら一行は「フランクフルト以降はファーストクラスに座っていた」と補足 https://t.co/Q5D8QzhEdh",
+    "has_extended_profile": false,
+    "id": 1206537204492898305,
+    "id_str": "1206537204492898305",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": true,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://buffer.com\" rel=\"nofollow\"\u003eBuffer\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い https://t.co/eeSSJ6sDZO #あとで読む ド\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 08 23:00:15 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "フォロー歓迎。ツイッターで大喜利。RTでツッコミます。誰でもどんな風にでも自由にボケてください。フォローも積極的！うざい場合はブロックを。@iPhoone3G もよろしく。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/oNrzojdIV1",
+                        "display_url": "hinapishi.com",
+                        "expanded_url": "https://www.hinapishi.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 23,
+        "follow_request_sent": false,
+        "followers_count": 1258,
+        "following": false,
+        "friends_count": 1164,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 370384169,
+        "id_str": "370384169",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 55,
+        "location": "歯と歯茎の間",
+        "name": "大喜利ツイッター／オオギリジョー",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1535254658/img_cid_155352000_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1535254658/img_cid_155352000_normal.gif",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "iPhoone4G",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 134833,
+        "time_zone": "",
+        "url": "https://t.co/oNrzojdIV1",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

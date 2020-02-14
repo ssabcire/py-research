@@ -1,0 +1,316 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:04:20 +0000 2019",
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "マスク・ド・アナライズ",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "maskedanl",
+                "id": 908703665933844480,
+                "id_str": "908703665933844480"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @maskedanl: 「日本では外国の有名人は基本呼び捨てなのに、なぜグレタさんは『さん』づけなのか？」というなツイートがありました。\n理由としては「フリーザ様」「ハート様」「ディオ様」のように、敬意や畏怖を込めて呼んでいるからかと。\nよく見ると、全員が悪役なんですが。",
+    "has_extended_profile": false,
+    "id": 1206726785733251072,
+    "id_str": "1206726785733251072",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 17,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 11:17:35 +0000 2019",
+        "display_text_range": [
+            0,
+            124
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 50,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "「日本では外国の有名人は基本呼び捨てなのに、なぜグレタさんは『さん』づけなのか？」というなツイートがありました。\n理由としては「フリーザ様」「ハート様」「ディオ様」のように、敬意や畏怖を込めて呼んでいるからかと。\nよく見ると、全員が悪役なんですが。",
+        "has_extended_profile": false,
+        "id": 1206171439155400705,
+        "id_str": "1206171439155400705",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 17,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "「日本では外国の有名人は基本呼び捨てなのに、なぜグレタさんは『さん』づけなのか？」\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Sep 15 14:46:51 +0000 2017",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "AI・IoT・機械学習・データ分析を手掛ける\"自称\"AIベンチャーをクビになり、2019年7月よりフリーランス（半無職）へ転身。\nポートフォリオはhttps://t.co/wHsg7VIjJS\n ご連絡はinfo@maskedanl.com・Twitterのダイレクメッセージ・問い合わせフォームまでhttps://t.co/iHMsG8vn6A",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 766,
+            "follow_request_sent": false,
+            "followers_count": 12992,
+            "following": false,
+            "friends_count": 240,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 908703665933844480,
+            "id_str": "908703665933844480",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 231,
+            "location": "日本 東京都メキシコ区",
+            "name": "マスク・ド・アナライズ",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/908703665933844480/1506430779",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/912661291298254848/BWUzJ1Sg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/912661291298254848/BWUzJ1Sg_normal.jpg",
+            "profile_link_color": "95A5A6",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "maskedanl",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 4293,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @maskedanl: 「日本では外国の有名人は基本呼び捨てなのに、なぜグレタさんは『さん』づけなのか？」\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 22 19:09:56 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "マスクド・アナライズ (@maskedanl)さんのtweetをretweetします。勝手連ファンクラブの事務局です。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 4,
+        "follow_request_sent": false,
+        "followers_count": 3,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1175848948013002752,
+        "id_str": "1175848948013002752",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "",
+        "name": "マスクド.アナライズBOT",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1175883302210691072/rnavpcag_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1175883302210691072/rnavpcag_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "maskedanlBOT",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 328,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

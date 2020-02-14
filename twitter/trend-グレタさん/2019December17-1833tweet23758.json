@@ -1,0 +1,337 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 18:38:44 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "小木戸　廣",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "terukunnojiji",
+                "id": 1588218338,
+                "id_str": "1588218338"
+            },
+            {
+                "name": "望月衣塑子",
+                "indices": [
+                    19,
+                    35
+                ],
+                "screen_name": "ISOKO_MOCHIZUKI",
+                "id": 119363202,
+                "id_str": "119363202"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @terukunnojiji: @ISOKO_MOCHIZUKI トランプ、プーチンですらグレタさんの「温暖化は待ったなし」の言葉に耳を傾けない。\n安倍は問題外。聞かないどころか逆行の石炭火力発電を推進。\n輸出して他国まで巻き込もうとしている。\n18年温暖化による被害世界…",
+    "has_extended_profile": false,
+    "id": 1206644847890714624,
+    "id_str": "1206644847890714624",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 10:31:38 +0000 2019",
+        "display_text_range": [
+            17,
+            160
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "望月衣塑子",
+                    "indices": [
+                        0,
+                        16
+                    ],
+                    "screen_name": "ISOKO_MOCHIZUKI",
+                    "id": 119363202,
+                    "id_str": "119363202"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 6,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@ISOKO_MOCHIZUKI トランプ、プーチンですらグレタさんの「温暖化は待ったなし」の言葉に耳を傾けない。\n安倍は問題外。聞かないどころか逆行の石炭火力発電を推進。\n輸出して他国まで巻き込もうとしている。\n18年温暖化による被害世界一の日本。\n被災地救済よりホテル建設の内閣\nこれでは内閣支持率下落は止まらない。",
+        "has_extended_profile": false,
+        "id": 1206159874708500481,
+        "id_str": "1206159874708500481",
+        "in_reply_to_screen_name": "ISOKO_MOCHIZUKI",
+        "in_reply_to_status_id": 1206137182609559555,
+        "in_reply_to_status_id_str": "1206137182609559555",
+        "in_reply_to_user_id": 119363202,
+        "in_reply_to_user_id_str": "119363202",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "トランプ、プーチンですらグレタさんの「温暖化は待ったなし」の言葉に耳を傾けない。\n安倍は問題外。\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Jul 12 10:59:13 +0000 2013",
+            "default_profile": true,
+            "default_profile_image": true,
+            "description": "原発再稼働反対です。今注目している人 は小出裕章さん 金子勝さん 小池晃さん 望月衣塑子さん",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 53326,
+            "follow_request_sent": false,
+            "followers_count": 785,
+            "following": false,
+            "friends_count": 2760,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1588218338,
+            "id_str": "1588218338",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 0,
+            "location": "日本",
+            "name": "小木戸　廣",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "terukunnojiji",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 875,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @terukunnojiji: @ISOKO_MOCHIZUKI トランプ、プーチンですらグレタさんの「温暖化は待ったなし」の言葉に耳\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 08 12:18:21 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "３人子育て後、半世紀生きる前にライディングリハビリをしてバイク通勤を始めたオバサンライダーです。愛車はクラブマンをいたわって乗りつつ、遠乗りにはYAMAHA　MT03。足つきギリギリです(笑)。「自由」を愛しています。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 3671,
+        "follow_request_sent": false,
+        "followers_count": 41,
+        "following": false,
+        "friends_count": 310,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 200085505,
+        "id_str": "200085505",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "岡山市",
+        "name": "ktocotoco",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/755458735040897024/yBGU5mLc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/755458735040897024/yBGU5mLc_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ktocotoco",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 5628,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

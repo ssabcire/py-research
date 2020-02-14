@@ -1,0 +1,508 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:36:15 +0000 2019",
+    "display_text_range": [
+        0,
+        88
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    65,
+                    88
+                ],
+                "url": "https://t.co/hFZ8KJJ7ft",
+                "display_url": "twitter.com/masatheman/sta…",
+                "expanded_url": "https://twitter.com/masatheman/status/1206719867136528385"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "チベット歴史研究会",
+                "indices": [
+                    3,
+                    18
+                ],
+                "screen_name": "TibetUygurClub",
+                "id": 2348031787,
+                "id_str": "2348031787"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @TibetUygurClub: グレタさんはジョシア・ウォンのツイート読んでいるんだね\nお互い誰かに起用された広告塔だし https://t.co/hFZ8KJJ7ft",
+    "has_extended_profile": false,
+    "id": 1206810318086656002,
+    "id_str": "1206810318086656002",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206719867136528385,
+    "quoted_status_id_str": "1206719867136528385",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 19,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 04:08:46 +0000 2019",
+        "display_text_range": [
+            0,
+            44
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        45,
+                        68
+                    ],
+                    "url": "https://t.co/hFZ8KJJ7ft",
+                    "display_url": "twitter.com/masatheman/sta…",
+                    "expanded_url": "https://twitter.com/masatheman/status/1206719867136528385"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 25,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんはジョシア・ウォンのツイート読んでいるんだね\nお互い誰かに起用された広告塔だし https://t.co/hFZ8KJJ7ft",
+        "has_extended_profile": false,
+        "id": 1206788298980511745,
+        "id_str": "1206788298980511745",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206719867136528385,
+        "quoted_status_id_str": "1206719867136528385",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Mon Dec 16 23:36:50 +0000 2019",
+            "display_text_range": [
+                0,
+                77
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "indices": [
+                            78,
+                            101
+                        ],
+                        "url": "https://t.co/hyonJN65FM",
+                        "display_url": "twitter.com/globaltimesnew…",
+                        "expanded_url": "https://twitter.com/globaltimesnews/status/1206489642872143873"
+                    }
+                ],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 1316,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "スウェーデンの高校生グレタさん、香港民主化運動のジョシュア・ワンのツイートに賛同してしまったために、とうとう中国にもケンカを売ってしまう。環球時報が反応。 https://t.co/hyonJN65FM",
+            "has_extended_profile": false,
+            "id": 1206719867136528385,
+            "id_str": "1206719867136528385",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 1206489642872143873,
+            "quoted_status_id_str": "1206489642872143873",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 1165,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+            "scopes": null,
+            "text": "スウェーデンの高校生グレタさん、香港民主化運動のジ\ufffd\ufffd",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Jun 21 11:47:23 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "奥山真司: カナダ\u0026英大卒。戦略学博士。某大学兼任講師。著書『地政学』のほか J.ミアシャイマー著『大国政治の悲劇』、C.グレイ著『現代の戦略』、E.ルトワック著『日本4.0』、B.ホイザー著『クラウゼウィッツの正しい読み方』などの訳書、学習CD多数。動画 https://t.co/7Ng2UOnZKz",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/1VnaG4OxYg",
+                                "display_url": "geopoli.exblog.jp",
+                                "expanded_url": "http://geopoli.exblog.jp/"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 12965,
+                "follow_request_sent": false,
+                "followers_count": 21233,
+                "following": false,
+                "friends_count": 1317,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 49297464,
+                "id_str": "49297464",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 947,
+                "location": "横浜市",
+                "name": "Dr. OKUYAMA Masashi",
+                "notifications": false,
+                "profile_background_color": "0099B9",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/49297464/1401627266",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/705372299130580992/2b1LKEGw_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/705372299130580992/2b1LKEGw_normal.jpg",
+                "profile_link_color": "0099B9",
+                "profile_sidebar_border_color": "5ED4DC",
+                "profile_sidebar_fill_color": "9BAEFA",
+                "profile_text_color": "3C3940",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "masatheman",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 45878,
+                "time_zone": "",
+                "url": "https://t.co/1VnaG4OxYg",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 19,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんはジョシア・ウォン\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Feb 17 06:30:28 +0000 2014",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "チベットやウイグルの民族が迫害されているなんてデタラメ。中国は少数民族の文化そのままにしてる 。西側メディアは中国、シリア、ベネズエラについて特に悪どい報道をします。チベット暴動がかつてどんだけデタラメに報道されたか。アイコンは映画撮影。#ウイグル弾圧 が嘘で始まり何から何まで嘘にまみれていることを検証します！",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 7429,
+            "follow_request_sent": false,
+            "followers_count": 1422,
+            "following": false,
+            "friends_count": 1391,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2348031787,
+            "id_str": "2348031787",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 32,
+            "location": "日本",
+            "name": "チベット歴史研究会",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2348031787/1543879876",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1170166180167815168/ux4f0sig_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170166180167815168/ux4f0sig_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "TibetUygurClub",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 9583,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @TibetUygurClub: グレタさんはジョシア・ウォンのツイート読んで\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 11 10:44:51 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "自由党 小沢一郎・山本太郎 支持 / 反貧困格差 / 脱原発 / 反TPP / クタバレＮＨＫ・マスゴミ",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 31937,
+        "follow_request_sent": false,
+        "followers_count": 3588,
+        "following": false,
+        "friends_count": 3804,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 236780451,
+        "id_str": "236780451",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 62,
+        "location": "茨城",
+        "name": "反貧困格差·反緊縮🐾",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/605762181225840640/-62ZqC1C_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/605762181225840640/-62ZqC1C_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "siro_nagasu",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 155646,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

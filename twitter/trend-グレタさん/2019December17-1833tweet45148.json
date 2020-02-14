@@ -1,0 +1,337 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 10:33:45 +0000 2019",
+    "display_text_range": [
+        0,
+        57
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "zee_wat",
+                "indices": [
+                    3,
+                    11
+                ],
+                "screen_name": "zeewat1",
+                "id": 1169473339821195264,
+                "id_str": "1169473339821195264"
+            },
+            {
+                "name": "くっくり新垢@六四天安門事件",
+                "indices": [
+                    13,
+                    23
+                ],
+                "screen_name": "boyakuri2",
+                "id": 1158587843876253696,
+                "id_str": "1158587843876253696"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @zeewat1: @boyakuri2 その電車、原子力発電所で作った電気で走ってるんですよ、グレタさん。",
+    "has_extended_profile": false,
+    "id": 1206522796970405888,
+    "id_str": "1206522796970405888",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 08:35:44 +0000 2019",
+        "display_text_range": [
+            11,
+            44
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "くっくり新垢@六四天安門事件",
+                    "indices": [
+                        0,
+                        10
+                    ],
+                    "screen_name": "boyakuri2",
+                    "id": 1158587843876253696,
+                    "id_str": "1158587843876253696"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 5,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@boyakuri2 その電車、原子力発電所で作った電気で走ってるんですよ、グレタさん。",
+        "has_extended_profile": false,
+        "id": 1206493096361332737,
+        "id_str": "1206493096361332737",
+        "in_reply_to_screen_name": "boyakuri2",
+        "in_reply_to_status_id": 1206435303038185472,
+        "in_reply_to_status_id_str": "1206435303038185472",
+        "in_reply_to_user_id": 1158587843876253696,
+        "in_reply_to_user_id_str": "1158587843876253696",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "その電車、原子力発電所",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Sep 05 04:52:38 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "小言をつらつらと…    主に政治について。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 5129,
+            "follow_request_sent": false,
+            "followers_count": 41,
+            "following": false,
+            "friends_count": 85,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1169473339821195264,
+            "id_str": "1169473339821195264",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 2,
+            "location": "",
+            "name": "zee_wat",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1169473920828755968/lxAcBvIs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1169473920828755968/lxAcBvIs_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "zeewat1",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 751,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @zeewat1: @boyakuri2 その電車、原子力発電所",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 27 08:01:28 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 37832,
+        "follow_request_sent": false,
+        "followers_count": 271,
+        "following": false,
+        "friends_count": 227,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 258243553,
+        "id_str": "258243553",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 5,
+        "location": "",
+        "name": "KEN-1-BAN",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/258243553/1484500005",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/613006520125526017/-zwZAgeT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/613006520125526017/-zwZAgeT_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DALLYKEN",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 16424,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

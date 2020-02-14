@@ -1,0 +1,375 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:15:19 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    47,
+                    70
+                ],
+                "url": "https://t.co/wJNqYGSLNi",
+                "display_url": "afpbb.com/articles/-/325…",
+                "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ろくでなし子 祝デコまん無罪確定！",
+                "indices": [
+                    3,
+                    9
+                ],
+                "screen_name": "6d745",
+                "id": 264627362,
+                "id_str": "264627362"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @6d745: グレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い https://t.co/wJNqYGSLNi \n\nグ「超満員列車でドイツを移動中。やっと家に帰るところです！」\n\nドイツ鉄道「ファーストクラスであなたをおもてなししたスタッフの事も触…",
+    "has_extended_profile": false,
+    "id": 1206548355653890048,
+    "id_str": "1206548355653890048",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2036,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 09:01:20 +0000 2019",
+        "display_text_range": [
+            0,
+            156
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        36,
+                        59
+                    ],
+                    "url": "https://t.co/wJNqYGSLNi",
+                    "display_url": "afpbb.com/articles/-/325…",
+                    "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 4309,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い https://t.co/wJNqYGSLNi \n\nグ「超満員列車でドイツを移動中。やっと家に帰るところです！」\n\nドイツ鉄道「ファーストクラスであなたをおもてなししたスタッフの事も触れて下さいね」\n\nグレタさんて、やっぱり天性の芸人ね。。",
+        "has_extended_profile": false,
+        "id": 1206499538648883205,
+        "id_str": "1206499538648883205",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -6.387438,
+                            53.2987449
+                        ],
+                        [
+                            -6.1078047,
+                            53.2987449
+                        ],
+                        [
+                            -6.1078047,
+                            53.4110598
+                        ],
+                        [
+                            -6.387438,
+                            53.4110598
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "Ireland",
+            "country_code": "IE",
+            "full_name": "Dublin City, Ireland",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "7dde0febc9ef245b",
+            "name": "Dublin City",
+            "place_type": "city",
+            "polylines": null,
+            "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json"
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2036,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い https://t.co/wJNqYGSLNi \n\nグ「超満員列車でド\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Mar 12 06:00:21 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Rokudenashiko/ Megumi Igarashi/ 自称芸術家。フェミニスト。表現の自由暴れん坊将軍。ラ＝ほと＝ぼぼ＝こーまん＝おめっこ＝おぱんぽん=ぱよぱよ=現在も被告人= ド＝ろくでなし子 Contact : massive.merch@gmail.com 6d745.info@gmail.com",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/xOkHoEO2Jf",
+                            "display_url": "6d745.com",
+                            "expanded_url": "http://6d745.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 30425,
+            "follow_request_sent": false,
+            "followers_count": 35423,
+            "following": false,
+            "friends_count": 1315,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 264627362,
+            "id_str": "264627362",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1020,
+            "location": "Dublin City, Ireland",
+            "name": "ろくでなし子 祝デコまん無罪確定！",
+            "notifications": false,
+            "profile_background_color": "FF6699",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/264627362/1460382567",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1178824797205213185/o_9VXXVu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1178824797205213185/o_9VXXVu_normal.jpg",
+            "profile_link_color": "B40B43",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E5507E",
+            "profile_text_color": "362720",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "6d745",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 68968,
+            "time_zone": "",
+            "url": "https://t.co/xOkHoEO2Jf",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @6d745: グレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い https://t.co/wJNqYGSLNi \n\n\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 15 13:17:14 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "宿毛湾泊地の提督兼古備前の審神者兼騎空士兼マスター。夢女子と腐女子を併発して○○年、固定CP過激派成人済。ポリティカルコンパスでは保守左派。ハシビロコウになりたい。検査受けたら医者にASD傾向って言われた。\n夢の方の推しが右側のBLカプ地雷です。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/0SVDla42ch",
+                        "display_url": "pixiv.net/member.php?id=…",
+                        "expanded_url": "https://www.pixiv.net/member.php?id=2208416"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 69921,
+        "follow_request_sent": false,
+        "followers_count": 526,
+        "following": false,
+        "friends_count": 718,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 133283755,
+        "id_str": "133283755",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 9,
+        "location": "駅近くのマンションほちぃ",
+        "name": "綺野＠海のもしもは118番",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/133283755/1468594863",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000518585611/4d921147749b5051aa27b4f16f8407d0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000518585611/4d921147749b5051aa27b4f16f8407d0_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kinoharuka",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 292516,
+        "time_zone": "",
+        "url": "https://t.co/0SVDla42ch",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,174 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 07:47:47 +0000 2019",
+    "display_text_range": [
+        7,
+        64
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "おじ【EDEN】",
+                "indices": [
+                    0,
+                    6
+                ],
+                "screen_name": "ij3IX",
+                "id": 723529436105052160,
+                "id_str": "723529436105052160"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@ij3IX グレタさんは操り人形にされてるの楽しんでるよね☺\nもうどんな言葉を発しようが人の心を揺さぶる事は出来ないだろうね。",
+    "has_extended_profile": false,
+    "id": 1206843416509734913,
+    "id_str": "1206843416509734913",
+    "in_reply_to_screen_name": "ij3IX",
+    "in_reply_to_status_id": 1206842664978534400,
+    "in_reply_to_status_id_str": "1206842664978534400",
+    "in_reply_to_user_id": 723529436105052160,
+    "in_reply_to_user_id_str": "723529436105052160",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんは操り人形にされてるの楽しん",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 18 00:42:14 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "古いアンドロイドで荒野行動を頑張ってます。新しいの欲しいな！\n\nキルレ1もないスーパーエンジョイ勢のおっさんです。よく車の上で踊ってて撃たれます。見つけても撃たないでね。\n宜しくお願いします。\n荒野名はhansanです。\n荒野以外もツイートします。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/XSWk4lG7DO",
+                        "display_url": "amazon.jp/hz/wishlist/ls…",
+                        "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/2HWJ1AS004MJZ?ref_=wl_share"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 108659,
+        "follow_request_sent": false,
+        "followers_count": 1102,
+        "following": false,
+        "friends_count": 1336,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 268021746,
+        "id_str": "268021746",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 30,
+        "location": "",
+        "name": "はんさん(っ'ヮ'c)ｳｩｯﾋｮｵｱｱｧ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/268021746/1569011994",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1161055730612330497/wDDV_u0V_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1161055730612330497/wDDV_u0V_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hansan007",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 25755,
+        "time_zone": "",
+        "url": "https://t.co/XSWk4lG7DO",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

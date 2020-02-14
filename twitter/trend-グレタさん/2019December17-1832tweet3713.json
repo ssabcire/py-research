@@ -1,0 +1,506 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:08:29 +0000 2019",
+    "display_text_range": [
+        0,
+        62
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "まさろー",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "jojo1682abc",
+                "id": 3226206517,
+                "id_str": "3226206517"
+            }
+        ],
+        "media": [
+            {
+                "id": 1206780904489644033,
+                "id_str": "1206780904489644033",
+                "media_url": "http://pbs.twimg.com/media/EL9Y1r3UcAEfJgu.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL9Y1r3UcAEfJgu.jpg",
+                "url": "https://t.co/8yAqvDtuDV",
+                "display_url": "pic.twitter.com/8yAqvDtuDV",
+                "expanded_url": "https://twitter.com/jojo1682abc/status/1206780908583309312/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 640,
+                        "h": 432,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 432,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 432,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206780908583309312,
+                "source_status_id_str": "1206780908583309312",
+                "type": "photo",
+                "indices": [
+                    39,
+                    62
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206780904489644033,
+                "id_str": "1206780904489644033",
+                "media_url": "http://pbs.twimg.com/media/EL9Y1r3UcAEfJgu.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL9Y1r3UcAEfJgu.jpg",
+                "url": "https://t.co/8yAqvDtuDV",
+                "display_url": "pic.twitter.com/8yAqvDtuDV",
+                "expanded_url": "https://twitter.com/jojo1682abc/status/1206780908583309312/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 640,
+                        "h": 432,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 432,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 432,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206780908583309312,
+                "source_status_id_str": "1206780908583309312",
+                "type": "photo",
+                "indices": [
+                    39,
+                    62
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @jojo1682abc: グレタさんはこっち\n\nドイツ〈日本〈インド https://t.co/8yAqvDtuDV",
+    "has_extended_profile": false,
+    "id": 1206803327876362240,
+    "id_str": "1206803327876362240",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 03:39:24 +0000 2019",
+        "display_text_range": [
+            0,
+            21
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206780904489644033,
+                    "id_str": "1206780904489644033",
+                    "media_url": "http://pbs.twimg.com/media/EL9Y1r3UcAEfJgu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL9Y1r3UcAEfJgu.jpg",
+                    "url": "https://t.co/8yAqvDtuDV",
+                    "display_url": "pic.twitter.com/8yAqvDtuDV",
+                    "expanded_url": "https://twitter.com/jojo1682abc/status/1206780908583309312/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 640,
+                            "h": 432,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 432,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 432,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        22,
+                        45
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206780904489644033,
+                    "id_str": "1206780904489644033",
+                    "media_url": "http://pbs.twimg.com/media/EL9Y1r3UcAEfJgu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL9Y1r3UcAEfJgu.jpg",
+                    "url": "https://t.co/8yAqvDtuDV",
+                    "display_url": "pic.twitter.com/8yAqvDtuDV",
+                    "expanded_url": "https://twitter.com/jojo1682abc/status/1206780908583309312/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 640,
+                            "h": 432,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 432,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 432,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        22,
+                        45
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 3,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんはこっち\n\nドイツ〈日本〈インド https://t.co/8yAqvDtuDV",
+        "has_extended_profile": false,
+        "id": 1206780908583309312,
+        "id_str": "1206780908583309312",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんはこ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon May 25 13:00:27 +0000 2015",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "東方は！永遠なり！！",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                43
+                            ],
+                            "url": "http://www.pixiv.net/member.php?id=13795785",
+                            "display_url": "",
+                            "expanded_url": ""
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 58890,
+            "follow_request_sent": false,
+            "followers_count": 798,
+            "following": false,
+            "friends_count": 848,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 3226206517,
+            "id_str": "3226206517",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 20,
+            "location": "千葉県 市川市",
+            "name": "まさろー",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3226206517/1574508981",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1196483042841223168/J8nEnzmC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196483042841223168/J8nEnzmC_normal.jpg",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "jojo1682abc",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 36447,
+            "time_zone": "",
+            "url": "http://www.pixiv.net/member.php?id=13795785",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @jojo1682abc: グレタさんはこっち\n\nドイツ〈日\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 14 14:26:16 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "鉄道やバスのルート作成が得意 好きなものはポケモン 鉄道 バス 飛行機 相撲 仏像 旅行",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 335889,
+        "follow_request_sent": false,
+        "followers_count": 4262,
+        "following": false,
+        "friends_count": 5001,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 996033962878251008,
+        "id_str": "996033962878251008",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 13,
+        "location": "",
+        "name": "うめちゃん",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/996033962878251008/1530878981",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1015206280158273537/aKGXIWtC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1015206280158273537/aKGXIWtC_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "iuY0jx47oBZfIlO",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 302318,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

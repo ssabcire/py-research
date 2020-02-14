@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:09:45 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "筋トレ100%マン",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "BCAA20000",
+                "id": 854960237916299264,
+                "id_str": "854960237916299264"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @BCAA20000: ドイツ鉄道、グレタさんにツイッターで応酬\n\n座席は確保できたのに、わざわざ地べたに座った写真を載せる。\nその方が苦労してるように見えるから。移動にわざわざ船に乗るのもその方が環境に良さそうに見えるから。\n全てが◯◯ぽく見えるようにしてるだけ。だから…",
+    "has_extended_profile": false,
+    "id": 1206773447902158849,
+    "id_str": "1206773447902158849",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 143,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 12:46:47 +0000 2019",
+        "display_text_range": [
+            0,
+            154
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        131,
+                        154
+                    ],
+                    "url": "https://t.co/IMn9yxcRYJ",
+                    "display_url": "headlines.yahoo.co.jp/hl?a=20191216-…",
+                    "expanded_url": "https://headlines.yahoo.co.jp/hl?a=20191216-35146920-cnn-int"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 280,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "ドイツ鉄道、グレタさんにツイッターで応酬\n\n座席は確保できたのに、わざわざ地べたに座った写真を載せる。\nその方が苦労してるように見えるから。移動にわざわざ船に乗るのもその方が環境に良さそうに見えるから。\n全てが◯◯ぽく見えるようにしてるだけ。だから伝わらない。 https://t.co/IMn9yxcRYJ",
+        "has_extended_profile": false,
+        "id": 1206556274969628672,
+        "id_str": "1206556274969628672",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 143,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "ドイツ鉄道、グレタさんにツイッターで応酬\n\n座席は確保できたのに、わざわざ地べたに座った写真を載せる。\nそ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Apr 20 07:29:39 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "BP115、DL200、SQ150。  脳筋が色々考えます。楽器もやります。筋トレの質問には聞かれてないことまで丁寧に答えます☆",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 62520,
+            "follow_request_sent": false,
+            "followers_count": 2692,
+            "following": false,
+            "friends_count": 759,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 854960237916299264,
+            "id_str": "854960237916299264",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 28,
+            "location": "",
+            "name": "筋トレ100%マン",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/854960237916299264/1558656343",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1204552992013160449/RFfoA0nI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1204552992013160449/RFfoA0nI_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "BCAA20000",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 36468,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @BCAA20000: ドイツ鉄道、グレタさんにツイッターで応酬\n\n座席は確保できたのに、わざわざ地べたに座っ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 01 13:47:12 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "スケート垢/真央ちゃん、大輔さん、昌磨くんを応援しています。最近しょーま沼に両足突っ込みました。たまに毒づきます。🇺🇸チームも絶賛応援中。野球も好きで、阪神ファンです。無言フォロー失礼します。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 86734,
+        "follow_request_sent": false,
+        "followers_count": 212,
+        "following": false,
+        "friends_count": 179,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 859041517729533952,
+        "id_str": "859041517729533952",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "",
+        "name": "maolove😘サンクスツアー兵庫参戦",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/859041517729533952/1520253787",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/971903226885779456/kGipm1XF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/971903226885779456/kGipm1XF_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mao_special9816",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 79715,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

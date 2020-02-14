@@ -1,0 +1,337 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 13:32:56 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "秘密結社　梅本　慎二",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "meVTfKJtaiZQJB0",
+                "id": 944907844909797381,
+                "id_str": "944907844909797381"
+            },
+            {
+                "name": "Share News Japan",
+                "indices": [
+                    21,
+                    37
+                ],
+                "screen_name": "sharenewsjapan1",
+                "id": 1161186227279654912,
+                "id_str": "1161186227279654912"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @meVTfKJtaiZQJB0: @sharenewsjapan1 ドイツ鉄道さんの大人の余裕の勝利だね。ところで、グレタ君の親は何してるのかね。\n\nそろそろグレタ君の行為は『悪質』となって来たので、エスカレートして会社とかが被害にあったなら親に損害賠償請求とかも考えた…",
+    "has_extended_profile": false,
+    "id": 1206567890129842176,
+    "id_str": "1206567890129842176",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 09:55:59 +0000 2019",
+        "display_text_range": [
+            17,
+            155
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "Share News Japan",
+                    "indices": [
+                        0,
+                        16
+                    ],
+                    "screen_name": "sharenewsjapan1",
+                    "id": 1161186227279654912,
+                    "id_str": "1161186227279654912"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 18,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@sharenewsjapan1 ドイツ鉄道さんの大人の余裕の勝利だね。ところで、グレタ君の親は何してるのかね。\n\nそろそろグレタ君の行為は『悪質』となって来たので、エスカレートして会社とかが被害にあったなら親に損害賠償請求とかも考えた方が良いでしょうね。\n\n本当にグレタ君は環境テロリストだね♪( ´∀`)。",
+        "has_extended_profile": false,
+        "id": 1206513294300741632,
+        "id_str": "1206513294300741632",
+        "in_reply_to_screen_name": "sharenewsjapan1",
+        "in_reply_to_status_id": 1206478972059607040,
+        "in_reply_to_status_id_str": "1206478972059607040",
+        "in_reply_to_user_id": 1161186227279654912,
+        "in_reply_to_user_id_str": "1161186227279654912",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 6,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "ドイツ鉄道さんの大人の余裕の勝利だね。ところで、グレタ君の親は何してるのかね。\n\nそろそろグレ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Dec 24 12:29:20 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "普通の国民を応援して行きたいです♪。\n日本に取ってダメな事はダメと批判して\n行き、\n\n『日本』を思うネットの声を伝えて行きたいです。反日は絶対に許さないです❕❕\n\n(o･｀Д´･o)!!。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 101882,
+            "follow_request_sent": false,
+            "followers_count": 1832,
+            "following": false,
+            "friends_count": 1915,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 944907844909797381,
+            "id_str": "944907844909797381",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 3,
+            "location": "日本 東京",
+            "name": "秘密結社　梅本　慎二",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/944907844909797381/1541693084",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1060547390715834369/D7VsL0u__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060547390715834369/D7VsL0u__normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "meVTfKJtaiZQJB0",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 64821,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @meVTfKJtaiZQJB0: @sharenewsjapan1 ドイツ鉄道さんの大人の余裕の勝利だね。ところで、グレタ君の親は何して",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 13 00:29:53 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "維新に不信感を持ち監視してます。\n「自民党支持」です。よろしくね😉。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 21884,
+        "follow_request_sent": false,
+        "followers_count": 269,
+        "following": false,
+        "friends_count": 292,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1105626999572201473,
+        "id_str": "1105626999572201473",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "保田　博紀",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1105915596191948800/cyDMkJWc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105915596191948800/cyDMkJWc_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "IsmQAmQ6kTb1Ymf",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 15308,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

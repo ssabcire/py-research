@@ -1,0 +1,164 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:15:43 +0000 2019",
+    "display_text_range": [
+        10,
+        29
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "KSL-Live!",
+                "indices": [
+                    0,
+                    9
+                ],
+                "screen_name": "ksl_live",
+                "id": 121298303,
+                "id_str": "121298303"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@ksl_live グレタさんどこからそんな大金が入るの？",
+    "has_extended_profile": false,
+    "id": 1206820249829433344,
+    "id_str": "1206820249829433344",
+    "in_reply_to_screen_name": "ksl_live",
+    "in_reply_to_status_id": 1206588854129422336,
+    "in_reply_to_status_id_str": "1206588854129422336",
+    "in_reply_to_user_id": 121298303,
+    "in_reply_to_user_id_str": "121298303",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんど\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 15 01:32:17 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "日本にいる反日売国奴などをツイートております。\n　他に興味あるものはクラシック音楽・家庭菜園🍅・園芸🌹大好きです。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 14112,
+        "follow_request_sent": false,
+        "followers_count": 1161,
+        "following": false,
+        "friends_count": 1309,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 155767639,
+        "id_str": "155767639",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 19,
+        "location": "japan",
+        "name": "ミントとジャスミン",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/155767639/1522933132",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/981872825395920896/BpysrT15_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/981872825395920896/BpysrT15_normal.jpg",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mintjasmin",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 40510,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

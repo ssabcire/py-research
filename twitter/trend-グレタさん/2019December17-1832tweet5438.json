@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:10:04 +0000 2019",
+    "display_text_range": [
+        0,
+        134
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    111,
+                    134
+                ],
+                "url": "https://t.co/xAsuEx9qDS",
+                "display_url": "news.yahoo.co.jp/byline/shivare…",
+                "expanded_url": "https://news.yahoo.co.jp/byline/shivarei/20191213-00154732/"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "僕は16歳のとき、ボールを追っかけまわるだけでした。素晴らしい活動家だと思いますよ( ﾟДﾟ) ここまで行動を起こせる人は少ないよね。\nホリエモンよりグレタさんは「760万倍賢い」―温暖化防止「飛び恥」の衝撃(志葉玲)  https://t.co/xAsuEx9qDS",
+    "has_extended_profile": false,
+    "id": 1206788626618580992,
+    "id_str": "1206788626618580992",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+    "scopes": null,
+    "text": "僕は16歳のとき、ボールを追っかけまわるだけでした。素晴らしい活動家だと思いますよ( ﾟДﾟ) こ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 01 07:59:18 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "スペイン人選手のビジャ#7⚽好きのアトレティです♪🔴⚪️🔴 するならバスケ、観るならサッカー♪ 風琴と雫が命の適当人間。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 462,
+        "follow_request_sent": false,
+        "followers_count": 9,
+        "following": false,
+        "friends_count": 24,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 795594319,
+        "id_str": "795594319",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "どっか。",
+        "name": "なでちん。",
+        "notifications": false,
+        "profile_background_color": "7AD9D3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/795594319/1476845659",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3509395391/5a686792433615d62ad5913f22f2058d_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3509395391/5a686792433615d62ad5913f22f2058d_normal.jpeg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nadeaki1803",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 1025,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

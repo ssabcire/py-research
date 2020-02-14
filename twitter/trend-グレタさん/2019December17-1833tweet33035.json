@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 13:45:29 +0000 2019",
+    "display_text_range": [
+        0,
+        122
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    99,
+                    122
+                ],
+                "url": "https://t.co/M9LyXDhRHT",
+                "display_url": "diamond.jp/articles/-/222…",
+                "expanded_url": "https://diamond.jp/articles/-/222835"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "斎藤幸平",
+                "indices": [
+                    3,
+                    18
+                ],
+                "screen_name": "koheisaito0131",
+                "id": 227617689,
+                "id_str": "227617689"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @koheisaito0131: グレタのこれまでのスピーチについて書きました！\nグレタさんが訴える気候変動の正義は「新たな階級闘争」だ | ＤＯＬ特別レポート | ダイヤモンド・オンライン https://t.co/M9LyXDhRHT",
+    "has_extended_profile": false,
+    "id": 1206571049120219136,
+    "id_str": "1206571049120219136",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 175,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 13 02:20:51 +0000 2019",
+        "display_text_range": [
+            0,
+            102
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        79,
+                        102
+                    ],
+                    "url": "https://t.co/M9LyXDhRHT",
+                    "display_url": "diamond.jp/articles/-/222…",
+                    "expanded_url": "https://diamond.jp/articles/-/222835"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 320,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタのこれまでのスピーチについて書きました！\nグレタさんが訴える気候変動の正義は「新たな階級闘争」だ | ＤＯＬ特別レポート | ダイヤモンド・オンライン https://t.co/M9LyXDhRHT",
+        "has_extended_profile": false,
+        "id": 1205311590481813504,
+        "id_str": "1205311590481813504",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 175,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタのこれまでのスピーチについて書きました！\nグレタさんが訴える気\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Dec 17 09:31:11 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Marxist \nkoheisaito[@]https://t.co/N8GNSmAmm4",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/UVjktQDlhs",
+                            "display_url": "researchmap.jp/7000022985/?la…",
+                            "expanded_url": "https://researchmap.jp/7000022985/?lang=english"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 1374,
+            "follow_request_sent": false,
+            "followers_count": 5449,
+            "following": false,
+            "friends_count": 266,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 227617689,
+            "id_str": "227617689",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 288,
+            "location": "Osaka",
+            "name": "斎藤幸平",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/227617689/1542783029",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/844134581464850433/29CmwrPb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/844134581464850433/29CmwrPb_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "koheisaito0131",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 19523,
+            "time_zone": "",
+            "url": "https://t.co/UVjktQDlhs",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\"\u003eTweetbot for iΟS\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @koheisaito0131: グレタのこれまでのスピーチについて書きました！\nグレタさんが訴える気\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 16 12:26:19 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 14,
+        "follow_request_sent": false,
+        "followers_count": 45,
+        "following": false,
+        "friends_count": 220,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2392630566,
+        "id_str": "2392630566",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 3,
+        "location": "",
+        "name": "bnok13⛰👩🏻‍💻",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1000283617380089856/X5FHTb9__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1000283617380089856/X5FHTb9__normal.jpg",
+        "profile_link_color": "091D80",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "bnok13",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 4448,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

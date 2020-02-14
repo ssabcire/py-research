@@ -1,0 +1,524 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:50:46 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    96,
+                    119
+                ],
+                "url": "https://t.co/QfsZcZ9VKk",
+                "display_url": "amzn.to/2rx0qFN",
+                "expanded_url": "https://amzn.to/2rx0qFN"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "実話BUNKAタブー編集部",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "BUNKA_taboo",
+                "id": 554069651,
+                "id_str": "554069651"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @BUNKA_taboo: 忘年会シーズンですね。お隣の韓国ではワンちゃん🐶を鍋に入れて食べちゃうんでしょうか。グレタさんにはこういう韓国の残酷で前近代的な習慣をやめさせてほしいです😭　https://t.co/QfsZcZ9VKk https://t.co/Q7zkdq…",
+    "has_extended_profile": false,
+    "id": 1206557279044026368,
+    "id_str": "1206557279044026368",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 10 00:48:23 +0000 2019",
+        "display_text_range": [
+            0,
+            102
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        79,
+                        102
+                    ],
+                    "url": "https://t.co/QfsZcZ9VKk",
+                    "display_url": "amzn.to/2rx0qFN",
+                    "expanded_url": "https://amzn.to/2rx0qFN"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1204201144244793344,
+                    "id_str": "1204201144244793344",
+                    "media_url": "http://pbs.twimg.com/media/ELYuj4DUcAAmc8n.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELYuj4DUcAAmc8n.jpg",
+                    "url": "https://t.co/Q7zkdqIO5R",
+                    "display_url": "pic.twitter.com/Q7zkdqIO5R",
+                    "expanded_url": "https://twitter.com/BUNKA_taboo/status/1204201155242250241/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 850,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 482,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1275,
+                            "h": 1800,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        103,
+                        126
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1204201144244793344,
+                    "id_str": "1204201144244793344",
+                    "media_url": "http://pbs.twimg.com/media/ELYuj4DUcAAmc8n.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELYuj4DUcAAmc8n.jpg",
+                    "url": "https://t.co/Q7zkdqIO5R",
+                    "display_url": "pic.twitter.com/Q7zkdqIO5R",
+                    "expanded_url": "https://twitter.com/BUNKA_taboo/status/1204201155242250241/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 850,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 482,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1275,
+                            "h": 1800,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        103,
+                        126
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                },
+                {
+                    "id": 1204201144249044993,
+                    "id_str": "1204201144249044993",
+                    "media_url": "http://pbs.twimg.com/media/ELYuj4EVUAEdiT6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELYuj4EVUAEdiT6.jpg",
+                    "url": "https://t.co/Q7zkdqIO5R",
+                    "display_url": "pic.twitter.com/Q7zkdqIO5R",
+                    "expanded_url": "https://twitter.com/BUNKA_taboo/status/1204201155242250241/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 847,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1446,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        103,
+                        126
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                },
+                {
+                    "id": 1204201144257404930,
+                    "id_str": "1204201144257404930",
+                    "media_url": "http://pbs.twimg.com/media/ELYuj4GU4AI5bo1.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELYuj4GU4AI5bo1.jpg",
+                    "url": "https://t.co/Q7zkdqIO5R",
+                    "display_url": "pic.twitter.com/Q7zkdqIO5R",
+                    "expanded_url": "https://twitter.com/BUNKA_taboo/status/1204201155242250241/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 847,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1446,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        103,
+                        126
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 9,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "忘年会シーズンですね。お隣の韓国ではワンちゃん🐶を鍋に入れて食べちゃうんでしょうか。グレタさんにはこういう韓国の残酷で前近代的な習慣をやめさせてほしいです😭　https://t.co/QfsZcZ9VKk https://t.co/Q7zkdqIO5R",
+        "has_extended_profile": false,
+        "id": 1204201155242250241,
+        "id_str": "1204201155242250241",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": true,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "忘年会シーズンですね。お隣の韓国ではワンちゃん🐶を鍋に入れて食べち\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Apr 15 04:31:15 +0000 2012",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "『実話BUNKAタブー』（コアマガジン刊）の編集部です。毎月16日発売。『実話BUNKA超タブー』は毎月2日発売。読んでると、いま一番モテる雑誌です。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/tBen6tsCy4",
+                            "display_url": "coremagazine.co.jp/jitsuwa_bunka/",
+                            "expanded_url": "http://www.coremagazine.co.jp/jitsuwa_bunka/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 75,
+            "follow_request_sent": false,
+            "followers_count": 7808,
+            "following": false,
+            "friends_count": 5772,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 554069651,
+            "id_str": "554069651",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 173,
+            "location": "豊島区高田",
+            "name": "実話BUNKAタブー編集部",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/554069651/1576482830",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1206482547791712257/CBYpCtIj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1206482547791712257/CBYpCtIj_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "BUNKA_taboo",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 4694,
+            "time_zone": "",
+            "url": "https://t.co/tBen6tsCy4",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @BUNKA_taboo: 忘年会シーズンですね。お隣の韓国ではワンちゃん🐶を鍋に入れて食べちゃうんでしょう\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 04 12:48:50 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "時事ネタをメインに表で口にすると人格を疑われかねない冗句や本音を毎日つぶやいています。無言フォロー失礼しますm(_ _)mフォロー頂けると嬉しいです",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1371,
+        "follow_request_sent": false,
+        "followers_count": 1468,
+        "following": false,
+        "friends_count": 3659,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1135891156519202816,
+        "id_str": "1135891156519202816",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "日本 東京",
+        "name": "結城しのぶ",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1135891156519202816/1565176700",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1159061201013231617/bP7Ro4Ps_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1159061201013231617/bP7Ro4Ps_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "shinobu_yuuki",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 815,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

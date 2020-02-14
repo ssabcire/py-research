@@ -1,0 +1,345 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:51:21 +0000 2019",
+    "display_text_range": [
+        0,
+        143
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    144,
+                    167
+                ],
+                "url": "https://t.co/Q8jI8NmlfD",
+                "display_url": "twitter.com/Reuters_co_jp/…",
+                "expanded_url": "https://twitter.com/Reuters_co_jp/status/1206783077684371456"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "これは良記事。グレタさんなどの広告効果によってエコ企業が実体なきバブルになっており、ヘッジファンドが早速空売りを仕掛けようとしているという記事。\n\n「(ESG企業の)持続可能性に関する企業の不実表示、いわゆるグリーンウォッシュ（うわべだけの環境配慮）が株価を押し上げている」(ロイター) https://t.co/Q8jI8NmlfD",
+    "has_extended_profile": false,
+    "id": 1206783916784287745,
+    "id_str": "1206783916784287745",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206783077684371456,
+    "quoted_status_id_str": "1206783077684371456",
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 03:48:01 +0000 2019",
+        "display_text_range": [
+            0,
+            104
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        81,
+                        104
+                    ],
+                    "url": "https://t.co/RRCiyYN5Gp",
+                    "display_url": "jp.reuters.com/article/global…",
+                    "expanded_url": "https://jp.reuters.com/article/global-hedgefunds-sustainable-idJPKBN1YK0VC"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 26,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "環境や社会問題、企業統治への取り組みの積極性をうたい、世界の投資資金を取り込んでいる「ＥＳＧ企業」に対し、ヘッジファンドが空売りを仕掛ける機会をうかがっている。\nhttps://t.co/RRCiyYN5Gp",
+        "has_extended_profile": false,
+        "id": 1206783077684371456,
+        "id_str": "1206783077684371456",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 19,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "環境や社会問題、企業統治への取り組みの積極性をうたい、世界の投資資金\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Mar 04 03:36:40 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "ロイター日本語サイト編集部がトップニュースやブログ、コラム、そしておすすめのスライドショーやビデオをお届けする公式ツイッターアカウントです。\nフェイスブック→ https://t.co/kc3hEnrujI \nインスタグラム→ https://t.co/zUfzYsNR1M",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/AJXNk8ATe2",
+                            "display_url": "jp.reuters.com",
+                            "expanded_url": "https://jp.reuters.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 16,
+            "follow_request_sent": false,
+            "followers_count": 704923,
+            "following": false,
+            "friends_count": 49,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 119603478,
+            "id_str": "119603478",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 19094,
+            "location": "Tokyo, Japan",
+            "name": "ロイター.co.jp",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/119603478/1576556450",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/877357487099269120/Mxm5YvoG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/877357487099269120/Mxm5YvoG_normal.jpg",
+            "profile_link_color": "4DA2DE",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "D9D9D5",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Reuters_co_jp",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 220755,
+            "time_zone": "",
+            "url": "https://t.co/AJXNk8ATe2",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "これは良記事。グレタさんなどの広告効果によってエコ企業が実体なきバブルになっており、ヘッジファ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 26 19:20:50 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "たつき監督作品とSFを主にした小説全般とアニメとゲームについて徒然なるままに書き綴ります。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Kebd3yVwia",
+                        "display_url": "nekodayo.livedoor.biz",
+                        "expanded_url": "http://nekodayo.livedoor.biz/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 105197,
+        "follow_request_sent": false,
+        "followers_count": 1599,
+        "following": false,
+        "friends_count": 321,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 824698631844356096,
+        "id_str": "824698631844356096",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 62,
+        "location": "ジャパリパーク",
+        "name": "kemofure",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/824698631844356096/1485682624",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/824829076397395968/0Aejnj0D_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/824829076397395968/0Aejnj0D_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kemohure",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 141519,
+        "time_zone": "",
+        "url": "https://t.co/Kebd3yVwia",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

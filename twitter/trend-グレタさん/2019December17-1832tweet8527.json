@@ -1,0 +1,335 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:05:45 +0000 2019",
+    "display_text_range": [
+        0,
+        56
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    57,
+                    80
+                ],
+                "url": "https://t.co/13TVK1n95H",
+                "display_url": "twitter.com/TrafficNewsJp/…",
+                "expanded_url": "https://twitter.com/TrafficNewsJp/status/1206771161196986369"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんのナイスアシストを受けたドイツ鉄道なのであった😄\n都市間高速特急20%座席増、一部都市圏増発などなど。 https://t.co/13TVK1n95H",
+    "has_extended_profile": false,
+    "id": 1206772442405801984,
+    "id_str": "1206772442405801984",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206771161196986369,
+    "quoted_status_id_str": "1206771161196986369",
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 03:00:40 +0000 2019",
+        "display_text_range": [
+            0,
+            59
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        36,
+                        59
+                    ],
+                    "url": "https://t.co/lMv6xlOBbp",
+                    "display_url": "trafficnews.jp/post/92228",
+                    "expanded_url": "https://trafficnews.jp/post/92228"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 33,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "【ドイツ鉄道、２６年までに車両近代化に１２０億ユーロ＝過去最大の投資】\nhttps://t.co/lMv6xlOBbp",
+        "has_extended_profile": false,
+        "id": 1206771161196986369,
+        "id_str": "1206771161196986369",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 21,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "【ドイツ鉄道、２６年までに車両近代化に\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jun 21 08:37:34 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "交通インフラを利用する数多くのユーザに向けて、私たちが日常的に触れている『乗りもの』に関するニュースを、わかりやすくお届けします！",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/Vm0F2EciD4",
+                            "display_url": "trafficnews.jp",
+                            "expanded_url": "http://trafficnews.jp/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 560,
+            "follow_request_sent": false,
+            "followers_count": 36309,
+            "following": false,
+            "friends_count": 4821,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 2580088608,
+            "id_str": "2580088608",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 855,
+            "location": "東京都",
+            "name": "乗りものニュース",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2580088608/1561938464",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/894387137272872960/ujLfw6Ez_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/894387137272872960/ujLfw6Ez_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "TrafficNewsJp",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 14818,
+            "time_zone": "",
+            "url": "http://t.co/Vm0F2EciD4",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんのナイスアシストを受けたド\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 22 12:57:39 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ええ歳も半ば。なお、ぼけーっと要勇気の独り者。【好き】空、風、天気、自然、信州、北海道、火山地形、和モダン、北欧、欧州、歴史・伝統、紅茶、新し物、デザイン、新ビル、建築、カメラ、大正・昭和一桁、鴨川、京都、神社、風流、露天風呂、酒、交通、道路、ドライブ。【欲求】独逸鉄道旅行、英国ドライブ、北欧湯＆オーロラ。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 3461,
+        "follow_request_sent": false,
+        "followers_count": 285,
+        "following": false,
+        "friends_count": 353,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 76325654,
+        "id_str": "76325654",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 19,
+        "location": "みずうみの西。",
+        "name": "UJ",
+        "notifications": false,
+        "profile_background_color": "4A2C29",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76325654/1568066789",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1155100553535320066/DWBHrwH1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1155100553535320066/DWBHrwH1_normal.jpg",
+        "profile_link_color": "ADAD07",
+        "profile_sidebar_border_color": "0E0F0C",
+        "profile_sidebar_fill_color": "041433",
+        "profile_text_color": "7B8A05",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "UJ_yoshi",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 57797,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

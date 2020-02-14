@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 01:50:22 +0000 2019",
+    "display_text_range": [
+        0,
+        123
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    100,
+                    123
+                ],
+                "url": "https://t.co/PThcTd0qB0",
+                "display_url": "syunnothetrend.com/2019/12/17/gur…",
+                "expanded_url": "http://syunnothetrend.com/2019/12/17/gureta/"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "トレンド大好きちゃん",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "toredodaisuki",
+                "id": 1166714527242567680,
+                "id_str": "1166714527242567680"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @toredodaisuki: 環境活動家グレタさん「超満員列車でドイツを移動中。やっと家に帰るところ」パシャッ →ドイツ鉄道「途中からはファーストクラス(１等車)に座っていたことがバレる」\n\nhttps://t.co/PThcTd0qB0",
+    "has_extended_profile": false,
+    "id": 1206753472667717632,
+    "id_str": "1206753472667717632",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 8,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 01:50:12 +0000 2019",
+        "display_text_range": [
+            0,
+            104
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        81,
+                        104
+                    ],
+                    "url": "https://t.co/PThcTd0qB0",
+                    "display_url": "syunnothetrend.com/2019/12/17/gur…",
+                    "expanded_url": "http://syunnothetrend.com/2019/12/17/gureta/"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 15,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "環境活動家グレタさん「超満員列車でドイツを移動中。やっと家に帰るところ」パシャッ →ドイツ鉄道「途中からはファーストクラス(１等車)に座っていたことがバレる」\n\nhttps://t.co/PThcTd0qB0",
+        "has_extended_profile": false,
+        "id": 1206753428535271424,
+        "id_str": "1206753428535271424",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 8,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "環境活動家グレタさん「超満員列車でドイツを移動中。やっと家に帰るとこ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Aug 28 14:11:12 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "トレンドが大好きな女の子です、Twitterで流行ってるものを投稿していくのでよろしくお願い致します",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/KSSqVF8vey",
+                            "display_url": "syunnothetrend.com",
+                            "expanded_url": "http://syunnothetrend.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 10,
+            "follow_request_sent": false,
+            "followers_count": 656,
+            "following": false,
+            "friends_count": 0,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1166714527242567680,
+            "id_str": "1166714527242567680",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 5,
+            "location": "旬のトレンドコムというブログを運営しています↓",
+            "name": "トレンド大好きちゃん",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1197477234526654464/4r9YRzIj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197477234526654464/4r9YRzIj_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "toredodaisuki",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 200,
+            "time_zone": "",
+            "url": "https://t.co/KSSqVF8vey",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @toredodaisuki: 環境活動家グレタさん「超満員列車でドイツを移動中。やっと家に帰るとこ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 21 11:47:23 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "笑える動画を中心に様々な動画を厳選してお届けします！引用元を明記してツイートします。 【 削除依頼はDMでお願いします 】 お仕事のご依頼はDMまで。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 88,
+        "follow_request_sent": false,
+        "followers_count": 60064,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 767327235036491779,
+        "id_str": "767327235036491779",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 188,
+        "location": "日本",
+        "name": "厳選動画bot 🅙",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1118327428428861440/zwfejBaS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1118327428428861440/zwfejBaS_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GENSENDOGAbot",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 641,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

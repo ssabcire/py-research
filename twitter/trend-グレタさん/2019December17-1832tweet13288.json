@@ -1,0 +1,174 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:44:54 +0000 2019",
+    "display_text_range": [
+        10,
+        105
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "あずまちゃん",
+                "indices": [
+                    0,
+                    9
+                ],
+                "screen_name": "cataz231",
+                "id": 756800039821815808,
+                "id_str": "756800039821815808"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@cataz231 グレタさんも内容は間違ってないんだけどね･･･(；´∀｀)でも\n環境改善するにはお金が必要で、お金を増やすには経済を回すしかないし、それだと不便な生活は効率が悪いし･･･\nあと言い方ですわね",
+    "has_extended_profile": false,
+    "id": 1206736993670983680,
+    "id_str": "1206736993670983680",
+    "in_reply_to_screen_name": "cataz231",
+    "in_reply_to_status_id": 1206733070461587456,
+    "in_reply_to_status_id_str": "1206733070461587456",
+    "in_reply_to_user_id": 756800039821815808,
+    "in_reply_to_user_id_str": "756800039821815808",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんも内容は間違ってないんだけどね･･･(；´∀｀)でも\n環境",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 28 06:37:20 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "( ・谷・)最近、独覚しました。  ルガルバンダ物語ではすげぇ扱いが良いのに、バビロニア期には年間行事の一環でやられています･･･orz  スプラトゥーンにてあんずぅで生息してます(○･`д･)ｖｷﾘ 画像は@ga48meさんからとiMacを使うシュメール人",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/HC4lbRv7cd",
+                        "display_url": "ja.wikipedia.org/wiki/%E3%82%A2…",
+                        "expanded_url": "http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%BA%E3%83%BC"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 10205,
+        "follow_request_sent": false,
+        "followers_count": 202,
+        "following": false,
+        "friends_count": 297,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 343876582,
+        "id_str": "343876582",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 5,
+        "location": "ラガシュ",
+        "name": "あんずぅ",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/343876582/1463649453",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143370611206455296/I922jgYc_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143370611206455296/I922jgYc_normal.png",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "enkidu_anzu",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 18803,
+        "time_zone": "",
+        "url": "https://t.co/HC4lbRv7cd",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

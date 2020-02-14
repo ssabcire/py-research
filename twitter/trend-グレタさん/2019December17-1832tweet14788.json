@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:08:45 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [
+            {
+                "indices": [
+                    30,
+                    38
+                ],
+                "text": "トランプ大統領"
+            },
+            {
+                "indices": [
+                    39,
+                    49
+                ],
+                "text": "グレタ・トゥンベリ"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "２択総研",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "XV124259204",
+                "id": 1186676844499632128,
+                "id_str": "1186676844499632128"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @XV124259204: ２択で創るメディアです\n\n#トランプ大統領 #グレタ・トゥンベリ\n\nスレの最上部はトランプ陣営の公式アカウントにて、16歳の環境活動家グレタさんの顔を、トランプ氏の顔画像にすげ替えて皮肉ったツイートです。\n\n罵り合っている二人ですが、現職米大統…",
+    "has_extended_profile": false,
+    "id": 1206727899165839361,
+    "id_str": "1206727899165839361",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 16:01:20 +0000 2019",
+        "display_text_range": [
+            0,
+            139
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [
+                {
+                    "indices": [
+                        13,
+                        21
+                    ],
+                    "text": "トランプ大統領"
+                },
+                {
+                    "indices": [
+                        22,
+                        32
+                    ],
+                    "text": "グレタ・トゥンベリ"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 5,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "２択で創るメディアです\n\n#トランプ大統領 #グレタ・トゥンベリ\n\nスレの最上部はトランプ陣営の公式アカウントにて、16歳の環境活動家グレタさんの顔を、トランプ氏の顔画像にすげ替えて皮肉ったツイートです。\n\n罵り合っている二人ですが、現職米大統領のこのツイート、どう思いますか？",
+        "has_extended_profile": false,
+        "id": 1206242847789215744,
+        "id_str": "1206242847789215744",
+        "in_reply_to_screen_name": "XV124259204",
+        "in_reply_to_status_id": 1206240734350733314,
+        "in_reply_to_status_id_str": "1206240734350733314",
+        "in_reply_to_user_id": 1186676844499632128,
+        "in_reply_to_user_id_str": "1186676844499632128",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "scopes": null,
+        "text": "２択で創るメディアです\n\n#トランプ大統領 #グレタ・トゥンベリ\n\nスレの最上部はトランプ陣営の公式ア",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Oct 22 16:13:23 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "２択総研は、みんなで創るメディアです。過剰報道や偏向報道に違和感を感じませんか？2択総研では、みなさんの1票が民意を形成します。 38歳の脱サラ編集長と、新米ママさんが運営しています。 ※聞きたいテーマがあればDMいただければ、可能な範囲で対応させていただきます。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 949,
+            "follow_request_sent": false,
+            "followers_count": 1087,
+            "following": false,
+            "friends_count": 1297,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1186676844499632128,
+            "id_str": "1186676844499632128",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 3,
+            "location": "東京 新宿区",
+            "name": "２択総研",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1186676844499632128/1572369508",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1196464596447420416/PJ_g5mIZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196464596447420416/PJ_g5mIZ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "XV124259204",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 1715,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @XV124259204: ２択で創るメディアです\n\n#トランプ大統領 #グレタ・トゥンベリ\n\nスレの最上部はトランプ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 03 05:14:20 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "色々な情報を収集するツールの一つとして利用しています",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 7312,
+        "follow_request_sent": false,
+        "followers_count": 2332,
+        "following": false,
+        "friends_count": 2167,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 959656274618023937,
+        "id_str": "959656274618023937",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 9,
+        "location": "",
+        "name": "招き猫🐱(金運・招福・千客万来)",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/959656274618023937/1542438771",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/986032065148739584/DxBwa0Ck_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/986032065148739584/DxBwa0Ck_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TOSHIYA38225944",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 477940,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

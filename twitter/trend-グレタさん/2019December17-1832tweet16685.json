@@ -1,0 +1,356 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 23:26:00 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "HIROMARO",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "HIROMARO_usa",
+                "id": 1143568979157377024,
+                "id_str": "1143568979157377024"
+            },
+            {
+                "name": "下地ミキオ",
+                "indices": [
+                    18,
+                    31
+                ],
+                "screen_name": "mikioshimoji",
+                "id": 97387806,
+                "id_str": "97387806"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @HIROMARO_usa: @mikioshimoji グレタ氏が凄い？の意味がわからないですね\n中国から裏でお金をもらっているからですか？\n言うことを聞かないと処刑すると言うからですが？\n\nそもそも直接、トランプさんやグレタさんに会われての意見ですか？\nそれだけの事を…",
+    "has_extended_profile": false,
+    "id": 1206717140230754304,
+    "id_str": "1206717140230754304",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 24,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 04:29:11 +0000 2019",
+        "display_text_range": [
+            14,
+            147
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "下地ミキオ",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "screen_name": "mikioshimoji",
+                    "id": 97387806,
+                    "id_str": "97387806"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 118,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@mikioshimoji グレタ氏が凄い？の意味がわからないですね\n中国から裏でお金をもらっているからですか？\n言うことを聞かないと処刑すると言うからですが？\n\nそもそも直接、トランプさんやグレタさんに会われての意見ですか？\nそれだけの事を言われる\n根拠は何？ですか？\nEvidese だして",
+        "has_extended_profile": false,
+        "id": 1206431051309973504,
+        "id_str": "1206431051309973504",
+        "in_reply_to_screen_name": "mikioshimoji",
+        "in_reply_to_status_id": 1205995062263341056,
+        "in_reply_to_status_id_str": "1205995062263341056",
+        "in_reply_to_user_id": 97387806,
+        "in_reply_to_user_id_str": "97387806",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.0632981,
+                            33.791963
+                        ],
+                        [
+                            -118.010668,
+                            33.791963
+                        ],
+                        [
+                            -118.010668,
+                            33.8458557
+                        ],
+                        [
+                            -118.0632981,
+                            33.8458557
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Cypress, CA",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "a077793faceeda6f",
+            "name": "Cypress",
+            "place_type": "city",
+            "polylines": null,
+            "url": "https://api.twitter.com/1.1/geo/id/a077793faceeda6f.json"
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 24,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタ氏が凄い？の意味がわからないですね\n中国から裏でお金をもらっているからですか？\n言う\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jun 25 17:17:45 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "USAで生活を始めて4年目。昨年グリーンカードを取得しました 。日本社会では離婚で家族をなくし、会社もなくしました。桜梅桃李！その人、その人の花を咲かせる場所も、季節も違って当たり前だと信じて行動しています。少しでも前に進みたい",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 11035,
+            "follow_request_sent": false,
+            "followers_count": 3058,
+            "following": false,
+            "friends_count": 4981,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 1143568979157377024,
+            "id_str": "1143568979157377024",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 9,
+            "location": "California, USA",
+            "name": "HIROMARO",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1143568979157377024/1563567956",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1152313640353030144/DmdRvDWA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1152313640353030144/DmdRvDWA_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "HIROMARO_usa",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 7091,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @HIROMARO_usa: @mikioshimoji グレタ氏が凄い？の意味がわからないですね\n中国から裏でお金をもらっている\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 15 06:23:34 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "東京柴又生まれ🇯🇵舞台関係の仕事に携わり、その後インドへ🇮🇳 学生ビザでの滞在を経て、現在はインド企業勤務の傍ら学生時代から始めた日本語教師を続ける生活。現在独身w。海外在住の立場から見える日本を皆様に伝え、外から日本を応援したい。フォローさせていただいた方、ご挨拶なくすみませんがどうぞよろしくお願い致します。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 27171,
+        "follow_request_sent": false,
+        "followers_count": 3281,
+        "following": false,
+        "friends_count": 3107,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 853131667879337985,
+        "id_str": "853131667879337985",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 35,
+        "location": "",
+        "name": "Fanta",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/853131667879337985/1511636549",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1137811350036439040/gheUkUq0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137811350036439040/gheUkUq0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FantaMiyu",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 22280,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

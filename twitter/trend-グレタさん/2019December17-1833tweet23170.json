@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 19:41:11 +0000 2019",
+    "display_text_range": [
+        0,
+        64
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ロードランナー様（山川賢一）",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "shinkai35",
+                "id": 135142222,
+                "id_str": "135142222"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @shinkai35: 環境問題に無知なので主張の妥当性はわからないが、正直グレタさん、人間的にはかなり好きな感じですね。",
+    "has_extended_profile": false,
+    "id": 1206660564686004224,
+    "id_str": "1206660564686004224",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 16:44:42 +0000 2019",
+        "display_text_range": [
+            0,
+            49
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 7,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "環境問題に無知なので主張の妥当性はわからないが、正直グレタさん、人間的にはかなり好きな感じですね。",
+        "has_extended_profile": false,
+        "id": 1206616148327845890,
+        "id_str": "1206616148327845890",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "環境問題に無知なので主張の妥当性\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Apr 20 13:08:34 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "無意味な言葉で人々は死ぬ",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/LgNOViNWQP",
+                            "display_url": "note.mu/shinkai35/n/na…",
+                            "expanded_url": "https://note.mu/shinkai35/n/nade2fd8766e9"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 9410,
+            "follow_request_sent": false,
+            "followers_count": 5744,
+            "following": false,
+            "friends_count": 1998,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 135142222,
+            "id_str": "135142222",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 389,
+            "location": "あいちちほー",
+            "name": "ロードランナー様（山川賢一）",
+            "notifications": false,
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1114923359605645312/RgqImaX2_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1114923359605645312/RgqImaX2_normal.png",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "99CC33",
+            "profile_text_color": "3E4415",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "shinkai35",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 106262,
+            "time_zone": "",
+            "url": "https://t.co/LgNOViNWQP",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @shinkai35: 環境問題に無知なので主張の妥当性\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 10 14:07:21 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm so Gooney, Looney Tuney, Te'ched in the Head. Please Pass the Ketchup, I Think I'll Go to Bed! Hoo! Am I the Screwball, WooWoo! Throw Me the 8-Ball, WooWoo!",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/g9k29nRIoL",
+                        "display_url": "twilog.org/BugsGroove",
+                        "expanded_url": "http://twilog.org/BugsGroove"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 84330,
+        "follow_request_sent": false,
+        "followers_count": 2321,
+        "following": false,
+        "friends_count": 5001,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 632007923,
+        "id_str": "632007923",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 135,
+        "location": "Wackyland",
+        "name": "bugs grooove",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/632007923/1552412474",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/813184061472534532/Zf5Txu1O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/813184061472534532/Zf5Txu1O_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BugsGroove",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 309883,
+        "time_zone": "",
+        "url": "http://t.co/g9k29nRIoL",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

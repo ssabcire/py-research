@@ -1,0 +1,357 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:12:38 +0000 2019",
+    "display_text_range": [
+        0,
+        58
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "san",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "san18715778",
+                "id": 968972373390012416,
+                "id_str": "968972373390012416"
+            },
+            {
+                "name": "litera",
+                "indices": [
+                    17,
+                    28
+                ],
+                "screen_name": "litera_web",
+                "id": 2497555580,
+                "id_str": "2497555580"
+            },
+            {
+                "name": "キンキラ侍",
+                "indices": [
+                    29,
+                    44
+                ],
+                "screen_name": "kinkirasamurai",
+                "id": 1050751201799598081,
+                "id_str": "1050751201799598081"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @san18715778: @litera_web @kinkirasamurai いい歳なのにグレタ野口さん",
+    "has_extended_profile": false,
+    "id": 1206532583942574081,
+    "id_str": "1206532583942574081",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 11:07:57 +0000 2019",
+        "display_text_range": [
+            28,
+            41
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "litera",
+                    "indices": [
+                        0,
+                        11
+                    ],
+                    "screen_name": "litera_web",
+                    "id": 2497555580,
+                    "id_str": "2497555580"
+                },
+                {
+                    "name": "キンキラ侍",
+                    "indices": [
+                        12,
+                        27
+                    ],
+                    "screen_name": "kinkirasamurai",
+                    "id": 1050751201799598081,
+                    "id_str": "1050751201799598081"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 4,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@litera_web @kinkirasamurai いい歳なのにグレタ野口さん",
+        "has_extended_profile": false,
+        "id": 1206531402461696000,
+        "id_str": "1206531402461696000",
+        "in_reply_to_screen_name": "litera_web",
+        "in_reply_to_status_id": 1206450662252449792,
+        "in_reply_to_status_id_str": "1206450662252449792",
+        "in_reply_to_user_id": 2497555580,
+        "in_reply_to_user_id_str": "2497555580",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "いい歳な\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Feb 28 22:13:11 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 32700,
+            "follow_request_sent": false,
+            "followers_count": 428,
+            "following": false,
+            "friends_count": 795,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 968972373390012416,
+            "id_str": "968972373390012416",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 5,
+            "location": "日本",
+            "name": "san",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/985145540693209088/ysmp6tGv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/985145540693209088/ysmp6tGv_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "san18715778",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 27782,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @san18715778: @litera_web @kinkirasamurai いい歳な\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 18 05:56:28 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "逆働き方改革で、うつ病になったナース。休職を繰り返しようやく復帰へ。動物大好き。ヴィーガン初心者。搾取や暴力許せない。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 32204,
+        "follow_request_sent": false,
+        "followers_count": 602,
+        "following": false,
+        "friends_count": 774,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 931763011663962112,
+        "id_str": "931763011663962112",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 2,
+        "location": "日本",
+        "name": "憂鬱な珊瑚",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1166279863637925889/ZoLdMgud_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1166279863637925889/ZoLdMgud_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RQUbEUsZTXvQRiQ",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 16543,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

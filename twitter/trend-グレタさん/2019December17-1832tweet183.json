@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 07:54:39 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "産経ニュース",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "Sankei_news",
+                "id": 562773398,
+                "id_str": "562773398"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @Sankei_news: 【独鉄道、グレタさんと応酬】\nグレタ・トゥンベリさんは、ドイツ鉄道の特急の床に座り込む自分の写真と「列車は大混雑」とのコメントをツイッターに投稿。ドイツ鉄道は、グレタさんへの皮肉をツイッターに書き込み、応酬した。\nhttps://t.co/P2…",
+    "has_extended_profile": false,
+    "id": 1206845144118390784,
+    "id_str": "1206845144118390784",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 177,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 04:02:55 +0000 2019",
+        "display_text_range": [
+            0,
+            130
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        107,
+                        130
+                    ],
+                    "url": "https://t.co/P2nXRyWtGE",
+                    "display_url": "sankei.com/world/news/191…",
+                    "expanded_url": "https://www.sankei.com/world/news/191217/wor1912170015-n1.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 450,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "【独鉄道、グレタさんと応酬】\nグレタ・トゥンベリさんは、ドイツ鉄道の特急の床に座り込む自分の写真と「列車は大混雑」とのコメントをツイッターに投稿。ドイツ鉄道は、グレタさんへの皮肉をツイッターに書き込み、応酬した。\nhttps://t.co/P2nXRyWtGE",
+        "has_extended_profile": false,
+        "id": 1206786829082451969,
+        "id_str": "1206786829082451969",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 177,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "【独鉄道、グレタさんと応酬】\nグレタ・トゥンベリさんは、ドイツ鉄道の特急の床に座り込む自",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Apr 25 10:36:45 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "「産経ニュース」の公式ツイッターです。 \nいま起きているニュースを「早く」「わかりやすく」お伝えします。 \nfacebookはこちら https://t.co/9RMlU2WGrK",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/7Vihg4dWEA",
+                            "display_url": "sankei.com",
+                            "expanded_url": "http://www.sankei.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 9,
+            "follow_request_sent": false,
+            "followers_count": 377951,
+            "following": false,
+            "friends_count": 196,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 562773398,
+            "id_str": "562773398",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 7102,
+            "location": "",
+            "name": "産経ニュース",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/562773398/1553668658",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1099064084727644160/wiHvh8Gh_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099064084727644160/wiHvh8Gh_normal.png",
+            "profile_link_color": "114488",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "Sankei_news",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 187404,
+            "time_zone": "",
+            "url": "http://t.co/7Vihg4dWEA",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @Sankei_news: 【独鉄道、グレタさんと応酬】\nグレタ・トゥンベリさんは、ドイツ鉄道の特急の床に座り\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 01 08:11:31 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 7774,
+        "follow_request_sent": false,
+        "followers_count": 40,
+        "following": false,
+        "friends_count": 96,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1080013636670676993,
+        "id_str": "1080013636670676993",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "まえだ",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nC1PuSnq2d65AtU",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 3639,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,518 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 16:27:42 +0000 2019",
+    "display_text_range": [
+        0,
+        108
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    85,
+                    108
+                ],
+                "url": "https://t.co/XCcVVkRG0k",
+                "display_url": "twitter.com/yuukim/status/…",
+                "expanded_url": "https://twitter.com/yuukim/status/1206336810177069056"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "芦原省一",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "ShoichiAshihara",
+                "id": 2899749630,
+                "id_str": "2899749630"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @ShoichiAshihara: グレタさんなら、例えば「地球温暖化懐疑論などにもうまく対処するであろう」などというのとは別に、先のようなツイートは危ういですね。https://t.co/XCcVVkRG0k",
+    "has_extended_profile": false,
+    "id": 1206611872914362374,
+    "id_str": "1206611872914362374",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206336810177069056,
+    "quoted_status_id_str": "1206336810177069056",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 9,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 22:24:38 +0000 2019",
+        "display_text_range": [
+            0,
+            87
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        64,
+                        87
+                    ],
+                    "url": "https://t.co/XCcVVkRG0k",
+                    "display_url": "twitter.com/yuukim/status/…",
+                    "expanded_url": "https://twitter.com/yuukim/status/1206336810177069056"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 7,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんなら、例えば「地球温暖化懐疑論などにもうまく対処するであろう」などというのとは別に、先のようなツイートは危ういですね。https://t.co/XCcVVkRG0k",
+        "has_extended_profile": false,
+        "id": 1206339308119941120,
+        "id_str": "1206339308119941120",
+        "in_reply_to_screen_name": "ShoichiAshihara",
+        "in_reply_to_status_id": 1206320394795245571,
+        "in_reply_to_status_id_str": "1206320394795245571",
+        "in_reply_to_user_id": 2899749630,
+        "in_reply_to_user_id_str": "2899749630",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206336810177069056,
+        "quoted_status_id_str": "1206336810177069056",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Dec 15 22:14:42 +0000 2019",
+            "display_text_range": [
+                0,
+                70
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "indices": [
+                            71,
+                            94
+                        ],
+                        "url": "https://t.co/LHA3m0LMNJ",
+                        "display_url": "twitter.com/ShoichiAshihar…",
+                        "expanded_url": "https://twitter.com/ShoichiAshihara/status/1206320394795245571"
+                    }
+                ],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 24,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "科学だけで決められない問題に「私はイデオロギーでない、左でも右でもない」「科学の声を聞け」ですからね。私も最初からそれは危ういと思ってます。 https://t.co/LHA3m0LMNJ",
+            "has_extended_profile": false,
+            "id": 1206336810177069056,
+            "id_str": "1206336810177069056",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 1206320394795245571,
+            "quoted_status_id_str": "1206320394795245571",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 14,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+            "scopes": null,
+            "text": "科学だけで決められない問題に「私はイデオロギー\ufffd",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun May 03 10:11:15 +0000 2009",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "1983年生。学生時代の専門は強電系。何故か就職は通信。",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/1auY5pJKN2",
+                                "display_url": "peing.net/ja/yuukim?even…",
+                                "expanded_url": "https://peing.net/ja/yuukim?event=2"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 5909,
+                "follow_request_sent": false,
+                "followers_count": 4062,
+                "following": false,
+                "friends_count": 1133,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 37396445,
+                "id_str": "37396445",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 310,
+                "location": "広島県廿日市市",
+                "name": "yuuki",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/37396445/1402142885",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/3105813898/d614738884f726582985c9966c6d41f0_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/3105813898/d614738884f726582985c9966c6d41f0_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "yuukim",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 130359,
+                "time_zone": "",
+                "url": "https://t.co/1auY5pJKN2",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 9,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんなら、例えば「地球温暖化懐疑論などにもうまく対処",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Nov 14 23:46:28 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "どこにでもいるごく普通のコミュニスト。朝鮮半島にルーツがある日本国籍者。うつ病及びPTSD。翻訳書『ウォール街を占拠せよ』。「#大月書店」から民族差別を受け、福岡地区合同労働組合に加盟して係争中。「新しい国民運動」の列には加わりません。https://t.co/al0RdO2rBz",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/PmRN8ptHS5",
+                            "display_url": "beneverba.exblog.jp",
+                            "expanded_url": "http://beneverba.exblog.jp/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 55620,
+            "follow_request_sent": false,
+            "followers_count": 1517,
+            "following": false,
+            "friends_count": 963,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2899749630,
+            "id_str": "2899749630",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 67,
+            "location": "博多",
+            "name": "芦原省一",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2899749630/1501548369",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/892184710947852288/Uthk5GKZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/892184710947852288/Uthk5GKZ_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "ShoichiAshihara",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 26206,
+            "time_zone": "",
+            "url": "https://t.co/PmRN8ptHS5",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @ShoichiAshihara: グレタさんなら、例えば「地球温暖化懐疑論などにもうまく対処",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 21 04:39:45 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "秋葉原が好きです。表現規制には反対。在特会やしばき隊、CRAC、旧SEALDsなどの自称「反差別」、男性を蔑視する行き過ぎた「フェミニズム」にも共感できません",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 25582,
+        "follow_request_sent": false,
+        "followers_count": 1017,
+        "following": false,
+        "friends_count": 1876,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 733879932888088576,
+        "id_str": "733879932888088576",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 21,
+        "location": "",
+        "name": "LoveAkiba",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/733879932888088576/1463806945",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/733911704036212737/9b-mX-m-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/733911704036212737/9b-mX-m-_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "akiba_liker",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 299328,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

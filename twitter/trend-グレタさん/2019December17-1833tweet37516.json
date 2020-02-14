@@ -1,0 +1,518 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:34:47 +0000 2019",
+    "display_text_range": [
+        0,
+        65
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    42,
+                    65
+                ],
+                "url": "https://t.co/NUuWcTPSDr",
+                "display_url": "twitter.com/hrpkonoichiro/…",
+                "expanded_url": "https://twitter.com/hrpkonoichiro/status/1206354787144359936"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "危機に立つ日本",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "kikinitatunihon",
+                "id": 2914809547,
+                "id_str": "2914809547"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @kikinitatunihon: グレタさんは、何故中国に怒らないのか！？ https://t.co/NUuWcTPSDr",
+    "has_extended_profile": false,
+    "id": 1206553255976689665,
+    "id_str": "1206553255976689665",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206354787144359936,
+    "quoted_status_id_str": "1206354787144359936",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 19,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 02:29:12 +0000 2019",
+        "display_text_range": [
+            0,
+            20
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        21,
+                        44
+                    ],
+                    "url": "https://t.co/NUuWcTPSDr",
+                    "display_url": "twitter.com/hrpkonoichiro/…",
+                    "expanded_url": "https://twitter.com/hrpkonoichiro/status/1206354787144359936"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 45,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんは、何故中国に怒らないのか！？ https://t.co/NUuWcTPSDr",
+        "has_extended_profile": false,
+        "id": 1206400855164932096,
+        "id_str": "1206400855164932096",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206354787144359936,
+        "quoted_status_id_str": "1206354787144359936",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Dec 15 23:26:08 +0000 2019",
+            "display_text_range": [
+                0,
+                165
+            ],
+            "entities": {
+                "urls": [],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 25,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "世界各国別の2016年の温室効果ガス排出量シェアは、\n1位が中国　２３．２%、\n2位が米国  １３．６%、\n3位EU-28    1０．０%、\n4位インド　５．１%、\n5位ロシア　５．１%\n6位インドネシア　3．８%\n7位ブラジル　３．２%\n8位日本　　２．７%\n9位コンゴ共和国　２．３%\n10位カナダ　１．５% \n日本化石賞？",
+            "has_extended_profile": false,
+            "id": 1206354787144359936,
+            "id_str": "1206354787144359936",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 17,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+            "scopes": null,
+            "text": "世界各国別の2016年の温室効果ガス排出量シェアは、\n1位が中国　２３．２%、\n2位が米国  １３．６%、\n3位EU-28    1０．０%、",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sat Jan 23 14:14:17 +0000 2010",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "日本を自由の大国にすべく、減税と規制緩和で国民、企業を豊かにし、GDP世界№１を目指す経済大国日本。そして来るアジアの危機に対しては、国防強化と毅然たる外交で国民の生命・安全・財産を守ります。愛国心・宗教心ある教育といじめのない学校、防災･減災で安心な宮崎・日本にしてまいります。生まれ故郷の宮崎で幸福党にて活動中。",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/UpwPqG7XJn",
+                                "display_url": "ameblo.jp/konoichiro",
+                                "expanded_url": "http://ameblo.jp/konoichiro"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 47,
+                "follow_request_sent": false,
+                "followers_count": 2086,
+                "following": false,
+                "friends_count": 1691,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 107722743,
+                "id_str": "107722743",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 66,
+                "location": "宮崎県　延岡市",
+                "name": "こうの　一郎（ｺｳﾉｲﾁﾛｳ）",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/107722743/1504475430",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1183163474592976896/PohIc-ZH_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1183163474592976896/PohIc-ZH_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "hrpkonoichiro",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 2118,
+                "time_zone": "",
+                "url": "http://t.co/UpwPqG7XJn",
+                "utc_offset": 0,
+                "verified": true,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 19,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんは\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Nov 30 14:02:52 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "東京在住。幸福の科学会員、幸福実現党党員、税理士。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/EY1KfKsTaZ",
+                            "display_url": "blog.goo.ne.jp/eternal-h",
+                            "expanded_url": "http://blog.goo.ne.jp/eternal-h"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 20224,
+            "follow_request_sent": false,
+            "followers_count": 1492,
+            "following": false,
+            "friends_count": 1655,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2914809547,
+            "id_str": "2914809547",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 8,
+            "location": "",
+            "name": "危機に立つ日本",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/539058172858605568/G1LUzqSG_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/539058172858605568/G1LUzqSG_normal.png",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "kikinitatunihon",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 7308,
+            "time_zone": "",
+            "url": "http://t.co/EY1KfKsTaZ",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @kikinitatunihon: グレタさんは、何故中国に怒ら\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 19 06:05:08 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ゆるい子育て推進委員会。育児にきつくなったり、人生きつくなったら声かけてね。日本の未来を守りたい。ちょい右側に住む人/メンタルケアアドバイザー/HS/Itaqの母",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/s3oMChabWV",
+                        "display_url": "s.ameblo.jp/el-reota?frm_i…",
+                        "expanded_url": "http://s.ameblo.jp/el-reota?frm_id=v.jpameblo\u0026device_id=41aba53a6c3e421d81dfa2cbba0ed74c"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 14948,
+        "follow_request_sent": false,
+        "followers_count": 1135,
+        "following": false,
+        "friends_count": 732,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 320044481,
+        "id_str": "320044481",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 19,
+        "location": "那須",
+        "name": "れおた🥀",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/320044481/1566820638",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1197408553276825600/BH2vKdxV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197408553276825600/BH2vKdxV_normal.jpg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "reota1218",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 42303,
+        "time_zone": "",
+        "url": "https://t.co/s3oMChabWV",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

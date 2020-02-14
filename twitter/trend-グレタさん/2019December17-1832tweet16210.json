@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 23:36:45 +0000 2019",
+    "display_text_range": [
+        0,
+        109
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    30,
+                    53
+                ],
+                "url": "https://t.co/jIf1TZXjvI",
+                "display_url": "lineblog.me/mogikenichiro/…",
+                "expanded_url": "https://lineblog.me/mogikenichiro/archives/8431809.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんをめぐる右往左往に学ぶ。ノイズを無視して本質に。 https://t.co/jIf1TZXjvI\n\n忖度なしにストレートに\n今現在、最新の科学的知見を\n的確に伝える姿勢\nこれがグレタさんのすごいところですね！",
+    "has_extended_profile": false,
+    "id": 1206719844743172096,
+    "id_str": "1206719844743172096",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんをめぐる右往左往に学ぶ。ノイズを無視して本質に。 https://t.co/jIf1TZXj",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 21 22:23:50 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/V05o3hRsym",
+                        "display_url": "satokota850028.livedoor.blog",
+                        "expanded_url": "http://satokota850028.livedoor.blog"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1822,
+        "follow_request_sent": false,
+        "followers_count": 57,
+        "following": false,
+        "friends_count": 160,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 966438341058052096,
+        "id_str": "966438341058052096",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "Tokyo-to, Japan",
+        "name": "KOTA@高校教師",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/966438341058052096/1521115630",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/966545199265562624/DrgjNSNr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/966545199265562624/DrgjNSNr_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ohanasaibai",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 561,
+        "time_zone": "",
+        "url": "https://t.co/V05o3hRsym",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

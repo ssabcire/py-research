@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:26:49 +0000 2019",
+    "display_text_range": [
+        0,
+        67
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんを叩いてる人は、なにか目指しているものや意図があってやっているのだろうかしら(批判や彼女の擁護とかじゃなく素朴な疑問として)",
+    "has_extended_profile": false,
+    "id": 1206823039960154112,
+    "id_str": "1206823039960154112",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんを叩いてる人は、なにか目指している\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 30 18:56:58 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "なにもかもが、また特別になる",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ZZTQeXdY1P",
+                        "display_url": "tkk8637f.hatenablog.com",
+                        "expanded_url": "http://tkk8637f.hatenablog.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 17203,
+        "follow_request_sent": false,
+        "followers_count": 752,
+        "following": false,
+        "friends_count": 707,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 16057278,
+        "id_str": "16057278",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 60,
+        "location": "ゆかり王国",
+        "name": "だめにんげん＠次の未来へ",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16057278/1454462884",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/524228567366778881/dglT0P2Z_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/524228567366778881/dglT0P2Z_normal.jpeg",
+        "profile_link_color": "366903",
+        "profile_sidebar_border_color": "003366",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "525451",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TKK8637F",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 60331,
+        "time_zone": "",
+        "url": "https://t.co/ZZTQeXdY1P",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

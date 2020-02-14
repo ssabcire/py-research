@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:19:09 +0000 2019",
+    "display_text_range": [
+        0,
+        26
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "スウェーデンのゆたぼんことグレタさんこれは草wwww",
+    "has_extended_profile": false,
+    "id": 1206549322516422657,
+    "id_str": "1206549322516422657",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "スウェーデンのゆ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 29 12:31:28 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Rose Garden Killer Beesのvocal(24)🌹🐝                        \n日本酒ばっかり飲んでる。音楽と可愛い女の子が好き。ボダラン3/Apex Legendsまったりプレイしてます。\nRGKB youtube https://t.co/mKXdn0RbWl 聴",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/AVzSazk3Lt",
+                        "display_url": "Instagram.com/kazuangel",
+                        "expanded_url": "http://Instagram.com/kazuangel"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 8558,
+        "follow_request_sent": false,
+        "followers_count": 382,
+        "following": false,
+        "friends_count": 1026,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 364228010,
+        "id_str": "364228010",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 6,
+        "location": "Matsumoto",
+        "name": "かずえんじぇる♡RGKBのVo.",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/364228010/1575697195",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1076369013045747713/Ufc7uZif_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1076369013045747713/Ufc7uZif_normal.png",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "KAZUANGEL6_6",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 13739,
+        "time_zone": "",
+        "url": "https://t.co/AVzSazk3Lt",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

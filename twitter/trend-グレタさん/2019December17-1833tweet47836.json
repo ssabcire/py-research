@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 09:53:28 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "くたびれはてこ",
+                "indices": [
+                    3,
+                    18
+                ],
+                "screen_name": "kutabirehateko",
+                "id": 2351751607,
+                "id_str": "2351751607"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @kutabirehateko: 一族をふりまわして金で形をつけたのね。若き日の過ち風に書いてるところが森鴎外の「舞姫」を思い出す。野口氏の売りは不良の更生物語だからこの経験が自分を成長させたとか人は何度でもやり直せるとか言うだろな。 / “グレタさん攻撃で炎上した登山家…",
+    "has_extended_profile": false,
+    "id": 1206512658968535042,
+    "id_str": "1206512658968535042",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 39,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 11:01:06 +0000 2019",
+        "display_text_range": [
+            0,
+            154
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        131,
+                        154
+                    ],
+                    "url": "https://t.co/GlftR6G8sR",
+                    "display_url": "htn.to/3zJ4nKVp8N",
+                    "expanded_url": "https://htn.to/3zJ4nKVp8N"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 81,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "一族をふりまわして金で形をつけたのね。若き日の過ち風に書いてるところが森鴎外の「舞姫」を思い出す。野口氏の売りは不良の更生物語だからこの経験が自分を成長させたとか人は何度でもやり直せるとか言うだろな。 / “グレタさん攻撃で炎上した登山家・野口健の過去は事…” https://t.co/GlftR6G8sR",
+        "has_extended_profile": false,
+        "id": 1206167291206856704,
+        "id_str": "1206167291206856704",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 39,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://b.hatena.ne.jp/\" rel=\"nofollow\"\u003eはてなブックマーク\u003c/a\u003e",
+        "scopes": null,
+        "text": "一族をふりまわして金で形をつけたのね。若き日の過ち風に書いてるところが森鴎外の「舞姫」を思い出す。野口\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Feb 19 14:08:11 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "修羅の国からこんにちは。解除したはずのブロックリストに苦しめられている。身に覚えのないブロック多数。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/7gE8FkKyuo",
+                            "display_url": "kutabirehateko.hateblo.jp",
+                            "expanded_url": "http://kutabirehateko.hateblo.jp/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 46321,
+            "follow_request_sent": false,
+            "followers_count": 5371,
+            "following": false,
+            "friends_count": 923,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2351751607,
+            "id_str": "2351751607",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 172,
+            "location": "",
+            "name": "くたびれはてこ",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2351751607/1489008559",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/631484882535845888/y0lMpAJQ_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/631484882535845888/y0lMpAJQ_normal.png",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "kutabirehateko",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 42521,
+            "time_zone": "",
+            "url": "https://t.co/7gE8FkKyuo",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @kutabirehateko: 一族をふりまわして金で形をつけたのね。若き日の過ち風に書いてるところが森鴎外の「",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 03 12:16:32 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "あった事をなかった事にはできない。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 22520,
+        "follow_request_sent": false,
+        "followers_count": 688,
+        "following": false,
+        "friends_count": 943,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1725368023,
+        "id_str": "1725368023",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 13,
+        "location": "",
+        "name": "ツワぶきヲ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1725368023/1477301977",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/701869186490863616/_CHtxIki_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/701869186490863616/_CHtxIki_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "araikotobuki",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 49187,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

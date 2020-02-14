@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 22:48:59 +0000 2019",
+    "display_text_range": [
+        0,
+        67
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    44,
+                    67
+                ],
+                "url": "https://t.co/eUYqiQmqI2",
+                "display_url": "twitter.com/i/events/12066…",
+                "expanded_url": "https://twitter.com/i/events/1206600997478383617"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Twitter モーメント",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "MomentsJapan",
+                "id": 3896350692,
+                "id_str": "3896350692"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @MomentsJapan: グレタさんとドイツ鉄道のやりとりが注目されています\nhttps://t.co/eUYqiQmqI2",
+    "has_extended_profile": false,
+    "id": 1206707825205862400,
+    "id_str": "1206707825205862400",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 27,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 16:37:49 +0000 2019",
+        "display_text_range": [
+            0,
+            49
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        26,
+                        49
+                    ],
+                    "url": "https://t.co/eUYqiQmqI2",
+                    "display_url": "twitter.com/i/events/12066…",
+                    "expanded_url": "https://twitter.com/i/events/1206600997478383617"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 63,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんとドイツ鉄道のやりとりが注目されています\nhttps://t.co/eUYqiQmqI2",
+        "has_extended_profile": false,
+        "id": 1206614416818688000,
+        "id_str": "1206614416818688000",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 27,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんとドイツ鉄道のやりとり\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Oct 14 22:56:11 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "日本語版Twitterモーメント公式アカウントです⚡️\nニュース速報から注目の話題までTwitterの「いま」をお伝えします",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 110016,
+            "following": false,
+            "friends_count": 17,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 3896350692,
+            "id_str": "3896350692",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1582,
+            "location": "",
+            "name": "Twitter モーメント",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3896350692/1468436603",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/784230544506617857/LXKNGFMV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/784230544506617857/LXKNGFMV_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "MomentsJapan",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 34414,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @MomentsJapan: グレタさんとドイツ鉄道のやりとり\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 03 04:46:46 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "首都圏近郊・日帰り限定の Live に通うか，公共放送を眺めているだけの，簡単な ゼネラル・エグゼクティブ・プレミアム・マーベラス・廃人（38歳・男性）です。2019年7月18日，14年10ヶ月かけて，まさかの【通算・1,000公演】に到達してしまいましたが，だからどうした 38ペソと言われても困ります（）（）（）",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/wwvn5vxQDe",
+                        "display_url": "phyocc-i.hatenablog.com",
+                        "expanded_url": "https://phyocc-i.hatenablog.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 7,
+        "follow_request_sent": false,
+        "followers_count": 549,
+        "following": false,
+        "friends_count": 580,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 94257779,
+        "id_str": "94257779",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 53,
+        "location": "埼玉の大都会 西大宮／福島・山梨県出身",
+        "name": "phyocc a.k.a. みりん38【きょうの料理で「廃人38号」と「一般極道廃人」認定された人】",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/94257779/1542816712",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/414751564738605056/eQFb9MLW_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/414751564738605056/eQFb9MLW_normal.png",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "phyocc",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 259460,
+        "time_zone": "",
+        "url": "https://t.co/wwvn5vxQDe",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

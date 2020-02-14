@@ -1,0 +1,164 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:34:02 +0000 2019",
+    "display_text_range": [
+        16,
+        135
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "まーさん(仙人会ちよー)",
+                "indices": [
+                    0,
+                    15
+                ],
+                "screen_name": "marsan01315823",
+                "id": 818020584919429120,
+                "id_str": "818020584919429120"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@marsan01315823 明日も明後日も仕事です😅\n\nグレタさんが踊らされて広告になってるなら まだ分かりますけど…グレタさんの考えで周りを動かしてるなら なかなかの曲者お嬢様ですよ\n色々バレて  アンチよりも推してる方のほうが 裏切られた時の反発は怖いでしょうね",
+    "has_extended_profile": false,
+    "id": 1206794658380017665,
+    "id_str": "1206794658380017665",
+    "in_reply_to_screen_name": "marsan01315823",
+    "in_reply_to_status_id": 1206792955735838722,
+    "in_reply_to_status_id_str": "1206792955735838722",
+    "in_reply_to_user_id": 818020584919429120,
+    "in_reply_to_user_id_str": "818020584919429120",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "明日も明後日も仕事です😅\n\nグレタさんが踊らされて広告になってるなら まだ分かりま\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 10 14:19:46 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "🌸桜🌸😆イエモン🎧ブルハ🎧\n🐟トップウォーター＆チャター❤🎵(///∇///)　　🐟I❤ELEMENTS🐟　　",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 216272,
+        "follow_request_sent": false,
+        "followers_count": 1962,
+        "following": false,
+        "friends_count": 1681,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 873545225188159490,
+        "id_str": "873545225188159490",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 10,
+        "location": "",
+        "name": "иao",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/873545225188159490/1556400532",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1198388898323238913/lSkE0TU0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198388898323238913/lSkE0TU0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "blue_fish_nao",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 87822,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

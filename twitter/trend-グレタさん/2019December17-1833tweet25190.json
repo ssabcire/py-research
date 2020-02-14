@@ -1,0 +1,337 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 16:56:14 +0000 2019",
+    "display_text_range": [
+        0,
+        49
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ふぃん",
+                "indices": [
+                    3,
+                    9
+                ],
+                "screen_name": "Df7Ko",
+                "id": 480957734,
+                "id_str": "480957734"
+            },
+            {
+                "name": "下地ミキオ",
+                "indices": [
+                    11,
+                    24
+                ],
+                "screen_name": "mikioshimoji",
+                "id": 97387806,
+                "id_str": "97387806"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @Df7Ko: @mikioshimoji グレタさんがどう凄いと思ったのか知りたいですね。",
+    "has_extended_profile": false,
+    "id": 1206619052593971200,
+    "id_str": "1206619052593971200",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 22:40:43 +0000 2019",
+        "display_text_range": [
+            14,
+            38
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "下地ミキオ",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "screen_name": "mikioshimoji",
+                    "id": 97387806,
+                    "id_str": "97387806"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 20,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@mikioshimoji グレタさんがどう凄いと思ったのか知りたいですね。",
+        "has_extended_profile": false,
+        "id": 1206343356449558528,
+        "id_str": "1206343356449558528",
+        "in_reply_to_screen_name": "mikioshimoji",
+        "in_reply_to_status_id": 1205995062263341056,
+        "in_reply_to_status_id_str": "1205995062263341056",
+        "in_reply_to_user_id": 97387806,
+        "in_reply_to_user_id_str": "97387806",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんがどう",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Feb 02 03:51:21 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "額紫陽花：花言葉は「謙虚」\n・二重人格で優柔不断\n・マスコミ不振\n・人権、環境問題にはアレルギー気味",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 20282,
+            "follow_request_sent": false,
+            "followers_count": 179,
+            "following": false,
+            "friends_count": 237,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 480957734,
+            "id_str": "480957734",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 4,
+            "location": "",
+            "name": "ふぃん",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/602965865638731777/lxt80O7X_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/602965865638731777/lxt80O7X_normal.jpg",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "Df7Ko",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 11435,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @Df7Ko: @mikioshimoji グレタさんがどう",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 05 15:23:16 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "日本が大好きです。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 192889,
+        "follow_request_sent": false,
+        "followers_count": 4255,
+        "following": false,
+        "friends_count": 4281,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1063243267,
+        "id_str": "1063243267",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 45,
+        "location": "",
+        "name": "yak",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1063243267/1486259731",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/828052161690890241/coNUu7lF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/828052161690890241/coNUu7lF_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "yak401",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 213963,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

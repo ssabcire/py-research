@@ -1,0 +1,517 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:13:06 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "あかま@使い捨てプラ研究員",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "akama58250735",
+                "id": 1193891508992110593,
+                "id_str": "1193891508992110593"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @akama58250735: プラの研究に携わっている立場から見て、グレタさんおよびその支持者の言説に一番引っ掛かりを覚えるのが「環境保護の手段・重要性ばかりが強調されていて、何を犠牲にすべきかには全く触れられていない」という点です（続く https://t.co/4g…",
+    "has_extended_profile": false,
+    "id": 1206804490382237696,
+    "id_str": "1206804490382237696",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1205417406040031232,
+    "quoted_status_id_str": "1205417406040031232",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 31,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 14 03:14:33 +0000 2019",
+        "display_text_range": [
+            0,
+            104
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        105,
+                        128
+                    ],
+                    "url": "https://t.co/4gnjpvkSqE",
+                    "display_url": "twitter.com/6d745/status/1…",
+                    "expanded_url": "https://twitter.com/6d745/status/1205417406040031232"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 17,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "プラの研究に携わっている立場から見て、グレタさんおよびその支持者の言説に一番引っ掛かりを覚えるのが「環境保護の手段・重要性ばかりが強調されていて、何を犠牲にすべきかには全く触れられていない」という点です（続く https://t.co/4gnjpvkSqE",
+        "has_extended_profile": false,
+        "id": 1205687494554992640,
+        "id_str": "1205687494554992640",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1205417406040031232,
+        "quoted_status_id_str": "1205417406040031232",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Fri Dec 13 09:21:19 +0000 2019",
+            "display_text_range": [
+                0,
+                148
+            ],
+            "entities": {
+                "urls": [],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 6596,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "（´-`）.｡oO（昨日、夫とグレタさんの話になり（夫は親グレタ派）、グレタさんが中国の環境破壊は無視してるところや、I'm justice と言ってるのが引っかかるとわたしが言ったら、夫はその件は全く知らなかった。で、英文での記事を改めて調べたら、その話をしてるのはアジアのメディアのみで、（続",
+            "has_extended_profile": false,
+            "id": 1205417406040031232,
+            "id_str": "1205417406040031232",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": {},
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -6.387438,
+                                53.2987449
+                            ],
+                            [
+                                -6.1078047,
+                                53.2987449
+                            ],
+                            [
+                                -6.1078047,
+                                53.4110598
+                            ],
+                            [
+                                -6.387438,
+                                53.4110598
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "contained_within": [],
+                "country": "Ireland",
+                "country_code": "IE",
+                "full_name": "Dublin City, Ireland",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "7dde0febc9ef245b",
+                "name": "Dublin City",
+                "place_type": "city",
+                "polylines": null,
+                "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json"
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 3807,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+            "scopes": null,
+            "text": "（´-`）.｡oO（昨日、夫とグレタさんの話になり（夫は親グレタ派）、グレタさんが中国の環境破壊は無視して",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sat Mar 12 06:00:21 +0000 2011",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Rokudenashiko/ Megumi Igarashi/ 自称芸術家。フェミニスト。表現の自由暴れん坊将軍。ラ＝ほと＝ぼぼ＝こーまん＝おめっこ＝おぱんぽん=ぱよぱよ=現在も被告人= ド＝ろくでなし子 Contact : massive.merch@gmail.com 6d745.info@gmail.com",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/xOkHoEO2Jf",
+                                "display_url": "6d745.com",
+                                "expanded_url": "http://6d745.com/"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 30425,
+                "follow_request_sent": false,
+                "followers_count": 35423,
+                "following": false,
+                "friends_count": 1315,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 264627362,
+                "id_str": "264627362",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 1020,
+                "location": "Dublin City, Ireland",
+                "name": "ろくでなし子 祝デコまん無罪確定！",
+                "notifications": false,
+                "profile_background_color": "FF6699",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/264627362/1460382567",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1178824797205213185/o_9VXXVu_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1178824797205213185/o_9VXXVu_normal.jpg",
+                "profile_link_color": "B40B43",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "E5507E",
+                "profile_text_color": "362720",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "6d745",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 68968,
+                "time_zone": "",
+                "url": "https://t.co/xOkHoEO2Jf",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 31,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "プラの研究に携わっている立場から見て、グレタさんおよびその支持者の言\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Nov 11 14:01:41 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "使い捨てプラスチックの研究に従事しています。 プラスチックは、正しく廃棄すれば人類の生活を豊かにしてくれます。 人間とプラスチックの共存を",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 26,
+            "follow_request_sent": false,
+            "followers_count": 36,
+            "following": false,
+            "friends_count": 34,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1193891508992110593,
+            "id_str": "1193891508992110593",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 2,
+            "location": "",
+            "name": "あかま@使い捨てプラ研究員",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1193891508992110593/1576162142",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1205136130863026176/9QL3NYpZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205136130863026176/9QL3NYpZ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "akama58250735",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 57,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @akama58250735: プラの研究に携わっている立場から見て、グレタさんおよびその支持者の言説に一番引っ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 08 08:43:46 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "リン（Rin）big fan of Bruce Greenwood ブルース・グリーンウッド熱愛中。ブルースの新情報や画像などを自分の楽しみでツイート。医療職。洋画、海外ドラマ、英語、着物、動物が好き。マイペース! Love films/TVshows/animals/kimonos/learning English.",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Fn8fMgQq5q",
+                        "display_url": "facebook.com/pages/Bruce-Gr…",
+                        "expanded_url": "https://www.facebook.com/pages/Bruce-Greenwood-Fans/1379889838979049?ref=hl"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 110041,
+        "follow_request_sent": false,
+        "followers_count": 1126,
+        "following": false,
+        "friends_count": 1373,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 867651446,
+        "id_str": "867651446",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 77,
+        "location": "Japan",
+        "name": "リン",
+        "notifications": false,
+        "profile_background_color": "D9C0BF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/867651446/1510787778",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/875519080358264832/PSrROcAd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875519080358264832/PSrROcAd_normal.jpg",
+        "profile_link_color": "1D94B5",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Rin_BruceFan",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 180436,
+        "time_zone": "",
+        "url": "https://t.co/Fn8fMgQq5q",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

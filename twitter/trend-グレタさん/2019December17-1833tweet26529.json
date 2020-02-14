@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 15:57:59 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "SeraphimLucifer",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "SeraphimLucifer",
+                "id": 147235505,
+                "id_str": "147235505"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @SeraphimLucifer: グレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い\n\nドイツ鉄道はさらにプレスリリースで、グレタさんら一行は「フランクフルト以降はファーストクラスに座っていた」と補足した。\n\n鉄道のファーストクラスで移動？w\nやはり…",
+    "has_extended_profile": false,
+    "id": 1206604393493061634,
+    "id_str": "1206604393493061634",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 212,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 09:40:31 +0000 2019",
+        "display_text_range": [
+            0,
+            156
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        133,
+                        156
+                    ],
+                    "url": "https://t.co/46KKkTMLk0",
+                    "display_url": "afpbb.com/articles/-/325…",
+                    "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 518,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い\n\nドイツ鉄道はさらにプレスリリースで、グレタさんら一行は「フランクフルト以降はファーストクラスに座っていた」と補足した。\n\n鉄道のファーストクラスで移動？w\nやはり、似非な活動家の傀儡ですねw\nhttps://t.co/46KKkTMLk0",
+        "has_extended_profile": false,
+        "id": 1206509399679717377,
+        "id_str": "1206509399679717377",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 212,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い\n\nドイツ鉄道はさらにプレスリリースで\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun May 23 15:33:14 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "背景の機体は祖父の愛した機体。 日本人の血ですれば1/4、オーストリア籍です。日本の祖父方直系の十五代目と実家の両家を統合し事業を含め、現在の当主として引き継いでいます。今は亡くなった祖父の意向で日本の大学院で勉学中。\n画像を少々変更。。。リアルではこちらの画像の方が近い。同じ格好をさせたい！後輩達が多いですかねw",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 56650,
+            "follow_request_sent": false,
+            "followers_count": 4806,
+            "following": false,
+            "friends_count": 4767,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 147235505,
+            "id_str": "147235505",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 51,
+            "location": "虎ノ門",
+            "name": "SeraphimLucifer",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/147235505/1485068706",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1144885245537165317/4mgTh4g0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144885245537165317/4mgTh4g0_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "SeraphimLucifer",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 62278,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @SeraphimLucifer: グレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い\n\nドイツ鉄道\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 19 14:31:45 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "1969年生、182cm・77kg、5年2カ月ぶりに名古屋に戻って来ました。化け猫、オネエ、カミングアウト完了。彼氏はずうっと募集中、自宅で光脱毛中〜腕、脚ほぼ成功、後はお尻全部と顔。五十路に向けて腹筋割り努力中〜^_^、自宅筋トレです。観光バー「昭和歌謡バーおかちめんこ」勤務です。2月13日から喫煙しなくなりました。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 244810,
+        "follow_request_sent": false,
+        "followers_count": 545,
+        "following": false,
+        "friends_count": 427,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2203203764,
+        "id_str": "2203203764",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 11,
+        "location": "",
+        "name": "satoko",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2203203764/1492611806",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/855343913124495360/ipq-ZbDs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/855343913124495360/ipq-ZbDs_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "minatuki14",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 93272,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

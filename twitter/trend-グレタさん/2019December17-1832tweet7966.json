@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:18:52 +0000 2019",
+    "display_text_range": [
+        0,
+        96
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    73,
+                    96
+                ],
+                "url": "https://t.co/JD9jNwNXLS",
+                "display_url": "cnn.co.jp/travel/3514692…",
+                "expanded_url": "https://www.cnn.co.jp/travel/35146920.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "渡邉哲也",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "daitojimari",
+                "id": 97091695,
+                "id_str": "97091695"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @daitojimari: 電気は？ファーストクラスに乗らず歩けばよい■ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容され https://t.co/JD9jNwNXLS",
+    "has_extended_profile": false,
+    "id": 1206775743323103232,
+    "id_str": "1206775743323103232",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 222,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 21:27:49 +0000 2019",
+        "display_text_range": [
+            0,
+            79
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        56,
+                        79
+                    ],
+                    "url": "https://t.co/JD9jNwNXLS",
+                    "display_url": "cnn.co.jp/travel/3514692…",
+                    "expanded_url": "https://www.cnn.co.jp/travel/35146920.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 903,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "電気は？ファーストクラスに乗らず歩けばよい■ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容され https://t.co/JD9jNwNXLS",
+        "has_extended_profile": false,
+        "id": 1206687399704588288,
+        "id_str": "1206687399704588288",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 222,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "電気は？ファーストクラスに乗らず歩けばよい■ドイツ鉄\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Dec 16 00:03:20 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "作家 経済評論家 渡邉哲也です。本業は企業経営です。 メルマガは https://t.co/jYQLQ3xwpd 出稿、講演の依頼は info@watanabetetsuya.info で受け付けております。お気軽に",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/G8E5EjcaLe",
+                            "display_url": "watanabetetsuya.info",
+                            "expanded_url": "http://www.watanabetetsuya.info/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 308,
+            "follow_request_sent": false,
+            "followers_count": 152014,
+            "following": false,
+            "friends_count": 35434,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 97091695,
+            "id_str": "97091695",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 3492,
+            "location": "日本",
+            "name": "渡邉哲也",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/97091695/1381759785",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1100298593548742657/6NUu2oRJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100298593548742657/6NUu2oRJ_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "daitojimari",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 160884,
+            "time_zone": "",
+            "url": "https://t.co/G8E5EjcaLe",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @daitojimari: 電気は？ファーストクラスに乗らず歩けばよい■ドイツ鉄\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 23 23:58:55 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ウイスキー好きの、おっさんです。\n好きなモルトは、LAPHROAIG。\nウイスキー検定1級。ウイスキー文化研究所ウイスキーエキスパート2019合格。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 18115,
+        "follow_request_sent": false,
+        "followers_count": 159,
+        "following": false,
+        "friends_count": 86,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 878402016598310912,
+        "id_str": "878402016598310912",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "日本 栃木",
+        "name": "Suzy",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1019618727644393473/KvMgaTHV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1019618727644393473/KvMgaTHV_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Suzy78306935",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 11651,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

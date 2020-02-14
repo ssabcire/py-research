@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:11:43 +0000 2019",
+    "display_text_range": [
+        0,
+        36
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんで学ぶ活用系\n\nグレナイ\nグレマス\nグレタ\nグレルトキ\nグレロ",
+    "has_extended_profile": false,
+    "id": 1206577649960673280,
+    "id_str": "1206577649960673280",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんで学ぶ活用系\n\n\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 28 14:35:08 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "珈琲をこよなく愛するカフェイン中毒の社畜物書き。家系ラーメンは野菜たっぷりで身体にいいので正義。 連載３年目突入の近代モチーフ異世界ファンタジー戦記｢異世界妖魔大戦〜転生者は戦争に備え改革を実行し、戦勝の為に身を投ずる〜｣を小説家になろう等で連載中。 合同誌のご依頼、お仕事御依頼などはDMにて受付中です。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/jJDEcbSmhz",
+                        "display_url": "mypage.syosetu.com/921927/",
+                        "expanded_url": "http://mypage.syosetu.com/921927/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 51706,
+        "follow_request_sent": false,
+        "followers_count": 1155,
+        "following": false,
+        "friends_count": 250,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 99963572,
+        "id_str": "99963572",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 53,
+        "location": "天空城塞gif",
+        "name": "金華 高乃",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/99963572/1575027008",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1201074897172094976/O3jnvVx9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201074897172094976/O3jnvVx9_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kinkatakano",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 153967,
+        "time_zone": "",
+        "url": "https://t.co/jJDEcbSmhz",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

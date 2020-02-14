@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 21:28:07 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Oricquen",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "oricquen",
+                "id": 69008611,
+                "id_str": "69008611"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @oricquen: オランダ運輸省は、3年前に廃止されたオランダ国内への国際夜行列車を今年12月15日の冬ダイヤ改正から復活させるため、財政的な支援として670万ユーロの補助金を供出すると発表した。 / “グレタさんで注目､｢飛び恥｣が鉄道に追い風 | 海外 | 東洋経…",
+    "has_extended_profile": false,
+    "id": 1206687472643477504,
+    "id_str": "1206687472643477504",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 11,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 14:28:07 +0000 2019",
+        "display_text_range": [
+            0,
+            163
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        140,
+                        163
+                    ],
+                    "url": "https://t.co/wUsWE7kOgN",
+                    "display_url": "htn.to/2kpsyd5maG",
+                    "expanded_url": "https://htn.to/2kpsyd5maG"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 16,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "オランダ運輸省は、3年前に廃止されたオランダ国内への国際夜行列車を今年12月15日の冬ダイヤ改正から復活させるため、財政的な支援として670万ユーロの補助金を供出すると発表した。 / “グレタさんで注目､｢飛び恥｣が鉄道に追い風 | 海外 | 東洋経済オンライン | 経済ニ…” https://t.co/wUsWE7kOgN",
+        "has_extended_profile": false,
+        "id": 1206219390049374209,
+        "id_str": "1206219390049374209",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 11,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://b.hatena.ne.jp/\" rel=\"nofollow\"\u003eはてなブックマーク\u003c/a\u003e",
+        "scopes": null,
+        "text": "オランダ運輸省は、3年前に廃止されたオランダ国内への国際夜行列車を今年12月15日の冬ダイヤ改正から復活させるため\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Aug 26 15:19:47 +0000 2009",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "興味分野　下賤な政局　末節な選挙予想　ポピュリズム　プアなウヨサヨ論　チープな公務員バッシング　地方痔痴　交通政策　メディア論　ロシア軍 放射脳　相撲　Ｂ級グルメ　Ｂ級アイドル　穴場スポット　",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/AApO9tiypP",
+                            "display_url": "d.hatena.ne.jp/kechack/",
+                            "expanded_url": "http://d.hatena.ne.jp/kechack/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 2653,
+            "follow_request_sent": false,
+            "followers_count": 11418,
+            "following": false,
+            "friends_count": 12540,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 69008611,
+            "id_str": "69008611",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 265,
+            "location": "横浜市",
+            "name": "Oricquen",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1119085904/3305708_3297605738_1__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1119085904/3305708_3297605738_1__normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "oricquen",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 526707,
+            "time_zone": "",
+            "url": "http://t.co/AApO9tiypP",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @oricquen: オランダ運輸省は、3年前に廃止されたオランダ国内への国際夜行列車を今年12月15日の冬ダイ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 04 16:08:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "製薬PM。杉並区生まれ、船橋市で育ち、川越市在住。松戸→枚方→川越→新宿勤務。高2と小5の２娘パパ。Pharmaceuticals, R\u0026D ProjectManager. KYF39(au), iPhone11Pro, iPadPro(SBM), iPhone6(docomo) 蠍座・B型[2019.11.18更新]",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 26355,
+        "follow_request_sent": false,
+        "followers_count": 4186,
+        "following": false,
+        "friends_count": 4823,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 62855157,
+        "id_str": "62855157",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 247,
+        "location": "小江戸川越, Kawagoe",
+        "name": "Akamomo_papa",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/62855157/1355844594",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3605950591/2a23ff0def831da2791ab1916fb466f9_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3605950591/2a23ff0def831da2791ab1916fb466f9_normal.png",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Akamomo_papa",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 251053,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

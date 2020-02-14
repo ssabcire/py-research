@@ -1,0 +1,174 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:56:32 +0000 2019",
+    "display_text_range": [
+        11,
+        141
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Shoko Egawa",
+                "indices": [
+                    0,
+                    10
+                ],
+                "screen_name": "amneris84",
+                "id": 101428190,
+                "id_str": "101428190"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@amneris84 大人が語ると感情論すぎて相手にされない話も、子供に語らせる事で世界へ発信でき、反対意見を封殺できる\n\nこの便利な構図により、第二第三のグレタさんは世界中に現れるのでしょうね。「分かったから君はまず皆と勉強しなさい」と言ってあげる大人が周囲にいない事がまず気の毒",
+    "has_extended_profile": false,
+    "id": 1206770121261244416,
+    "id_str": "1206770121261244416",
+    "in_reply_to_screen_name": "amneris84",
+    "in_reply_to_status_id": 1206737173375963137,
+    "in_reply_to_status_id_str": "1206737173375963137",
+    "in_reply_to_user_id": 101428190,
+    "in_reply_to_user_id_str": "101428190",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "大人が語ると感情論すぎて相手にされない話も、子供に語らせる事で世界へ発信でき、反対意見\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 01 05:57:47 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ボンペイ吉田。いいパチンコLLP代表。パチンコ台やパチンコ店の評価が主業務だったのに、最近はラブホを手伝ったりレンタカーの回送をしたりと、謎展開のnoteが驚きの一周年\n\nepachinko@gmail.com",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/2h2Bx7iQ3L",
+                        "display_url": "note.mu/epachinko/",
+                        "expanded_url": "https://note.mu/epachinko/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 12574,
+        "follow_request_sent": false,
+        "followers_count": 1978,
+        "following": false,
+        "friends_count": 123,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 128467111,
+        "id_str": "128467111",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 67,
+        "location": "千葉 印西市",
+        "name": "吉田圭志（ボンペイ吉田）",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/128467111/1572833725",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/983577565443981312/Z7WvcC2m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/983577565443981312/Z7WvcC2m_normal.jpg",
+        "profile_link_color": "005500",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "epachinko",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 7940,
+        "time_zone": "",
+        "url": "https://t.co/2h2Bx7iQ3L",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

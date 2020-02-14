@@ -1,0 +1,457 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:03:37 +0000 2019",
+    "display_text_range": [
+        0,
+        64
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    65,
+                    88
+                ],
+                "url": "https://t.co/w0Rp9elgNF",
+                "display_url": "twitter.com/gretathunberg/…",
+                "expanded_url": "https://twitter.com/gretathunberg/status/1204728167782588416"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんには注目しています。日本にも、多くのグレタがいるはず…思いを表現できずにいるのだと思う。\n\n表現すること、大事ですね♪ https://t.co/w0Rp9elgNF",
+    "has_extended_profile": false,
+    "id": 1206575609586995205,
+    "id_str": "1206575609586995205",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1204728167782588416,
+    "quoted_status_id_str": "1204728167782588416",
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Dec 11 11:42:32 +0000 2019",
+        "display_text_range": [
+            0,
+            202
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [
+                {
+                    "indices": [
+                        185,
+                        191
+                    ],
+                    "text": "cop25"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1204728015952982017,
+                    "id_str": "1204728015952982017",
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1204728015952982017/pu/img/QcpSVYv7paf2F0Hm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1204728015952982017/pu/img/QcpSVYv7paf2F0Hm.jpg",
+                    "url": "https://t.co/Dg8pz969yS",
+                    "display_url": "pic.twitter.com/Dg8pz969yS",
+                    "expanded_url": "https://twitter.com/GretaThunberg/status/1204728167782588416/video/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        203,
+                        226
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1204728015952982017,
+                    "id_str": "1204728015952982017",
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1204728015952982017/pu/img/QcpSVYv7paf2F0Hm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1204728015952982017/pu/img/QcpSVYv7paf2F0Hm.jpg",
+                    "url": "https://t.co/Dg8pz969yS",
+                    "display_url": "pic.twitter.com/Dg8pz969yS",
+                    "expanded_url": "https://twitter.com/GretaThunberg/status/1204728167782588416/video/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "video",
+                    "indices": [
+                        203,
+                        226
+                    ],
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 60474,
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1204728015952982017/pu/pl/wIXolmAQUxzq7uO4.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1204728015952982017/pu/vid/640x360/vGcifC_dftJO23c7.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1204728015952982017/pu/vid/1280x720/bjZAbDqVIbNpot4o.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1204728015952982017/pu/vid/480x270/9MPoQAuWc0T3OVzx.mp4?tag=10"
+                            }
+                        ]
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 251359,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "“Well I am telling you there is hope. I have seen it.\nBut it does not come from governments or corporations.\nIt comes from the people.”\n\nHere’s a small part from my speech today at the #cop25 in Madrid. https://t.co/Dg8pz969yS",
+        "has_extended_profile": false,
+        "id": 1204728167782588416,
+        "id_str": "1204728167782588416",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "en",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 50534,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "“Well I am telling you there is hope. I have seen it.\nBut it does not come from governments or corporations.\nIt comes from the people.”\n\nHere’s a small part from my speech today at the #cop25 in M",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jun 12 06:14:23 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "A teenager working on her anger management problem. Currently chilling and watching a good old fashioned movie with a friend.",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/T59gBserXD",
+                            "display_url": "youtu.be/H2QxFM9y0tY",
+                            "expanded_url": "https://youtu.be/H2QxFM9y0tY"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 16091,
+            "follow_request_sent": false,
+            "followers_count": 3672125,
+            "following": false,
+            "friends_count": 1793,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1006419421244678144,
+            "id_str": "1006419421244678144",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 7266,
+            "location": "Sverige",
+            "name": "Greta Thunberg",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1006419421244678144/1559499911",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1205151355230457856/h78KQbyF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205151355230457856/h78KQbyF_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "GretaThunberg",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 6206,
+            "time_zone": "",
+            "url": "https://t.co/T59gBserXD",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんには注目しています。日本にも、多\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 15 22:19:16 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "浦安在住。夫1人、ネコ2匹、子ども4人。高校、専門学校、高等看護学校、インタナショナルスクールで教えた経験あり。ロンドン、ボストン、バンコクで子育て。\r\nイエナプラン教育を学びつつ、\r\n海辺のLibrary\u0026Cafe、おうちCafeネットワークづくり、安心して暮らすための「シェアハウスプロジェクト」に取り組んでいる。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/kggA4j0Ll1",
+                        "display_url": "wakuwakunewschool.blogspot.com",
+                        "expanded_url": "http://wakuwakunewschool.blogspot.com"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1248,
+        "follow_request_sent": false,
+        "followers_count": 307,
+        "following": false,
+        "friends_count": 310,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 114580044,
+        "id_str": "114580044",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 8,
+        "location": "",
+        "name": "山田順子",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/891195495/____6__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/891195495/____6__normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "chaochocotora",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 1309,
+        "time_zone": "",
+        "url": "http://t.co/kggA4j0Ll1",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

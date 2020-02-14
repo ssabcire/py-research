@@ -1,0 +1,182 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 13:16:32 +0000 2019",
+    "display_text_range": [
+        0,
+        88
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    34,
+                    57
+                ],
+                "url": "https://t.co/Z8tnCRi0uf",
+                "display_url": "CNN.co.jp",
+                "expanded_url": "http://CNN.co.jp"
+            },
+            {
+                "indices": [
+                    59,
+                    82
+                ],
+                "url": "https://t.co/mUX5r11fia",
+                "display_url": "headlines.yahoo.co.jp/hl?a=20191216-…",
+                "expanded_url": "https://headlines.yahoo.co.jp/hl?a=20191216-35146920-cnn-int"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容され（https://t.co/Z8tnCRi0uf） https://t.co/mUX5r11fia クソガキ。",
+    "has_extended_profile": false,
+    "id": 1206563761215008769,
+    "id_str": "1206563761215008769",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 19 04:24:52 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ただの酒飲み旅人。飛行機、ローカル線、山歩き、なんとか東京マラソン完走。新日本キックボクシングと全てのキックボクサーサポーター。宅建士。備考：スペル星人を下宿させた経験アリ。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/pUZqjza3LB",
+                        "display_url": "twilog.org/makinobukun",
+                        "expanded_url": "http://twilog.org/makinobukun"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 42801,
+        "follow_request_sent": false,
+        "followers_count": 3506,
+        "following": false,
+        "friends_count": 3875,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 124360035,
+        "id_str": "124360035",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 58,
+        "location": "恵比寿、成城、赤羽、時々野毛",
+        "name": "マキヤマノブヲ",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/988277499703394305/XgyUeHdO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/988277499703394305/XgyUeHdO_normal.jpg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "makinobukun",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 68626,
+        "time_zone": "",
+        "url": "https://t.co/pUZqjza3LB",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

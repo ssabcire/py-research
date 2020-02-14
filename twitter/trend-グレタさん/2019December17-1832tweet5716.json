@@ -1,0 +1,386 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:03:45 +0000 2019",
+    "display_text_range": [
+        11,
+        58
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "志位和夫",
+                "indices": [
+                    0,
+                    10
+                ],
+                "screen_name": "shiikazuo",
+                "id": 1409223888,
+                "id_str": "1409223888"
+            }
+        ],
+        "media": [
+            {
+                "id": 1206787033106018304,
+                "id_str": "1206787033106018304",
+                "media_url": "http://pbs.twimg.com/media/EL9eaavU8AAtGre.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL9eaavU8AAtGre.jpg",
+                "url": "https://t.co/swLmQar05L",
+                "display_url": "pic.twitter.com/swLmQar05L",
+                "expanded_url": "https://twitter.com/HekiryuSisyo/status/1206787039527485440/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 700,
+                        "h": 700,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 700,
+                        "h": 700,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    59,
+                    82
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206787033106018304,
+                "id_str": "1206787033106018304",
+                "media_url": "http://pbs.twimg.com/media/EL9eaavU8AAtGre.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL9eaavU8AAtGre.jpg",
+                "url": "https://t.co/swLmQar05L",
+                "display_url": "pic.twitter.com/swLmQar05L",
+                "expanded_url": "https://twitter.com/HekiryuSisyo/status/1206787039527485440/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 700,
+                        "h": 700,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 700,
+                        "h": 700,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    59,
+                    82
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            },
+            {
+                "id": 1206787033093378048,
+                "id_str": "1206787033093378048",
+                "media_url": "http://pbs.twimg.com/media/EL9eaasUEAAsgCA.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL9eaasUEAAsgCA.jpg",
+                "url": "https://t.co/swLmQar05L",
+                "display_url": "pic.twitter.com/swLmQar05L",
+                "expanded_url": "https://twitter.com/HekiryuSisyo/status/1206787039527485440/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 700,
+                        "h": 450,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 437,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 700,
+                        "h": 450,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    59,
+                    82
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            },
+            {
+                "id": 1206787033105985536,
+                "id_str": "1206787033105985536",
+                "media_url": "http://pbs.twimg.com/media/EL9eaavUcAA9_-O.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL9eaavUcAA9_-O.jpg",
+                "url": "https://t.co/swLmQar05L",
+                "display_url": "pic.twitter.com/swLmQar05L",
+                "expanded_url": "https://twitter.com/HekiryuSisyo/status/1206787039527485440/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 700,
+                        "h": 450,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 437,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 700,
+                        "h": 450,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    59,
+                    82
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            },
+            {
+                "id": 1206787033106014210,
+                "id_str": "1206787033106014210",
+                "media_url": "http://pbs.twimg.com/media/EL9eaavU4AIFhNl.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL9eaavU4AIFhNl.jpg",
+                "url": "https://t.co/swLmQar05L",
+                "display_url": "pic.twitter.com/swLmQar05L",
+                "expanded_url": "https://twitter.com/HekiryuSisyo/status/1206787039527485440/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 700,
+                        "h": 450,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 437,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 700,
+                        "h": 450,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    59,
+                    82
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@shiikazuo しかし、グレタさんは中国にはなにも言わない。\nバックには中国の支援団体があるという疑惑もある。 https://t.co/swLmQar05L",
+    "has_extended_profile": false,
+    "id": 1206787039527485440,
+    "id_str": "1206787039527485440",
+    "in_reply_to_screen_name": "shiikazuo",
+    "in_reply_to_status_id": 1206570410965233664,
+    "in_reply_to_status_id_str": "1206570410965233664",
+    "in_reply_to_user_id": 1409223888,
+    "in_reply_to_user_id_str": "1409223888",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "しかし、グレタさんは中国にはな\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 30 20:39:23 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "人界の政治や世界情勢について呟く垢🇯🇵リプへの返信は基本一往復。DMしません。与党は自民党支持、野党は国民民主党が気になる。国内外での日本人へのヘイトや差別は許せない。自衛隊は合憲。与野党関係なくいい物は良い、悪い物は悪いと言っていきたい。ただし、#共産主義、#日本共産党はノーサンキュー。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 11065,
+        "follow_request_sent": false,
+        "followers_count": 226,
+        "following": false,
+        "friends_count": 467,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1156303294832111616,
+        "id_str": "1156303294832111616",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 18,
+        "location": "日本",
+        "name": "SisyoHekiryu(政治/世界情勢)",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1156303294832111616/1571815323",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1201997474350559232/S2toZFdq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201997474350559232/S2toZFdq_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HekiryuSisyo",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 7579,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

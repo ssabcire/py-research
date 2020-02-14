@@ -1,0 +1,496 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 18:18:40 +0000 2019",
+    "display_text_range": [
+        0,
+        52
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "よたかもめ@目指せイベント初攻略",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "Toyo_seagull",
+                "id": 1175049392169971712,
+                "id_str": "1175049392169971712"
+            }
+        ],
+        "media": [
+            {
+                "id": 1205691447439060993,
+                "id_str": "1205691447439060993",
+                "media_url": "http://pbs.twimg.com/media/ELt5-8FU8AEQ-2M.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ELt5-8FU8AEQ-2M.jpg",
+                "url": "https://t.co/04Lnky9jFA",
+                "display_url": "pic.twitter.com/04Lnky9jFA",
+                "expanded_url": "https://twitter.com/Toyo_seagull/status/1205691451377504256/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 749,
+                        "h": 563,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 511,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 749,
+                        "h": 563,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1205691451377504256,
+                "source_status_id_str": "1205691451377504256",
+                "type": "photo",
+                "indices": [
+                    29,
+                    52
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1205691447439060993,
+                "id_str": "1205691447439060993",
+                "media_url": "http://pbs.twimg.com/media/ELt5-8FU8AEQ-2M.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ELt5-8FU8AEQ-2M.jpg",
+                "url": "https://t.co/04Lnky9jFA",
+                "display_url": "pic.twitter.com/04Lnky9jFA",
+                "expanded_url": "https://twitter.com/Toyo_seagull/status/1205691451377504256/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 749,
+                        "h": 563,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 511,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 749,
+                        "h": 563,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1205691451377504256,
+                "source_status_id_str": "1205691451377504256",
+                "type": "photo",
+                "indices": [
+                    29,
+                    52
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @Toyo_seagull: グレタさんのコラ素材 https://t.co/04Lnky9jFA",
+    "has_extended_profile": false,
+    "id": 1206639796086394881,
+    "id_str": "1206639796086394881",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 12,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 14 03:30:17 +0000 2019",
+        "display_text_range": [
+            0,
+            10
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1205691447439060993,
+                    "id_str": "1205691447439060993",
+                    "media_url": "http://pbs.twimg.com/media/ELt5-8FU8AEQ-2M.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELt5-8FU8AEQ-2M.jpg",
+                    "url": "https://t.co/04Lnky9jFA",
+                    "display_url": "pic.twitter.com/04Lnky9jFA",
+                    "expanded_url": "https://twitter.com/Toyo_seagull/status/1205691451377504256/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 749,
+                            "h": 563,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 511,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 749,
+                            "h": 563,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        11,
+                        34
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1205691447439060993,
+                    "id_str": "1205691447439060993",
+                    "media_url": "http://pbs.twimg.com/media/ELt5-8FU8AEQ-2M.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELt5-8FU8AEQ-2M.jpg",
+                    "url": "https://t.co/04Lnky9jFA",
+                    "display_url": "pic.twitter.com/04Lnky9jFA",
+                    "expanded_url": "https://twitter.com/Toyo_seagull/status/1205691451377504256/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 749,
+                            "h": 563,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 511,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 749,
+                            "h": 563,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        11,
+                        34
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 27,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんのコラ素材 https://t.co/04Lnky9jFA",
+        "has_extended_profile": false,
+        "id": 1205691451377504256,
+        "id_str": "1205691451377504256",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 12,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Sep 20 14:09:52 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "アイコン拝借させて頂きました→https://t.co/tS0rAzvFvP 第六駆逐隊と金剛型四姉妹が好きな提督っ！コンサとロッテも見てある！ 艦これ/戦艦少女/アッシュアームズ/GTSPORT/ワーフリ",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 6434,
+            "follow_request_sent": false,
+            "followers_count": 119,
+            "following": false,
+            "friends_count": 177,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1175049392169971712,
+            "id_str": "1175049392169971712",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1,
+            "location": "",
+            "name": "よたかもめ@目指せイベント初攻略",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1175049392169971712/1569730632",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1187544578926104578/PUHRKdn8_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1187544578926104578/PUHRKdn8_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Toyo_seagull",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 4438,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @Toyo_seagull: グレタさんのコラ素材 htt",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 23 06:07:55 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2531,
+        "follow_request_sent": false,
+        "followers_count": 9,
+        "following": false,
+        "friends_count": 5,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1142675631810867201,
+        "id_str": "1142675631810867201",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "愛野美奈子",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1142677839327584256/P5iblLL7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1142677839327584256/P5iblLL7_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "0GXh069T0SsaHBe",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 1430,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

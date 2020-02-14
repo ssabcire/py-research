@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:14:11 +0000 2019",
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "茂木健一郎",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "kenichiromogi",
+                "id": 92686016,
+                "id_str": "92686016"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @kenichiromogi: グレタトゥーンベリさんの活動には相変わらず注目している。それにしても不思議なのは、彼女のことを執拗に悪く言う人、特に中高年の男の人（典型的なのはトランプ大統領）がいるということである。なぜ、いい年した男の人がグレタさんに反発するのだろう？",
+    "has_extended_profile": false,
+    "id": 1206729263958724608,
+    "id_str": "1206729263958724608",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 930,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 14 21:45:43 +0000 2019",
+        "display_text_range": [
+            0,
+            119
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 4040,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタトゥーンベリさんの活動には相変わらず注目している。それにしても不思議なのは、彼女のことを執拗に悪く言う人、特に中高年の男の人（典型的なのはトランプ大統領）がいるということである。なぜ、いい年した男の人がグレタさんに反発するのだろう？",
+        "has_extended_profile": false,
+        "id": 1205967125392826368,
+        "id_str": "1205967125392826368",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 930,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタトゥーンベリさんの活動には相変わらず注目している。それにしても不思議なの\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Nov 26 04:46:37 +0000 2009",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "脳科学者、作家、ブロードキャスター。クオリアを研究。『脳とクオリア』『生きて死ぬ私』『脳と仮想』『今、ここからすべての場所へ』『東京藝大物語』『ペンチメント』kenmogi2005qualia@gmail.com    研究 https://t.co/xJxmj9pFUF",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/kGNugKwDBj",
+                            "display_url": "qualia-manifesto.com",
+                            "expanded_url": "http://www.qualia-manifesto.com"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 22,
+            "follow_request_sent": false,
+            "followers_count": 1450542,
+            "following": false,
+            "friends_count": 4537,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 92686016,
+            "id_str": "92686016",
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "lang": "",
+            "listed_count": 22117,
+            "location": "東京",
+            "name": "茂木健一郎",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1129253096868069376/Onx6-O-T_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1129253096868069376/Onx6-O-T_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "kenichiromogi",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 111645,
+            "time_zone": "",
+            "url": "http://t.co/kGNugKwDBj",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @kenichiromogi: グレタトゥーンベリさんの活動には相変わらず注目している。それにしても不思議なの\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 15 13:28:35 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "未だに上手く活用出来ませんが、ツイママ友達募集中です。育児＆教育、料理、その他生活情報～趣味もろもろ、楽しくお話できる方。よろしくお願いします＾＾",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 75,
+        "follow_request_sent": false,
+        "followers_count": 27,
+        "following": false,
+        "friends_count": 54,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 144158487,
+        "id_str": "144158487",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "栃木県",
+        "name": "ブライト",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1396529635/Yellow_Bird_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1396529635/Yellow_Bird_normal.png",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "brite0217",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 2101,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

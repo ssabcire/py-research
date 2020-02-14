@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 16:02:04 +0000 2019",
+    "display_text_range": [
+        0,
+        129
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    106,
+                    129
+                ],
+                "url": "https://t.co/ooQBXd5omc",
+                "display_url": "docs.google.com/document/d/1Us…",
+                "expanded_url": "https://docs.google.com/document/d/1Usw-iK9BnXoJP1I4oBW7ua_6RXJWW5LmtkWb8FkK39g/edit?usp=drivesdk"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさん話題が尽きないね。ドイツで列車移動での発信が「(実はファーストクラスだが)通路で座ってた」て捏造して即バレ。今後の発言に不信感しかない。この人を肯定する意見の方も不信感。\n\n2019年12月16日月曜\nhttps://t.co/ooQBXd5omc",
+    "has_extended_profile": false,
+    "id": 1206605418589343744,
+    "id_str": "1206605418589343744",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさん話題が尽きないね。ドイツで列車移動での発信が「(実はファーストクラスだが)通路\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 24 22:28:10 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "格闘ゲームVFおじさん\n発生46Fの連コイン\n無駄なメモ作成\n\n当アカウントでの公開リストに流れるツイを12:30\u002624:30に10分の幅で30程RTしたりしています\n「RT多数で気に障る」等ありましたらリムーブ等ご自由に\n\nプロフィールのURLはグーグルドキュメントのメモに日毎にRTしたツイートのURLを並べています",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/HwR1dhFDhT",
+                        "display_url": "docs.google.com/document/d/1IF…",
+                        "expanded_url": "https://docs.google.com/document/d/1IFeRgDY7RESRvFGVlL9wLzfpha4SWGytrcOduX1csO0/edit?usp=drivesdk"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 47462,
+        "follow_request_sent": false,
+        "followers_count": 235,
+        "following": false,
+        "friends_count": 263,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 159260560,
+        "id_str": "159260560",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 5,
+        "location": "大阪市北区小松原",
+        "name": "46(しろ～)",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/878921074443862016/K6937tTT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/878921074443862016/K6937tTT_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "d46b",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 45414,
+        "time_zone": "",
+        "url": "https://t.co/HwR1dhFDhT",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

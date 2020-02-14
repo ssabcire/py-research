@@ -1,0 +1,271 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:54:01 +0000 2019",
+    "display_text_range": [
+        0,
+        135
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    88,
+                    111
+                ],
+                "url": "https://t.co/iNGL5YmTGV",
+                "display_url": "bit.ly/2ZS8Tit",
+                "expanded_url": "https://bit.ly/2ZS8Tit"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    82,
+                    86
+                ],
+                "text": "グレタ"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": [
+            {
+                "id": 1144133997401759744,
+                "id_str": "1144133997401759744",
+                "media_url": "http://pbs.twimg.com/media/D-DHzwqUYAAVeF-.png",
+                "media_url_https": "https://pbs.twimg.com/media/D-DHzwqUYAAVeF-.png",
+                "url": "https://t.co/awJZpIhes3",
+                "display_url": "pic.twitter.com/awJZpIhes3",
+                "expanded_url": "https://twitter.com/YamadaHiroshi88/status/1144134004636958720/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 506,
+                        "h": 253,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 506,
+                        "h": 253,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 506,
+                        "h": 253,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1144134004636958720,
+                "source_status_id_str": "1144134004636958720",
+                "type": "photo",
+                "indices": [
+                    112,
+                    135
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1144133997401759744,
+                "id_str": "1144133997401759744",
+                "media_url": "http://pbs.twimg.com/media/D-DHzwqUYAAVeF-.png",
+                "media_url_https": "https://pbs.twimg.com/media/D-DHzwqUYAAVeF-.png",
+                "url": "https://t.co/awJZpIhes3",
+                "display_url": "pic.twitter.com/awJZpIhes3",
+                "expanded_url": "https://twitter.com/YamadaHiroshi88/status/1144134004636958720/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 506,
+                        "h": 253,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 506,
+                        "h": 253,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 506,
+                        "h": 253,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1144134004636958720,
+                "source_status_id_str": "1144134004636958720",
+                "type": "photo",
+                "indices": [
+                    112,
+                    135
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "★短縮版：６／２７（木）◆ぼくは、「大人」たちは反省すべきだと思います。少女グレタさんの異常気象の声に反応し、世界１１６か国の１９０５か所という規模で若者が……。　#グレタ　\nhttps://t.co/iNGL5YmTGV\nhttps://t.co/awJZpIhes3",
+    "has_extended_profile": false,
+    "id": 1206739288571793408,
+    "id_str": "1206739288571793408",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twittbot.net/\" rel=\"nofollow\"\u003etwittbot.net\u003c/a\u003e",
+    "scopes": null,
+    "text": "★短縮版：６／２７（木）◆ぼくは、「大人」たちは反省すべきだと思います。少女グレタさんの異",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 13 14:25:40 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "「脱コンビニ食！」（平凡社新書）などの著者で食生態学者。元・大学名誉教授。日本危機管理学会会員。１９７５年から、小冊子版「暮しの赤信号」を発行。文化放送やＮＨＫなどにも出演したり講演も続けています。企業名や商品名を公表したメルマガ「暮しの赤信号」を、毎回７０００部、毎日（日曜除く）、早朝５時に配信しております。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/8RKeQdtV6r",
+                        "display_url": "yamadainochi.com",
+                        "expanded_url": "http://yamadainochi.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 529,
+        "following": false,
+        "friends_count": 874,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 215286622,
+        "id_str": "215286622",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 9,
+        "location": "東京都",
+        "name": "山田博士（やまだ・ひろし）",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3103385297/e87b7e963b93738f3c8a1137ebc1499e_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3103385297/e87b7e963b93738f3c8a1137ebc1499e_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "YamadaHiroshi88",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 67221,
+        "time_zone": "",
+        "url": "http://t.co/8RKeQdtV6r",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

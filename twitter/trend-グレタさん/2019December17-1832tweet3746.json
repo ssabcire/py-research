@@ -1,0 +1,390 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:07:02 +0000 2019",
+    "display_text_range": [
+        0,
+        88
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    36,
+                    59
+                ],
+                "url": "https://t.co/3Uu4Mgbvzy",
+                "display_url": "moccosnoon.com/archives/20420…",
+                "expanded_url": "https://moccosnoon.com/archives/204209.html"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    70,
+                    74
+                ],
+                "text": "グレタ"
+            },
+            {
+                "indices": [
+                    75,
+                    81
+                ],
+                "text": "環境活動家"
+            },
+            {
+                "indices": [
+                    82,
+                    88
+                ],
+                "text": "バッシング"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "もっこす",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "mokkosu6",
+                "id": 784321734,
+                "id_str": "784321734"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @mokkosu6: グレタさん、海外ネット上で壮絶なバッシング https://t.co/3Uu4Mgbvzy☆気になったらRT！ #グレタ #環境活動家 #バッシング",
+    "has_extended_profile": false,
+    "id": 1206802963110350848,
+    "id_str": "1206802963110350848",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 02:00:07 +0000 2019",
+        "display_text_range": [
+            0,
+            74
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        22,
+                        45
+                    ],
+                    "url": "https://t.co/3Uu4Mgbvzy",
+                    "display_url": "moccosnoon.com/archives/20420…",
+                    "expanded_url": "https://moccosnoon.com/archives/204209.html"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        56,
+                        60
+                    ],
+                    "text": "グレタ"
+                },
+                {
+                    "indices": [
+                        61,
+                        67
+                    ],
+                    "text": "環境活動家"
+                },
+                {
+                    "indices": [
+                        68,
+                        74
+                    ],
+                    "text": "バッシング"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん、海外ネット上で壮絶なバッシング https://t.co/3Uu4Mgbvzy☆気になったらRT！ #グレタ #環境活動家 #バッシング",
+        "has_extended_profile": false,
+        "id": 1206755924766887938,
+        "id_str": "1206755924766887938",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://moccosnoon.com/\" rel=\"nofollow\"\u003eモッコスのアプリ\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん、海外ネット上で壮絶なバッシング https://t.",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Aug 27 10:08:53 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "『モッコスヌ～ン』という2chまとめブログをやっています。   主にニュース系スレッドをまとめた最新記事をツイートしています。   お気軽にフォローしてやってください。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/wzezBYPVdG",
+                            "display_url": "moccosnoon.com",
+                            "expanded_url": "http://moccosnoon.com"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 5,
+            "follow_request_sent": false,
+            "followers_count": 6849,
+            "following": false,
+            "friends_count": 7058,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 784321734,
+            "id_str": "784321734",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 43,
+            "location": "",
+            "name": "もっこす",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/784321734/1513626198",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/942843318794256384/hJEwpKX3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/942843318794256384/hJEwpKX3_normal.jpg",
+            "profile_link_color": "333333",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "mokkosu6",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 13955,
+            "time_zone": "",
+            "url": "http://t.co/wzezBYPVdG",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @mokkosu6: グレタさん、海外ネット上で壮絶なバッシング https://t.",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 13 00:46:55 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "温泉行きたい人生だった。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1,
+        "follow_request_sent": false,
+        "followers_count": 64,
+        "following": false,
+        "friends_count": 136,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1194416292196839425,
+        "id_str": "1194416292196839425",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 3,
+        "location": "",
+        "name": "oyasumi_onsen",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1194976314442174465/j3rEvov-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194976314442174465/j3rEvov-_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "OnsenOyasumi",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 6225,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,347 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 07:09:03 +0000 2019",
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ami",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "IshikariAmi",
+                "id": 1192466437203361792,
+                "id_str": "1192466437203361792"
+            },
+            {
+                "name": "下地ミキオ",
+                "indices": [
+                    17,
+                    30
+                ],
+                "screen_name": "mikioshimoji",
+                "id": 97387806,
+                "id_str": "97387806"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @IshikariAmi: @mikioshimoji 本気で言ってるんですか？\n地球の二酸化炭素の排出量は、海からが900億トン。人間が石化燃料を燃やして排出する量が70億トン。\nつまり人間がどんなに二酸化炭素の排出を止めても自然の力にはかないません。全く無意味です。…",
+    "has_extended_profile": false,
+    "id": 1206833669379244032,
+    "id_str": "1206833669379244032",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 126,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 10:52:31 +0000 2019",
+        "display_text_range": [
+            14,
+            158
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "下地ミキオ",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "screen_name": "mikioshimoji",
+                    "id": 97387806,
+                    "id_str": "97387806"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 353,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@mikioshimoji 本気で言ってるんですか？\n地球の二酸化炭素の排出量は、海からが900億トン。人間が石化燃料を燃やして排出する量が70億トン。\nつまり人間がどんなに二酸化炭素の排出を止めても自然の力にはかないません。全く無意味です。\nそれをトランプ大統領は理解していますが、グレタさんは学校にも行きません。",
+        "has_extended_profile": false,
+        "id": 1206165133040291841,
+        "id_str": "1206165133040291841",
+        "in_reply_to_screen_name": "mikioshimoji",
+        "in_reply_to_status_id": 1205995062263341056,
+        "in_reply_to_status_id_str": "1205995062263341056",
+        "in_reply_to_user_id": 97387806,
+        "in_reply_to_user_id_str": "97387806",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 126,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "本気で言ってるんですか？\n地球の二酸化炭素の排出量は、海からが900億トン。人間が石化燃料を燃やして\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Nov 07 15:41:48 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "YouTubeで「カラオケで歌って採点してみた！」\nを配信しています。よかったら見てくださいね！",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/PO888wyFen",
+                            "display_url": "youtube.com/channel/UCxoMd…",
+                            "expanded_url": "https://www.youtube.com/channel/UCxoMd148NMmrwQwZdUXx6Zw"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 2144,
+            "follow_request_sent": false,
+            "followers_count": 585,
+            "following": false,
+            "friends_count": 1184,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1192466437203361792,
+            "id_str": "1192466437203361792",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 7,
+            "location": "北海道の田舎（熊が出る）",
+            "name": "ami",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1192466437203361792/1573142184",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1192470850433191936/GNSOHXYB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192470850433191936/GNSOHXYB_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "IshikariAmi",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 2088,
+            "time_zone": "",
+            "url": "https://t.co/PO888wyFen",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @IshikariAmi: @mikioshimoji 本気で言ってるんですか？\n地球の二酸化炭素の排出量は、海からが900億トン。\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 29 07:22:54 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "にゃん様。 政治社会時事問題多め。面白い物可愛い物等雑多で垢を分けない無精。自身の考えを整理したり後で読み返す覚え書き用チラシの裏としても使用。\nフォロー、返信引用その他ご自由に。\n日粤bilingualおっさん。饂飩国で同棲中",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 8187,
+        "follow_request_sent": false,
+        "followers_count": 59,
+        "following": false,
+        "friends_count": 171,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2468895240,
+        "id_str": "2468895240",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "にゃんたも",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2468895240/1572505059",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/647171817510039552/6GKd304Y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/647171817510039552/6GKd304Y_normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nyantarmmo",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 13879,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

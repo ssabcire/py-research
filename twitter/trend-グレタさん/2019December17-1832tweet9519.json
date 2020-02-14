@@ -1,0 +1,337 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:34:38 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "笹ヶ根",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "kagatomo",
+                "id": 3051523506,
+                "id_str": "3051523506"
+            },
+            {
+                "name": "mipoko",
+                "indices": [
+                    14,
+                    24
+                ],
+                "screen_name": "mipoko611",
+                "id": 269661223,
+                "id_str": "269661223"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @kagatomo: @mipoko611 22年前って原発大推進時代ですね。\n\n素直に疑問なんですが、\nグレタさん賛同派＝原発推進派ということでいいのですか？\n\n太陽光発電は農薬と除草剤を散布し続けます。\n風力発電は山を大規模に切り開きます。\n地熱は火山地帯を、潮汐は海…",
+    "has_extended_profile": false,
+    "id": 1206764612428763136,
+    "id_str": "1206764612428763136",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 7,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 13 10:21:38 +0000 2019",
+        "display_text_range": [
+            11,
+            154
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "mipoko",
+                    "indices": [
+                        0,
+                        10
+                    ],
+                    "screen_name": "mipoko611",
+                    "id": 269661223,
+                    "id_str": "269661223"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 23,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@mipoko611 22年前って原発大推進時代ですね。\n\n素直に疑問なんですが、\nグレタさん賛同派＝原発推進派ということでいいのですか？\n\n太陽光発電は農薬と除草剤を散布し続けます。\n風力発電は山を大規模に切り開きます。\n地熱は火山地帯を、潮汐は海を大規模に開発します。\n石炭除くと原発が一番マシですよね？",
+        "has_extended_profile": false,
+        "id": 1205432581996437504,
+        "id_str": "1205432581996437504",
+        "in_reply_to_screen_name": "mipoko611",
+        "in_reply_to_status_id": 1205129829500063744,
+        "in_reply_to_status_id_str": "1205129829500063744",
+        "in_reply_to_user_id": 269661223,
+        "in_reply_to_user_id_str": "269661223",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 7,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "22年前って原発大推進時代ですね。\n\n素直に疑問なんですが、\nグレタさん賛同派＝原発推進派ということで",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Mar 01 01:31:45 +0000 2015",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "日々の飲み食いとかを気の向くままに。 基本的に読み専門です。\n\nまた、PBWケルベロスブレイドにおける\n 笹ヶ根・鐐(e10049)\n ルティアーナ(e05342）他\nのPLでもあります。\n\nその系列のネタもちょこちょこと。フォローなどはお気軽に。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 7035,
+            "follow_request_sent": false,
+            "followers_count": 146,
+            "following": false,
+            "friends_count": 957,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 3051523506,
+            "id_str": "3051523506",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 3,
+            "location": "大阪",
+            "name": "笹ヶ根",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3051523506/1514652388",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/947146321252663297/9eWO3Q5M_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/947146321252663297/9eWO3Q5M_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "kagatomo",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 5030,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @kagatomo: @mipoko611 22年前って原発大推進時代ですね。\n\n素直に疑問なんですが、\nグレタさん賛同派＝原\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 24 19:39:04 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "投資 株式投資",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 4862,
+        "follow_request_sent": false,
+        "followers_count": 69,
+        "following": false,
+        "friends_count": 372,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 945015990554783744,
+        "id_str": "945015990554783744",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 2,
+        "location": "",
+        "name": "たま　(雑種)",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/945015990554783744/1569203408",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1175925506140561408/QwMfQU7t_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1175925506140561408/QwMfQU7t_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MpJq8lcfey3usPE",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 4662,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:52:30 +0000 2019",
+    "display_text_range": [
+        0,
+        134
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "23",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "pau_pau_2323",
+                "id": 1100293069109227520,
+                "id_str": "1100293069109227520"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @pau_pau_2323: グレタさんの好き嫌いと環境問題は切り離して考えないといけないのに、この人のちょっとした言動で「これだから環境問題活動家は…」ってなりがちなの問題だよなー。そこは周囲の大人がカバーしようよって帰りの列車が話題になってるの見て思ったよ。",
+    "has_extended_profile": false,
+    "id": 1206542616638021633,
+    "id_str": "1206542616638021633",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 27,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 10:24:04 +0000 2019",
+        "display_text_range": [
+            0,
+            116
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 89,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんの好き嫌いと環境問題は切り離して考えないといけないのに、この人のちょっとした言動で「これだから環境問題活動家は…」ってなりがちなの問題だよなー。そこは周囲の大人がカバーしようよって帰りの列車が話題になってるの見て思ったよ。",
+        "has_extended_profile": false,
+        "id": 1206520360474005504,
+        "id_str": "1206520360474005504",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 27,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんの好き嫌いと環境問題は切り離して考えないといけないのに、この人のち\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 26 07:14:44 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "好きなものはゲームと読書と料理とお酒と旅行とゴルフと昼寝。ゲームは無(理のない)課金派。好きなこと言いまくり。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 1930,
+            "follow_request_sent": false,
+            "followers_count": 0,
+            "following": false,
+            "friends_count": 48,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1100293069109227520,
+            "id_str": "1100293069109227520",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 0,
+            "location": "日本",
+            "name": "23",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1100293069109227520/1574056204",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1202776180576804865/MmkpjwvE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202776180576804865/MmkpjwvE_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "pau_pau_2323",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 829,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @pau_pau_2323: グレタさんの好き嫌いと環境問題は切り離して考えないといけないのに、この人のち\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 15 10:47:48 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "イラストとか漫画とか趣味で描いてる人です（オリキャラ大好き）\nてげてげツイフィ→https://t.co/HnimojaTvw\n#勝手に楽器擬人化 描いてます\n(・∀・)\n\n #お家フレンズ で図書館の階段の手すりになりました。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/qBWzzFrqhj",
+                        "display_url": "pixiv.net/member.php?id=…",
+                        "expanded_url": "https://www.pixiv.net/member.php?id=14162983"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 18769,
+        "follow_request_sent": false,
+        "followers_count": 169,
+        "following": false,
+        "friends_count": 157,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 753903886390341633,
+        "id_str": "753903886390341633",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 12,
+        "location": "ここだッ！",
+        "name": "セルゼル🐇階段の手すり",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/753903886390341633/1576491149",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1188027536720052224/CtyKyWQ9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1188027536720052224/CtyKyWQ9_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "after_210",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 21263,
+        "time_zone": "",
+        "url": "https://t.co/qBWzzFrqhj",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 21:40:50 +0000 2019",
+    "display_text_range": [
+        0,
+        86
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    63,
+                    86
+                ],
+                "url": "https://t.co/yrpZrlMyZI",
+                "display_url": "twitter.com/i/events/12066…",
+                "expanded_url": "https://twitter.com/i/events/1206600997478383617"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "YAMATAKE⚓",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "qarmy_jp",
+                "id": 885557060028334081,
+                "id_str": "885557060028334081"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @qarmy_jp: 糞餓鬼のハッタリ憐れみばれる🤪🤣😂🏳️\n「グレタさん「帰りの列車は超満員」 ドイツ鉄道が応酬」  https://t.co/yrpZrlMyZI",
+    "has_extended_profile": false,
+    "id": 1206690673178464256,
+    "id_str": "1206690673178464256",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 12,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 20:19:31 +0000 2019",
+        "display_text_range": [
+            0,
+            72
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        49,
+                        72
+                    ],
+                    "url": "https://t.co/yrpZrlMyZI",
+                    "display_url": "twitter.com/i/events/12066…",
+                    "expanded_url": "https://twitter.com/i/events/1206600997478383617"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 17,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "糞餓鬼のハッタリ憐れみばれる🤪🤣😂🏳️\n「グレタさん「帰りの列車は超満員」 ドイツ鉄道が応酬」  https://t.co/yrpZrlMyZI",
+        "has_extended_profile": false,
+        "id": 1206670210394144769,
+        "id_str": "1206670210394144769",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 12,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "糞餓鬼のハッタリ憐れみばれる🤪🤣😂🏳️\n「グレ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jul 13 17:50:30 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "馬鹿なのよ‼️💕\n\n\n\n\n\n\n\n#石井紘基",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 45424,
+            "follow_request_sent": false,
+            "followers_count": 3477,
+            "following": false,
+            "friends_count": 4365,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 885557060028334081,
+            "id_str": "885557060028334081",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 34,
+            "location": " サンクトペテルブルグ",
+            "name": "YAMATAKE⚓",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/885557060028334081/1575896111",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1173587124748046338/48as1nbp_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1173587124748046338/48as1nbp_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "qarmy_jp",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 55915,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @qarmy_jp: 糞餓鬼のハッタリ憐れみばれる🤪🤣😂🏳️\n「グレ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 19 12:39:36 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "北海道在住55才♂既婚/トランプとQの活動を応援/最近は宇宙と地球の関係に興味津々/5次元にGO。心の豊かさを追求/日々感謝を忘れずに/草野球選手😝/キャンプ大好き/家庭菜園🍅🥒と葡萄🍇作り/家族🐶🐶😸😸😸",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 32705,
+        "follow_request_sent": false,
+        "followers_count": 1042,
+        "following": false,
+        "friends_count": 1653,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1019924717174546433,
+        "id_str": "1019924717174546433",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 5,
+        "location": "",
+        "name": "のぶりんRIN",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1019924717174546433/1575977826",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1203305622122352642/ajJnvlRT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1203305622122352642/ajJnvlRT_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Nobnob19_ginmo",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 31900,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:05:35 +0000 2019",
+    "display_text_range": [
+        0,
+        136
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさん、正直、最初に喧嘩ふっかけられたときの印象は中身が空疎なひと、だったが、近頃のアピールはわりといいセンついてると思っている。\n\n「私の声でなく科学者の声を聞いて」はよかった。\n\nただ、ゴールの遠いテーマであり続けているのは今もだから、今後に期待、でいいのでは…？",
+    "has_extended_profile": false,
+    "id": 1206545907035983872,
+    "id_str": "1206545907035983872",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさん、正直、最初に喧嘩ふっかけられたときの印象は中身が空疎なひと、だったが、近頃のア\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 20 13:09:32 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "人狼議事(2007-01-27～)１０周年をむかえました。\nSplatoon2 えんじょいし始めました。\n  SW-2388-9665-8198\n\n何を書いてもいい。怒る人はいない。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/85GbYxUqwg",
+                        "display_url": "giji.f5.si",
+                        "expanded_url": "https://giji.f5.si"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 26727,
+        "follow_request_sent": false,
+        "followers_count": 618,
+        "following": false,
+        "friends_count": 1681,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 58468789,
+        "id_str": "58468789",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 54,
+        "location": "呑み屋がなくなった。",
+        "name": "ななころび",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/876976461998993408/kgnWSMym_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/876976461998993408/kgnWSMym_normal.png",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "7korobi",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 72850,
+        "time_zone": "",
+        "url": "https://t.co/85GbYxUqwg",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

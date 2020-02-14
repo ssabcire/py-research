@@ -1,0 +1,334 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:34:02 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "山田邦彦",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "ikuoenar",
+                "id": 380268950,
+                "id_str": "380268950"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @ikuoenar: 地球温暖化は、物理がわからなきゃね！\n高校にも行っていないグレタさんが、地球温暖化に意見など出来るはずがない。彼女を取り巻くのは温暖化詐欺師。\nCOP25参加のグレタ・トゥンベリを各地歓迎！でもマドリード市は塩対応… | 「ヨットに乗って来たからって…",
+    "has_extended_profile": false,
+    "id": 1206779557958676480,
+    "id_str": "1206779557958676480",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 11,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 22:31:10 +0000 2019",
+        "display_text_range": [
+            0,
+            163
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        140,
+                        163
+                    ],
+                    "url": "https://t.co/Ig3SAORmYC",
+                    "display_url": "courrier.jp/news/archives/…",
+                    "expanded_url": "https://courrier.jp/news/archives/184515/"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        128,
+                        138
+                    ],
+                    "text": "SmartNews"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 20,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "地球温暖化は、物理がわからなきゃね！\n高校にも行っていないグレタさんが、地球温暖化に意見など出来るはずがない。彼女を取り巻くのは温暖化詐欺師。\nCOP25参加のグレタ・トゥンベリを各地歓迎！でもマドリード市は塩対応… | 「ヨットに乗って来たからって…」 #SmartNews  https://t.co/Ig3SAORmYC",
+        "has_extended_profile": false,
+        "id": 1206340953591517184,
+        "id_str": "1206340953591517184",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 11,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "scopes": null,
+        "text": "地球温暖化は、物理がわからなきゃね！\n高校にも行っていないグレタさんが、地球温暖化に意見など出来るはずがない。",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Sep 26 11:09:10 +0000 2011",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "2児の父親。昔ドラマー、今は会社を辞めて農業修行中。原発再稼働には反対ですが、「再生可能エネルギー」という偽善エネルギーにも反対です。武田邦彦先生のブログで正しい歴史を学び、考え方をリセット中。日本が次の世代も繁栄するように願っています。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 911,
+            "follow_request_sent": false,
+            "followers_count": 507,
+            "following": false,
+            "friends_count": 1480,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 380268950,
+            "id_str": "380268950",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 6,
+            "location": "神奈 相模原市 中央区",
+            "name": "山田邦彦",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/380268950/1535550600",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1620412274/image_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1620412274/image_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "ikuoenar",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 4683,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @ikuoenar: 地球温暖化は、物理がわからなきゃね！\n高校にも行っていないグレタさんが、地球温暖化に\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 20 12:32:08 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 84987,
+        "follow_request_sent": false,
+        "followers_count": 581,
+        "following": false,
+        "friends_count": 568,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 921353337370374144,
+        "id_str": "921353337370374144",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "遠江守光泰",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/922855178549657601/F80yviNm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/922855178549657601/F80yviNm_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "enshu_mitsuyasu",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 74395,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

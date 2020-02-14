@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 13:14:12 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ズボンをはいた雲",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "OblakoObLaDa",
+                "id": 1158220340205477888,
+                "id_str": "1158220340205477888"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @OblakoObLaDa: 11月、イギリスの人気ロックバンドColdplayが飛行機の利用による二酸化炭素の排出が地球温暖化に影響を与えることを考慮してワールドツアーを休止、小泉進次郎環境相が「素晴らしい」と評価したときも野口健氏はグレタさんのときと全く同様なヒステリ…",
+    "has_extended_profile": false,
+    "id": 1206563175690145795,
+    "id_str": "1206563175690145795",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 08:55:20 +0000 2019",
+        "display_text_range": [
+            0,
+            157
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        134,
+                        157
+                    ],
+                    "url": "https://t.co/gAOUSXefcH",
+                    "display_url": "lite-ra.com/2019/12/post-5…",
+                    "expanded_url": "https://lite-ra.com/2019/12/post-5146.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "11月、イギリスの人気ロックバンドColdplayが飛行機の利用による二酸化炭素の排出が地球温暖化に影響を与えることを考慮してワールドツアーを休止、小泉進次郎環境相が「素晴らしい」と評価したときも野口健氏はグレタさんのときと全く同様なヒステリックな反応を見せている。\nhttps://t.co/gAOUSXefcH",
+        "has_extended_profile": false,
+        "id": 1206498028586061824,
+        "id_str": "1206498028586061824",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "11月、イギリスの人気ロックバンドColdplayが飛行機の利用による二酸化炭素の排出が地球温暖化に影響を与えることを",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Aug 05 03:37:02 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "帝国日本軍によって1932年から1945年までの間、朝鮮、中国、台湾、日本、フィリピン、タイ、べトナム、マレーシア、東チモールとインドネシアの故郷から連れ去られ、性的奴隷化を強要された２０万以上のアジア人とオランダ人の女たちを忘れないために。これらの途轍もない人権侵害を繰り返させないことが私たちの心からの願いである。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 9024,
+            "follow_request_sent": false,
+            "followers_count": 354,
+            "following": false,
+            "friends_count": 728,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1158220340205477888,
+            "id_str": "1158220340205477888",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 6,
+            "location": "",
+            "name": "ズボンをはいた雲",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1158220340205477888/1564980819",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1158225831992238081/W9EAqNZb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158225831992238081/W9EAqNZb_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "OblakoObLaDa",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 12550,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @OblakoObLaDa: 11月、イギリスの人気ロックバンドColdplayが飛行機の利用による二酸化炭素の排出が地球温\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 13 14:38:07 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "🥚🧷🥚🧷🥚🧷🥚🧷🥚🧷🥚🧷 🥚🧷🥚🧷政治のツイート増えてます、でもだいたいが勉強不足。世界には植物男子ベランダーが必要なのだ✌️",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 104542,
+        "follow_request_sent": false,
+        "followers_count": 485,
+        "following": false,
+        "friends_count": 461,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 3194419034,
+        "id_str": "3194419034",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "日本",
+        "name": "や み く ろ 👁‍🗨=͟͟͞͞ 🥚",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3194419034/1572665811",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1190472807517478914/gRphcW1V_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190472807517478914/gRphcW1V_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "le_ciel_petit",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 65314,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

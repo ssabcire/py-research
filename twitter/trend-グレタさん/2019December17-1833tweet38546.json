@@ -1,0 +1,356 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:18:43 +0000 2019",
+    "display_text_range": [
+        0,
+        93
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    70,
+                    93
+                ],
+                "url": "https://t.co/usDIYctNI7",
+                "display_url": "jin115.com/archives/52277…",
+                "expanded_url": "http://jin115.com/archives/52277536.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "オレ的ゲーム速報＠刃",
+                "indices": [
+                    3,
+                    10
+                ],
+                "screen_name": "Jin115",
+                "id": 22273191,
+                "id_str": "22273191"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @Jin115: 【これは酷い】グレタさん「電車に乗ったら超満員・・・だけど私、床に座って頑張っちゃう！」鉄道会社「あのさぁ・・・」\nhttps://t.co/usDIYctNI7",
+    "has_extended_profile": false,
+    "id": 1206549211807805440,
+    "id_str": "1206549211807805440",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 135,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 12:00:44 +0000 2019",
+        "display_text_range": [
+            0,
+            81
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        58,
+                        81
+                    ],
+                    "url": "https://t.co/usDIYctNI7",
+                    "display_url": "jin115.com/archives/52277…",
+                    "expanded_url": "http://jin115.com/archives/52277536.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 175,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "【これは酷い】グレタさん「電車に乗ったら超満員・・・だけど私、床に座って頑張っちゃう！」鉄道会社「あのさぁ・・・」\nhttps://t.co/usDIYctNI7",
+        "has_extended_profile": false,
+        "id": 1206544686640324608,
+        "id_str": "1206544686640324608",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 135,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://blog.livedoor.com/\" rel=\"nofollow\"\u003elivedoor Blog\u003c/a\u003e",
+        "scopes": null,
+        "text": "【これは酷い】グレタさん「電車に乗ったら超満員・・・だ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Feb 28 17:00:42 +0000 2009",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "オレ的ゲーム速報のツイッターです。（＾ω＾　Youtubeチャンネル（投資系）→https://t.co/4gRUrwM8WX  投資用ツイッター→@oreteki_douga 退避用アカウント→@Jin115_2nd　 その他に管理人のツイッターアカウントはありません、偽物にご注意ください",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/SuBartmuHB",
+                            "display_url": "jin115.com",
+                            "expanded_url": "http://jin115.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 473,
+            "follow_request_sent": false,
+            "followers_count": 427484,
+            "following": false,
+            "friends_count": 399748,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 22273191,
+            "id_str": "22273191",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 6391,
+            "location": "Japan",
+            "name": "オレ的ゲーム速報＠刃",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1158559754303627264/hQXFQbm7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158559754303627264/hQXFQbm7_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Jin115",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 370050,
+            "time_zone": "",
+            "url": "http://t.co/SuBartmuHB",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @Jin115: 【これは酷い】グレタさん「電車に乗ったら超満員・・・だ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 29 12:31:28 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Rose Garden Killer Beesのvocal(24)🌹🐝                        \n日本酒ばっかり飲んでる。音楽と可愛い女の子が好き。ボダラン3/Apex Legendsまったりプレイしてます。\nRGKB youtube https://t.co/mKXdn0RbWl 聴",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/AVzSazk3Lt",
+                        "display_url": "Instagram.com/kazuangel",
+                        "expanded_url": "http://Instagram.com/kazuangel"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 8558,
+        "follow_request_sent": false,
+        "followers_count": 382,
+        "following": false,
+        "friends_count": 1026,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 364228010,
+        "id_str": "364228010",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 6,
+        "location": "Matsumoto",
+        "name": "かずえんじぇる♡RGKBのVo.",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/364228010/1575697195",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1076369013045747713/Ufc7uZif_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1076369013045747713/Ufc7uZif_normal.png",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "KAZUANGEL6_6",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 13739,
+        "time_zone": "",
+        "url": "https://t.co/AVzSazk3Lt",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

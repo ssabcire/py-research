@@ -1,0 +1,174 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:59:19 +0000 2019",
+    "display_text_range": [
+        29,
+        89
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "朝日新聞環境取材チーム",
+                "indices": [
+                    0,
+                    13
+                ],
+                "screen_name": "asahi_kankyo",
+                "id": 2540766846,
+                "id_str": "2540766846"
+            },
+            {
+                "name": "朝日新聞　国際報道部",
+                "indices": [
+                    14,
+                    28
+                ],
+                "screen_name": "asahi_kokusai",
+                "id": 112690339,
+                "id_str": "112690339"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@asahi_kankyo @asahi_kokusai グレタさんだけではなくて若者達の声としての報道をマスメディアの方々にお願いいたします❗分かりやすい見出しかも知れませんが",
+    "has_extended_profile": false,
+    "id": 1206801020665262081,
+    "id_str": "1206801020665262081",
+    "in_reply_to_screen_name": "asahi_kankyo",
+    "in_reply_to_status_id": 1206333479383756801,
+    "in_reply_to_status_id_str": "1206333479383756801",
+    "in_reply_to_user_id": 2540766846,
+    "in_reply_to_user_id_str": "2540766846",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんだけではなくて若者達の声として",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 11 04:42:07 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "wasikandensisuki",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2,
+        "follow_request_sent": false,
+        "followers_count": 0,
+        "following": false,
+        "friends_count": 8,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1094818841568235520,
+        "id_str": "1094818841568235520",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "sachiokitazoe",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1094819221064708096/XqzgRrn9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094819221064708096/XqzgRrn9_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sachiokitazoe",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 207,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

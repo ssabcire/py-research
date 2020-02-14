@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 09:53:26 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ネコには都合が多い",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "TryToFollowMe",
+                "id": 129792888,
+                "id_str": "129792888"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @TryToFollowMe: グレタさんに熱狂とか絶対視とか全否定とかじゃなくて、10代の若者が投げかける直球の疑問や批判を正面から受けとめて、一歩でも話を前へ進めようとするだけの姿勢やキャパシティを、「大人」と目される者たちが全く示し得ていないことに、ちょっと絶望感を…",
+    "has_extended_profile": false,
+    "id": 1206512652702240768,
+    "id_str": "1206512652702240768",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 02:20:51 +0000 2019",
+        "display_text_range": [
+            0,
+            151
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        128,
+                        151
+                    ],
+                    "url": "https://t.co/6rLp4Ojut3",
+                    "display_url": "headlines.yahoo.co.jp/hl?a=20191213-…",
+                    "expanded_url": "https://headlines.yahoo.co.jp/hl?a=20191213-00010009-reutv-int"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 9,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんに熱狂とか絶対視とか全否定とかじゃなくて、10代の若者が投げかける直球の疑問や批判を正面から受けとめて、一歩でも話を前へ進めようとするだけの姿勢やキャパシティを、「大人」と目される者たちが全く示し得ていないことに、ちょっと絶望感を抱いています。\nhttps://t.co/6rLp4Ojut3",
+        "has_extended_profile": false,
+        "id": 1206398753571082240,
+        "id_str": "1206398753571082240",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 6,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんに熱狂とか絶対視とか全否定とかじゃなくて、10代の若者が投げかける直球の疑問や批判を正面から\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Apr 05 12:16:46 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "昭和30年東京江戸川区生まれ、東京育ち、大学時代は東北暮らし、現在東京町田。半分ソフトウェア技術者。あまり好きな業界ではないので商売変えしたいけど、ま、無理でしょう。妻、猫♀1匹15才）と同居。北海道に骨を埋めたいと思っているが微妙。一応、肉球新党の党員らしい（笑）",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 11476,
+            "follow_request_sent": false,
+            "followers_count": 3239,
+            "following": false,
+            "friends_count": 150,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 129792888,
+            "id_str": "129792888",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 108,
+            "location": "",
+            "name": "ネコには都合が多い",
+            "notifications": false,
+            "profile_background_color": "94D487",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1524817528/minzy_120x137_normal.gif",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1524817528/minzy_120x137_normal.gif",
+            "profile_link_color": "FEFFDA",
+            "profile_sidebar_border_color": "ECD9CF",
+            "profile_sidebar_fill_color": "F6ABB4",
+            "profile_text_color": "F97890",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "TryToFollowMe",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 57712,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @TryToFollowMe: グレタさんに熱狂とか絶対視とか全否定とかじゃなくて、10代の若者が投げかける直球の\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 15 03:25:48 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "音楽はストーンズを中心に古めのロックからレゲエ、なんでも。愛犬のさかな子は2014年 虹の橋へ。長男犬の海男は2010年、虹の橋へ。いま愛犬は、ゴールデンレトリバーの たら子 と 夏男。「優しいサヨク」のまま この年に。さてさて、これから。Blogやってます。写真貼ってます。内容は あまりありません。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/IxBcO3DR06",
+                        "display_url": "umiosakanako.blog.fc2.com",
+                        "expanded_url": "http://umiosakanako.blog.fc2.com"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 4255,
+        "follow_request_sent": false,
+        "followers_count": 679,
+        "following": false,
+        "friends_count": 1052,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 20890208,
+        "id_str": "20890208",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 49,
+        "location": "",
+        "name": "おしざわあきら",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20890208/1396330832",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1017905996801323008/AyjXu1u4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017905996801323008/AyjXu1u4_normal.jpg",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sakanako",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 66408,
+        "time_zone": "",
+        "url": "https://t.co/IxBcO3DR06",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

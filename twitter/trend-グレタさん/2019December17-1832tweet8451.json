@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:07:43 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    55,
+                    78
+                ],
+                "url": "https://t.co/umABy43F9S",
+                "display_url": "afpbb.com/articles/-/325…",
+                "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Shoko Ogushi",
+                "indices": [
+                    3,
+                    18
+                ],
+                "screen_name": "vostokintheair",
+                "id": 70871976,
+                "id_str": "70871976"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @vostokintheair: グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い https://t.co/umABy43F9S\n\n一言で言って、ドイチェバーン、最低じゃない？\n\n我が最も嫌いな鉄道、DB。劣悪なサービスで過去に煮湯を何度飲まされたこ…",
+    "has_extended_profile": false,
+    "id": 1206772935651811330,
+    "id_str": "1206772935651811330",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 20,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 23:52:43 +0000 2019",
+        "display_text_range": [
+            0,
+            157
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        35,
+                        58
+                    ],
+                    "url": "https://t.co/umABy43F9S",
+                    "display_url": "afpbb.com/articles/-/325…",
+                    "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 24,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い https://t.co/umABy43F9S\n\n一言で言って、ドイチェバーン、最低じゃない？\n\n我が最も嫌いな鉄道、DB。劣悪なサービスで過去に煮湯を何度飲まされたことか。\n\n通勤電車にまで1st作ってる世界最悪のアホすぎる鉄道会社らしいね。",
+        "has_extended_profile": false,
+        "id": 1206723865260384256,
+        "id_str": "1206723865260384256",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 20,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い https://t.co/umABy43F9S\n\n一言で言って、ドイチ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Sep 02 03:33:28 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Photographing Men Behind the Scenes. My 3rd photography books: \"少林寺 Shaolin Temple\" \u0026 2nd \"美少年論\" are now available at Vanilla Gallery, bookshops and AmazonJP.",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/WFcBv5aLIG",
+                            "display_url": "shokoogushi.com",
+                            "expanded_url": "http://www.shokoogushi.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 34327,
+            "follow_request_sent": false,
+            "followers_count": 6187,
+            "following": false,
+            "friends_count": 2909,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 70871976,
+            "id_str": "70871976",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 373,
+            "location": "Saga \u0026 Fukuoka, Japan",
+            "name": "Shoko Ogushi",
+            "notifications": false,
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/70871976/1398210479",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/626646210/vostok_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/626646210/vostok_normal.jpg",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "5ED4DC",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "vostokintheair",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 597751,
+            "time_zone": "",
+            "url": "https://t.co/WFcBv5aLIG",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @vostokintheair: グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い https://t.co/umABy4",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 06 12:47:14 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "猫好き 無党派層🐈🐈🐈",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 34235,
+        "follow_request_sent": false,
+        "followers_count": 143,
+        "following": false,
+        "friends_count": 283,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 330314440,
+        "id_str": "330314440",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 3,
+        "location": "—-",
+        "name": "iketomo🐈",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/330314440/1395835464",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/720944391020392449/MpPSOVYZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/720944391020392449/MpPSOVYZ_normal.jpg",
+        "profile_link_color": "404040",
+        "profile_sidebar_border_color": "ABABAB",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cyappi_nero",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 86926,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 01:09:18 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "青いクラゲ",
+                "indices": [
+                    3,
+                    18
+                ],
+                "screen_name": "masugominikatu",
+                "id": 158927348,
+                "id_str": "158927348"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @masugominikatu: 環境活動家少女・グレタさん支援の環境団体、中国政府の工作機関か　海外メディアがこぞって取り上げる　沖縄の反基地活動も〜ネットの反応「バレタ」「ああ、だから中国を叩かなかったのか」「よくもだましたわね！ パパにもだまされたことないのに！ｗｗ…",
+    "has_extended_profile": false,
+    "id": 1206743137814601728,
+    "id_str": "1206743137814601728",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 00:12:30 +0000 2019",
+        "display_text_range": [
+            0,
+            144
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "url": "https://t.co/rHb8ycwEjt",
+                    "display_url": "anonymous-post.mobi/archives/16725",
+                    "expanded_url": "https://anonymous-post.mobi/archives/16725"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "環境活動家少女・グレタさん支援の環境団体、中国政府の工作機関か　海外メディアがこぞって取り上げる　沖縄の反基地活動も〜ネットの反応「バレタ」「ああ、だから中国を叩かなかったのか」「よくもだましたわね！ パパにもだまされたことないのに！ｗｗ」 https://t.co/rHb8ycwEjt",
+        "has_extended_profile": false,
+        "id": 1206728843370696704,
+        "id_str": "1206728843370696704",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "scopes": null,
+        "text": "環境活動家少女・グレタさん支援の環境団体、中国政府の工作機関か　海外メディアがこぞって取り上げる",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jun 24 01:07:06 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "事実を報道しない偏向メディアは日本の癌だと思います。安倍総理を全力で応援、支持します！リツイート多めなのは拡散目的。但し、肯定とは限りません。報道しない自由はネットでは通用しないよ。ダイレクトメールは見ません。フォローはご自由にどうぞ。JNSC会員。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 120064,
+            "follow_request_sent": false,
+            "followers_count": 6079,
+            "following": false,
+            "friends_count": 6031,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 158927348,
+            "id_str": "158927348",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 71,
+            "location": "日本",
+            "name": "青いクラゲ",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/158927348/1564278591",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1159277568811360256/WrEVcCHB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1159277568811360256/WrEVcCHB_normal.jpg",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "masugominikatu",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 284665,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @masugominikatu: 環境活動家少女・グレタさん支援の環境団体、中国政府の工作機関か　海外メディアがこ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 23 01:27:07 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "アイコンは家猫しろ@jusiro_nakamura 氏と助手くん @RakuyaToyota 氏より｜トールキン｜Wiz｜スカイリム｜フロムソフトウェア｜Gガン｜Gロボ｜なのは｜久米田康治｜よしのんほたるユッコ清美七海ライラネネ琴歌クラリス聖美由紀舞由愛あかりP｜スト魔女｜シュタゲ｜ほっぽ雪風｜筋少｜中島みゆき",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/rhZf1af2NP",
+                        "display_url": "twpf.jp/byetang",
+                        "expanded_url": "http://twpf.jp/byetang"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 158216,
+        "follow_request_sent": false,
+        "followers_count": 2987,
+        "following": false,
+        "friends_count": 2953,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 116596899,
+        "id_str": "116596899",
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "lang": "",
+        "listed_count": 58,
+        "location": "主に二次元",
+        "name": "ばいたん",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/116596899/1402559798",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/683988235157020672/mIFuf2TC_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/683988235157020672/mIFuf2TC_normal.png",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "byetang",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 305329,
+        "time_zone": "",
+        "url": "http://t.co/rhZf1af2NP",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

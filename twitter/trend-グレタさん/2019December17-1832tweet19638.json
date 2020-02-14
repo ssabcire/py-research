@@ -1,0 +1,174 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 22:21:48 +0000 2019",
+    "display_text_range": [
+        0,
+        77
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    42,
+                    65
+                ],
+                "url": "https://t.co/ntduUkqtZH",
+                "display_url": "afpbb.com/articles/-/325…",
+                "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "AFPBB News",
+                "indices": [
+                    66,
+                    75
+                ],
+                "screen_name": "afpbbcom",
+                "id": 90841111,
+                "id_str": "90841111"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "いい話。\n\nグレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い https://t.co/ntduUkqtZH @afpbbcomより",
+    "has_extended_profile": false,
+    "id": 1206700984950353920,
+    "id_str": "1206700984950353920",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "いい話。\n\nグレタさん「帰りの列車は超満員」  ドイツ鉄\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 28 13:06:02 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "チラシの裏",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 133404,
+        "follow_request_sent": false,
+        "followers_count": 357,
+        "following": false,
+        "friends_count": 232,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 289327423,
+        "id_str": "289327423",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 32,
+        "location": "東京",
+        "name": "ヒー子☕",
+        "notifications": false,
+        "profile_background_color": "C0FFEE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/851280262587572224/Zx1pxIOP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/851280262587572224/Zx1pxIOP_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "12648430",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 447783,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

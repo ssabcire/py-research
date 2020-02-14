@@ -1,0 +1,536 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:49:51 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [
+            {
+                "indices": [
+                    69,
+                    80
+                ],
+                "text": "霊言市長中山よしたか"
+            },
+            {
+                "indices": [
+                    81,
+                    96
+                ],
+                "text": "とびだせ霊言市長よしたかくん"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "大袈裟太郎",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "oogesatarou",
+                "id": 127149635,
+                "id_str": "127149635"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @oogesatarou: 石垣市民の自治や日本の国益を損ねている大きさを考えるとグレタさんより有名になってもらう必要があります。\n#霊言市長中山よしたか\n#とびだせ霊言市長よしたかくん\n※香港ならここで誰か絵師が登場する案件☝🏽 https://t.co/UjqcLDT…",
+    "has_extended_profile": false,
+    "id": 1206587247543255041,
+    "id_str": "1206587247543255041",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206541778762919936,
+    "quoted_status_id_str": "1206541778762919936",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 10,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 14:49:21 +0000 2019",
+        "display_text_range": [
+            0,
+            101
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        102,
+                        125
+                    ],
+                    "url": "https://t.co/UjqcLDTS9p",
+                    "display_url": "twitter.com/uraomotewildca…",
+                    "expanded_url": "https://twitter.com/uraomotewildcat/status/1206541778762919936"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        52,
+                        63
+                    ],
+                    "text": "霊言市長中山よしたか"
+                },
+                {
+                    "indices": [
+                        64,
+                        79
+                    ],
+                    "text": "とびだせ霊言市長よしたかくん"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 23,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "石垣市民の自治や日本の国益を損ねている大きさを考えるとグレタさんより有名になってもらう必要があります。\n#霊言市長中山よしたか\n#とびだせ霊言市長よしたかくん\n※香港ならここで誰か絵師が登場する案件☝🏽 https://t.co/UjqcLDTS9p",
+        "has_extended_profile": false,
+        "id": 1206587119478562818,
+        "id_str": "1206587119478562818",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206541778762919936,
+        "quoted_status_id_str": "1206541778762919936",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Mon Dec 16 11:49:11 +0000 2019",
+            "display_text_range": [
+                0,
+                18
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "indices": [
+                            19,
+                            42
+                        ],
+                        "url": "https://t.co/aZofexWSDy",
+                        "display_url": "twitter.com/oogesatarou/st…",
+                        "expanded_url": "https://twitter.com/oogesatarou/status/1206508828604321792"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "indices": [
+                            7,
+                            18
+                        ],
+                        "text": "霊言市長中山よしたか"
+                    }
+                ],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 17,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "ワロタ🤣🤣🤣\n#霊言市長中山よしたか https://t.co/aZofexWSDy",
+            "has_extended_profile": false,
+            "id": 1206541778762919936,
+            "id_str": "1206541778762919936",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 1206508828604321792,
+            "quoted_status_id_str": "1206508828604321792",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 8,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+            "scopes": null,
+            "text": "ワロタ🤣🤣\ufffd",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sat Apr 20 12:33:44 +0000 2013",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "⭐️クソリプ職人に戻りました⭐️コウメ党党員 (チクシスト)🌻🌺ブレインフラワーガーデンです🌹🌷皆さん仲良くましょう(=´∀｀)人(´∀｀=) ヒトの言葉は勉強中ですI am learning a language of human being. Hope for world peace.",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 63511,
+                "follow_request_sent": false,
+                "followers_count": 1290,
+                "following": false,
+                "friends_count": 999,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 1366912344,
+                "id_str": "1366912344",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 21,
+                "location": "南の島/In a southern island",
+                "name": "ウラオモテヤマネコ (Uraomote Wildcat)",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1366912344/1573052377",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1159482117262209024/o9Pa66Hg_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1159482117262209024/o9Pa66Hg_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "uraomotewildcat",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 21715,
+                "time_zone": "",
+                "url": "",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 10,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "石垣市民の自治や日本の国益を損ねている大きさを考えるとグレタさんよ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Mar 28 06:31:27 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "高江辺野古名護浅草渋谷石垣沖縄台北/香港外国人記者クラブ会員/民主主義者/クセ強め/元人力車夫/ラッパー/オールおだやか/反フェイク/立板に水/HIPHOP無頼派/山本太郎/TBSラジオ/オスプレイ墜落/光復香港/現場百遍/Anti-colonialism/みうらじゅん賞ほしい/be water,my friend",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/gPTwY2BqNk",
+                            "display_url": "blog.livedoor.jp/oogesataro/",
+                            "expanded_url": "http://blog.livedoor.jp/oogesataro/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 147923,
+            "follow_request_sent": false,
+            "followers_count": 17944,
+            "following": false,
+            "friends_count": 2611,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 127149635,
+            "id_str": "127149635",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 387,
+            "location": "大袈裟太郎journal",
+            "name": "大袈裟太郎",
+            "notifications": false,
+            "profile_background_color": "396161",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/127149635/1544966032",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1106076639669051392/po3lL4MI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106076639669051392/po3lL4MI_normal.jpg",
+            "profile_link_color": "1ECC87",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "6C8A6C",
+            "profile_text_color": "121112",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "oogesatarou",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 64186,
+            "time_zone": "",
+            "url": "https://t.co/gPTwY2BqNk",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @oogesatarou: 石垣市民の自治や日本の国益を損ねている大きさを考えるとグレタさんより有名になっても",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 20 12:33:44 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "⭐️クソリプ職人に戻りました⭐️コウメ党党員 (チクシスト)🌻🌺ブレインフラワーガーデンです🌹🌷皆さん仲良くましょう(=´∀｀)人(´∀｀=) ヒトの言葉は勉強中ですI am learning a language of human being. Hope for world peace.",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 63511,
+        "follow_request_sent": false,
+        "followers_count": 1290,
+        "following": false,
+        "friends_count": 999,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1366912344,
+        "id_str": "1366912344",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 21,
+        "location": "南の島/In a southern island",
+        "name": "ウラオモテヤマネコ (Uraomote Wildcat)",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1366912344/1573052377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1159482117262209024/o9Pa66Hg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1159482117262209024/o9Pa66Hg_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "uraomotewildcat",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 21715,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

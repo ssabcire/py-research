@@ -1,0 +1,598 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 13:20:16 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "GONZO ゴンゾー タンバリンマスター",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "GonzoTambourine",
+                "id": 204783000,
+                "id_str": "204783000"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @GonzoTambourine: 英語が難しくてよくわかりませんが、グレタさんがとんでもない事を言ってしまったようです。\n解説しているブログとGoogleさんの翻訳とちょっと意味合いが異なるようで私の英語力ではちんぷんかんぷん。\n内容わかる方いらっしゃいますか？ htt…",
+    "has_extended_profile": false,
+    "id": 1206564702207139840,
+    "id_str": "1206564702207139840",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206338420492132358,
+    "quoted_status_id_str": "1206338420492132358",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 9,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 01:39:28 +0000 2019",
+        "display_text_range": [
+            0,
+            114
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        115,
+                        138
+                    ],
+                    "url": "https://t.co/lFe4WYHpSB",
+                    "display_url": "twitter.com/nypost/status/…",
+                    "expanded_url": "https://twitter.com/nypost/status/1206338420492132358"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 74,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "英語が難しくてよくわかりませんが、グレタさんがとんでもない事を言ってしまったようです。\n解説しているブログとGoogleさんの翻訳とちょっと意味合いが異なるようで私の英語力ではちんぷんかんぷん。\n内容わかる方いらっしゃいますか？ https://t.co/lFe4WYHpSB",
+        "has_extended_profile": false,
+        "id": 1206388340745850880,
+        "id_str": "1206388340745850880",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206338420492132358,
+        "quoted_status_id_str": "1206338420492132358",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Dec 15 22:21:06 +0000 2019",
+            "display_text_range": [
+                0,
+                83
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "indices": [
+                            60,
+                            83
+                        ],
+                        "url": "https://t.co/nWvSajOMyU",
+                        "display_url": "trib.al/GqiUphu",
+                        "expanded_url": "https://trib.al/GqiUphu"
+                    }
+                ],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": [
+                    {
+                        "id": 1206338418164346888,
+                        "id_str": "1206338418164346888",
+                        "media_url": "http://pbs.twimg.com/media/EL3GZl2XsAg4Qkh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EL3GZl2XsAg4Qkh.jpg",
+                        "url": "https://t.co/34Y4L7yARf",
+                        "display_url": "pic.twitter.com/34Y4L7yARf",
+                        "expanded_url": "https://twitter.com/nypost/status/1206338420492132358/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            84,
+                            107
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": [
+                    {
+                        "id": 1206338418164346888,
+                        "id_str": "1206338418164346888",
+                        "media_url": "http://pbs.twimg.com/media/EL3GZl2XsAg4Qkh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EL3GZl2XsAg4Qkh.jpg",
+                        "url": "https://t.co/34Y4L7yARf",
+                        "display_url": "pic.twitter.com/34Y4L7yARf",
+                        "expanded_url": "https://twitter.com/nypost/status/1206338420492132358/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            84,
+                            107
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 24,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "Greta Thunberg apologizes for her ‘against the wall’ remark https://t.co/nWvSajOMyU https://t.co/34Y4L7yARf",
+            "has_extended_profile": false,
+            "id": 1206338420492132358,
+            "id_str": "1206338420492132358",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "en",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 11,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://www.socialflow.com\" rel=\"nofollow\"\u003eSocialFlow\u003c/a\u003e",
+            "scopes": null,
+            "text": "Greta Thunberg apologizes for her ‘against the wall’ remark https://t.co/nWvSaj",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Nov 18 19:46:36 +0000 2008",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Breaking news \u0026 features from The New York Post. Follow your favorite sections: @pagesix, @nypmetro, @nypostbiz, @nypostsports, @nypfashion, @nypostopinion",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/MwyanWdKnl",
+                                "display_url": "nypost.com",
+                                "expanded_url": "http://www.nypost.com"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 2025,
+                "follow_request_sent": false,
+                "followers_count": 1531249,
+                "following": false,
+                "friends_count": 11727,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 17469289,
+                "id_str": "17469289",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 18724,
+                "location": "New York, NY",
+                "name": "New York Post",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/17469289/1444326181",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg",
+                "profile_link_color": "CC3333",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDFFCC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "nypost",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 281536,
+                "time_zone": "",
+                "url": "https://t.co/MwyanWdKnl",
+                "utc_offset": 0,
+                "verified": true,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 9,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "英語が難しくてよくわかりませんが、グレタさんがとんでもない事を言ってしまった",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Oct 19 13:19:01 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "#AGT #BGT #Asia I'm tambourine master. I hope to make world peace! I love tambourine. Please call me, I go to there soon!",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/7wS4QkdrbY",
+                            "display_url": "gonzogonzo.jimdo.com",
+                            "expanded_url": "http://gonzogonzo.jimdo.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 19014,
+            "follow_request_sent": false,
+            "followers_count": 8642,
+            "following": false,
+            "friends_count": 1012,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 204783000,
+            "id_str": "204783000",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 80,
+            "location": "Japan earth",
+            "name": "GONZO ゴンゾー タンバリンマスター",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/204783000/1426188571",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1177600962657017856/1ICMbwKP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177600962657017856/1ICMbwKP_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "GonzoTambourine",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 26549,
+            "time_zone": "",
+            "url": "https://t.co/7wS4QkdrbY",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @GonzoTambourine: 英語が難しくてよくわかりませんが、グレタさんがとんでもない事を言ってしまったよ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 13 12:10:58 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ひたすらにリツイートかいいねを押します。無言フォロー失礼します。車、楽天イーグルス、政治（左は嫌い。メガソーラー反対）、写真が好きです。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 7371,
+        "follow_request_sent": false,
+        "followers_count": 257,
+        "following": false,
+        "friends_count": 1302,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1105803434219921409,
+        "id_str": "1105803434219921409",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "",
+        "name": "玄米茶",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1105803434219921409/1552480281",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1105808573626380289/JVdY9TZv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105808573626380289/JVdY9TZv_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "XigWqXbpslfId2c",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 31318,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

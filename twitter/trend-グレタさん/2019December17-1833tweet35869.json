@@ -1,0 +1,274 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 13:00:21 +0000 2019",
+    "display_text_range": [
+        0,
+        95
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    60,
+                    83
+                ],
+                "url": "https://t.co/ItLGGYnp76",
+                "display_url": "afpbb.com/articles/-/325…",
+                "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "AFPBB News",
+                "indices": [
+                    84,
+                    93
+                ],
+                "screen_name": "afpbbcom",
+                "id": 90841111,
+                "id_str": "90841111"
+            }
+        ],
+        "media": [
+            {
+                "id": 1206559682334097408,
+                "id_str": "1206559682334097408",
+                "media_url": "http://pbs.twimg.com/media/EL6Po3HVAAA8aul.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL6Po3HVAAA8aul.jpg",
+                "url": "https://t.co/oB8AM8bRDp",
+                "display_url": "pic.twitter.com/oB8AM8bRDp",
+                "expanded_url": "https://twitter.com/renren__1010/status/1206559689867030529/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1080,
+                        "h": 834,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 525,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 834,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    96,
+                    119
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206559682334097408,
+                "id_str": "1206559682334097408",
+                "media_url": "http://pbs.twimg.com/media/EL6Po3HVAAA8aul.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL6Po3HVAAA8aul.jpg",
+                "url": "https://t.co/oB8AM8bRDp",
+                "display_url": "pic.twitter.com/oB8AM8bRDp",
+                "expanded_url": "https://twitter.com/renren__1010/status/1206559689867030529/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1080,
+                        "h": 834,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 525,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 834,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    96,
+                    119
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "でもこのグレちゃん美少年って感じで可愛いすこ\n\nグレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い https://t.co/ItLGGYnp76 @afpbbcomから https://t.co/oB8AM8bRDp",
+    "has_extended_profile": false,
+    "id": 1206559689867030529,
+    "id_str": "1206559689867030529",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "でもこのグレちゃん美少年って感じで可愛いすこ\n\nグレタさん「帰りの",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 23 14:14:17 +0000 2017",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "μ’sic Forever♪♪♪♪♪♪♪♪♪ https://t.co/ZFEdKq8nLY #renren__1010movie",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/RAP7c7N4UX",
+                        "display_url": "marshmallow-qa.com/renren__1010?u…",
+                        "expanded_url": "https://marshmallow-qa.com/renren__1010?utm_medium=twitter\u0026utm_source=promotion"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 24060,
+        "follow_request_sent": false,
+        "followers_count": 142,
+        "following": false,
+        "friends_count": 426,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 823534320652386304,
+        "id_str": "823534320652386304",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 3,
+        "location": "━━━━ いまが最高 ━━━━",
+        "name": "ちゃん",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/823534320652386304/1569078907",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1199713944107044865/gaU4UQWz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199713944107044865/gaU4UQWz_normal.jpg",
+        "profile_link_color": "FB00FE",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "renren__1010",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 29636,
+        "time_zone": "",
+        "url": "https://t.co/RAP7c7N4UX",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 01:06:45 +0000 2019",
+    "display_text_range": [
+        0,
+        117
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    94,
+                    117
+                ],
+                "url": "https://t.co/JxMeT4mjjX",
+                "display_url": "news.livedoor.com/article/detail…",
+                "expanded_url": "https://news.livedoor.com/article/detail/17537009/"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    86,
+                    93
+                ],
+                "text": "ldnews"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "\"グレタさん一行が行程の途中から1等車に座っていたと明かしました\"\n来年はグレた娘便乗環境屋商法が明らかになるだろう\n予言しておく\n\nグレタさんが鉄道会社の“反論”に釈明 #ldnews https://t.co/JxMeT4mjjX",
+    "has_extended_profile": false,
+    "id": 1206742493267550209,
+    "id_str": "1206742493267550209",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+    "scopes": null,
+    "text": "\"グレタさん一行が行程の途中から1等車に座っていたと明かしました\"\n来年はグレた娘\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 20 12:07:35 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "QRは個人サイトへ跳ぶ(QRコードは(株)デンソーウェーブの登録商標です)\nhttps://t.co/y7RNXLLQYn\n個人主義のみ\n I believe in individualism.",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 138,
+        "follow_request_sent": false,
+        "followers_count": 180,
+        "following": false,
+        "friends_count": 186,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 83829543,
+        "id_str": "83829543",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 7,
+        "location": "",
+        "name": "PSO J318.5-22",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/83829543/1357866303",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1163651315710345217/B1FDe2g8_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1163651315710345217/B1FDe2g8_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tacklesun",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 66368,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

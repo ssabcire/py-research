@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:59:55 +0000 2019",
+    "display_text_range": [
+        0,
+        57
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    34,
+                    57
+                ],
+                "url": "https://t.co/AS9nBngaa7",
+                "display_url": "headlines.yahoo.co.jp/hl?a=20191216-…",
+                "expanded_url": "https://headlines.yahoo.co.jp/hl?a=20191216-35146920-cnn-int"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容され https://t.co/AS9nBngaa7",
+    "has_extended_profile": false,
+    "id": 1206544481085820928,
+    "id_str": "1206544481085820928",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+    "scopes": null,
+    "text": "ドイツ鉄道、グレタさんにツイッターで応",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 06 08:00:03 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ついに、日本の民主主義は死にました。ゼロから模索せねばなりません。\nフォローは　https://t.co/Sdh8QKgQCM.…　を聞いてから。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/FUr3Wcms4Z",
+                        "display_url": "c-radio.net/link/othersid.…",
+                        "expanded_url": "http://www.c-radio.net/link/othersid.html"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2032,
+        "follow_request_sent": false,
+        "followers_count": 1286,
+        "following": false,
+        "friends_count": 216,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 152561265,
+        "id_str": "152561265",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 193,
+        "location": "兵庫県芦屋市",
+        "name": "radio_hidetaro 緊縮財政ダメ、絶対",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/152561265/1506091766",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/901331541866954753/A6LbuhTx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/901331541866954753/A6LbuhTx_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Hidetaro_Tosj",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 37596,
+        "time_zone": "",
+        "url": "http://t.co/FUr3Wcms4Z",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

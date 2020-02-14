@@ -1,0 +1,337 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 15:23:17 +0000 2019",
+    "display_text_range": [
+        0,
+        39
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "わかば",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "wakabacandy0925",
+                "id": 714703810162200576,
+                "id_str": "714703810162200576"
+            },
+            {
+                "name": "ろくでなし子 祝デコまん無罪確定！",
+                "indices": [
+                    21,
+                    27
+                ],
+                "screen_name": "6d745",
+                "id": 264627362,
+                "id_str": "264627362"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @wakabacandy0925: @6d745 グレタさんクロちゃん説",
+    "has_extended_profile": false,
+    "id": 1206595658112622593,
+    "id_str": "1206595658112622593",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 7,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 09:32:11 +0000 2019",
+        "display_text_range": [
+            7,
+            18
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "ろくでなし子 祝デコまん無罪確定！",
+                    "indices": [
+                        0,
+                        6
+                    ],
+                    "screen_name": "6d745",
+                    "id": 264627362,
+                    "id_str": "264627362"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 60,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@6d745 グレタさんクロちゃん説",
+        "has_extended_profile": false,
+        "id": 1206507301181411328,
+        "id_str": "1206507301181411328",
+        "in_reply_to_screen_name": "6d745",
+        "in_reply_to_status_id": 1206499538648883205,
+        "in_reply_to_status_id_str": "1206499538648883205",
+        "in_reply_to_user_id": 264627362,
+        "in_reply_to_user_id_str": "264627362",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 7,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Mar 29 06:40:41 +0000 2016",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "青ブタにどハマり中/ルリハ厨/Fラン/ニート/ラブライブフェス行きたい行きたい行きたい行きたい行きたい行きたい",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 26932,
+            "follow_request_sent": false,
+            "followers_count": 248,
+            "following": false,
+            "friends_count": 503,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 714703810162200576,
+            "id_str": "714703810162200576",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 4,
+            "location": "",
+            "name": "わかば",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/714703810162200576/1571375161",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1053953324091756544/R62VUnyQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053953324091756544/R62VUnyQ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "wakabacandy0925",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 9752,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @wakabacandy0925: @6d745 グレタ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 03 16:45:32 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "思ったことをどんどん言います。(政治的なことも含めて)まだまだ勉強不足なので間違いや勘違いを指摘してもらえれば幸いです。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 716,
+        "follow_request_sent": false,
+        "followers_count": 1664,
+        "following": false,
+        "friends_count": 3008,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1135588338285535232,
+        "id_str": "1135588338285535232",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "日本",
+        "name": "かめさん🎌",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1135588338285535232/1559581239",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1186323014838669314/VELEIQ6-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186323014838669314/VELEIQ6-_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "4iM9w0rCX5fRMkD",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 1064,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:48:01 +0000 2019",
+    "display_text_range": [
+        0,
+        35
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんは、日本の労働環境について、物申せば日本での人気は上がりそう",
+    "has_extended_profile": false,
+    "id": 1206767978152222721,
+    "id_str": "1206767978152222721",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんは、日本の労\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 06 02:24:27 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "α musicの中の人。 東方アレンジ中心で活動中。\nSoundCloud : https://t.co/LtvYzJEf9F\nモータースポーツ見るプログラマでカメラやってるDTMer\nVTuber好き（.LIVEメイン）\nアーカイブID:370593\n今までの写真はモーメントから見れます",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            29
+                        ],
+                        "url": "http://alpha-music.sub.jp/wp/",
+                        "display_url": "",
+                        "expanded_url": ""
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 24405,
+        "follow_request_sent": false,
+        "followers_count": 1053,
+        "following": false,
+        "friends_count": 1424,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 94915227,
+        "id_str": "94915227",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 55,
+        "location": "福井｜名古屋",
+        "name": "tatu",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/94915227/1471868750",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/492318008031711235/jRWC23gq_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/492318008031711235/jRWC23gq_normal.png",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tatu4",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 245620,
+        "time_zone": "",
+        "url": "http://alpha-music.sub.jp/wp/",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

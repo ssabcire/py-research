@@ -1,0 +1,337 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 07:41:06 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "fawkes",
+                "indices": [
+                    3,
+                    18
+                ],
+                "screen_name": "fawkesdumble17",
+                "id": 822622034261901313,
+                "id_str": "822622034261901313"
+            },
+            {
+                "name": "望月衣塑子",
+                "indices": [
+                    20,
+                    36
+                ],
+                "screen_name": "ISOKO_MOCHIZUKI",
+                "id": 119363202,
+                "id_str": "119363202"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @fawkesdumble17: @ISOKO_MOCHIZUKI で、前川氏を一瞬だけ犯罪者扱いした後、聖人君子に仕立て上げたのは、どんな協定を結んだんですか。不思議なんです、ずっと。\n貴女の取材能力、いえ週刊誌追随メモの中に当時のものはありませんか。\n\n前川氏とグレタ…",
+    "has_extended_profile": false,
+    "id": 1206841734627332096,
+    "id_str": "1206841734627332096",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 04:16:18 +0000 2019",
+        "display_text_range": [
+            17,
+            140
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "望月衣塑子",
+                    "indices": [
+                        0,
+                        16
+                    ],
+                    "screen_name": "ISOKO_MOCHIZUKI",
+                    "id": 119363202,
+                    "id_str": "119363202"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 36,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@ISOKO_MOCHIZUKI で、前川氏を一瞬だけ犯罪者扱いした後、聖人君子に仕立て上げたのは、どんな協定を結んだんですか。不思議なんです、ずっと。\n貴女の取材能力、いえ週刊誌追随メモの中に当時のものはありませんか。\n\n前川氏とグレタさんがかぶる感じがするんです。木偶ちゃん。",
+        "has_extended_profile": false,
+        "id": 1206790197771243520,
+        "id_str": "1206790197771243520",
+        "in_reply_to_screen_name": "ISOKO_MOCHIZUKI",
+        "in_reply_to_status_id": 1206781631287021570,
+        "in_reply_to_status_id_str": "1206781631287021570",
+        "in_reply_to_user_id": 119363202,
+        "in_reply_to_user_id_str": "119363202",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "で、前川氏を一瞬だけ犯罪者扱いした後、聖人君子に仕立て上げたのは、どんな協定を結ん",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jan 21 01:49:11 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "よろしくお願いします。 勝手にフォローさせて頂くことをお許しください。 日本大好きです。神さんが石ころや流れの水や葉っぱで遊んではるのが大好きです。汚したくないです。すべての技術者の方々に感謝しています。 八百万の神様が跳ね続ける日本がずっとありますように。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 127193,
+            "follow_request_sent": false,
+            "followers_count": 1892,
+            "following": false,
+            "friends_count": 2326,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 822622034261901313,
+            "id_str": "822622034261901313",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 13,
+            "location": "OSAKA  JAPAN",
+            "name": "fawkes",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/822622034261901313/1495918321",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/828862009064042496/Jkz9uc0i_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/828862009064042496/Jkz9uc0i_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "fawkesdumble17",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 51195,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @fawkesdumble17: @ISOKO_MOCHIZUKI で、前川氏を一瞬だけ犯罪者扱いした後、聖人君子に仕立て上げたのは、ど\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 01 06:41:48 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "全都道府県庁所在地を踏破しました！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 57795,
+        "follow_request_sent": false,
+        "followers_count": 2120,
+        "following": false,
+        "friends_count": 2783,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2321890854,
+        "id_str": "2321890854",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 13,
+        "location": "",
+        "name": "もちもちもっち～@ニッポン城めぐり中",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2321890854/1547344063",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/430173381699190784/rW_7eVbC_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/430173381699190784/rW_7eVbC_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "msk_2003v",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 79596,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

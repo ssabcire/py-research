@@ -1,0 +1,355 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 21:26:04 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    111,
+                    134
+                ],
+                "url": "https://t.co/ByCccufk7k",
+                "display_url": "CNN.co.jp",
+                "expanded_url": "http://CNN.co.jp"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "paul@",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "DWK0lnflytwdkKa",
+                "id": 1178261194164989952,
+                "id_str": "1178261194164989952"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @DWK0lnflytwdkKa: 批判すればされるんだよね。当たり前ちゃ当たり前。いろんな意味で自分の立場を理解しないと猿回しの猿にされちゃうよ。ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容され（https://t.co/ByCccufk7k） htt…",
+    "has_extended_profile": false,
+    "id": 1206686958736441346,
+    "id_str": "1206686958736441346",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 20:54:51 +0000 2019",
+        "display_text_range": [
+            0,
+            138
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        90,
+                        113
+                    ],
+                    "url": "https://t.co/ByCccufk7k",
+                    "display_url": "CNN.co.jp",
+                    "expanded_url": "http://CNN.co.jp"
+                },
+                {
+                    "indices": [
+                        115,
+                        138
+                    ],
+                    "url": "https://t.co/ghCyDGXp6s",
+                    "display_url": "headlines.yahoo.co.jp/hl?a=20191216-…",
+                    "expanded_url": "https://headlines.yahoo.co.jp/hl?a=20191216-35146920-cnn-int"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "批判すればされるんだよね。当たり前ちゃ当たり前。いろんな意味で自分の立場を理解しないと猿回しの猿にされちゃうよ。ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容され（https://t.co/ByCccufk7k） https://t.co/ghCyDGXp6s",
+        "has_extended_profile": false,
+        "id": 1206679101831991297,
+        "id_str": "1206679101831991297",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "批判すればされるんだよね。当たり前ちゃ当たり前。いろんな意味で自分の立場を理解しないと猿回し",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Sep 29 10:52:28 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": true,
+            "description": "医療関係の仕事してます。ゲームと模型と美術鑑賞が好きなくせにメタル好きのギタリスト好き。よろしくお願いしますね。(はーと)",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 1744,
+            "follow_request_sent": false,
+            "followers_count": 15,
+            "following": false,
+            "friends_count": 32,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1178261194164989952,
+            "id_str": "1178261194164989952",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1,
+            "location": "日本",
+            "name": "paul@",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "DWK0lnflytwdkKa",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 1005,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @DWK0lnflytwdkKa: 批判すればされるんだよね。当たり前ちゃ当たり前。いろんな意味で自分の立場を理解\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 24 08:19:53 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "いいねよりもRTで歓喜する。RTや空中リプでTL流す。下ネタ～政治経済・海外ドラマ・アニメ・漫画・ゲーム。動物好き。相互フォロー外のDM送れます。 ※ID消してTLに流す事あり。リプで済む事はDMするな。 問い合わせ先：https://t.co/nooXgJ3tEm",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/eM8H5vYqKD",
+                        "display_url": "live.nicovideo.jp/watch/co420936",
+                        "expanded_url": "http://live.nicovideo.jp/watch/co420936"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 13562,
+        "follow_request_sent": false,
+        "followers_count": 1803,
+        "following": false,
+        "friends_count": 163,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 136561924,
+        "id_str": "136561924",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 67,
+        "location": "東京都",
+        "name": "りく氏＠(山田・LOL復活！松)",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/136561924/1482229966",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/875533130043609092/rXlqI7Jx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875533130043609092/rXlqI7Jx_normal.jpg",
+        "profile_link_color": "00CC00",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "rikushi11",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 232895,
+        "time_zone": "",
+        "url": "https://t.co/eM8H5vYqKD",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

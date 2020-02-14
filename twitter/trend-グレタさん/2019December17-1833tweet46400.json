@@ -1,0 +1,337 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 10:14:56 +0000 2019",
+    "display_text_range": [
+        0,
+        106
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ボーダー",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "scQGZEYd8LmlZ3y",
+                "id": 1105147110305947649,
+                "id_str": "1105147110305947649"
+            },
+            {
+                "name": "下地ミキオ",
+                "indices": [
+                    21,
+                    34
+                ],
+                "screen_name": "mikioshimoji",
+                "id": 97387806,
+                "id_str": "97387806"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @scQGZEYd8LmlZ3y: @mikioshimoji グレタさんのどこが凄いのか、\nトランプ大統領のどこが変なのか、\n小泉環境大臣のどこが普通なのか。\n\n私は全く違う印象なので、是非教えて下さい。",
+    "has_extended_profile": false,
+    "id": 1206518060145770496,
+    "id_str": "1206518060145770496",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 16,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 05:22:53 +0000 2019",
+        "display_text_range": [
+            14,
+            85
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "下地ミキオ",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "screen_name": "mikioshimoji",
+                    "id": 97387806,
+                    "id_str": "97387806"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 64,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@mikioshimoji グレタさんのどこが凄いのか、\nトランプ大統領のどこが変なのか、\n小泉環境大臣のどこが普通なのか。\n\n私は全く違う印象なので、是非教えて下さい。",
+        "has_extended_profile": false,
+        "id": 1206444565047078913,
+        "id_str": "1206444565047078913",
+        "in_reply_to_screen_name": "mikioshimoji",
+        "in_reply_to_status_id": 1205995062263341056,
+        "in_reply_to_status_id_str": "1205995062263341056",
+        "in_reply_to_user_id": 97387806,
+        "in_reply_to_user_id_str": "97387806",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 16,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんのどこが凄いのか、\nトランプ大統領のど\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Mar 11 16:42:58 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "無礼がないように気をつけます。\n\n日本が好き。大変な事もあるけど、日本に生まれてよかったなぁ。と思います。\n\nフォローしてくださる方が四百人を越えました。ありがとうございます。\n\n反日者、上から目線、言葉遣いが汚い方は無視します。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 9138,
+            "follow_request_sent": false,
+            "followers_count": 506,
+            "following": false,
+            "friends_count": 595,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 1105147110305947649,
+            "id_str": "1105147110305947649",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 2,
+            "location": "",
+            "name": "ボーダー",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1200021628555427840/JJn0LSh8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1200021628555427840/JJn0LSh8_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "scQGZEYd8LmlZ3y",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 12866,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @scQGZEYd8LmlZ3y: @mikioshimoji グレタさんのどこが凄いのか、\nトランプ大統領のど\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 10 14:10:07 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "日本人として、日本という国を大切にしたい。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 134385,
+        "follow_request_sent": false,
+        "followers_count": 4580,
+        "following": false,
+        "friends_count": 5024,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 409267570,
+        "id_str": "409267570",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 50,
+        "location": "",
+        "name": "オハナ丸号",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864299325421109248/Wo8l6hS2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/864299325421109248/Wo8l6hS2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "OHANA_MARU_GO",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 365598,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

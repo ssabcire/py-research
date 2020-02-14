@@ -1,0 +1,526 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 10:36:21 +0000 2019",
+    "display_text_range": [
+        0,
+        114
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    53,
+                    76
+                ],
+                "url": "https://t.co/7guLOMPvTf",
+                "display_url": "afpbb.com/articles/-/325…",
+                "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "あんかー",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "the_anchor7",
+                "id": 737649760799096833,
+                "id_str": "737649760799096833"
+            }
+        ],
+        "media": [
+            {
+                "id": 1206492115938623488,
+                "id_str": "1206492115938623488",
+                "media_url": "http://pbs.twimg.com/media/EL5SL-rUwAAjCIm.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL5SL-rUwAAjCIm.jpg",
+                "url": "https://t.co/csZkYbo4Mh",
+                "display_url": "pic.twitter.com/csZkYbo4Mh",
+                "expanded_url": "https://twitter.com/the_anchor7/status/1206492121038897152/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 500,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 283,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1473,
+                        "h": 614,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206492121038897152,
+                "source_status_id_str": "1206492121038897152",
+                "type": "photo",
+                "indices": [
+                    91,
+                    114
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206492115938623488,
+                "id_str": "1206492115938623488",
+                "media_url": "http://pbs.twimg.com/media/EL5SL-rUwAAjCIm.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL5SL-rUwAAjCIm.jpg",
+                "url": "https://t.co/csZkYbo4Mh",
+                "display_url": "pic.twitter.com/csZkYbo4Mh",
+                "expanded_url": "https://twitter.com/the_anchor7/status/1206492121038897152/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 500,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 283,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1473,
+                        "h": 614,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206492121038897152,
+                "source_status_id_str": "1206492121038897152",
+                "type": "photo",
+                "indices": [
+                    91,
+                    114
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @the_anchor7: グレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い\nhttps://t.co/7guLOMPvTf\nこれは怒られたほうがいい… https://t.co/csZkYbo4Mh",
+    "has_extended_profile": false,
+    "id": 1206523450698780672,
+    "id_str": "1206523450698780672",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 228,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 08:31:51 +0000 2019",
+        "display_text_range": [
+            0,
+            73
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        36,
+                        59
+                    ],
+                    "url": "https://t.co/7guLOMPvTf",
+                    "display_url": "afpbb.com/articles/-/325…",
+                    "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206492115938623488,
+                    "id_str": "1206492115938623488",
+                    "media_url": "http://pbs.twimg.com/media/EL5SL-rUwAAjCIm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL5SL-rUwAAjCIm.jpg",
+                    "url": "https://t.co/csZkYbo4Mh",
+                    "display_url": "pic.twitter.com/csZkYbo4Mh",
+                    "expanded_url": "https://twitter.com/the_anchor7/status/1206492121038897152/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 500,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 283,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1473,
+                            "h": 614,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206492115938623488,
+                    "id_str": "1206492115938623488",
+                    "media_url": "http://pbs.twimg.com/media/EL5SL-rUwAAjCIm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL5SL-rUwAAjCIm.jpg",
+                    "url": "https://t.co/csZkYbo4Mh",
+                    "display_url": "pic.twitter.com/csZkYbo4Mh",
+                    "expanded_url": "https://twitter.com/the_anchor7/status/1206492121038897152/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 500,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 283,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1473,
+                            "h": 614,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 505,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い\nhttps://t.co/7guLOMPvTf\nこれは怒られたほうがいい… https://t.co/csZkYbo4Mh",
+        "has_extended_profile": false,
+        "id": 1206492121038897152,
+        "id_str": "1206492121038897152",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 228,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん「帰りの列車は超満員」  ドイツ鉄道とツ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 31 14:19:42 +0000 2016",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "iPadでお絵描きしたり、料理レシピなど上げてます 。 美味しい飯と二次元があれば人生それで良し。 あとシャニマスとか進撃の巨人とか五等分の花嫁の雑語りいろいろ。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/fuZbn0azIO",
+                            "display_url": "pixiv.net/member.php?id=…",
+                            "expanded_url": "https://www.pixiv.net/member.php?id=3289119"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 19039,
+            "follow_request_sent": false,
+            "followers_count": 637,
+            "following": false,
+            "friends_count": 166,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 737649760799096833,
+            "id_str": "737649760799096833",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 18,
+            "location": "",
+            "name": "あんかー",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/737649760799096833/1576337273",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1161961520932069377/vel-aVx5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1161961520932069377/vel-aVx5_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "the_anchor7",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 62201,
+            "time_zone": "",
+            "url": "https://t.co/fuZbn0azIO",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @the_anchor7: グレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 20 07:27:18 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "趣味はカフェ勉(本を読む)。日の丸大好き🇯🇵 日本は核武装の議論を！ハロウィン、クリスマス、バレンタインは要らない。東京裁判史観をさっさと捨てて、「強い日本」を目指しましょう！日本に居ながら反日する人許せません💢 好きな書き手、西尾幹二、馬渕睦夫、中西輝政、高山正之、黄文雄、竹田恒泰、江崎道朗、渡辺惣樹 各氏。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 17420,
+        "follow_request_sent": false,
+        "followers_count": 1485,
+        "following": false,
+        "friends_count": 1034,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 106659695,
+        "id_str": "106659695",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 43,
+        "location": "東京⇔京都",
+        "name": "かしおり",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106659695/1396362002",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/530707668046860288/OinnLQlg_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/530707668046860288/OinnLQlg_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kasiori",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 109399,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

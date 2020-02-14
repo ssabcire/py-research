@@ -2,7 +2,7 @@ from pathlib import Path
 from gensim.models.word2vec import Word2Vec
 
 
-model_path = '/Users/ssab/py/research/data/trend-グレタさん-new.model'
+model_path = '/Users/ssab/py/research/data/trend-グレタさん-allTweets.model'
 
 model = Word2Vec.load(model_path)
 # print(model.wv.index2entity)

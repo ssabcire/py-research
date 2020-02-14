@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 20:10:11 +0000 2019",
+    "display_text_range": [
+        0,
+        132
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [
+            {
+                "indices": [
+                    30,
+                    34
+                ],
+                "text": "グレタ"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "温暖化問題、けっこうナイーブになんないといけないと思うけど　#グレタ さんは大っ嫌い\n\n何故か？彼女が放つ言葉は「大人に向けて」環境問題は大人も子供も合わせたみんなの問題だって気付きなさい。\n\nやらない大人を叱責するのもいい、でも変えていくのは今日を生きる俺たちだ",
+    "has_extended_profile": false,
+    "id": 1206667860988301313,
+    "id_str": "1206667860988301313",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "温暖化問題、けっこうナイーブになんないといけないと思うけど　#グレタ さんは大っ嫌い\n\n何故\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 07 19:12:17 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "座右の銘は「1フレームも見逃すな」【BIO】田舎から出てきて港区で働くとある業界人。略して「暇業」【WORK】#Youtuber の編集担当 noteに業界裏話と演出論 動画編集DMにて承ります※動画の雰囲気は固定にて【LIKES】ラーメン、映画、ゲームとアニメとHIPHOP",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/779zZTW6k4",
+                        "display_url": "note.mu/bored_gyokai",
+                        "expanded_url": "https://note.mu/bored_gyokai"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1335,
+        "follow_request_sent": false,
+        "followers_count": 1756,
+        "following": false,
+        "friends_count": 1733,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1137074820657471488,
+        "id_str": "1137074820657471488",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "東京",
+        "name": "暇な業界人(27)",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1137074820657471488/1574272855",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1190657026742992907/3LbOvzIZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190657026742992907/3LbOvzIZ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bored_gyokai",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 2317,
+        "time_zone": "",
+        "url": "https://t.co/779zZTW6k4",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

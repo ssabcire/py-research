@@ -1,0 +1,181 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 21:02:07 +0000 2019",
+    "display_text_range": [
+        0,
+        65
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    37,
+                    60
+                ],
+                "url": "https://t.co/q2GsS1mYEb",
+                "display_url": "fc2.to/YPyy1B",
+                "expanded_url": "https://fc2.to/YPyy1B"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    61,
+                    65
+                ],
+                "text": "2ch"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "【朗報】グレタさん、すごく可愛い ：2ちゃんねるまとめ  名前はまだない https://t.co/q2GsS1mYEb #2ch",
+    "has_extended_profile": false,
+    "id": 1206680931186032640,
+    "id_str": "1206680931186032640",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://blog.fc2.com/\" rel=\"nofollow\"\u003eFC2 Blog Notify\u003c/a\u003e",
+    "scopes": null,
+    "text": "【朗報】グレタさん、すごく可愛い ：2ちゃんね",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 13 07:44:48 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "【2ちゃんねるまとめ 名前はまだない】というブログで、気になったり、いいなと思った2ちゃんねるのスレをまとめています。更新情報をツイート中 (´▽｀)ノ",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/QS3guNPWPv",
+                        "display_url": "heekogirl.blog.fc2.com",
+                        "expanded_url": "http://heekogirl.blog.fc2.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 678,
+        "following": false,
+        "friends_count": 420,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 522998380,
+        "id_str": "522998380",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 12,
+        "location": "japan",
+        "name": "ヒーコ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1893534043/town3_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893534043/town3_normal.gif",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "heeko2",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 46665,
+        "time_zone": "",
+        "url": "http://t.co/QS3guNPWPv",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

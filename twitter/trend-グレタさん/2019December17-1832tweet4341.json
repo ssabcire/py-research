@@ -1,0 +1,568 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:43:20 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Snowfox",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "Tsnowfox",
+                "id": 1327181660,
+                "id_str": "1327181660"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @Tsnowfox: グレタ・トゥインバーグと一緒にいる女性は左翼環境保護団体『ONE foundation 』のルイサ・ノイバウワー(Luisa Neubauer)。この組織は世界中でロビー活動とキャンペーンを行い、ジョージ・ソロスやビル・ゲイツによって管理されている。…",
+    "has_extended_profile": false,
+    "id": 1206796999917371392,
+    "id_str": "1206796999917371392",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1174822622590382080,
+    "quoted_status_id_str": "1174822622590382080",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 84,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Sep 25 04:44:18 +0000 2019",
+        "display_text_range": [
+            0,
+            155
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        156,
+                        179
+                    ],
+                    "url": "https://t.co/tq6CGCxRae",
+                    "display_url": "twitter.com/timetowakeupsw…",
+                    "expanded_url": "https://twitter.com/timetowakeupsw1/status/1174822622590382080"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 50,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタ・トゥインバーグと一緒にいる女性は左翼環境保護団体『ONE foundation 』のルイサ・ノイバウワー(Luisa Neubauer)。この組織は世界中でロビー活動とキャンペーンを行い、ジョージ・ソロスやビル・ゲイツによって管理されている。グレタさんの背後にいつものソロスと欧州の極左勢力がいますね。 https://t.co/tq6CGCxRae",
+        "has_extended_profile": false,
+        "id": 1176719050589659136,
+        "id_str": "1176719050589659136",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1174822622590382080,
+        "quoted_status_id_str": "1174822622590382080",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Thu Sep 19 23:08:35 +0000 2019",
+            "display_text_range": [
+                0,
+                160
+            ],
+            "entities": {
+                "urls": [],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": [
+                    {
+                        "id": 1174822615581634560,
+                        "id_str": "1174822615581634560",
+                        "media_url": "http://pbs.twimg.com/media/EE3O8cPWsAAduAd.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EE3O8cPWsAAduAd.jpg",
+                        "url": "https://t.co/CrccrEzB81",
+                        "display_url": "pic.twitter.com/CrccrEzB81",
+                        "expanded_url": "https://twitter.com/timetowakeupsw1/status/1174822622590382080/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 988,
+                                "h": 657,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 452,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 988,
+                                "h": 657,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            161,
+                            184
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": [
+                    {
+                        "id": 1174822615581634560,
+                        "id_str": "1174822615581634560",
+                        "media_url": "http://pbs.twimg.com/media/EE3O8cPWsAAduAd.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EE3O8cPWsAAduAd.jpg",
+                        "url": "https://t.co/CrccrEzB81",
+                        "display_url": "pic.twitter.com/CrccrEzB81",
+                        "expanded_url": "https://twitter.com/timetowakeupsw1/status/1174822622590382080/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 988,
+                                "h": 657,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 452,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 988,
+                                "h": 657,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            161,
+                            184
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 5865,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "5. HER HANDLER\nOn the photos behind her u see Luisa-Marie Neubauer, her handler.\nShe's a member of \"ONE Foundation\" managed by BONO, Bill Gates and George Soros https://t.co/CrccrEzB81",
+            "has_extended_profile": false,
+            "id": 1174822622590382080,
+            "id_str": "1174822622590382080",
+            "in_reply_to_screen_name": "timetowakeupsw1",
+            "in_reply_to_status_id": 1174822611890688000,
+            "in_reply_to_status_id_str": "1174822611890688000",
+            "in_reply_to_user_id": 1072551536071327744,
+            "in_reply_to_user_id_str": "1072551536071327744",
+            "is_translation_enabled": false,
+            "lang": "en",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 4779,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+            "scopes": null,
+            "text": "5. HER HANDLER\nOn the photos behind her u see Luisa-Marie Neubauer, her handler.\nShe's a member of \"ONE Foundation\" managed by BONO, Bill Gates and George Soros",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Dec 11 17:59:48 +0000 2018",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "It's habbening!\n#QAnon\n#MEGA #KAG\n#WWG1WGA \n#POTUS2020 #UNITEDNOTDIVIDED",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 11640,
+                "follow_request_sent": false,
+                "followers_count": 9122,
+                "following": false,
+                "friends_count": 6346,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1072551536071327744,
+                "id_str": "1072551536071327744",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 34,
+                "location": "",
+                "name": "Wide Awake 🇺🇸🇨🇭🇩🇪 QArmy Swiss Division",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072551536071327744/1571402271",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1159813314437951489/c9lFQTXl_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1159813314437951489/c9lFQTXl_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "timetowakeupsw1",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 15073,
+                "time_zone": "",
+                "url": "",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 84,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタ・トゥインバーグと一緒にいる女性は左翼環境保護団体『ONE foundation 』のルイサ・ノイバウワー(Luisa Neubauer)\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Apr 04 15:26:19 +0000 2013",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "山、ピアノ、猫、写真。ジャンルにこだわらず、思いついたことを適当に呟いてます。無断フォローお許しくださいませ。またフォローバックはやってません。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 48108,
+            "follow_request_sent": false,
+            "followers_count": 633,
+            "following": false,
+            "friends_count": 492,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 1327181660,
+            "id_str": "1327181660",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 13,
+            "location": "",
+            "name": "Snowfox",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1327181660/1468820292",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/754912878067449856/Fmr3ahUP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/754912878067449856/Fmr3ahUP_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Tsnowfox",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 17417,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @Tsnowfox: グレタ・トゥインバーグと一緒にいる女性は左翼環境保護団体『ONE foundation 』のルイサ・ノイ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 28 02:03:45 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "うまいもんすきです みなみらへんです",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 8302,
+        "follow_request_sent": false,
+        "followers_count": 865,
+        "following": false,
+        "friends_count": 945,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 69475075,
+        "id_str": "69475075",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 36,
+        "location": "修羅場",
+        "name": "りょう",
+        "notifications": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/567153549/babyanimal_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/567153549/babyanimal_normal.jpg",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Ry0u3",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 69847,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

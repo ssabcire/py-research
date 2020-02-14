@@ -1,0 +1,460 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:19:48 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "毎日新聞映像グループ",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "eizo_desk",
+                "id": 3191925858,
+                "id_str": "3191925858"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @eizo_desk: ブラジルのボルソナロ大統領は10日、環境活動家グレタ・トゥンベリさん（16）について「ピラリャ（ポルトガル語で『ガキ』の意）」と批判。グレタさんはツイッターの自己紹介欄に「ピラリャ」と表示する「大人の対応」をしました。オリジナル版は→https:/…",
+    "has_extended_profile": false,
+    "id": 1206760878294454272,
+    "id_str": "1206760878294454272",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 692,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Dec 11 03:56:14 +0000 2019",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/MUlqcg6Hlf",
+                    "display_url": "bit.ly/2skIsX5",
+                    "expanded_url": "http://bit.ly/2skIsX5"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1204609622381756421,
+                    "id_str": "1204609622381756421",
+                    "media_url": "http://pbs.twimg.com/media/ELei6ESVUAERs_a.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELei6ESVUAERs_a.jpg",
+                    "url": "https://t.co/2ErgaKOg4o",
+                    "display_url": "pic.twitter.com/2ErgaKOg4o",
+                    "expanded_url": "https://twitter.com/eizo_desk/status/1204610818882465792/video/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        141,
+                        164
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1204609622381756421,
+                    "id_str": "1204609622381756421",
+                    "media_url": "http://pbs.twimg.com/media/ELei6ESVUAERs_a.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELei6ESVUAERs_a.jpg",
+                    "url": "https://t.co/2ErgaKOg4o",
+                    "display_url": "pic.twitter.com/2ErgaKOg4o",
+                    "expanded_url": "https://twitter.com/eizo_desk/status/1204610818882465792/video/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "video",
+                    "indices": [
+                        141,
+                        164
+                    ],
+                    "video_info": {
+                        "aspect_ratio": [
+                            1,
+                            1
+                        ],
+                        "duration_millis": 29596,
+                        "variants": [
+                            {
+                                "bitrate": 1280000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1204609622381756421/vid/720x720/Xdea6xNo5SFCuiKP.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 432000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1204609622381756421/vid/320x320/damRK6l8QHXDRHvV.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1204609622381756421/vid/480x480/UQE9O2EKqa9Bw9Jv.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 0,
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1204609622381756421/pl/CDQb8fm4VF9wvFR4.m3u8?tag=13"
+                            }
+                        ]
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 998,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "ブラジルのボルソナロ大統領は10日、環境活動家グレタ・トゥンベリさん（16）について「ピラリャ（ポルトガル語で『ガキ』の意）」と批判。グレタさんはツイッターの自己紹介欄に「ピラリャ」と表示する「大人の対応」をしました。オリジナル版は→https://t.co/MUlqcg6Hlf https://t.co/2ErgaKOg4o",
+        "has_extended_profile": false,
+        "id": 1204610818882465792,
+        "id_str": "1204610818882465792",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 692,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://studio.twitter.com\" rel=\"nofollow\"\u003eTwitter Media Studio\u003c/a\u003e",
+        "scopes": null,
+        "text": "ブラジルのボルソナロ大統領は10日、環境活動家グレタ・トゥンベリさん（16）について「ピラリャ（ポ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon May 11 10:35:14 +0000 2015",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "毎日新聞映像グループの公式アカウントです。「毎日動画」にアップした動画ニュースを紹介します。よろしくお願いします。 https://t.co/IjIkiRy50f \nhttps://t.co/uEWjbZmOXg",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/IjIkiRy50f",
+                            "display_url": "mainichi.jp/movie/",
+                            "expanded_url": "http://mainichi.jp/movie/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 2,
+            "follow_request_sent": false,
+            "followers_count": 20001,
+            "following": false,
+            "friends_count": 80,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 3191925858,
+            "id_str": "3191925858",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 622,
+            "location": "東京都 千代田区一ツ橋1－1－1",
+            "name": "毎日新聞映像グループ",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3191925858/1436243230",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/618271748404834304/M2RJFCOP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/618271748404834304/M2RJFCOP_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "eizo_desk",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 5433,
+            "time_zone": "",
+            "url": "https://t.co/IjIkiRy50f",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @eizo_desk: ブラジルのボルソナロ大統領は10日、環境活動家グレタ・トゥンベリさん（16）について「ピ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 19 12:21:17 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "元保育士・障害者福祉職のWEB時代小説家。知的障害者・児のボランティアをしたりしなかったり。\n時代小説/海外小説/福岡藩/筑前戦国時代/被差別民俗学/新日/北方謙三/藤沢周平/池波正太郎/山本周五郎/ディズニー/オモ写/マギレコ。コンテストでは特別賞、準大賞などその他諸々獲得するが大賞が獲れない無冠のプリンス。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/EDnxj1zily",
+                        "display_url": "novelup.plus/user/346548435…",
+                        "expanded_url": "https://novelup.plus/user/346548435/profile"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1524,
+        "follow_request_sent": false,
+        "followers_count": 2703,
+        "following": false,
+        "friends_count": 1246,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2576781620,
+        "id_str": "2576781620",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 59,
+        "location": "福岡市西部",
+        "name": "筑前筑後/chikuzen chikugo",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2576781620/1566431996",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1205149371286749184/PUGllZP7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205149371286749184/PUGllZP7_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "chikuzen666",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 60893,
+        "time_zone": "",
+        "url": "https://t.co/EDnxj1zily",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

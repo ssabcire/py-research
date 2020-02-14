@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:01:35 +0000 2019",
+    "display_text_range": [
+        0,
+        60
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    37,
+                    60
+                ],
+                "url": "https://t.co/evG4faweJT",
+                "display_url": "extra-navi03.com/?p=591068",
+                "expanded_url": "https://extra-navi03.com/?p=591068"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさん「帰りの電車は超満員でした」ドイツ鉄道「1等車に乗ってただろ」 https://t.co/evG4faweJT",
+    "has_extended_profile": false,
+    "id": 1206771394387890176,
+    "id_str": "1206771394387890176",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://publicize.wp.com/\" rel=\"nofollow\"\u003eWordPress.com\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさん「帰りの電車は超満員でした」ド",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 18 21:49:03 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "情報アンテナを張り巡らしています。\nホームページ訪問待っています！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/KaJ3NxnAzy",
+                        "display_url": "extra-navi03.com",
+                        "expanded_url": "http://extra-navi03.com"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 1411,
+        "following": false,
+        "friends_count": 1594,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 755157461829431296,
+        "id_str": "755157461829431296",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 3,
+        "location": "",
+        "name": "ほしいものアンテナ",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/755157461829431296/1532615157",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/755713339678797824/76TuaFJ-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/755713339678797824/76TuaFJ-_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "iywing2",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 332997,
+        "time_zone": "",
+        "url": "https://t.co/KaJ3NxnAzy",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

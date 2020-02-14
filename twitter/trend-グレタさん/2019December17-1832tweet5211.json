@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:15:49 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Shoko Egawa",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "amneris84",
+                "id": 101428190,
+                "id_str": "101428190"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @amneris84: 人間、好きなタイプ嫌いなタイプがあるのは仕方ないんだろうけど、グレタさんについて、いろいろ粗を探してチクチク批判したり叩いたりあざ笑ってる人は、自分が16歳の頃を、ちょっと思い出してみるといいんじゃないかな。未熟なところがあって、当たり前やん、と思…",
+    "has_extended_profile": false,
+    "id": 1206790075616350209,
+    "id_str": "1206790075616350209",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 164,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 02:51:55 +0000 2019",
+        "display_text_range": [
+            0,
+            126
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 684,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "人間、好きなタイプ嫌いなタイプがあるのは仕方ないんだろうけど、グレタさんについて、いろいろ粗を探してチクチク批判したり叩いたりあざ笑ってる人は、自分が16歳の頃を、ちょっと思い出してみるといいんじゃないかな。未熟なところがあって、当たり前やん、と思う。",
+        "has_extended_profile": false,
+        "id": 1206768959942324224,
+        "id_str": "1206768959942324224",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 164,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "人間、好きなタイプ嫌いなタイプがあるのは仕方ないんだろうけど、グレタさんについて、い",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Jan 03 07:45:28 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「いいね」は備忘のマークとしても使います。 常に「支持」表明とは限りませんので、よろしくお願いします。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/ATA33ajr6X",
+                            "display_url": "egawashoko.com",
+                            "expanded_url": "http://www.egawashoko.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 8710,
+            "follow_request_sent": false,
+            "followers_count": 271095,
+            "following": false,
+            "friends_count": 594,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 101428190,
+            "id_str": "101428190",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 10961,
+            "location": "Tokyo, Japan",
+            "name": "Shoko Egawa",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3297225282/080b925f66fb1ff4019b43c89b022938_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3297225282/080b925f66fb1ff4019b43c89b022938_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "amneris84",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 103338,
+            "time_zone": "",
+            "url": "https://t.co/ATA33ajr6X",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @amneris84: 人間、好きなタイプ嫌いなタイプがあるのは仕方ないんだろうけど、グレタさんについて、\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 08 13:52:16 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ラジオを聞いたり、つぶやいたり。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 322230,
+        "follow_request_sent": false,
+        "followers_count": 1148,
+        "following": false,
+        "friends_count": 1621,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1251796897,
+        "id_str": "1251796897",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 34,
+        "location": "東京都",
+        "name": "hajime",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3378826267/bd7a5e09cdab788d1e27469e1f699ad3_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3378826267/bd7a5e09cdab788d1e27469e1f699ad3_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hajime602",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 392589,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

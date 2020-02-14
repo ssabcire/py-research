@@ -1,0 +1,343 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 22:46:08 +0000 2019",
+    "display_text_range": [
+        0,
+        16
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    17,
+                    40
+                ],
+                "url": "https://t.co/RehMbtinyu",
+                "display_url": "twitter.com/KaoruNemoto/st…",
+                "expanded_url": "https://twitter.com/KaoruNemoto/status/1206512996052127744"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 6,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんにも、楽しんでほしい❗ https://t.co/RehMbtinyu",
+    "has_extended_profile": false,
+    "id": 1206707106952269824,
+    "id_str": "1206707106952269824",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206512996052127744,
+    "quoted_status_id_str": "1206512996052127744",
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 09:54:48 +0000 2019",
+        "display_text_range": [
+            0,
+            31
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        32,
+                        55
+                    ],
+                    "url": "https://t.co/s8rsaGiXJH",
+                    "display_url": "twitter.com/hankyu_ex/stat…",
+                    "expanded_url": "https://twitter.com/hankyu_ex/status/1206409119789400064"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        26,
+                        31
+                    ],
+                    "text": "SDGs"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 7,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "大阪•梅田にお立ち寄りの際は、是非チェックしてみて！#SDGs https://t.co/s8rsaGiXJH",
+        "has_extended_profile": false,
+        "id": 1206512996052127744,
+        "id_str": "1206512996052127744",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206409119789400064,
+        "quoted_status_id_str": "1206409119789400064",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "大阪•梅田にお立ち寄\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Sep 02 07:33:12 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "国連広報センター所長の根本かおるです。国連や日々感じていることについてお伝えします。\nKaoru Nemoto, Director of UN Information Centre, Tokyo. Telling UN stories and many others. Tweets my own.",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 3117,
+            "follow_request_sent": false,
+            "followers_count": 1058,
+            "following": false,
+            "friends_count": 550,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1168426597935763457,
+            "id_str": "1168426597935763457",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 29,
+            "location": "",
+            "name": "Kaoru Nemoto",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168426597935763457/1567500675",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1168427461505216512/plbML4gO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1168427461505216512/plbML4gO_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "KaoruNemoto",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 2908,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさん\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 22 03:36:29 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "早大法卒。市川正鷹です。\n◆SDGs支援のアカデミックライブを主宰、SDGsヒーローの伝道師。\n　演説パフォーマンスという方法を用いて、SDGsに貢献した怒れるヒーローたちの生き方の伝道師をしております。#SDGs\n◆①TMer\u0026Sidher②社会保険労務士。\n◆勧誘\u0026誹謗不快\u0026自分の意見を投稿しない人は、ブロック❗",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/nEhBVCSUVV",
+                        "display_url": "jinseifushigi.jimdo.com",
+                        "expanded_url": "https://jinseifushigi.jimdo.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 317896,
+        "follow_request_sent": false,
+        "followers_count": 7518,
+        "following": false,
+        "friends_count": 7484,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 587113225,
+        "id_str": "587113225",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 64,
+        "location": "大阪府大阪市",
+        "name": "市川正鷹:SDGs支援のアカデミックライブを主宰、SDGsヒーローの伝道師。",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/587113225/1572032390",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/914648296664088577/ZFRw5G0g_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/914648296664088577/ZFRw5G0g_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "mahhokumicho",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 20358,
+        "time_zone": "",
+        "url": "https://t.co/nEhBVCSUVV",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

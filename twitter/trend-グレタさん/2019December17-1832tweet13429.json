@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:40:29 +0000 2019",
+    "display_text_range": [
+        0,
+        79
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    56,
+                    79
+                ],
+                "url": "https://t.co/gYL8Y59DqP",
+                "display_url": "hosyusokuhou.jp/archives/48867…",
+                "expanded_url": "https://hosyusokuhou.jp/archives/48867121.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "🍊みかん🍊🍂🎅🎄🍁🎅",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "meron0130",
+                "id": 1068422875785322496,
+                "id_str": "1068422875785322496"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @meron0130: オバマ前米大統領、グレタさんについて「年配者は若いリーダーに道を明け渡すべきだ」 https://t.co/gYL8Y59DqP",
+    "has_extended_profile": false,
+    "id": 1206735882083950592,
+    "id_str": "1206735882083950592",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 12,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 21:44:13 +0000 2019",
+        "display_text_range": [
+            0,
+            64
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        41,
+                        64
+                    ],
+                    "url": "https://t.co/gYL8Y59DqP",
+                    "display_url": "hosyusokuhou.jp/archives/48867…",
+                    "expanded_url": "https://hosyusokuhou.jp/archives/48867121.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 8,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "オバマ前米大統領、グレタさんについて「年配者は若いリーダーに道を明け渡すべきだ」 https://t.co/gYL8Y59DqP",
+        "has_extended_profile": false,
+        "id": 1206329136492371968,
+        "id_str": "1206329136492371968",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 12,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "オバマ前米大統領、グレタさんについて「年配\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Nov 30 08:33:58 +0000 2018",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "憲法改正を支持しています🍊充電が天国へ旅立ったため返信遅れます。すみません。🙇 \n＃久野潤 ＃本田菊 ＃ハガレン #幼女戦記\n　#戦艦大和",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 35209,
+            "follow_request_sent": false,
+            "followers_count": 3321,
+            "following": false,
+            "friends_count": 3150,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1068422875785322496,
+            "id_str": "1068422875785322496",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 7,
+            "location": "",
+            "name": "🍊みかん🍊🍂🎅🎄🍁🎅",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1068422875785322496/1553704178",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1110941961446285312/Y0PIwuRv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110941961446285312/Y0PIwuRv_normal.jpg",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "meron0130",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 39622,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @meron0130: オバマ前米大統領、グレタさんについて「年配\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 03 10:56:12 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Blood relationship；小林多喜二 Bloodline；Izumo/Heike Recuperating. R1 山火賁 ◎●カタナ＝チャクラ＝チャクラ 若しくは ◎エグゼク●カタナ＝カタナ",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 14107,
+        "follow_request_sent": false,
+        "followers_count": 310,
+        "following": false,
+        "friends_count": 324,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1146372058634321920,
+        "id_str": "1146372058634321920",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 2,
+        "location": "茨城 桜川市",
+        "name": "鳥潟家系 鷲巣岩夫",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1146372058634321920/1575516882",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1202337105168322560/8N6eWusI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202337105168322560/8N6eWusI_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "m5L9dbt2ccHc4jx",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 30567,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,578 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 01:20:51 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "百田尚樹",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "hyakutanaoki",
+                "id": 145991905,
+                "id_str": "145991905"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @hyakutanaoki: 文化大革命のとき、紅衛兵の子供たちが同じことを言って大人たちをリンチしまくった。\nポルポトのクメールルージュの子供たちも同じことを言って大人たちを殺しまくった。\n当時、紅衛兵やクメールルージュの子供たちも、グレタさんのように純粋で美しい正義感…",
+    "has_extended_profile": false,
+    "id": 1206746044672835586,
+    "id_str": "1206746044672835586",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1204745320409649152,
+    "quoted_status_id_str": "1204745320409649152",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 5871,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 12 09:04:25 +0000 2019",
+        "display_text_range": [
+            0,
+            128
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        129,
+                        152
+                    ],
+                    "url": "https://t.co/YYkOFqT4jO",
+                    "display_url": "twitter.com/han_handwritin…",
+                    "expanded_url": "https://twitter.com/han_handwriting/status/1204745320409649152"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 15626,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "文化大革命のとき、紅衛兵の子供たちが同じことを言って大人たちをリンチしまくった。\nポルポトのクメールルージュの子供たちも同じことを言って大人たちを殺しまくった。\n当時、紅衛兵やクメールルージュの子供たちも、グレタさんのように純粋で美しい正義感に満ちていた。 https://t.co/YYkOFqT4jO",
+        "has_extended_profile": false,
+        "id": 1205050762180513792,
+        "id_str": "1205050762180513792",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1204745320409649152,
+        "quoted_status_id_str": "1204745320409649152",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Dec 11 12:50:42 +0000 2019",
+            "display_text_range": [
+                0,
+                9
+            ],
+            "entities": {
+                "urls": [],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": [
+                    {
+                        "id": 1204745313832951808,
+                        "id_str": "1204745313832951808",
+                        "media_url": "http://pbs.twimg.com/media/ELgdetvUYAAP7M_.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/ELgdetvUYAAP7M_.jpg",
+                        "url": "https://t.co/dUxD7fMNuY",
+                        "display_url": "pic.twitter.com/dUxD7fMNuY",
+                        "expanded_url": "https://twitter.com/han_handwriting/status/1204745320409649152/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 1008,
+                                "h": 526,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 355,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1008,
+                                "h": 526,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            10,
+                            33
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": [
+                    {
+                        "id": 1204745313832951808,
+                        "id_str": "1204745313832951808",
+                        "media_url": "http://pbs.twimg.com/media/ELgdetvUYAAP7M_.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/ELgdetvUYAAP7M_.jpg",
+                        "url": "https://t.co/dUxD7fMNuY",
+                        "display_url": "pic.twitter.com/dUxD7fMNuY",
+                        "expanded_url": "https://twitter.com/han_handwriting/status/1204745320409649152/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 1008,
+                                "h": 526,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 355,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1008,
+                                "h": 526,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            10,
+                            33
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 36237,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "文　化　大　革　命 https://t.co/dUxD7fMNuY",
+            "has_extended_profile": false,
+            "id": 1204745320409649152,
+            "id_str": "1204745320409649152",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "zh",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 13245,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+            "scopes": null,
+            "text": "文　化",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Mar 08 06:05:05 +0000 2011",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "近現代中国書道をツイ/非専門家/ゆとり成人済/不真面目です/オヤジ萌え/生まれてきて済みません/いにしえの ならのみやこの やへざくら/かくとだに えやはいぶきの さしもぐさ/精神的自傷行為/京都かもめ/不倫はよくないよ/自分が嫌いな人間になりつつある/その2 @han_handwrite2 /甘いお方だ/田舎の河原者",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/u7r6FCrnF8",
+                                "display_url": "peing.net/ja/han_handwri…",
+                                "expanded_url": "https://peing.net/ja/han_handwriting"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 46643,
+                "follow_request_sent": false,
+                "followers_count": 2501,
+                "following": false,
+                "friends_count": 93,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 262522596,
+                "id_str": "262522596",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 95,
+                "location": "古都⇔旧都⇔京師⇔邦畿⇔帝都⇔魔都⇔みぞろがいけ⇔？？⇔田舎",
+                "name": "近現代中国書道bot@圧倒的康生力",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/262522596/1561383895",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1205113196731715586/D3fnRuqt_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205113196731715586/D3fnRuqt_normal.jpg",
+                "profile_link_color": "4A913C",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "han_handwriting",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 168294,
+                "time_zone": "",
+                "url": "https://t.co/u7r6FCrnF8",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 5871,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "文化大革命のとき、紅衛兵の子供たちが同じことを言って大人たちをリンチしまくった。\nポル\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu May 20 10:30:40 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "2006年に50歳で『永遠の０』で小説家デビューしましたが、2019に63歳で小説家引退を表明しました。 これからは読書とクラシック音楽鑑賞とツイッター三昧の生活です  ドワンゴで「百田尚樹チャンネル」をやっています。 \nhttps://t.co/FHb9eKRY72",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 240,
+            "follow_request_sent": false,
+            "followers_count": 427703,
+            "following": false,
+            "friends_count": 119,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 145991905,
+            "id_str": "145991905",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 4784,
+            "location": "",
+            "name": "百田尚樹",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/817531659763335169/z_J71aHJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/817531659763335169/z_J71aHJ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "hyakutanaoki",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 54751,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @hyakutanaoki: 文化大革命のとき、紅衛兵の子供たちが同じことを言って大人たちをリンチしまくった。\n\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 18 15:09:34 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "子供達と遊びに出るのも楽しみ✨ライフワーク的な、趣味の温泉・湧水巡りをせねばかなと😌♨️🍶",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1956,
+        "follow_request_sent": false,
+        "followers_count": 59,
+        "following": false,
+        "friends_count": 322,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 831253393,
+        "id_str": "831253393",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "長崎 長崎市",
+        "name": "酒井　賢一",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/831253393/1511530557",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1097330482717446144/3SPVEY8x_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097330482717446144/3SPVEY8x_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "weather852",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 1010,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,375 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:23:02 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "tweet🌐meme▶時生由仁",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "EugeneTokio",
+                "id": 109320658,
+                "id_str": "109320658"
+            },
+            {
+                "name": "ハフポスト日本版",
+                "indices": [
+                    17,
+                    31
+                ],
+                "screen_name": "HuffPostJapan",
+                "id": 543860205,
+                "id_str": "543860205"
+            },
+            {
+                "name": "新海誠",
+                "indices": [
+                    32,
+                    46
+                ],
+                "screen_name": "shinkaimakoto",
+                "id": 147163321,
+                "id_str": "147163321"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @EugeneTokio: @HuffPostJapan @shinkaimakoto でしょうね。\nシュワルツェネッガー氏が来日した時、都内を自転車で移動していたけど、グレタさんと写真を撮っていたのを私は知っていたので、意図をすぐ理解した。\n映画「気候戦士」でもシュワち…",
+    "has_extended_profile": false,
+    "id": 1206550297801154561,
+    "id_str": "1206550297801154561",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 11:01:38 +0000 2019",
+        "display_text_range": [
+            15,
+            171
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [
+                {
+                    "indices": [
+                        143,
+                        157
+                    ],
+                    "text": "ClimateStrike"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "ハフポスト日本版",
+                    "indices": [
+                        0,
+                        14
+                    ],
+                    "screen_name": "HuffPostJapan",
+                    "id": 543860205,
+                    "id_str": "543860205"
+                },
+                {
+                    "name": "新海誠",
+                    "indices": [
+                        15,
+                        29
+                    ],
+                    "screen_name": "shinkaimakoto",
+                    "id": 147163321,
+                    "id_str": "147163321"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 4,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@HuffPostJapan @shinkaimakoto でしょうね。\nシュワルツェネッガー氏が来日した時、都内を自転車で移動していたけど、グレタさんと写真を撮っていたのを私は知っていたので、意図をすぐ理解した。\n映画「気候戦士」でもシュワちゃんの演説シーンがたくさんありましたね。\n#ClimateStrike の世界、ご興味ありますか？",
+        "has_extended_profile": false,
+        "id": 1206529814317813760,
+        "id_str": "1206529814317813760",
+        "in_reply_to_screen_name": "HuffPostJapan",
+        "in_reply_to_status_id": 1206466657436282880,
+        "in_reply_to_status_id_str": "1206466657436282880",
+        "in_reply_to_user_id": 543860205,
+        "in_reply_to_user_id_str": "543860205",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "@shinkaimakoto でしょうね。\nシュワルツェネッガー氏が来日した時、都内を自転車で移動していたけど、グレタさんと\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jan 28 17:33:13 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "時事社会ではツイートにバイアスをかけ明示的なスタンスを取ります。ツイートは最終回答ではないので後に上書きする可能性があり、アウト/イン/スループット・memeの言語化に使用。映画・音楽・政経・戦略論・アート・自然科学・アニメ・漫画・写真・SF等趣味は広汎。筒井康隆氏、星新一氏、小松左京氏に私淑。編集、ライター。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 17085,
+            "follow_request_sent": false,
+            "followers_count": 4098,
+            "following": false,
+            "friends_count": 3109,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 109320658,
+            "id_str": "109320658",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 315,
+            "location": "Tokyo, Japan.",
+            "name": "tweet🌐meme▶時生由仁",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/109320658/1540169169",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1206807328927780864/Hy0clLlw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1206807328927780864/Hy0clLlw_normal.jpg",
+            "profile_link_color": "001000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "EugeneTokio",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 283937,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @EugeneTokio: @HuffPostJapan @shinkaimakoto でしょうね。\nシュワルツェネッガー氏が来日した時、都内を自転車\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 09 07:30:42 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "リツイート中心ですが、一個人の立場から、気になる情報を発信中。ツイッター上での発信は全て私個人として意思表示であり、私が関わる団体の活動とは一切関係ありません。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/iWyzGXcgFv",
+                        "display_url": "hiroshi-s.at.webry.info",
+                        "expanded_url": "http://hiroshi-s.at.webry.info/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 7558,
+        "follow_request_sent": false,
+        "followers_count": 307,
+        "following": false,
+        "friends_count": 35,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 153710867,
+        "id_str": "153710867",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 16,
+        "location": "日本 埼玉",
+        "name": "さとうひろし",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1011025050/__normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1011025050/__normal.JPG",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "satotweethirosi",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 101335,
+        "time_zone": "",
+        "url": "http://t.co/iWyzGXcgFv",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

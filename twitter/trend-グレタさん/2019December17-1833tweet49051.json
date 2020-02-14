@@ -1,0 +1,749 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 09:33:54 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "中乃井みあき／己丑より",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "nakanoi_miaki",
+                "id": 100172507,
+                "id_str": "100172507"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @nakanoi_miaki: グレタさんの手法には疑問があるし反原発界隈の人達が支持するのも違和感があるが、ユダヤ陰謀論で読み解くのも何だかなあ。\n定番のロスチャイルド、ロックフェラー、NWOと絡めたいか。そういうのいらないから。 https://t.co/7PlXe8…",
+    "has_extended_profile": false,
+    "id": 1206507735795163136,
+    "id_str": "1206507735795163136",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1203638358775189505,
+    "quoted_status_id_str": "1203638358775189505",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 35,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 03:02:52 +0000 2019",
+        "display_text_range": [
+            0,
+            124
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        101,
+                        124
+                    ],
+                    "url": "https://t.co/7PlXe8lZDS",
+                    "display_url": "twitter.com/nakanoi_miaki/…",
+                    "expanded_url": "https://twitter.com/nakanoi_miaki/status/1203638358775189505"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206046906649956352,
+                    "id_str": "1206046906649956352",
+                    "media_url": "http://pbs.twimg.com/media/ELy9RY1UUAAkIbV.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELy9RY1UUAAkIbV.jpg",
+                    "url": "https://t.co/fmYA6yCQvh",
+                    "display_url": "pic.twitter.com/fmYA6yCQvh",
+                    "expanded_url": "https://twitter.com/nakanoi_miaki/status/1206046938337906690/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 552,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 313,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 942,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        125,
+                        148
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206046906649956352,
+                    "id_str": "1206046906649956352",
+                    "media_url": "http://pbs.twimg.com/media/ELy9RY1UUAAkIbV.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELy9RY1UUAAkIbV.jpg",
+                    "url": "https://t.co/fmYA6yCQvh",
+                    "display_url": "pic.twitter.com/fmYA6yCQvh",
+                    "expanded_url": "https://twitter.com/nakanoi_miaki/status/1206046938337906690/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 552,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 313,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 942,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        125,
+                        148
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                },
+                {
+                    "id": 1206046914824687616,
+                    "id_str": "1206046914824687616",
+                    "media_url": "http://pbs.twimg.com/media/ELy9R3SU0AAuDaL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELy9R3SU0AAuDaL.jpg",
+                    "url": "https://t.co/fmYA6yCQvh",
+                    "display_url": "pic.twitter.com/fmYA6yCQvh",
+                    "expanded_url": "https://twitter.com/nakanoi_miaki/status/1206046938337906690/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 581,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 329,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 991,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        125,
+                        148
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                },
+                {
+                    "id": 1206046923007774721,
+                    "id_str": "1206046923007774721",
+                    "media_url": "http://pbs.twimg.com/media/ELy9SVxU0AEIx7X.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELy9SVxU0AEIx7X.jpg",
+                    "url": "https://t.co/fmYA6yCQvh",
+                    "display_url": "pic.twitter.com/fmYA6yCQvh",
+                    "expanded_url": "https://twitter.com/nakanoi_miaki/status/1206046938337906690/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 646,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 366,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 2005,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        125,
+                        148
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                },
+                {
+                    "id": 1206046930343620608,
+                    "id_str": "1206046930343620608",
+                    "media_url": "http://pbs.twimg.com/media/ELy9SxGU8AA6Q53.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELy9SxGU8AA6Q53.jpg",
+                    "url": "https://t.co/fmYA6yCQvh",
+                    "display_url": "pic.twitter.com/fmYA6yCQvh",
+                    "expanded_url": "https://twitter.com/nakanoi_miaki/status/1206046938337906690/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 649,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 368,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1998,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        125,
+                        148
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 28,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんの手法には疑問があるし反原発界隈の人達が支持するのも違和感があるが、ユダヤ陰謀論で読み解くのも何だかなあ。\n定番のロスチャイルド、ロックフェラー、NWOと絡めたいか。そういうのいらないから。 https://t.co/7PlXe8lZDS https://t.co/fmYA6yCQvh",
+        "has_extended_profile": false,
+        "id": 1206046938337906690,
+        "id_str": "1206046938337906690",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1203638358775189505,
+        "quoted_status_id_str": "1203638358775189505",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Dec 08 11:32:01 +0000 2019",
+            "display_text_range": [
+                0,
+                152
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "indices": [
+                            54,
+                            77
+                        ],
+                        "url": "https://t.co/Itt56o134M",
+                        "display_url": "courrier.jp/news/archives/…",
+                        "expanded_url": "https://courrier.jp/news/archives/183720/"
+                    }
+                ],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 27,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "「グレタ・トゥーンベリ的な言い方では、世界の人々は動きません」 | 説得よりも大事なのは「希望やメリット」 https://t.co/Itt56o134M  \n彼女に抱いた違和感はこれだな。恐怖に訴えるやり方、ディストピアな未来図はインパクトあるのだけど、刺激が長続きせず日常に埋没してしまうのが弱点か。",
+            "has_extended_profile": false,
+            "id": 1203638358775189505,
+            "id_str": "1203638358775189505",
+            "in_reply_to_screen_name": "nakanoi_miaki",
+            "in_reply_to_status_id": 1197856449700909057,
+            "in_reply_to_status_id_str": "1197856449700909057",
+            "in_reply_to_user_id": 100172507,
+            "in_reply_to_user_id_str": "100172507",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": {},
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                139.539108,
+                                38.316648
+                            ],
+                            [
+                                140.030641,
+                                38.316648
+                            ],
+                            [
+                                140.030641,
+                                38.826788
+                            ],
+                            [
+                                139.539108,
+                                38.826788
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "contained_within": [],
+                "country": "Japan",
+                "country_code": "JP",
+                "full_name": "Tsuruoka-shi, Yamagata",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "34d741e0d87f6572",
+                "name": "Tsuruoka-shi",
+                "place_type": "city",
+                "polylines": null,
+                "url": "https://api.twitter.com/1.1/geo/id/34d741e0d87f6572.json"
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 16,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+            "scopes": null,
+            "text": "「グレタ・トゥーンベリ的な言い方では、世界の人々は動きません」 | 説得よりも大事なのは「希望やメリット\ufffd\ufffd",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Dec 29 08:12:50 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "陰謀論とニセ科学と天罰論、天譴論のウォッチングが主流になっています。地震や防災、災害関係にも関心あり。たまに地元・鶴岡関係のつぶやきもします。立ち位置は中道右派かなあ？\n2017.107追記エンタメ等軽い話題用のアカウント追加@nakanmia",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/Guzd2N5CdY",
+                                "display_url": "twilog.org/nakanoi_miaki",
+                                "expanded_url": "http://twilog.org/nakanoi_miaki"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 90320,
+                "follow_request_sent": false,
+                "followers_count": 2825,
+                "following": false,
+                "friends_count": 2431,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 100172507,
+                "id_str": "100172507",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 179,
+                "location": "山形県鶴岡市",
+                "name": "中乃井みあき／己丑より",
+                "notifications": false,
+                "profile_background_color": "4F66FF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/100172507/1505606338",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1143112081870168065/i2CDNyd1_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143112081870168065/i2CDNyd1_normal.png",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "FFF8AD",
+                "profile_sidebar_fill_color": "F6FFD1",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "nakanoi_miaki",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 233799,
+                "time_zone": "",
+                "url": "http://t.co/Guzd2N5CdY",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 35,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんの手法には疑問があるし反原発界隈の人達が支持するのも違和感があるが、ユダ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Dec 29 08:12:50 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "陰謀論とニセ科学と天罰論、天譴論のウォッチングが主流になっています。地震や防災、災害関係にも関心あり。たまに地元・鶴岡関係のつぶやきもします。立ち位置は中道右派かなあ？\n2017.107追記エンタメ等軽い話題用のアカウント追加@nakanmia",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/Guzd2N5CdY",
+                            "display_url": "twilog.org/nakanoi_miaki",
+                            "expanded_url": "http://twilog.org/nakanoi_miaki"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 90320,
+            "follow_request_sent": false,
+            "followers_count": 2825,
+            "following": false,
+            "friends_count": 2431,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 100172507,
+            "id_str": "100172507",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 179,
+            "location": "山形県鶴岡市",
+            "name": "中乃井みあき／己丑より",
+            "notifications": false,
+            "profile_background_color": "4F66FF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/100172507/1505606338",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1143112081870168065/i2CDNyd1_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143112081870168065/i2CDNyd1_normal.png",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFF8AD",
+            "profile_sidebar_fill_color": "F6FFD1",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "nakanoi_miaki",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 233799,
+            "time_zone": "",
+            "url": "http://t.co/Guzd2N5CdY",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://onloft.com/tweetlogix\" rel=\"nofollow\"\u003eTweetlogix\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @nakanoi_miaki: グレタさんの手法には疑問があるし反原発界隈の人達が支持するのも違和感があるが、ユ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 19 11:35:40 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 11526,
+        "follow_request_sent": false,
+        "followers_count": 352,
+        "following": false,
+        "friends_count": 333,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 58179165,
+        "id_str": "58179165",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 30,
+        "location": "奈良",
+        "name": "Cat's Squirrel",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/58179165/1471790308",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/767479753368412162/F6Dp4UvV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/767479753368412162/F6Dp4UvV_normal.jpg",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "kk_matt",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 115740,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

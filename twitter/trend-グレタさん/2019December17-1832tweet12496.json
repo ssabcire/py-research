@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 01:04:17 +0000 2019",
+    "display_text_range": [
+        0,
+        125
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "齋藤あきこ",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "akiko_saito",
+                "id": 7817612,
+                "id_str": "7817612"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @akiko_saito: もうグレタさんを叩くのはやめてくれよこんなの俺が見たかったインターネットじゃないんだよお前なんかクソリプ一個来ただけで顔真っ赤になるのにあの子は世界中のおっさんからサンドバッグにされてもそれでも矢面に立ち続けてるんだ",
+    "has_extended_profile": false,
+    "id": 1206741873550708736,
+    "id_str": "1206741873550708736",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 7,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 21:41:43 +0000 2019",
+        "display_text_range": [
+            0,
+            108
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 62,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "もうグレタさんを叩くのはやめてくれよこんなの俺が見たかったインターネットじゃないんだよお前なんかクソリプ一個来ただけで顔真っ赤になるのにあの子は世界中のおっさんからサンドバッグにされてもそれでも矢面に立ち続けてるんだ",
+        "has_extended_profile": false,
+        "id": 1206690894344151041,
+        "id_str": "1206690894344151041",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 7,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "もうグレタさんを叩くのはやめてくれよこんなの俺が見たかったインターネット",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jul 30 12:18:57 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "目黒在住のブロガー。伊達藩出身。好きなゲームエンジンはUnityです。比類なき「ゲーム帝国」で本名明かしの刑を受けた実績を持つ手負いの獣 メール: akikosaito1120 at gmail",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/Qh7Tn1mhhA",
+                            "display_url": "note.mu/akiko_saito",
+                            "expanded_url": "https://note.mu/akiko_saito"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 43000,
+            "follow_request_sent": false,
+            "followers_count": 5639,
+            "following": false,
+            "friends_count": 3183,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 7817612,
+            "id_str": "7817612",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 163,
+            "location": "かえって統率がとれていた一帯",
+            "name": "齋藤あきこ",
+            "notifications": false,
+            "profile_background_color": "073032",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/7817612/1544610847",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1181439269098803206/wd-wBm4s_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181439269098803206/wd-wBm4s_normal.jpg",
+            "profile_link_color": "0000FF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E0FF92",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "akiko_saito",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 42614,
+            "time_zone": "",
+            "url": "https://t.co/Qh7Tn1mhhA",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @akiko_saito: もうグレタさんを叩くのはやめてくれよこんなの俺が見たかったインターネット",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 11 08:10:48 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "トワズガタリーナ。歌うたい。お部屋のお片付けとお掃除もたまらなく好き。暮らしを見つめるダンバヤシです。 https://t.co/igGdPmjST7",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 23292,
+        "follow_request_sent": false,
+        "followers_count": 134,
+        "following": false,
+        "friends_count": 203,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 929260102493671424,
+        "id_str": "929260102493671424",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "ダンバヤシ タマミ12/21土曜20時 高円寺三角地帯",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/929260102493671424/1524477098",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1123698470471307275/OYZlZ-Mn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123698470471307275/OYZlZ-Mn_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Tt3Dd3Mm3",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 616,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

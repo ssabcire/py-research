@@ -1,0 +1,480 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:42:05 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [
+            {
+                "indices": [
+                    20,
+                    27
+                ],
+                "text": "けやきヒルズ"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ひらほろ@柴田阿弥さんからは卒業しません！",
+                "indices": [
+                    3,
+                    18
+                ],
+                "screen_name": "hirahorobocchi",
+                "id": 2451643429,
+                "id_str": "2451643429"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @hirahorobocchi: #けやきヒルズ\n「ネットピ！」でグレタさんとドイツ鉄道がTwitterで皮肉の応酬との話題で神庭さんが「いったんグレタさんのことは忘れよう。グレタさんをどう思うかではなくて、地球環境問題を自分がどう考えるかが大事」という発言をされたのは、…",
+    "has_extended_profile": false,
+    "id": 1206796684975468544,
+    "id_str": "1206796684975468544",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 04:07:36 +0000 2019",
+        "display_text_range": [
+            0,
+            146
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [
+                {
+                    "indices": [
+                        0,
+                        7
+                    ],
+                    "text": "けやきヒルズ"
+                },
+                {
+                    "indices": [
+                        135,
+                        140
+                    ],
+                    "text": "柴田阿弥"
+                },
+                {
+                    "indices": [
+                        141,
+                        146
+                    ],
+                    "text": "神庭亮介"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206787995480641536,
+                    "id_str": "1206787995480641536",
+                    "media_url": "http://pbs.twimg.com/media/EL9fSb3UUAAPFNH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL9fSb3UUAAPFNH.jpg",
+                    "url": "https://t.co/hiXfkHt7R6",
+                    "display_url": "pic.twitter.com/hiXfkHt7R6",
+                    "expanded_url": "https://twitter.com/hirahorobocchi/status/1206788007006588928/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 681,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 386,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1897,
+                            "h": 1077,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        147,
+                        170
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206787995480641536,
+                    "id_str": "1206787995480641536",
+                    "media_url": "http://pbs.twimg.com/media/EL9fSb3UUAAPFNH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL9fSb3UUAAPFNH.jpg",
+                    "url": "https://t.co/hiXfkHt7R6",
+                    "display_url": "pic.twitter.com/hiXfkHt7R6",
+                    "expanded_url": "https://twitter.com/hirahorobocchi/status/1206788007006588928/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 681,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 386,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1897,
+                            "h": 1077,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        147,
+                        170
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                },
+                {
+                    "id": 1206787995472252928,
+                    "id_str": "1206787995472252928",
+                    "media_url": "http://pbs.twimg.com/media/EL9fSb1UUAAo9wH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL9fSb1UUAAo9wH.jpg",
+                    "url": "https://t.co/hiXfkHt7R6",
+                    "display_url": "pic.twitter.com/hiXfkHt7R6",
+                    "expanded_url": "https://twitter.com/hirahorobocchi/status/1206788007006588928/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 677,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1598,
+                            "h": 901,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        147,
+                        170
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 3,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "#けやきヒルズ\n「ネットピ！」でグレタさんとドイツ鉄道がTwitterで皮肉の応酬との話題で神庭さんが「いったんグレタさんのことは忘れよう。グレタさんをどう思うかではなくて、地球環境問題を自分がどう考えるかが大事」という発言をされたのは、素晴らしい意見だなと思いました\n#柴田阿弥\n#神庭亮介 https://t.co/hiXfkHt7R6",
+        "has_extended_profile": false,
+        "id": 1206788007006588928,
+        "id_str": "1206788007006588928",
+        "in_reply_to_screen_name": "hirahorobocchi",
+        "in_reply_to_status_id": 1206787993328963584,
+        "in_reply_to_status_id_str": "1206787993328963584",
+        "in_reply_to_user_id": 2451643429,
+        "in_reply_to_user_id_str": "2451643429",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "#けやきヒルズ\n「ネットピ！」でグレタさんとドイツ鉄道がTwitterで皮肉の応酬との話題で神庭さんが「いっ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Apr 18 16:28:11 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "東京在住。 フリーアナウンサー柴田阿弥さん( @_shibata_aya )にずっと留年中。SKE48もずっとはまってます。OGの皆さんも応援してます。アマオケでビオラ、弾いてます。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 47986,
+            "follow_request_sent": false,
+            "followers_count": 627,
+            "following": false,
+            "friends_count": 1331,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 2451643429,
+            "id_str": "2451643429",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 15,
+            "location": "Tokyo, Japan",
+            "name": "ひらほろ@柴田阿弥さんからは卒業しません！",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2451643429/1473043575",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/856820042293497856/SrMlIt0T_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/856820042293497856/SrMlIt0T_normal.jpg",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "hirahorobocchi",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 41558,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @hirahorobocchi: #けやきヒルズ\n「ネットピ！」でグレタさんとドイツ鉄道がTwitterで皮肉の応酬との話題で",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 25 06:13:34 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "神推- CoverGirls 坂東 遥 ( シンガポール坂東组) ,  SKE48箱推 , CoverGirls箱推",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 207553,
+        "follow_request_sent": false,
+        "followers_count": 335,
+        "following": false,
+        "friends_count": 1144,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 536129253,
+        "id_str": "536129253",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "Singapore , シンガポール🇸🇬",
+        "name": "Koh Lin Song",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/536129253/1576290793",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1205676921851269120/ZYXAA0CX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205676921851269120/ZYXAA0CX_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KohLinSong",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 25194,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

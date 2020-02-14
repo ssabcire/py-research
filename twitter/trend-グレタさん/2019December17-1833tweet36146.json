@@ -1,0 +1,506 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:55:46 +0000 2019",
+    "display_text_range": [
+        0,
+        55
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "たぬき",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "TANUKI_daisuki3",
+                "id": 1063251569771048960,
+                "id_str": "1063251569771048960"
+            }
+        ],
+        "media": [
+            {
+                "id": 1206484684558880768,
+                "id_str": "1206484684558880768",
+                "media_url": "http://pbs.twimg.com/media/EL5LbaoU0AAmzLB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL5LbaoU0AAmzLB.jpg",
+                "url": "https://t.co/gaB74vFqjB",
+                "display_url": "pic.twitter.com/gaB74vFqjB",
+                "expanded_url": "https://twitter.com/TANUKI_daisuki3/status/1206484686735859712/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 324,
+                        "h": 244,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 324,
+                        "h": 244,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 324,
+                        "h": 244,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206484686735859712,
+                "source_status_id_str": "1206484686735859712",
+                "type": "photo",
+                "indices": [
+                    32,
+                    55
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206484684558880768,
+                "id_str": "1206484684558880768",
+                "media_url": "http://pbs.twimg.com/media/EL5LbaoU0AAmzLB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL5LbaoU0AAmzLB.jpg",
+                "url": "https://t.co/gaB74vFqjB",
+                "display_url": "pic.twitter.com/gaB74vFqjB",
+                "expanded_url": "https://twitter.com/TANUKI_daisuki3/status/1206484686735859712/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 324,
+                        "h": 244,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 324,
+                        "h": 244,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 324,
+                        "h": 244,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206484686735859712,
+                "source_status_id_str": "1206484686735859712",
+                "type": "photo",
+                "indices": [
+                    32,
+                    55
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @TANUKI_daisuki3: 最近話題のグレタさん https://t.co/gaB74vFqjB",
+    "has_extended_profile": false,
+    "id": 1206558536940978183,
+    "id_str": "1206558536940978183",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 24,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 08:02:19 +0000 2019",
+        "display_text_range": [
+            0,
+            10
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206484684558880768,
+                    "id_str": "1206484684558880768",
+                    "media_url": "http://pbs.twimg.com/media/EL5LbaoU0AAmzLB.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL5LbaoU0AAmzLB.jpg",
+                    "url": "https://t.co/gaB74vFqjB",
+                    "display_url": "pic.twitter.com/gaB74vFqjB",
+                    "expanded_url": "https://twitter.com/TANUKI_daisuki3/status/1206484686735859712/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 324,
+                            "h": 244,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 324,
+                            "h": 244,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 324,
+                            "h": 244,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        11,
+                        34
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206484684558880768,
+                    "id_str": "1206484684558880768",
+                    "media_url": "http://pbs.twimg.com/media/EL5LbaoU0AAmzLB.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL5LbaoU0AAmzLB.jpg",
+                    "url": "https://t.co/gaB74vFqjB",
+                    "display_url": "pic.twitter.com/gaB74vFqjB",
+                    "expanded_url": "https://twitter.com/TANUKI_daisuki3/status/1206484686735859712/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 324,
+                            "h": 244,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 324,
+                            "h": 244,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 324,
+                            "h": 244,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        11,
+                        34
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 49,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "最近話題のグレタさん https://t.co/gaB74vFqjB",
+        "has_extended_profile": false,
+        "id": 1206484686735859712,
+        "id_str": "1206484686735859712",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 24,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "最近話\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Nov 16 02:05:03 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "RPG好き。\nWiz系ゲームを収集し、サラッと遊ぶ。\n仕事は脳のドクター。\nなうプレ\nオペレーションバベル\nととモノfinal\nウィザードリィ外伝２\n\n\n＃ウィザードリィ愛好会 会員No132",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 12593,
+            "follow_request_sent": false,
+            "followers_count": 402,
+            "following": false,
+            "friends_count": 365,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1063251569771048960,
+            "id_str": "1063251569771048960",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 4,
+            "location": "",
+            "name": "たぬき",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1063251569771048960/1576198943",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1156523109928751105/SWBSwAEn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156523109928751105/SWBSwAEn_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "TANUKI_daisuki3",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 5221,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @TANUKI_daisuki3: 最近話題のグレタさん htt",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 10 06:08:30 +0000 2017",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Amature Gamer / 3DCG Artist ❤️😁😀😶😟🤢😇❤️　ひわと申します。3DCG関係を生業としております。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/fd6kIkb6gG",
+                        "display_url": "pixiv.net/member.php?id=…",
+                        "expanded_url": "https://www.pixiv.net/member.php?id=4345876"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 77804,
+        "follow_request_sent": false,
+        "followers_count": 782,
+        "following": false,
+        "friends_count": 314,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 939738575318392832,
+        "id_str": "939738575318392832",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 14,
+        "location": "大船パワースティック",
+        "name": "Hlwa",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/939738575318392832/1557411781",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1102211595843727361/IWPybZHa_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102211595843727361/IWPybZHa_normal.png",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "WizardryGaiden",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 23139,
+        "time_zone": "",
+        "url": "https://t.co/fd6kIkb6gG",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

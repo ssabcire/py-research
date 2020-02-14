@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:44:55 +0000 2019",
+    "display_text_range": [
+        0,
+        106
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ヒツまぶし＠なんでも許せる方向け",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "bCSFfduZVCCTrYe",
+                "id": 1176057812163497985,
+                "id_str": "1176057812163497985"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @bCSFfduZVCCTrYe: フルメタの作者さんグレタに関して過激な事言って叩かれてるみたいだけど、新しく発見された目が無い上に空飛べない虫にグレタ虫って名前付けたイギリスよりはよっぽどマシだと思うで",
+    "has_extended_profile": false,
+    "id": 1206586004062081025,
+    "id_str": "1206586004062081025",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 9341,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 09 09:32:44 +0000 2019",
+        "display_text_range": [
+            0,
+            85
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 15984,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "フルメタの作者さんグレタに関して過激な事言って叩かれてるみたいだけど、新しく発見された目が無い上に空飛べない虫にグレタ虫って名前付けたイギリスよりはよっぽどマシだと思うで",
+        "has_extended_profile": false,
+        "id": 1203970725633089536,
+        "id_str": "1203970725633089536",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 9341,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "フルメタの作者さんグレタに関して過激な事言って叩かれてる\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Sep 23 08:57:32 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": true,
+            "description": "ほんとに何でも許せる人向けです",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 1614,
+            "follow_request_sent": false,
+            "followers_count": 51,
+            "following": false,
+            "friends_count": 203,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1176057812163497985,
+            "id_str": "1176057812163497985",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1,
+            "location": "",
+            "name": "ヒツまぶし＠なんでも許せる方向け",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "bCSFfduZVCCTrYe",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 2545,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @bCSFfduZVCCTrYe: フルメタの作者さんグレタに関して過激な事言って叩かれてる\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 17 22:56:56 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "自転車乗ったりいじったりする女児。前職で精神をやっつけちゃったアイカツエンジニア見習い。マイキャラ・フーリエちゃん(フレンズ名 argeNtuM)後援会々長兼マネージャー。#七倉小春をあきらめない 御質問→https://t.co/p0OZnzVxCy",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/rtuqrbJVfH",
+                        "display_url": "mypage.aikatsu.com/mypages/index/…",
+                        "expanded_url": "http://mypage.aikatsu.com/mypages/index/jsUBrJFXaDQYUJIq/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 80873,
+        "follow_request_sent": false,
+        "followers_count": 443,
+        "following": false,
+        "friends_count": 409,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 393038987,
+        "id_str": "393038987",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 22,
+        "location": "株式会社 スターハーモニー製作所",
+        "name": "人間失格人間",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/393038987/1519883423",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1005113285392285696/RZtx78jL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1005113285392285696/RZtx78jL_normal.jpg",
+        "profile_link_color": "0048FF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "inca_pacity",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 120041,
+        "time_zone": "",
+        "url": "https://t.co/rtuqrbJVfH",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

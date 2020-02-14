@@ -1,0 +1,335 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:05:36 +0000 2019",
+    "display_text_range": [
+        0,
+        74
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    75,
+                    98
+                ],
+                "url": "https://t.co/P3pgqEsMMh",
+                "display_url": "twitter.com/ShinShinohara/…",
+                "expanded_url": "https://twitter.com/ShinShinohara/status/1206145995857252352"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "こういう話を見て、ああ温暖化やべぇねグレタさん頑張れと思うか、じゃあ38度以上でも活動できる菌を探そうぜ、無い？無いなら作ろうぜ、と思うかですよね。 https://t.co/P3pgqEsMMh",
+    "has_extended_profile": false,
+    "id": 1206772403050663936,
+    "id_str": "1206772403050663936",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206145995857252352,
+    "quoted_status_id_str": "1206145995857252352",
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 09:36:29 +0000 2019",
+        "display_text_range": [
+            0,
+            115
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 7587,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "微生物を研究していて気づいたのは、37℃という温度を超すと活動できない微生物が大半だということ。土壌微生物の中でも極めて重要な微生物は硝化菌。この微生物は37℃を超えると途端に活動は弱くなり、42℃を超えたら全く活動できなくなる。",
+        "has_extended_profile": false,
+        "id": 1206145995857252352,
+        "id_str": "1206145995857252352",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 4140,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "微生物を研究していて気づいたのは、37℃という温度を超すと活動できない微生物が\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Mar 15 14:55:08 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "農業研究者。 有機質肥料活用型養液栽培を開発。 日本の食料問題について調査を続ける。政策提言を積極的に行う。\n著書「子どもの地頭とやる気が育つおもしろい方法」https://t.co/5p2FgQrz6L\n「自分の頭で考えて動く部下の育て方」　https://t.co/6ek4cpCeWR",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/H9TfdSfM9Y",
+                            "display_url": "togetter.com/id/ShinShinoha…",
+                            "expanded_url": "http://togetter.com/id/ShinShinohara"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 11635,
+            "follow_request_sent": false,
+            "followers_count": 12088,
+            "following": false,
+            "friends_count": 194,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 123269243,
+            "id_str": "123269243",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 275,
+            "location": "三重県",
+            "name": "shinshinohara",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1167391522062364672/ZUWi4U4C_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1167391522062364672/ZUWi4U4C_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "ShinShinohara",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 27086,
+            "time_zone": "",
+            "url": "https://t.co/H9TfdSfM9Y",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "こういう話を見て、ああ温暖化やべぇねグレタさん頑\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 08 00:31:40 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "宮崎県宮崎市でほそぼそと暮らすへなちょこIT技師。二児の父。  宮崎県ラブ  アイコンはフォロワーさん作 質問箱 https://t.co/DlOgRXpGt4",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/DlOgRXpGt4",
+                        "display_url": "peing.net/catalina_queen",
+                        "expanded_url": "https://peing.net/catalina_queen"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 35,
+        "follow_request_sent": false,
+        "followers_count": 82,
+        "following": false,
+        "friends_count": 55,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 112301760,
+        "id_str": "112301760",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "いつもあなたのおてもとに。",
+        "name": "Catalina with Square",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/112301760/1542111953",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1064673949844303872/YGeFa9iI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1064673949844303872/YGeFa9iI_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "catalina_queen",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 11880,
+        "time_zone": "",
+        "url": "https://t.co/DlOgRXpGt4",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

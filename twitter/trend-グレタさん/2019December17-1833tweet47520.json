@@ -1,0 +1,184 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 09:58:00 +0000 2019",
+    "display_text_range": [
+        23,
+        103
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "（ ﾟдﾟ）＜小林万希",
+                "indices": [
+                    0,
+                    11
+                ],
+                "screen_name": "wonderMAKI",
+                "id": 200546710,
+                "id_str": "200546710"
+            },
+            {
+                "name": "シマウマ",
+                "indices": [
+                    12,
+                    22
+                ],
+                "screen_name": "simaumaio",
+                "id": 2373222608,
+                "id_str": "2373222608"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@wonderMAKI @simaumaio そこに論理的な整合性を全く求めてないのが厄介ですね。人を見るときに参考にする線引きのひとつです。\n\n実際例のグレタさんが独裁者化してます。あれ止めないと可哀想。",
+    "has_extended_profile": false,
+    "id": 1206513801614381056,
+    "id_str": "1206513801614381056",
+    "in_reply_to_screen_name": "wonderMAKI",
+    "in_reply_to_status_id": 971887475323883520,
+    "in_reply_to_status_id_str": "971887475323883520",
+    "in_reply_to_user_id": 200546710,
+    "in_reply_to_user_id_str": "200546710",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "そこに論理的な整合性を全く求めてないのが厄介ですね。\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 01 15:38:49 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "普段はコミPo!で妄想漫画を作ってます。わりとゲーム好き。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/PjMJid23WV",
+                        "display_url": "pixiv.net/member.php?id=…",
+                        "expanded_url": "https://www.pixiv.net/member.php?id=29160587"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 170543,
+        "follow_request_sent": false,
+        "followers_count": 565,
+        "following": false,
+        "friends_count": 144,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1474985148,
+        "id_str": "1474985148",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 13,
+        "location": "🤖✨✨",
+        "name": "しとろ",
+        "notifications": false,
+        "profile_background_color": "FFFFFC",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1474985148/1574349800",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1197701913661149185/2NorBDaE_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197701913661149185/2NorBDaE_normal.png",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "citronome",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 173098,
+        "time_zone": "",
+        "url": "https://t.co/PjMJid23WV",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

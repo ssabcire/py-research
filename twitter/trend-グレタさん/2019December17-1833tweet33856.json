@@ -1,0 +1,356 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 13:32:34 +0000 2019",
+    "display_text_range": [
+        0,
+        117
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    94,
+                    117
+                ],
+                "url": "https://t.co/PcC6N7fieO",
+                "display_url": "togetter.com/li/1443674",
+                "expanded_url": "https://togetter.com/li/1443674"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "鉄⋈C97土曜南エ26a[P.H.S.]⋈早矢斗[デレステID:994240190]",
+                "indices": [
+                    3,
+                    11
+                ],
+                "screen_name": "cu6gane",
+                "id": 51534725,
+                "id_str": "51534725"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @cu6gane: 「環境問題に取り組むグレタさん「超満員電車で帰るところです」と床に座ってる写真を上げるもドイツ鉄道に一等車に乗っていた事をバラされてしまう」をトゥギャりました。 https://t.co/PcC6N7fieO",
+    "has_extended_profile": false,
+    "id": 1206567797351804928,
+    "id_str": "1206567797351804928",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 13:05:14 +0000 2019",
+        "display_text_range": [
+            0,
+            104
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        81,
+                        104
+                    ],
+                    "url": "https://t.co/PcC6N7fieO",
+                    "display_url": "togetter.com/li/1443674",
+                    "expanded_url": "https://togetter.com/li/1443674"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "「環境問題に取り組むグレタさん「超満員電車で帰るところです」と床に座ってる写真を上げるもドイツ鉄道に一等車に乗っていた事をバラされてしまう」をトゥギャりました。 https://t.co/PcC6N7fieO",
+        "has_extended_profile": false,
+        "id": 1206560917535649792,
+        "id_str": "1206560917535649792",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://togetter.com\" rel=\"nofollow\"\u003eTogetter / min.t / Togech\u003c/a\u003e",
+        "scopes": null,
+        "text": "「環境問題に取り組むグレタさん「超満員電車で帰るところです」と床に座\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jun 27 19:42:31 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "音ゲーとモバマスが好きな同人屋。最近はTogetterのまとめ作成に積極的になってる模様。IIDXの茶倉とモバマスの奈緒を与えるとなつく。たまにラジオ実況だったりRT増量したりで五月蠅いです。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/L2OqTYLsq9",
+                            "display_url": "hayatocurogane.web.fc2.com",
+                            "expanded_url": "http://hayatocurogane.web.fc2.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 1988,
+            "follow_request_sent": false,
+            "followers_count": 466,
+            "following": false,
+            "friends_count": 832,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 51534725,
+            "id_str": "51534725",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 35,
+            "location": "米どころ雪の国(でも地元の産地品は桃)",
+            "name": "鉄⋈C97土曜南エ26a[P.H.S.]⋈早矢斗[デレステID:994240190]",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/51534725/1445744109",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1163458286445711363/WFvnK-66_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1163458286445711363/WFvnK-66_normal.png",
+            "profile_link_color": "91D2FA",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "cu6gane",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 111151,
+            "time_zone": "",
+            "url": "https://t.co/L2OqTYLsq9",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @cu6gane: 「環境問題に取り組むグレタさん「超満員電車で帰るところです」と床に座\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 02 11:53:13 +0000 2017",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "サークルMIMIPULLにてケモ耳っ娘がすっちゃかめっちゃかする18禁同人誌を描く淫獣フレンズ。ごくまれにイラストを上げるマン。irodori たつき監督LOVE。素敵絵師のエロ絵をRTするので要注意。おれが絵の描けるフレンズだ！たーのしー！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/F4vFDU8zTm",
+                        "display_url": "gaku1072.blog61.fc2.com",
+                        "expanded_url": "http://gaku1072.blog61.fc2.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 150855,
+        "follow_request_sent": false,
+        "followers_count": 3035,
+        "following": false,
+        "friends_count": 696,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 815888676785766401,
+        "id_str": "815888676785766401",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 64,
+        "location": "",
+        "name": "桜井雫ケムリクサをすこれ",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/815888676785766401/1493575572",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1029392330598445056/LAP0IqpS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029392330598445056/LAP0IqpS_normal.jpg",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "gaku32139947",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 56779,
+        "time_zone": "",
+        "url": "https://t.co/F4vFDU8zTm",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

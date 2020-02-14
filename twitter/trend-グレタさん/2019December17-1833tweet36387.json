@@ -1,0 +1,316 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:52:16 +0000 2019",
+    "display_text_range": [
+        0,
+        45
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "和泉めぐろ RTB!",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "meguro_i",
+                "id": 113911948,
+                "id_str": "113911948"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @meguro_i: グレタさん　VS  首都圏の満員電車　の戦い見たくありません？",
+    "has_extended_profile": false,
+    "id": 1206557654023204864,
+    "id_str": "1206557654023204864",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 5,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 12:37:41 +0000 2019",
+        "display_text_range": [
+            0,
+            31
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 10,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん　VS  首都圏の満員電車　の戦い見たくありません？",
+        "has_extended_profile": false,
+        "id": 1206553986548957184,
+        "id_str": "1206553986548957184",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 5,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん　VS  首都圏",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Feb 13 12:52:52 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "IT系技術世界に生息。百合とストライクウィッチーズとリーネちゃんとデジガジェと🚴ロードバイク(ゆるポタ)で心がぴょんぴょんする系人間。WOTと模型作成やってます",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 14184,
+            "follow_request_sent": false,
+            "followers_count": 2120,
+            "following": false,
+            "friends_count": 2728,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 113911948,
+            "id_str": "113911948",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 144,
+            "location": "百合ケ丘",
+            "name": "和泉めぐろ RTB!",
+            "notifications": false,
+            "profile_background_color": "00FF33",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/113911948/1498307183",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000587332141/85980bb64ed9ec1ecf9c3963a7e02cf1_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000587332141/85980bb64ed9ec1ecf9c3963a7e02cf1_normal.jpeg",
+            "profile_link_color": "91D2FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "meguro_i",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 168718,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @meguro_i: グレタさん　VS  首都圏",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 22 02:38:05 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "今日もどこかで竿を出す(チンチンではない)  初心者トレーニー 絵の描き方は忘れました",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 112831,
+        "follow_request_sent": false,
+        "followers_count": 1664,
+        "following": false,
+        "friends_count": 923,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 21538668,
+        "id_str": "21538668",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 121,
+        "location": "全国津々浦々",
+        "name": "えのころ飯",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21538668/1453125949",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/716633444495659009/pf3cwPO8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/716633444495659009/pf3cwPO8_normal.jpg",
+        "profile_link_color": "002233",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "i_n_u__",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 624950,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

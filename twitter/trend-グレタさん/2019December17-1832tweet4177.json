@@ -1,0 +1,526 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:49:48 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "白木",
+                "indices": [
+                    3,
+                    18
+                ],
+                "screen_name": "purewhitetree7",
+                "id": 1052651827550871553,
+                "id_str": "1052651827550871553"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @purewhitetree7: 健気アピール？\n\n不便した僅かな部分だけを投稿し、ファーストクラスで最高のサービスを受けたことには触れなかったグレタさん\n\n良い待遇を受けたら感謝を表すもの\n\n環境活動家はズレた人が多いのでしょうか？\n\nこの年齢で特別待遇を受け慣れている…",
+    "has_extended_profile": false,
+    "id": 1206798625549893633,
+    "id_str": "1206798625549893633",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206475012569366528,
+    "quoted_status_id_str": "1206475012569366528",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 02:10:46 +0000 2019",
+        "display_text_range": [
+            0,
+            145
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        146,
+                        169
+                    ],
+                    "url": "https://t.co/mfS9qKfTH4",
+                    "display_url": "twitter.com/vG2AZlCr4F3hx6…",
+                    "expanded_url": "https://twitter.com/vG2AZlCr4F3hx6Y/status/1206475012569366528"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        127,
+                        133
+                    ],
+                    "text": "地球温暖化"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 5,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "健気アピール？\n\n不便した僅かな部分だけを投稿し、ファーストクラスで最高のサービスを受けたことには触れなかったグレタさん\n\n良い待遇を受けたら感謝を表すもの\n\n環境活動家はズレた人が多いのでしょうか？\n\nこの年齢で特別待遇を受け慣れているように見える\n\n＃地球温暖化 はイルミナティによる嘘 https://t.co/mfS9qKfTH4",
+        "has_extended_profile": false,
+        "id": 1206758604042162177,
+        "id_str": "1206758604042162177",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206475012569366528,
+        "quoted_status_id_str": "1206475012569366528",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Mon Dec 16 07:23:52 +0000 2019",
+            "display_text_range": [
+                0,
+                111
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "indices": [
+                            88,
+                            111
+                        ],
+                        "url": "https://t.co/Yugqrmrycz",
+                        "display_url": "anonymous-post.mobi/archives/16912",
+                        "expanded_url": "https://anonymous-post.mobi/archives/16912"
+                    }
+                ],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 15260,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "グレタ「帰りの列車は床に座ってた」と画像をTwitterに投稿⇒ドイツ鉄道「ファーストクラス(１等車)に座っていた」～ネットの反応「バレタwww」「無慈悲なドイツ鉄道www」 https://t.co/Yugqrmrycz",
+            "has_extended_profile": false,
+            "id": 1206475012569366528,
+            "id_str": "1206475012569366528",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 8073,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+            "scopes": null,
+            "text": "グレタ「帰りの列車は床に座ってた」と画像をTwitterに投稿⇒ドイツ鉄道「ファー\ufffd\ufffd",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Mar 17 12:40:34 +0000 2019",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "アノニマスポスト ニュースネットの反応 https://t.co/zaApiKBaOK フォローバックが追いついていません…「リツイート」「いいね」して頂いた方から順次フォローバックしています。いつかは追いつくかも…",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/zaApiKBaOK",
+                                "display_url": "anonymous-post.mobi",
+                                "expanded_url": "https://anonymous-post.mobi/"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 71,
+                "follow_request_sent": false,
+                "followers_count": 39664,
+                "following": false,
+                "friends_count": 15293,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1107260433558233093,
+                "id_str": "1107260433558233093",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 356,
+                "location": "",
+                "name": "アノニマス ポスト　ニュースとネットの反応",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1107260433558233093/1552867076",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1161201866111193089/A2SGh1v7_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1161201866111193089/A2SGh1v7_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "vG2AZlCr4F3hx6Y",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 1034,
+                "time_zone": "",
+                "url": "https://t.co/zaApiKBaOK",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "健気アピール？\n\n不便した僅かな部分だけを投稿し、ファーストクラスで最高のサービスを受けたことには\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Oct 17 20:05:27 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": true,
+            "description": "真実を発信していきます。https://t.co/kNMpspjlbh",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/dt14muUV3y",
+                            "display_url": "ameblo.jp/mizubenohituzi/",
+                            "expanded_url": "https://ameblo.jp/mizubenohituzi/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 7255,
+            "follow_request_sent": false,
+            "followers_count": 293,
+            "following": false,
+            "friends_count": 72,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1052651827550871553,
+            "id_str": "1052651827550871553",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 12,
+            "location": "",
+            "name": "白木",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1052651827550871553/1542648615",
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "purewhitetree7",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 8833,
+            "time_zone": "",
+            "url": "https://t.co/dt14muUV3y",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @purewhitetree7: 健気アピール？\n\n不便した僅かな部分だけを投稿し、ファーストクラスで最高のサービス\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 02 10:16:46 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "日々の繋がりを 大事にしよう！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/3iY2RLYvCt",
+                        "display_url": "ameblo.jp/katuhiko-t/",
+                        "expanded_url": "http://ameblo.jp/katuhiko-t/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 42281,
+        "follow_request_sent": false,
+        "followers_count": 1314,
+        "following": false,
+        "friends_count": 1335,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 110663969,
+        "id_str": "110663969",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 3,
+        "location": "高知県高知市",
+        "name": "高橋勝彦",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/110663969/1539642828",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1045236657123807232/ITqWJypn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045236657123807232/ITqWJypn_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tuincuru",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 38988,
+        "time_zone": "",
+        "url": "https://t.co/3iY2RLYvCt",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

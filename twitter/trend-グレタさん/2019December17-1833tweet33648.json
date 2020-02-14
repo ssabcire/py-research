@@ -1,0 +1,439 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 13:36:00 +0000 2019",
+    "display_text_range": [
+        0,
+        78
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    79,
+                    102
+                ],
+                "url": "https://t.co/dsNbrbNVLV",
+                "display_url": "twitter.com/TheSun/status/…",
+                "expanded_url": "https://twitter.com/TheSun/status/1206534434947846144"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんが、自身をアダルトに含めていないことだけはわかる。でなければ、避難できないから。常に責任を自分以外に擦り付けて、他を非難し続ける。確かにキッズだ。 https://t.co/dsNbrbNVLV",
+    "has_extended_profile": false,
+    "id": 1206568662481563649,
+    "id_str": "1206568662481563649",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206534434947846144,
+    "quoted_status_id_str": "1206534434947846144",
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 11:20:00 +0000 2019",
+        "display_text_range": [
+            0,
+            69
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206523641678221312,
+                    "id_str": "1206523641678221312",
+                    "media_url": "http://pbs.twimg.com/media/EL5vArWX0AAoidy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL5vArWX0AAoidy.jpg",
+                    "url": "https://t.co/YHg3J2lXnM",
+                    "display_url": "pic.twitter.com/YHg3J2lXnM",
+                    "expanded_url": "https://twitter.com/TheSun/status/1206534434947846144/video/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206523641678221312,
+                    "id_str": "1206523641678221312",
+                    "media_url": "http://pbs.twimg.com/media/EL5vArWX0AAoidy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL5vArWX0AAoidy.jpg",
+                    "url": "https://t.co/YHg3J2lXnM",
+                    "display_url": "pic.twitter.com/YHg3J2lXnM",
+                    "expanded_url": "https://twitter.com/TheSun/status/1206534434947846144/video/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "video",
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "video_info": {
+                        "aspect_ratio": [
+                            1,
+                            1
+                        ],
+                        "duration_millis": 50600,
+                        "variants": [
+                            {
+                                "bitrate": 1280000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1206523641678221312/vid/720x720/o3esFWClmkyO1XOY.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 432000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1206523641678221312/vid/320x320/I0aRwwtaP5o3razJ.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1206523641678221312/vid/480x480/187O-SZWM_jezjyp.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 0,
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1206523641678221312/pl/Y-cHqoePp4RiB_qW.m3u8?tag=13"
+                            }
+                        ]
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 30,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "Greta Thunberg says 'adults are behaving as if there was no tomorrow' https://t.co/YHg3J2lXnM",
+        "has_extended_profile": false,
+        "id": 1206534434947846144,
+        "id_str": "1206534434947846144",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "en",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 11,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://studio.twitter.com\" rel=\"nofollow\"\u003eTwitter Media Studio\u003c/a\u003e",
+        "scopes": null,
+        "text": "Greta Thunberg says 'adults are behaving as if there was no tomorrow'",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Apr 23 16:23:40 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "News Website of the Year. Never miss a story again. News, sport and entertainment, as it happens. Give us a like on Facebook too: https://t.co/VsBj6xwmU8",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/0mGfF0ECEo",
+                            "display_url": "thesun.co.uk",
+                            "expanded_url": "http://www.thesun.co.uk"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 711,
+            "follow_request_sent": false,
+            "followers_count": 1552741,
+            "following": false,
+            "friends_count": 379,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 34655603,
+            "id_str": "34655603",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 7443,
+            "location": "London",
+            "name": "The Sun",
+            "notifications": false,
+            "profile_background_color": "CC0000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/34655603/1502204175",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1194894421466255361/w4iGC87E_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194894421466255361/w4iGC87E_normal.jpg",
+            "profile_link_color": "CC3333",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EBE6E8",
+            "profile_text_color": "303030",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "TheSun",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 484522,
+            "time_zone": "",
+            "url": "https://t.co/0mGfF0ECEo",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんが、自身をアダルトに含めていないことだけは",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 11 04:09:42 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "To be, or not to be: that is the answer: 知之者不如好之者好之者不如楽之者   ゆく河の流れは絶えずしてしかももとの水にあらず。よどみに浮かぶうたかたはかつ消えかつ結びて久しくとどまりたるためしなし。non-sect radical liberal",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2318,
+        "follow_request_sent": false,
+        "followers_count": 369,
+        "following": false,
+        "friends_count": 586,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 4741447574,
+        "id_str": "4741447574",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 25,
+        "location": "",
+        "name": "とんでもない蔵",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4741447574/1529651744",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010054874489241603/KLAAq4lW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010054874489241603/KLAAq4lW_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "365imyme",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 25955,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

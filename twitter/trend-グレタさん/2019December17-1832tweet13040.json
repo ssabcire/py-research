@@ -1,0 +1,316 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:51:12 +0000 2019",
+    "display_text_range": [
+        0,
+        127
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "九兆@ジャンプにわか感想書き",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "kyu_tyou",
+                "id": 183024293,
+                "id_str": "183024293"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @kyu_tyou: 炎上芸人のグレタさん見て思うのが\n今の時代に高二病拗らせてネット配信するとワールドワイドになって消えなくて将来怖いなというのと\n若輩者利用して色んなものを稼ごうとするワルイオトナタチが多いの本当にR.I.Pゴシップの海って感じ",
+    "has_extended_profile": false,
+    "id": 1206738582108422144,
+    "id_str": "1206738582108422144",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 00:26:15 +0000 2019",
+        "display_text_range": [
+            0,
+            113
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "炎上芸人のグレタさん見て思うのが\n今の時代に高二病拗らせてネット配信するとワールドワイドになって消えなくて将来怖いなというのと\n若輩者利用して色んなものを稼ごうとするワルイオトナタチが多いの本当にR.I.Pゴシップの海って感じ",
+        "has_extended_profile": false,
+        "id": 1206732302685884416,
+        "id_str": "1206732302685884416",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "炎上芸人のグレタさん見て思うのが\n今の時代に高二病拗らせてネット配信するとワ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Aug 25 23:55:28 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "フォロー外から全然Welcome。ジャンプ感想を適当に呟いたりクソコラ作ったり。西尾維新作品を電子書籍版全て買うぐらい愛す、でも一番好きなのは『小説版グッドルーザー球磨川』。電子書籍化はよ\nSW-3568-6624-1013\n#唐突に雑な2コマ #チェンソーマン",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 6,
+            "follow_request_sent": false,
+            "followers_count": 594,
+            "following": false,
+            "friends_count": 172,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 183024293,
+            "id_str": "183024293",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 38,
+            "location": "荻窪で生存戦略中",
+            "name": "九兆@ジャンプにわか感想書き",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/183024293/1573656874",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1124293196765204480/Mn13MUYM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1124293196765204480/Mn13MUYM_normal.jpg",
+            "profile_link_color": "B30009",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "kyu_tyou",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 33357,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @kyu_tyou: 炎上芸人のグレタさん見て思うのが\n今の時代に高二病拗らせてネット配信するとワ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 11 06:56:32 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ジャンプ作品やポケモン、トランスフォーマー、ジュラシックシリーズが生き甲斐 ポケモンは人生 ジャンプ感想は発売日朝から呟くので注意 Twitterは信じない( #ジュラシックワールド考察",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 230138,
+        "follow_request_sent": false,
+        "followers_count": 678,
+        "following": false,
+        "friends_count": 516,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1661825850,
+        "id_str": "1661825850",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 29,
+        "location": "ガラル地方",
+        "name": "るいん@剣盾プレイ中の為低浮上",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1661825850/1575130983",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1188824929845698561/yM4DCV2O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1188824929845698561/yM4DCV2O_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "to2009mo4",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 248746,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

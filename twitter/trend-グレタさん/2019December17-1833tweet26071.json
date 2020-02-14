@@ -1,0 +1,598 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 16:16:41 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    110,
+                    133
+                ],
+                "url": "https://t.co/cOl1ucn3ar",
+                "display_url": "twitter.com/tsukaniki85/st…",
+                "expanded_url": "https://twitter.com/tsukaniki85/status/1204113312176361476"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ぢべた",
+                "indices": [
+                    3,
+                    11
+                ],
+                "screen_name": "jibetaP",
+                "id": 160920348,
+                "id_str": "160920348"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @jibetaP: グレタさんは嫌いじゃないけど、あの子をエコなヨットで大西洋の向こうへ送り届けたモナコのセレブがモナコグランプリでランボルギーニ試乗してたりとかする周りの大人のダブルスタンダードはいけすかない。 https://t.co/cOl1ucn3ar https…",
+    "has_extended_profile": false,
+    "id": 1206609099313434624,
+    "id_str": "1206609099313434624",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1204113312176361476,
+    "quoted_status_id_str": "1204113312176361476",
+    "quoted_status": null,
+    "possibly_sensitive": true,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 10 13:40:52 +0000 2019",
+        "display_text_range": [
+            0,
+            120
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        97,
+                        120
+                    ],
+                    "url": "https://t.co/cOl1ucn3ar",
+                    "display_url": "twitter.com/tsukaniki85/st…",
+                    "expanded_url": "https://twitter.com/tsukaniki85/status/1204113312176361476"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1204395552143622144,
+                    "id_str": "1204395552143622144",
+                    "media_url": "http://pbs.twimg.com/media/ELbfX56UwAAHmEW.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELbfX56UwAAHmEW.jpg",
+                    "url": "https://t.co/fUiJSQnwgj",
+                    "display_url": "pic.twitter.com/fUiJSQnwgj",
+                    "expanded_url": "https://twitter.com/jibetaP/status/1204395558628028417/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 694,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 393,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 740,
+                            "h": 1279,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1204395552143622144,
+                    "id_str": "1204395552143622144",
+                    "media_url": "http://pbs.twimg.com/media/ELbfX56UwAAHmEW.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELbfX56UwAAHmEW.jpg",
+                    "url": "https://t.co/fUiJSQnwgj",
+                    "display_url": "pic.twitter.com/fUiJSQnwgj",
+                    "expanded_url": "https://twitter.com/jibetaP/status/1204395558628028417/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 694,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 393,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 740,
+                            "h": 1279,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 7,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんは嫌いじゃないけど、あの子をエコなヨットで大西洋の向こうへ送り届けたモナコのセレブがモナコグランプリでランボルギーニ試乗してたりとかする周りの大人のダブルスタンダードはいけすかない。 https://t.co/cOl1ucn3ar https://t.co/fUiJSQnwgj",
+        "has_extended_profile": false,
+        "id": 1204395558628028417,
+        "id_str": "1204395558628028417",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1204113312176361476,
+        "quoted_status_id_str": "1204113312176361476",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Mon Dec 09 18:59:19 +0000 2019",
+            "display_text_range": [
+                0,
+                157
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "indices": [
+                            134,
+                            157
+                        ],
+                        "url": "https://t.co/GRrKV11WEl",
+                        "display_url": "www3.nhk.or.jp/shutoken-news/…",
+                        "expanded_url": "https://www3.nhk.or.jp/shutoken-news/20191205/1000041066.html"
+                    }
+                ],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 1615,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "そもそもグレタさんがいけ好かないって言ってる人ら、おまえら彼女の話聞いてるの？\n\n日本は今年は記録的な豪雨や猛暑で世界で最も深刻な被害を受けた国ってCOP25でも発表されてるんだよ。でもそれを言っているのはドイツの環境NGOだからそれも意地でも聞いてやらないとか？\n\nhttps://t.co/GRrKV11WEl",
+            "has_extended_profile": false,
+            "id": 1204113312176361476,
+            "id_str": "1204113312176361476",
+            "in_reply_to_screen_name": "tsukaniki85",
+            "in_reply_to_status_id": 1204106676833521665,
+            "in_reply_to_status_id_str": "1204106676833521665",
+            "in_reply_to_user_id": 819441328362659841,
+            "in_reply_to_user_id_str": "819441328362659841",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 790,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+            "scopes": null,
+            "text": "そもそもグレタさんがいけ好かないって言ってる人ら、おまえら彼女の話聞いてるの？\n\n日本は今年は記録的な豪雨\ufffd\ufffd",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Jan 12 07:10:11 +0000 2017",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "社会学専門のフリーランス英語翻訳・通訳・美術モデル💎\n@mottainaik来年公開予定🍙🎬\n🇯🇵生まれ🇳🇿仕込み。フェミニズム・SOGI・医療大麻・マインドフルネス・世代間連鎖・アイデンティティ政治・NVC・星占いと蕎麦と🍠と焼酎が永遠のマイブームな虐待サバイバー💫英語垢@nikkislikehey",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/let2Ht1ary",
+                                "display_url": "pomu.me/kittenmouth/",
+                                "expanded_url": "https://pomu.me/kittenmouth/"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 14659,
+                "follow_request_sent": false,
+                "followers_count": 2220,
+                "following": false,
+                "friends_count": 981,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 819441328362659841,
+                "id_str": "819441328362659841",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 23,
+                "location": "東京にいるのに海外にいるとよく思われてる",
+                "name": "キニツカニキでございます",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/819441328362659841/1539751341",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1154588287073263621/jfdOF7Qi_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1154588287073263621/jfdOF7Qi_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "tsukaniki85",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 5501,
+                "time_zone": "",
+                "url": "https://t.co/let2Ht1ary",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": true,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんは嫌いじゃないけど、あの子をエコなヨットで大西洋の向こうへ送り届けたモ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jun 29 13:31:47 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "私の好きなものに携わる人達が否定されないような、それを恐れないで済むような世の中が早く来ますように。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 199839,
+            "follow_request_sent": false,
+            "followers_count": 3635,
+            "following": false,
+            "friends_count": 3969,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 160920348,
+            "id_str": "160920348",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 234,
+            "location": "心の帰る場所",
+            "name": "ぢべた",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/160920348/1561207638",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1142410897077329921/00T0XhZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1142410897077329921/00T0XhZv_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "jibetaP",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 344480,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @jibetaP: グレタさんは嫌いじゃないけど、あの子をエコなヨットで大西洋の向こうへ送り届けたモナコ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 29 13:31:47 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "私の好きなものに携わる人達が否定されないような、それを恐れないで済むような世の中が早く来ますように。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 199839,
+        "follow_request_sent": false,
+        "followers_count": 3635,
+        "following": false,
+        "friends_count": 3969,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 160920348,
+        "id_str": "160920348",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 234,
+        "location": "心の帰る場所",
+        "name": "ぢべた",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/160920348/1561207638",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1142410897077329921/00T0XhZv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1142410897077329921/00T0XhZv_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jibetaP",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 344480,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

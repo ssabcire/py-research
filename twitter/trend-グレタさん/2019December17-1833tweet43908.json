@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 10:53:44 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "言葉遊び.com（ 淺羽一 ）",
+                "indices": [
+                    3,
+                    18
+                ],
+                "screen_name": "KotobaAsobiCom",
+                "id": 2303000184,
+                "id_str": "2303000184"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @KotobaAsobiCom: 誰かにとっての宣伝が、他者にとっての風評被害へつながることもある。\n\n本来であればむしろ鉄道会社と親和性があるはずなのに真逆の展開になるって、彼女をプロデュースしている人間の浅慮の結果だ。\n\nグレタさん「帰りの列車は超満員」 ドイツ鉄道と…",
+    "has_extended_profile": false,
+    "id": 1206527826087727104,
+    "id_str": "1206527826087727104",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 10:48:25 +0000 2019",
+        "display_text_range": [
+            0,
+            154
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        131,
+                        154
+                    ],
+                    "url": "https://t.co/SvCBxz3q30",
+                    "display_url": "afpbb.com/articles/-/325…",
+                    "expanded_url": "https://www.afpbb.com/articles/-/3259719?pid=21944232"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "誰かにとっての宣伝が、他者にとっての風評被害へつながることもある。\n\n本来であればむしろ鉄道会社と親和性があるはずなのに真逆の展開になるって、彼女をプロデュースしている人間の浅慮の結果だ。\n\nグレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い https://t.co/SvCBxz3q30",
+        "has_extended_profile": false,
+        "id": 1206526488318595074,
+        "id_str": "1206526488318595074",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "誰かにとっての宣伝が、他者にとっての風評被害へつながることもある。\n\n本来であればむしろ鉄道会社と親和性\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jan 21 12:19:49 +0000 2014",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "小説を書く＝モテる、そんな時代になれば良い。 ―― Amazonで電子書籍を販売中です。     https://t.co/YhWLMOuYmA",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/nUlr1rPmQo",
+                            "display_url": "kotoba-asobi.com",
+                            "expanded_url": "http://www.kotoba-asobi.com"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 639,
+            "following": false,
+            "friends_count": 29,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2303000184,
+            "id_str": "2303000184",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 17,
+            "location": "",
+            "name": "言葉遊び.com（ 淺羽一 ）",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2303000184/1401341385",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/425607487597707265/iTmyCwK7_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/425607487597707265/iTmyCwK7_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "KotobaAsobiCom",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 45169,
+            "time_zone": "",
+            "url": "https://t.co/nUlr1rPmQo",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @KotobaAsobiCom: 誰かにとっての宣伝が、他者にとっての風評被害へつながることもある。\n\n本来であれば\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 16 12:12:06 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 99709,
+        "follow_request_sent": false,
+        "followers_count": 514,
+        "following": false,
+        "friends_count": 621,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 853581763926302720,
+        "id_str": "853581763926302720",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "大阪(日本)",
+        "name": "felistas",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/853946888701198336/hDki6tcd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/853946888701198336/hDki6tcd_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "engeiaruaru",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 26622,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

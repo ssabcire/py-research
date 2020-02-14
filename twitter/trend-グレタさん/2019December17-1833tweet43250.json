@@ -1,0 +1,532 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:04:34 +0000 2019",
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    91,
+                    114
+                ],
+                "url": "https://t.co/Wxa2UxNAvk",
+                "display_url": "maps.app.goo.gl/rusSZeAfQ1pPK2…",
+                "expanded_url": "https://maps.app.goo.gl/rusSZeAfQ1pPK2XT6"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    75,
+                    90
+                ],
+                "text": "クソ物件オブザイヤー2019"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "お鯛",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "otto_morgen",
+                "id": 138054457,
+                "id_str": "138054457"
+            }
+        ],
+        "media": [
+            {
+                "id": 1194397030241587200,
+                "id_str": "1194397030241587200",
+                "media_url": "http://pbs.twimg.com/media/EJNZxVRU0AAs9SI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EJNZxVRU0AAs9SI.jpg",
+                "url": "https://t.co/uljpzHnVRz",
+                "display_url": "pic.twitter.com/uljpzHnVRz",
+                "expanded_url": "https://twitter.com/otto_morgen/status/1194397035295731713/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 681,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 386,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1747,
+                        "h": 992,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1194397035295731713,
+                "source_status_id_str": "1194397035295731713",
+                "type": "photo",
+                "indices": [
+                    115,
+                    138
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1194397030241587200,
+                "id_str": "1194397030241587200",
+                "media_url": "http://pbs.twimg.com/media/EJNZxVRU0AAs9SI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EJNZxVRU0AAs9SI.jpg",
+                "url": "https://t.co/uljpzHnVRz",
+                "display_url": "pic.twitter.com/uljpzHnVRz",
+                "expanded_url": "https://twitter.com/otto_morgen/status/1194397035295731713/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 681,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 386,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1747,
+                        "h": 992,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1194397035295731713,
+                "source_status_id_str": "1194397035295731713",
+                "type": "photo",
+                "indices": [
+                    115,
+                    138
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @otto_morgen: 【グレタさんの壁画】\nスプレー約700缶のエアゾールガスを撒き散らしながら、環境活動家のグレタさんの壁画を制作中！\n#クソ物件オブザイヤー2019\nhttps://t.co/Wxa2UxNAvk https://t.co/uljpzHnVRz",
+    "has_extended_profile": false,
+    "id": 1206530551844225024,
+    "id_str": "1206530551844225024",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 927,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Nov 12 23:30:18 +0000 2019",
+        "display_text_range": [
+            0,
+            97
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "url": "https://t.co/Wxa2UxNAvk",
+                    "display_url": "maps.app.goo.gl/rusSZeAfQ1pPK2…",
+                    "expanded_url": "https://maps.app.goo.gl/rusSZeAfQ1pPK2XT6"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        58,
+                        73
+                    ],
+                    "text": "クソ物件オブザイヤー2019"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1194397030241587200,
+                    "id_str": "1194397030241587200",
+                    "media_url": "http://pbs.twimg.com/media/EJNZxVRU0AAs9SI.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EJNZxVRU0AAs9SI.jpg",
+                    "url": "https://t.co/uljpzHnVRz",
+                    "display_url": "pic.twitter.com/uljpzHnVRz",
+                    "expanded_url": "https://twitter.com/otto_morgen/status/1194397035295731713/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 681,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 386,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1747,
+                            "h": 992,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        98,
+                        121
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1194397030241587200,
+                    "id_str": "1194397030241587200",
+                    "media_url": "http://pbs.twimg.com/media/EJNZxVRU0AAs9SI.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EJNZxVRU0AAs9SI.jpg",
+                    "url": "https://t.co/uljpzHnVRz",
+                    "display_url": "pic.twitter.com/uljpzHnVRz",
+                    "expanded_url": "https://twitter.com/otto_morgen/status/1194397035295731713/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 681,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 386,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1747,
+                            "h": 992,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        98,
+                        121
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1426,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "【グレタさんの壁画】\nスプレー約700缶のエアゾールガスを撒き散らしながら、環境活動家のグレタさんの壁画を制作中！\n#クソ物件オブザイヤー2019\nhttps://t.co/Wxa2UxNAvk https://t.co/uljpzHnVRz",
+        "has_extended_profile": false,
+        "id": 1194397035295731713,
+        "id_str": "1194397035295731713",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 927,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "【グレタさんの壁画】\nスプレー約700缶のエアゾールガスを撒き散らしな",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Apr 28 14:09:43 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "主に住宅の仕事をしている1級建築士ﾘｰﾏﾝ。 あまり主張が強い建物は好きじゃないです。ずっと前からそこにあったような街に溶け込む家をつくって行きたいです。 カレーが食べるのも作るのも好きです。  #隅切りの石 はこちらhttps://t.co/73EFTi7qNC\n#クソ物件オブザイヤー2018",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 7703,
+            "follow_request_sent": false,
+            "followers_count": 6175,
+            "following": false,
+            "friends_count": 529,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 138054457,
+            "id_str": "138054457",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 178,
+            "location": "そこらへんの路地裏が縄張り",
+            "name": "お鯛",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/138054457/1447576377",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1012304798459224064/Zp680-a1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012304798459224064/Zp680-a1_normal.jpg",
+            "profile_link_color": "FF000D",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "A1D3FF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "otto_morgen",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 67892,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @otto_morgen: 【グレタさんの壁画】\nスプレー約700缶のエアゾールガスを撒き散らしながら、環境活動家",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 27 17:32:04 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "魔法の合言葉:hnnrkrkmst 主にゲーム関係と稀に酒とサバゲ、あとは日々の愚痴など。出不精マン。\nFF14@Chocobo/グラブル/アリスギア/FGO/元RO＠idavoll/元提督@舞鶴",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 43322,
+        "follow_request_sent": false,
+        "followers_count": 353,
+        "following": false,
+        "friends_count": 615,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 93011141,
+        "id_str": "93011141",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 29,
+        "location": "",
+        "name": "みすてぃ",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/93011141/1456682497",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/805026792692060163/6KQ5RfGZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/805026792692060163/6KQ5RfGZ_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FaMisty",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 231884,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

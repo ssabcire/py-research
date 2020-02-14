@@ -1,0 +1,164 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:21:53 +0000 2019",
+    "display_text_range": [
+        12,
+        66
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "天満",
+                "indices": [
+                    0,
+                    11
+                ],
+                "screen_name": "narittan02",
+                "id": 417123130,
+                "id_str": "417123130"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 4,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@narittan02 こんな大荷物を抱えたグレタさんを受け入れない朝の埼京線は心が狭い。大船に乗ったつもりで朝の山手線に来てくれ。",
+    "has_extended_profile": false,
+    "id": 1206731205074227201,
+    "id_str": "1206731205074227201",
+    "in_reply_to_screen_name": "narittan02",
+    "in_reply_to_status_id": 1206527641513160704,
+    "in_reply_to_status_id_str": "1206527641513160704",
+    "in_reply_to_user_id": 417123130,
+    "in_reply_to_user_id_str": "417123130",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "こんな大荷物を抱えたグレタさんを受け",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 03 15:03:55 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "聖書・クルアーン・タルムードはすべて時代遅れである。それらに記された伝承や戒律は砂漠の民の生き様に合っており彼方に潜む宇宙的真実に考えの及ぶことのない地に縛り付けられた生活を導くもの楓猫零式です。鬱病が酷い！結核のおかげで隔離病棟に入院中！暇！！ #艦これ #アズールレーン #シャドウバース #FGO #クトゥルフ",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 4933,
+        "follow_request_sent": false,
+        "followers_count": 345,
+        "following": false,
+        "friends_count": 835,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 705408369503313920,
+        "id_str": "705408369503313920",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "アズールレーン・モノスゴクタカイビル",
+        "name": "楓猫零式（12月13日午前5時までお休みします）",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/705408369503313920/1576360793",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1199083018595360768/alwYim2d_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199083018595360768/alwYim2d_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kneco00Z",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 890,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

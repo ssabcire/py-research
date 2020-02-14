@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:35:14 +0000 2019",
+    "display_text_range": [
+        9,
+        72
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    49,
+                    72
+                ],
+                "url": "https://t.co/ZwNhSQE575",
+                "display_url": "twitter.com/yama_dere/stat…",
+                "expanded_url": "https://twitter.com/yama_dere/status/1206583238136741888?s=21"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "8getter",
+                "indices": [
+                    0,
+                    8
+                ],
+                "screen_name": "8getter",
+                "id": 774286477081489409,
+                "id_str": "774286477081489409"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@8getter 意外にもグレタさん擁護を進めています。先進国を叩く理由を少し深く考えてみます。\nhttps://t.co/ZwNhSQE575",
+    "has_extended_profile": false,
+    "id": 1206583568626962432,
+    "id_str": "1206583568626962432",
+    "in_reply_to_screen_name": "8getter",
+    "in_reply_to_status_id": 1206582805041336321,
+    "in_reply_to_status_id_str": "1206582805041336321",
+    "in_reply_to_user_id": 774286477081489409,
+    "in_reply_to_user_id_str": "774286477081489409",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206583238136741888,
+    "quoted_status_id_str": "1206583238136741888",
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 14:33:55 +0000 2019",
+        "display_text_range": [
+            0,
+            134
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 3,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "我が国も中国にたくさん製品を作らせているから「GDPあたりのCO2排出量」で中国を大きく下回っている。CO2排出云々で中国だけを叩くのは、頭が悪い批判。\n結局、環境問題を辿っていくと先進国に行き着くことが多いというのをグレタさんは分かっているのでは？？\nと思いますね。",
+        "has_extended_profile": false,
+        "id": 1206583238136741888,
+        "id_str": "1206583238136741888",
+        "in_reply_to_screen_name": "yama_dere",
+        "in_reply_to_status_id": 1206582367655096320,
+        "in_reply_to_status_id_str": "1206582367655096320",
+        "in_reply_to_user_id": 3704625613,
+        "in_reply_to_user_id_str": "3704625613",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "我が国も中国にたくさん製品を作らせているから「GDPあたりのCO2排出量」で中国を大きく下回って\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Sep 27 14:38:24 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "【ちゃんみお1位記念アイコン！】ちゃんみおPの大学1年。変態の文系男子。デレステPLv139、ミリシタLv35、バンドリ117。親指勢●#地下鉄に乗るっ●日記/ニュース/ゲーム/映画/漫画/アイドル/下ネタなど雑多●政治垢→@yama_poli●エロ・暴言垢→@yama_xxxs●質問箱↓",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/r60kPFqscN",
+                            "display_url": "peing.net/yama_dere",
+                            "expanded_url": "https://peing.net/yama_dere"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 20275,
+            "follow_request_sent": false,
+            "followers_count": 1478,
+            "following": false,
+            "friends_count": 781,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 3704625613,
+            "id_str": "3704625613",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 20,
+            "location": "出身：京都　現在：島根",
+            "name": "山本@デレステP",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3704625613/1558348480",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1130420471097319429/EIYBgJ6G_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1130420471097319429/EIYBgJ6G_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "yama_dere",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 37697,
+            "time_zone": "",
+            "url": "https://t.co/r60kPFqscN",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "意外にもグレタさん擁護を進めています。先進",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 27 14:38:24 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "【ちゃんみお1位記念アイコン！】ちゃんみおPの大学1年。変態の文系男子。デレステPLv139、ミリシタLv35、バンドリ117。親指勢●#地下鉄に乗るっ●日記/ニュース/ゲーム/映画/漫画/アイドル/下ネタなど雑多●政治垢→@yama_poli●エロ・暴言垢→@yama_xxxs●質問箱↓",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/r60kPFqscN",
+                        "display_url": "peing.net/yama_dere",
+                        "expanded_url": "https://peing.net/yama_dere"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 20275,
+        "follow_request_sent": false,
+        "followers_count": 1478,
+        "following": false,
+        "friends_count": 781,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 3704625613,
+        "id_str": "3704625613",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 20,
+        "location": "出身：京都　現在：島根",
+        "name": "山本@デレステP",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3704625613/1558348480",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1130420471097319429/EIYBgJ6G_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1130420471097319429/EIYBgJ6G_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "yama_dere",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 37697,
+        "time_zone": "",
+        "url": "https://t.co/r60kPFqscN",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

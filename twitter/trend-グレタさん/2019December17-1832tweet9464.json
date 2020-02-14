@@ -1,0 +1,436 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:36:35 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "杉原こうじ（NAJAT・緑の党）",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "kojiskojis",
+                "id": 91727675,
+                "id_str": "91727675"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @kojiskojis: 【全人類必読！】\n\n「本当の脅威は、政治家や最高経営責任者（CEO）たちが行動を取って\nいるように見せかけていることです。実際は抜け目ない経理やクリエーテ\nィブなPR活動以外に何もしていないのに」\n\nグレタさん「最大の脅威は行動を取らないこと」C…",
+    "has_extended_profile": false,
+    "id": 1206765102814261250,
+    "id_str": "1206765102814261250",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 47,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 12 03:29:52 +0000 2019",
+        "display_text_range": [
+            0,
+            155
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        132,
+                        155
+                    ],
+                    "url": "https://t.co/vltnncdaNn",
+                    "display_url": "kosugihara.exblog.jp/239862195/",
+                    "expanded_url": "https://kosugihara.exblog.jp/239862195/"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1204966370602967040,
+                    "id_str": "1204966370602967040",
+                    "media_url": "http://pbs.twimg.com/media/ELjmh6YU4AAVLkH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELjmh6YU4AAVLkH.jpg",
+                    "url": "https://t.co/Me0nAymt9C",
+                    "display_url": "pic.twitter.com/Me0nAymt9C",
+                    "expanded_url": "https://twitter.com/kojiskojis/status/1204966571220668416/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1535,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        156,
+                        179
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1204966370602967040,
+                    "id_str": "1204966370602967040",
+                    "media_url": "http://pbs.twimg.com/media/ELjmh6YU4AAVLkH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELjmh6YU4AAVLkH.jpg",
+                    "url": "https://t.co/Me0nAymt9C",
+                    "display_url": "pic.twitter.com/Me0nAymt9C",
+                    "expanded_url": "https://twitter.com/kojiskojis/status/1204966571220668416/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1535,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        156,
+                        179
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 76,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "【全人類必読！】\n\n「本当の脅威は、政治家や最高経営責任者（CEO）たちが行動を取って\nいるように見せかけていることです。実際は抜け目ない経理やクリエーテ\nィブなPR活動以外に何もしていないのに」\n\nグレタさん「最大の脅威は行動を取らないこと」COP25演説全文\nhttps://t.co/vltnncdaNn https://t.co/Me0nAymt9C",
+        "has_extended_profile": false,
+        "id": 1204966571220668416,
+        "id_str": "1204966571220668416",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 47,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "scopes": null,
+        "text": "【全人類必読！】\n\n「本当の脅威は、政治家や最高経営責任者（CEO）たちが行動を取って\nいるように見せかけてい\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Nov 22 05:01:49 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "武器取引反対ネットワーク（NAJAT）代表。『世界』2019年12月号に「武器見本市という憲法的不祥事」を寄稿。共著に『亡国の武器輸出』（合同出版）、『武器輸出大国ニッポンでいいのか』（あけび書房）。緑の党脱原発・社会運動担当。ドラマ「クライマーズ・ハイ」「ハゲタカ」を愛す。※個人としてのツイートです",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/WRXnz3Y9WX",
+                            "display_url": "kosugihara.exblog.jp",
+                            "expanded_url": "http://kosugihara.exblog.jp/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 15124,
+            "follow_request_sent": false,
+            "followers_count": 7145,
+            "following": false,
+            "friends_count": 1422,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 91727675,
+            "id_str": "91727675",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 329,
+            "location": "東京都",
+            "name": "杉原こうじ（NAJAT・緑の党）",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/91727675/1574857846",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/603966784450908161/3s6ykmGQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/603966784450908161/3s6ykmGQ_normal.jpg",
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "kojiskojis",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 62409,
+            "time_zone": "",
+            "url": "https://t.co/WRXnz3Y9WX",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @kojiskojis: 【全人類必読！】\n\n「本当の脅威は、政治家や最高経営責任者（CEO）たちが行動を取って\nい\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 05 01:09:20 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "GAZA plus,世界に平和を！火曜定例会(略称：ガザデモ、GAZA世界デモ)   　2014年のイスラエルによるガザ爆撃に抗議するために、7月22日3人でイスラエル大使館前で始めたスタンディングも2018年7月31日で176回になりました。　 毎週火曜日(19:00～20:00)新宿駅西口でスタンディング",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/blWg838bsf",
+                        "display_url": "gazademo.jimdo.com",
+                        "expanded_url": "https://gazademo.jimdo.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 25,
+        "follow_request_sent": false,
+        "followers_count": 135,
+        "following": false,
+        "friends_count": 37,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1025911599406534657,
+        "id_str": "1025911599406534657",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "",
+        "name": "Peace GAZA(ガザデモ)",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1025911599406534657/1533431667",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1025917629322555392/IyoJPPFO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025917629322555392/IyoJPPFO_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gaza_peace",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 15385,
+        "time_zone": "",
+        "url": "https://t.co/blWg838bsf",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

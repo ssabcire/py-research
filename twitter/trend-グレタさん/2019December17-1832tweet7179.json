@@ -1,0 +1,164 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:32:48 +0000 2019",
+    "display_text_range": [
+        17,
+        59
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "*＊サチ＊*",
+                "indices": [
+                    0,
+                    16
+                ],
+                "screen_name": "QzKqA52dlVUVj4p",
+                "id": 1109248365995319296,
+                "id_str": "1109248365995319296"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@QzKqA52dlVUVj4p サチさんよろしくお願いします。グレタさんに是非一度でいいから来日して頂きたいですね😊",
+    "has_extended_profile": false,
+    "id": 1206779249513746432,
+    "id_str": "1206779249513746432",
+    "in_reply_to_screen_name": "QzKqA52dlVUVj4p",
+    "in_reply_to_status_id": 1206562378969567232,
+    "in_reply_to_status_id_str": "1206562378969567232",
+    "in_reply_to_user_id": 1109248365995319296,
+    "in_reply_to_user_id_str": "1109248365995319296",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "サチさんよろしくお願いします",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 16 12:05:49 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "熊本→大阪市→岡山市と転々としています。社会福祉士と介護支援専門員を遠いとおーい昔に取得したけど、ヘタレでビビリなので全然活用出来ていない…折れない心が欲しい😅猫が好き。趣味はジョギング。苦手なことは腕立て伏せ👯‍♀️がんサバイバー（甲状腺乳頭がんステージⅡ）です。タムタムファンクラブNO.345",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 65971,
+        "follow_request_sent": false,
+        "followers_count": 361,
+        "following": false,
+        "friends_count": 635,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 156247657,
+        "id_str": "156247657",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 3,
+        "location": "OKAYAMA JAPAN",
+        "name": "焼き茄子大好き🍆",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/156247657/1452870635",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1206097416547520512/plB-2mSf_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1206097416547520512/plB-2mSf_normal.png",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "miyoko0423",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 7840,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

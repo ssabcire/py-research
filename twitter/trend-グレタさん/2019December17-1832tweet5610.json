@@ -1,0 +1,174 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:06:25 +0000 2019",
+    "display_text_range": [
+        0,
+        83
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    43,
+                    66
+                ],
+                "url": "https://t.co/pB4dyqfpnE",
+                "display_url": "sankei.com/world/news/191…",
+                "expanded_url": "https://www.sankei.com/world/news/191217/wor1912170015-n1.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "産経ニュース",
+                "indices": [
+                    67,
+                    79
+                ],
+                "screen_name": "Sankei_news",
+                "id": 562773398,
+                "id_str": "562773398"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "独鉄道の対応、いいんじゃないか。\n\n独鉄道、グレタさんと応酬　「列車大混雑」の投稿受けhttps://t.co/pB4dyqfpnE @Sankei_newsさんから",
+    "has_extended_profile": false,
+    "id": 1206787707906584577,
+    "id_str": "1206787707906584577",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+    "scopes": null,
+    "text": "独鉄道の対応、いいんじゃないか。\n\n独鉄道、グレタさんと応",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 11 02:47:22 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "・基本コンデジ・星と蛍はデジイチ・写真と言論・著作権留保・フォロバの判断は写真と文章・論理性重視・政治的発言が多いですが右翼ではありません😅 \nMaster of Economics /Master of Commerce /Bachelor of Laws /Bachelor of Economics",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 92042,
+        "follow_request_sent": false,
+        "followers_count": 636,
+        "following": false,
+        "friends_count": 437,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 280312389,
+        "id_str": "280312389",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 19,
+        "location": "鹿児島県",
+        "name": "TK＠政治的発言多し、フォローは慎重に＆プロフ読んでね！",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/280312389/1559306261",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1162987535506669568/M0CZ9YaH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1162987535506669568/M0CZ9YaH_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KubotaTetsuro",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 51206,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

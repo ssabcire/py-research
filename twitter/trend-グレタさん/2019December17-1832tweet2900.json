@@ -1,0 +1,174 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:43:42 +0000 2019",
+    "display_text_range": [
+        25,
+        124
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Campus Viridis",
+                "indices": [
+                    0,
+                    14
+                ],
+                "screen_name": "ViridisCampus",
+                "id": 1006871307483377664,
+                "id_str": "1006871307483377664"
+            },
+            {
+                "name": "墨東公安委員会",
+                "indices": [
+                    15,
+                    24
+                ],
+                "screen_name": "bokukoui",
+                "id": 275334363,
+                "id_str": "275334363"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@ViridisCampus @bokukoui あ、新幹線の輸送力換算……\n\n元々がグレタさんネタなんで、一人のためにヨットな感じで考えてました。\n\n元々、飛行機より鉄道とか言ってる人を茶化したかっただけですが思わぬ勉強ができました。ありがたや。",
+    "has_extended_profile": false,
+    "id": 1206812192693075968,
+    "id_str": "1206812192693075968",
+    "in_reply_to_screen_name": "ViridisCampus",
+    "in_reply_to_status_id": 1206798458247512064,
+    "in_reply_to_status_id_str": "1206798458247512064",
+    "in_reply_to_user_id": 1006871307483377664,
+    "in_reply_to_user_id_str": "1006871307483377664",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "あ、新幹線の輸送力換算……\n\n元々がグレタさんネタなんで、一人のため\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 29 02:07:14 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "スプラ関連が中心になると思……ッタンダケドナー？？？\n\nちな壁紙？　はカラーリング重視でベッチュー使ってますけど、無印プライムの方が思い入れあります(笑)\n\nフォローはご自由にしていただいて構わないのですが、スプラトゥーン関連以外でこちらからフォローする事は滅多にないので、もしお気に障りましたらご容赦ください。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 14792,
+        "follow_request_sent": false,
+        "followers_count": 109,
+        "following": false,
+        "friends_count": 61,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1078834796480974849,
+        "id_str": "1078834796480974849",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 3,
+        "location": "",
+        "name": "酔いどれ狼",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1078834796480974849/1559435526",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1078837325054930944/ehs7D8iK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1078837325054930944/ehs7D8iK_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Yoidore_Ookami",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 8145,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

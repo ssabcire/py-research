@@ -1,0 +1,434 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:40:49 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "北川玉奴",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "tamayakko_k",
+                "id": 4826785034,
+                "id_str": "4826785034"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @tamayakko_k: 今年も地球の平和は守られました(もうそんな設定、誰も気にしなくなってるけどww)\nサスケ勝利の後、バラモン兄弟が連れて来たグレタさん(人形)に触れて「温暖化は確かに問題だけど、温暖化の次は氷河期が来ますからね。皆さん瞞されないように」「学校行け…",
+    "has_extended_profile": false,
+    "id": 1206781267573821440,
+    "id_str": "1206781267573821440",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 13 13:20:31 +0000 2019",
+        "display_text_range": [
+            0,
+            143
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [
+                {
+                    "indices": [
+                        137,
+                        143
+                    ],
+                    "text": "宇宙大戦争"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1205477584458305536,
+                    "id_str": "1205477584458305536",
+                    "media_url": "http://pbs.twimg.com/media/ELq3eeZVUAAZ_Xu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELq3eeZVUAAZ_Xu.jpg",
+                    "url": "https://t.co/LLZODNMw9B",
+                    "display_url": "pic.twitter.com/LLZODNMw9B",
+                    "expanded_url": "https://twitter.com/tamayakko_k/status/1205477599658438656/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        144,
+                        167
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1205477584458305536,
+                    "id_str": "1205477584458305536",
+                    "media_url": "http://pbs.twimg.com/media/ELq3eeZVUAAZ_Xu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELq3eeZVUAAZ_Xu.jpg",
+                    "url": "https://t.co/LLZODNMw9B",
+                    "display_url": "pic.twitter.com/LLZODNMw9B",
+                    "expanded_url": "https://twitter.com/tamayakko_k/status/1205477599658438656/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        144,
+                        167
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 12,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "今年も地球の平和は守られました(もうそんな設定、誰も気にしなくなってるけどww)\nサスケ勝利の後、バラモン兄弟が連れて来たグレタさん(人形)に触れて「温暖化は確かに問題だけど、温暖化の次は氷河期が来ますからね。皆さん瞞されないように」「学校行けよ」。さすがマスター！www\n#宇宙大戦争 https://t.co/LLZODNMw9B",
+        "has_extended_profile": false,
+        "id": 1205477599658438656,
+        "id_str": "1205477599658438656",
+        "in_reply_to_screen_name": "tamayakko_k",
+        "in_reply_to_status_id": 1205443713549266945,
+        "in_reply_to_status_id_str": "1205443713549266945",
+        "in_reply_to_user_id": 4826785034,
+        "in_reply_to_user_id_str": "4826785034",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 6,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "今年も地球の平和は守られました(もうそんな設定、誰も気にしなくなってるけどww)\nサスケ勝利の後、バラ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jan 28 19:16:07 +0000 2016",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "ライブ告知用アカウントです。よろしくね♪ https://t.co/kdnD7hx189",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/ApDy4iriTM",
+                            "display_url": "youtu.be/2q5i4yxf0iw",
+                            "expanded_url": "https://youtu.be/2q5i4yxf0iw"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 15570,
+            "follow_request_sent": false,
+            "followers_count": 532,
+            "following": false,
+            "friends_count": 415,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 4826785034,
+            "id_str": "4826785034",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 19,
+            "location": "",
+            "name": "北川玉奴",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/692792754879893504/dJwkBIVr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/692792754879893504/dJwkBIVr_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "tamayakko_k",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 6889,
+            "time_zone": "",
+            "url": "https://t.co/ApDy4iriTM",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @tamayakko_k: 今年も地球の平和は守られました(もうそんな設定、誰も気にしなくなってるけどww)\nサスケ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 29 21:21:23 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "1990年3月1日、後楽園ホールにおけるユニバーサルプロレス旗揚戦でデビュー。 1993年3月、日本初のローカルプロレス法人、株式会社みちのくプロレスを起業。 2003年4月、岩手県議選史上最多得票で世界初の覆面議員に。現在は政界完全撤退も、プロレスラーとしては生涯現役！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/G1C2Pqt7u6",
+                        "display_url": "ap-asp.com/lp/16540/773011",
+                        "expanded_url": "http://ap-asp.com/lp/16540/773011"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 7352,
+        "follow_request_sent": false,
+        "followers_count": 13056,
+        "following": false,
+        "friends_count": 11262,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 594128307,
+        "id_str": "594128307",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 297,
+        "location": "Japan",
+        "name": "ザ・グレート・サスケ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/594128307/1426068488",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2261490856/________2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2261490856/________2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "the_greatsasuke",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 17257,
+        "time_zone": "",
+        "url": "https://t.co/G1C2Pqt7u6",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

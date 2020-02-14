@@ -1,0 +1,352 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:42:09 +0000 2019",
+    "display_text_range": [
+        0,
+        100
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    67,
+                    90
+                ],
+                "url": "https://t.co/9rKNisKwcI",
+                "display_url": "gendai.ismedia.jp/articles/-/692…",
+                "expanded_url": "https://gendai.ismedia.jp/articles/-/69226"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    91,
+                    100
+                ],
+                "text": "スマートニュース"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "つちのとのとり　大駅土　己酉",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "heikichi724",
+                "id": 3152193636,
+                "id_str": "3152193636"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @heikichi724: グレタさんも知らない…環境利権のウラで日本が食い物にされる現実 「化石賞」を笑っている場合ではない https://t.co/9rKNisKwcI #スマートニュース",
+    "has_extended_profile": false,
+    "id": 1206796700335009793,
+    "id_str": "1206796700335009793",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 03:26:52 +0000 2019",
+        "display_text_range": [
+            0,
+            83
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        50,
+                        73
+                    ],
+                    "url": "https://t.co/9rKNisKwcI",
+                    "display_url": "gendai.ismedia.jp/articles/-/692…",
+                    "expanded_url": "https://gendai.ismedia.jp/articles/-/69226"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        74,
+                        83
+                    ],
+                    "text": "スマートニュース"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんも知らない…環境利権のウラで日本が食い物にされる現実 「化石賞」を笑っている場合ではない https://t.co/9rKNisKwcI #スマートニュース",
+        "has_extended_profile": false,
+        "id": 1206777755079020544,
+        "id_str": "1206777755079020544",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://www.smartnews.com/\" rel=\"nofollow\"\u003eSmartNews | スマートニュース\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんも知らない…環境利権のウラで日本が食い物にさ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Apr 13 04:22:17 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "パチンコ病で一家離散。婆に建物明け渡し裁判調停七回で限界突破。住んでる処は八つ墓村で親族は犬神家の一族は日本の文化(ΦωΦ)و ̑̑パチンコ許すまじ♪カジノは一族滅亡だね。ちなみに私は一切ギャンブルやりません。ギャンブル被害者は国を相手に訴訟を起こすべきじゃないだろうか？明らかに憲法違反国民の幸福追求権を害している。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 31270,
+            "follow_request_sent": false,
+            "followers_count": 1954,
+            "following": false,
+            "friends_count": 4985,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 3152193636,
+            "id_str": "3152193636",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 24,
+            "location": "埼玉黄泉平坂",
+            "name": "つちのとのとり　大駅土　己酉",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3152193636/1429199683",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/587475752125202432/BjcGpLFc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/587475752125202432/BjcGpLFc_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "heikichi724",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 86593,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @heikichi724: グレタさんも知らない…環境利権のウラで日本が食い物にさ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 04 01:20:05 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "こんちわ( ・∀・)ﾉアイコンは理想の「女神」的な方。偏屈もんの多分左の無宗教。差別的or暴力的な者(あとアホ)に低周波爆撃( ・∀・)ｒ鹵~＜≪巛;ﾟДﾟ)ﾉ\n\n少し言葉がちぐはぐなところあるが、そこはご愛嬌で😺\n\nラジオに競馬\u0026競輪好き、美しいのも食べるのも出かけるのも好き✨\n(ボチボチ会は架空の組織です😽)",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 424615,
+        "follow_request_sent": false,
+        "followers_count": 1874,
+        "following": false,
+        "friends_count": 780,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 716797454134353920,
+        "id_str": "716797454134353920",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 20,
+        "location": "長崎 佐世保市(西のはて)",
+        "name": "となりの福島さん@ボチボチ会九州メンバー⭐",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/716797454134353920/1571364464",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1203120165006635008/tOm41cCF_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1203120165006635008/tOm41cCF_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "midsky25ls1",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 309796,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

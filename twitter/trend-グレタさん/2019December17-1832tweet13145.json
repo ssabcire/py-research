@@ -1,0 +1,544 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:48:21 +0000 2019",
+    "display_text_range": [
+        0,
+        106
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ryota",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "ggzhmru2",
+                "id": 934591491493707776,
+                "id_str": "934591491493707776"
+            }
+        ],
+        "media": [
+            {
+                "id": 1206026659687624704,
+                "id_str": "1206026659687624704",
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206026659687624704/pu/img/vFbhWrxDjFmvaCF2.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206026659687624704/pu/img/vFbhWrxDjFmvaCF2.jpg",
+                "url": "https://t.co/0HkvpwgshV",
+                "display_url": "pic.twitter.com/0HkvpwgshV",
+                "expanded_url": "https://twitter.com/ggzhmru2/status/1206027096474054656/video/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206027096474054656,
+                "source_status_id_str": "1206027096474054656",
+                "type": "photo",
+                "indices": [
+                    83,
+                    106
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206026659687624704,
+                "id_str": "1206026659687624704",
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206026659687624704/pu/img/vFbhWrxDjFmvaCF2.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206026659687624704/pu/img/vFbhWrxDjFmvaCF2.jpg",
+                "url": "https://t.co/0HkvpwgshV",
+                "display_url": "pic.twitter.com/0HkvpwgshV",
+                "expanded_url": "https://twitter.com/ggzhmru2/status/1206027096474054656/video/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206027096474054656,
+                "source_status_id_str": "1206027096474054656",
+                "type": "video",
+                "indices": [
+                    83,
+                    106
+                ],
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 79313,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1206026659687624704/pu/vid/640x360/aOwLjgKYi_4ezIfI.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 0,
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1206026659687624704/pu/pl/lnwrhpqgXwJXtOse.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1206026659687624704/pu/vid/1280x720/4VhrIhPh4l7GLVAd.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1206026659687624704/pu/vid/480x270/fAdEbd02YjeN_Tni.mp4?tag=10"
+                        }
+                    ]
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @ggzhmru2: 16歳の少女に本気で噛みつくトランプ大統領、軽くあしらうグレタさん。一枚も二枚も上手、TIMEの表紙を飾るわけだ。ゴア元副大統領も絶賛。 https://t.co/0HkvpwgshV",
+    "has_extended_profile": false,
+    "id": 1206737865821937665,
+    "id_str": "1206737865821937665",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 261,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 01:44:01 +0000 2019",
+        "display_text_range": [
+            0,
+            68
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206026659687624704,
+                    "id_str": "1206026659687624704",
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206026659687624704/pu/img/vFbhWrxDjFmvaCF2.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206026659687624704/pu/img/vFbhWrxDjFmvaCF2.jpg",
+                    "url": "https://t.co/0HkvpwgshV",
+                    "display_url": "pic.twitter.com/0HkvpwgshV",
+                    "expanded_url": "https://twitter.com/ggzhmru2/status/1206027096474054656/video/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        69,
+                        92
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206026659687624704,
+                    "id_str": "1206026659687624704",
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206026659687624704/pu/img/vFbhWrxDjFmvaCF2.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206026659687624704/pu/img/vFbhWrxDjFmvaCF2.jpg",
+                    "url": "https://t.co/0HkvpwgshV",
+                    "display_url": "pic.twitter.com/0HkvpwgshV",
+                    "expanded_url": "https://twitter.com/ggzhmru2/status/1206027096474054656/video/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "video",
+                    "indices": [
+                        69,
+                        92
+                    ],
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 79313,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1206026659687624704/pu/vid/640x360/aOwLjgKYi_4ezIfI.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 0,
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1206026659687624704/pu/pl/lnwrhpqgXwJXtOse.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1206026659687624704/pu/vid/1280x720/4VhrIhPh4l7GLVAd.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1206026659687624704/pu/vid/480x270/fAdEbd02YjeN_Tni.mp4?tag=10"
+                            }
+                        ]
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 693,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "16歳の少女に本気で噛みつくトランプ大統領、軽くあしらうグレタさん。一枚も二枚も上手、TIMEの表紙を飾るわけだ。ゴア元副大統領も絶賛。 https://t.co/0HkvpwgshV",
+        "has_extended_profile": false,
+        "id": 1206027096474054656,
+        "id_str": "1206027096474054656",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 261,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "16歳の少女に本気で噛みつくトランプ大統領、軽く",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Nov 26 01:15:50 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "日本ってもっと公正・公平で思いやりのある国だったのに、7年前のアベ政権誕生以来、急速に劣化してきたと感じています。おかしいものはおかしい、政治もマスコミも経済も。みなさんと一緒に正しい情報を発信・共有して、まともな国を取り戻していきたいものです。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 5275,
+            "follow_request_sent": false,
+            "followers_count": 2414,
+            "following": false,
+            "friends_count": 606,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 934591491493707776,
+            "id_str": "934591491493707776",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 40,
+            "location": "",
+            "name": "ryota",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/934591491493707776/1566439830",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/994880141208801281/1hnLb2cU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/994880141208801281/1hnLb2cU_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "ggzhmru2",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 299,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @ggzhmru2: 16歳の少女に本気で噛みつくトランプ大統領、軽くあしらうグレタさ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 13 00:21:56 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "こんにちは╰(*´︶`*)╯ 元ジュエリークラフトマンでガーデナー 。只今、愚妻で怠惰な二児の母。気づいたら黒猫のママにもなってました。ちまちまハンドメイドを楽しみながら他所様のキラキラ作品を拝見して楽しんでおります。生きにくい世の中、子ども達の未来が少しでも明るい社会になりますように。半農半芸家事育児‼︎頑張るぞ。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 48694,
+        "follow_request_sent": false,
+        "followers_count": 358,
+        "following": false,
+        "friends_count": 903,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 852315883628224512,
+        "id_str": "852315883628224512",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 2,
+        "location": "丘の上",
+        "name": "Ailes（肉球新党:護犬派の黒猫）",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/852315883628224512/1508925980",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/927899527402496001/7svs6pis_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/927899527402496001/7svs6pis_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "deer_ayou",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 13977,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

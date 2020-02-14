@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 21:45:34 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "野口健 （山屋）",
+                "indices": [
+                    3,
+                    18
+                ],
+                "screen_name": "kennoguchi0821",
+                "id": 153280000,
+                "id_str": "153280000"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @kennoguchi0821: グレタさんには「さん」付け。僕には「野口」と大半で呼び捨て。中々、見ない展開。\n\nそれは別にいいとしても僕は一言も「電車はダメ」とは書いていませんよね。\n飛行機に乗らないぐらいだから馬車に乗る印象があったと。女性自身さん、せめて僕にも取材…",
+    "has_extended_profile": false,
+    "id": 1206691866172739584,
+    "id_str": "1206691866172739584",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 9365,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 13 16:56:12 +0000 2019",
+        "display_text_range": [
+            0,
+            154
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        131,
+                        154
+                    ],
+                    "url": "https://t.co/QL4O2BIUGP",
+                    "display_url": "headlines.yahoo.co.jp/article?a=2019…",
+                    "expanded_url": "https://headlines.yahoo.co.jp/article?a=20191213-00010013-jisin-soci"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 28706,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんには「さん」付け。僕には「野口」と大半で呼び捨て。中々、見ない展開。\n\nそれは別にいいとしても僕は一言も「電車はダメ」とは書いていませんよね。\n飛行機に乗らないぐらいだから馬車に乗る印象があったと。女性自身さん、せめて僕にも取材して欲しかったな。\n\n https://t.co/QL4O2BIUGP",
+        "has_extended_profile": false,
+        "id": 1205531879769657344,
+        "id_str": "1205531879769657344",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 9365,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんには「さん」付け。僕には「野口」と大半で呼び捨て。中々、見ない展開。\n\nそれは別にいいとしても\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jun 08 04:01:32 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "活動はエベレストや富士山の清掃活動、シェルパ基金、ヒマラヤでの学校建設や森林再生プロジェクト、ヒマラヤにランドセルを届けようプロジェクト。戦没者の遺骨収集。亜細亜大学客員教授。茅野市縄文ふるさと大使。総社市環境観光大使。三菱自動車アンバサダー。認定NPO法人ピークエイド理事長。（期間限定ツイートあり）",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/Sw0kAY2cVB",
+                            "display_url": "noguchi-ken.com",
+                            "expanded_url": "http://www.noguchi-ken.com"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 8861,
+            "follow_request_sent": false,
+            "followers_count": 171215,
+            "following": false,
+            "friends_count": 5442,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 153280000,
+            "id_str": "153280000",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 4438,
+            "location": "日本 関東地方",
+            "name": "野口健 （山屋）",
+            "notifications": false,
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/153280000/1576103685",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1165324916754800640/70EH6ETe_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1165324916754800640/70EH6ETe_normal.jpg",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "C6E2EE",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "kennoguchi0821",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 20802,
+            "time_zone": "",
+            "url": "https://t.co/Sw0kAY2cVB",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://twitter.com/ABS104a\" rel=\"nofollow\"\u003eBiyon≡(　ε:) Pro\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @kennoguchi0821: グレタさんには「さん」付け。僕には「野口」と大半で呼び捨て。中々、見ない展開。\n\n\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 22 09:34:55 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "橋口厩舎関連、特にハーツクライの子供、孫を応援。二輪、四輪モタスポ。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 14900,
+        "follow_request_sent": false,
+        "followers_count": 1708,
+        "following": false,
+        "friends_count": 1914,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 377904501,
+        "id_str": "377904501",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 60,
+        "location": "まつさか",
+        "name": "織部・ペリエ",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/377904501/1511737115",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1202752886398078976/RvIr2gLO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202752886398078976/RvIr2gLO_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Hyder_Reach",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 288766,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

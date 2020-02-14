@@ -1,0 +1,347 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:21:16 +0000 2019",
+    "display_text_range": [
+        0,
+        94
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "maritake",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "maritake1",
+                "id": 319595528,
+                "id_str": "319595528"
+            },
+            {
+                "name": "柏崎@垢凍結",
+                "indices": [
+                    15,
+                    28
+                ],
+                "screen_name": "miraikogoods",
+                "id": 2721196658,
+                "id_str": "2721196658"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @maritake1: @miraikogoods まさかの「女の子」に叱られるとは思わなかったのでは。\n\nグレタさんが「若い」「女性」ということで、必要以上に叩かれてる気もします。",
+    "has_extended_profile": false,
+    "id": 1206534756290031617,
+    "id_str": "1206534756290031617",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 48,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 01:08:50 +0000 2019",
+        "display_text_range": [
+            14,
+            79
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "柏崎@垢凍結",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "screen_name": "miraikogoods",
+                    "id": 2721196658,
+                    "id_str": "2721196658"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 227,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@miraikogoods まさかの「女の子」に叱られるとは思わなかったのでは。\n\nグレタさんが「若い」「女性」ということで、必要以上に叩かれてる気もします。",
+        "has_extended_profile": false,
+        "id": 1206380631900348418,
+        "id_str": "1206380631900348418",
+        "in_reply_to_screen_name": "miraikogoods",
+        "in_reply_to_status_id": 1206053604093595649,
+        "in_reply_to_status_id_str": "1206053604093595649",
+        "in_reply_to_user_id": 2721196658,
+        "in_reply_to_user_id_str": "2721196658",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 48,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "まさかの「女の子」に叱られるとは思わなかっ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jun 18 11:48:47 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "大学生2人の働く母。政治状況酷すぎてその辺の呟き増加中。昔、学生時代、父のツテで自民党選挙事務所でウグイスバイト経験有、今の自民党は軽蔑します。出生大阪〜大学卒業まで在阪→東京→横浜在住20年〜今や立派なハマっ子。山本太郎\u0026れいわ応援。リプは気が向いたら。基本ネトウヨには冷たい。エフヨコリスナー、マリサポ。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 75898,
+            "follow_request_sent": false,
+            "followers_count": 2865,
+            "following": false,
+            "friends_count": 2567,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 319595528,
+            "id_str": "319595528",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 48,
+            "location": "ヨコハマ",
+            "name": "maritake",
+            "notifications": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000853835077/7d7dab8cad0c53480e2a5d8363513b82_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000853835077/7d7dab8cad0c53480e2a5d8363513b82_normal.jpeg",
+            "profile_link_color": "93A644",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "maritake1",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 215151,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @maritake1: @miraikogoods まさかの「女の子」に叱られるとは思わなかっ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 04 11:54:52 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "心の安住の地を求めて流浪する難民ヲタ。SIR小松みゆのおにいちゃん役＋9期候補生三井瞳＆来栖有紀派、Sherbet有村瞳派。どっとじぇーぴぃ久梨栖あんこ＆吉野まみと楽遊編集部松乃麻未の遺族。ゆいゆいカンパニーNo.790、桜TrickersNo.109。2019年10月21日50万ツイート達成。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/htlBXJpirn",
+                        "display_url": "ameblo.jp/comyu400er/",
+                        "expanded_url": "https://ameblo.jp/comyu400er/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 253858,
+        "follow_request_sent": false,
+        "followers_count": 2420,
+        "following": false,
+        "friends_count": 4999,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 348418530,
+        "id_str": "348418530",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 69,
+        "location": "ゆいゆいカンパニー労働組合準備室",
+        "name": "こみゅー＠年末進行は29日から",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/348418530/1572596111",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1192739958202621952/9ynLzQX3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192739958202621952/9ynLzQX3_normal.jpg",
+        "profile_link_color": "000088",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Comyu400ER",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 517572,
+        "time_zone": "",
+        "url": "https://t.co/htlBXJpirn",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,526 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:38:08 +0000 2019",
+    "display_text_range": [
+        0,
+        82
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [
+            {
+                "indices": [
+                    40,
+                    46
+                ],
+                "text": "グレタさん"
+            },
+            {
+                "indices": [
+                    48,
+                    58
+                ],
+                "text": "グレタさんシリーズ"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "新垢[amatoクラン]リーダーandさん暇人",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "andsanhimazin02",
+                "id": 1177582428417708032,
+                "id_str": "1177582428417708032"
+            }
+        ],
+        "media": [
+            {
+                "id": 1206749779142660096,
+                "id_str": "1206749779142660096",
+                "media_url": "http://pbs.twimg.com/media/EL88h86UUAAQLYh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL88h86UUAAQLYh.jpg",
+                "url": "https://t.co/ueRZnDoW4S",
+                "display_url": "pic.twitter.com/ueRZnDoW4S",
+                "expanded_url": "https://twitter.com/andsanhimazin02/status/1206749787682246656/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 902,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 511,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1701,
+                        "h": 1279,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206749787682246656,
+                "source_status_id_str": "1206749787682246656",
+                "type": "photo",
+                "indices": [
+                    59,
+                    82
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206749779142660096,
+                "id_str": "1206749779142660096",
+                "media_url": "http://pbs.twimg.com/media/EL88h86UUAAQLYh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL88h86UUAAQLYh.jpg",
+                "url": "https://t.co/ueRZnDoW4S",
+                "display_url": "pic.twitter.com/ueRZnDoW4S",
+                "expanded_url": "https://twitter.com/andsanhimazin02/status/1206749787682246656/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 902,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 511,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1701,
+                        "h": 1279,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206749787682246656,
+                "source_status_id_str": "1206749787682246656",
+                "type": "photo",
+                "indices": [
+                    59,
+                    82
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @andsanhimazin02: 宇宙まで追われる身となったグレタさん\n#グレタさん \n#グレタさんシリーズ https://t.co/ueRZnDoW4S",
+    "has_extended_profile": false,
+    "id": 1206765491567517696,
+    "id_str": "1206765491567517696",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 01:35:44 +0000 2019",
+        "display_text_range": [
+            0,
+            37
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [
+                {
+                    "indices": [
+                        19,
+                        25
+                    ],
+                    "text": "グレタさん"
+                },
+                {
+                    "indices": [
+                        27,
+                        37
+                    ],
+                    "text": "グレタさんシリーズ"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206749779142660096,
+                    "id_str": "1206749779142660096",
+                    "media_url": "http://pbs.twimg.com/media/EL88h86UUAAQLYh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL88h86UUAAQLYh.jpg",
+                    "url": "https://t.co/ueRZnDoW4S",
+                    "display_url": "pic.twitter.com/ueRZnDoW4S",
+                    "expanded_url": "https://twitter.com/andsanhimazin02/status/1206749787682246656/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 902,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 511,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1701,
+                            "h": 1279,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        38,
+                        61
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206749779142660096,
+                    "id_str": "1206749779142660096",
+                    "media_url": "http://pbs.twimg.com/media/EL88h86UUAAQLYh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL88h86UUAAQLYh.jpg",
+                    "url": "https://t.co/ueRZnDoW4S",
+                    "display_url": "pic.twitter.com/ueRZnDoW4S",
+                    "expanded_url": "https://twitter.com/andsanhimazin02/status/1206749787682246656/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 902,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 511,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1701,
+                            "h": 1279,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        38,
+                        61
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 5,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "宇宙まで追われる身となったグレタさん\n#グレタさん \n#グレタさんシリーズ https://t.co/ueRZnDoW4S",
+        "has_extended_profile": false,
+        "id": 1206749787682246656,
+        "id_str": "1206749787682246656",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "宇宙まで追われる身となっ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Sep 27 13:55:17 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "リックドムⅡ(GH)を極めし者です。フォロバ100%の紙袋です。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 85,
+            "follow_request_sent": false,
+            "followers_count": 25,
+            "following": false,
+            "friends_count": 56,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1177582428417708032,
+            "id_str": "1177582428417708032",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 0,
+            "location": "",
+            "name": "新垢[amatoクラン]リーダーandさん暇人",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1177582428417708032/1571645601",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1177584575846858752/YpzWYpQS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177584575846858752/YpzWYpQS_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "andsanhimazin02",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 121,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @andsanhimazin02: 宇宙まで追われる身となったグレタさん\n#グ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 07 03:24:51 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "つまらない日常にケシカスを",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 15028,
+        "follow_request_sent": false,
+        "followers_count": 164,
+        "following": false,
+        "friends_count": 1061,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 2331218786,
+        "id_str": "2331218786",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 3,
+        "location": "",
+        "name": "りょーーー",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2331218786/1495152775",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1188774176540094465/veBySOjT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1188774176540094465/veBySOjT_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CenteLove",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 4160,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

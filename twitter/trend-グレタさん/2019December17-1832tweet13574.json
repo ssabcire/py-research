@@ -1,0 +1,335 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:36:45 +0000 2019",
+    "display_text_range": [
+        0,
+        100
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "樋渡 啓祐",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "hiwa1118",
+                "id": 95201793,
+                "id_str": "95201793"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @hiwa1118: グレタさん、もうそろそろ実世界に戻るべきだし、周りの大人もそうすべき。ドイツ鉄道でのTwitterでもそうだけど、明らかに破綻している。彼女はもう十分役割を果たしたと思う。",
+    "has_extended_profile": false,
+    "id": 1206734944669552640,
+    "id_str": "1206734944669552640",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 00:25:49 +0000 2019",
+        "display_text_range": [
+            0,
+            86
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 22,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん、もうそろそろ実世界に戻るべきだし、周りの大人もそうすべき。ドイツ鉄道でのTwitterでもそうだけど、明らかに破綻している。彼女はもう十分役割を果たしたと思う。",
+        "has_extended_profile": false,
+        "id": 1206732192698658816,
+        "id_str": "1206732192698658816",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            129.897387,
+                            33.108085
+                        ],
+                        [
+                            130.103185,
+                            33.108085
+                        ],
+                        [
+                            130.103185,
+                            33.283152
+                        ],
+                        [
+                            129.897387,
+                            33.283152
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "Japan",
+            "country_code": "JP",
+            "full_name": "Takeo-shi, Saga",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "d3901adfb770b23d",
+            "name": "Takeo-shi",
+            "place_type": "city",
+            "polylines": null,
+            "url": "https://api.twitter.com/1.1/geo/id/d3901adfb770b23d.json"
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん、もうそろそろ実世界に戻るべきだし、周りの大人\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Dec 07 13:38:34 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "全国応援村実行委員、関西学院大学客員教授、REVICなど少々。りんごおじさん。ランナー。前武雄市長。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 4145,
+            "follow_request_sent": false,
+            "followers_count": 18739,
+            "following": false,
+            "friends_count": 70,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 95201793,
+            "id_str": "95201793",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1545,
+            "location": "佐賀 武雄市",
+            "name": "樋渡 啓祐",
+            "notifications": false,
+            "profile_background_color": "FF6699",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/95201793/1550227668",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1096360316701556736/k_ucfDoy_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096360316701556736/k_ucfDoy_normal.png",
+            "profile_link_color": "0D70B3",
+            "profile_sidebar_border_color": "CC3366",
+            "profile_sidebar_fill_color": "E5507E",
+            "profile_text_color": "362720",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "hiwa1118",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 2190,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @hiwa1118: グレタさん、もうそろそろ実世界に戻るべきだし、周りの大人\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 10 00:51:54 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "斜陽",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 19,
+        "follow_request_sent": false,
+        "followers_count": 3,
+        "following": false,
+        "friends_count": 3,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1204201995101360130,
+        "id_str": "1204201995101360130",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "89.ten",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1204201995101360130/1575939370",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1204202783198478338/cPwfrHrP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1204202783198478338/cPwfrHrP_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "d_m_pie",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 102,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

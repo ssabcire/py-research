@@ -1,0 +1,415 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:51:31 +0000 2019",
+    "display_text_range": [
+        0,
+        122
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    123,
+                    146
+                ],
+                "url": "https://t.co/CAE7JGeM6o",
+                "display_url": "twitter.com/fukadamoe/stat…",
+                "expanded_url": "https://twitter.com/fukadamoe/status/1206710933185105920"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "このスーツケースとかリュックがバカ売れするのかなあ。\n\n海外の電車事情は分からないが、こんな大量の荷物、普通の客車だと何処にしまうんだろう？\nこの写真に映るのが小さなグレタさん一人の荷物なら、取り巻き含めたらどれだけ大量の荷物になるのだろうか？ https://t.co/CAE7JGeM6o",
+    "has_extended_profile": false,
+    "id": 1206829258200371200,
+    "id_str": "1206829258200371200",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206710933185105920,
+    "quoted_status_id_str": "1206710933185105920",
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 23:01:20 +0000 2019",
+        "display_text_range": [
+            0,
+            88
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206710925606051840,
+                    "id_str": "1206710925606051840",
+                    "media_url": "http://pbs.twimg.com/media/EL8ZMYNU4AAQRe5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL8ZMYNU4AAQRe5.jpg",
+                    "url": "https://t.co/ggRpUIc8Ud",
+                    "display_url": "pic.twitter.com/ggRpUIc8Ud",
+                    "expanded_url": "https://twitter.com/Fukadamoe/status/1206710933185105920/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 701,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 397,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1125,
+                            "h": 1925,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        89,
+                        112
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206710925606051840,
+                    "id_str": "1206710925606051840",
+                    "media_url": "http://pbs.twimg.com/media/EL8ZMYNU4AAQRe5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL8ZMYNU4AAQRe5.jpg",
+                    "url": "https://t.co/ggRpUIc8Ud",
+                    "display_url": "pic.twitter.com/ggRpUIc8Ud",
+                    "expanded_url": "https://twitter.com/Fukadamoe/status/1206710933185105920/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 701,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 397,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1125,
+                            "h": 1925,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        89,
+                        112
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1820,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "電車に座れなくて荷物の間に座り込んでいる写真。彼女の写真って、毎回プロに撮ってもらったみたいに素敵。\n電車に座れないツイートして車掌に謝罪させた割には、ファーストクラスだった！ https://t.co/ggRpUIc8Ud",
+        "has_extended_profile": false,
+        "id": 1206710933185105920,
+        "id_str": "1206710933185105920",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 610,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "電車に座れなくて荷物の間に座り込んでいる写真。彼女の写真っ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Dec 09 10:11:45 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "深田萌絵公式ブログ、フェイスブック深田萌絵も宜しくね！オトナの男に「ニャー」言わす悪い女４１歳です。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/NSdBGbcXpa",
+                            "display_url": "fukadamoe.blog.fc2.com",
+                            "expanded_url": "http://fukadamoe.blog.fc2.com"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 4111,
+            "follow_request_sent": false,
+            "followers_count": 45466,
+            "following": false,
+            "friends_count": 2342,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 95616628,
+            "id_str": "95616628",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 789,
+            "location": "",
+            "name": "深田萌絵",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/95616628/1574944306",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1121895640013795328/vG53MH-m_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1121895640013795328/vG53MH-m_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "Fukadamoe",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 14367,
+            "time_zone": "",
+            "url": "https://t.co/NSdBGbcXpa",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "このスーツケースとかリュックがバカ売れするのかなあ。\n\n海外の電車事情は分からないが",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 29 12:55:17 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "考えてからモノを言えと常に自戒の日々 愛国心を色眼鏡で見る様な時代が早く終わればいい。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2605,
+        "follow_request_sent": false,
+        "followers_count": 78,
+        "following": false,
+        "friends_count": 52,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1709987947,
+        "id_str": "1709987947",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "",
+        "name": "せんとくん",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/850187132631175168/Q0UWD6i7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/850187132631175168/Q0UWD6i7_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "23Rpt",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 11656,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

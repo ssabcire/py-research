@@ -1,0 +1,666 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:09:40 +0000 2019",
+    "display_text_range": [
+        0,
+        92
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    69,
+                    92
+                ],
+                "url": "https://t.co/W6pHfUh3WX",
+                "display_url": "twitter.com/lTfC8qI4PATLia…",
+                "expanded_url": "https://twitter.com/lTfC8qI4PATLiaC/status/1206460931829403653"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "トモテツ",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "TrickstarsLR",
+                "id": 1016996555037917184,
+                "id_str": "1016996555037917184"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @TrickstarsLR: はい擁護者のみんな解散〜！\n\nゾゾさん（8歳）「グレタは活動四天王の中でも最弱！今度は私が相手だ！」 https://t.co/W6pHfUh3WX",
+    "has_extended_profile": false,
+    "id": 1206773426276319232,
+    "id_str": "1206773426276319232",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206460931829403653,
+    "quoted_status_id_str": "1206460931829403653",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 23:34:19 +0000 2019",
+        "display_text_range": [
+            0,
+            50
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        51,
+                        74
+                    ],
+                    "url": "https://t.co/W6pHfUh3WX",
+                    "display_url": "twitter.com/lTfC8qI4PATLia…",
+                    "expanded_url": "https://twitter.com/lTfC8qI4PATLiaC/status/1206460931829403653"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 9,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "はい擁護者のみんな解散〜！\n\nゾゾさん（8歳）「グレタは活動四天王の中でも最弱！今度は私が相手だ！」 https://t.co/W6pHfUh3WX",
+        "has_extended_profile": false,
+        "id": 1206719233670836224,
+        "id_str": "1206719233670836224",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206460931829403653,
+        "quoted_status_id_str": "1206460931829403653",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Mon Dec 16 06:27:55 +0000 2019",
+            "display_text_range": [
+                0,
+                124
+            ],
+            "entities": {
+                "urls": [],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": [
+                    {
+                        "id": 1206460914276265984,
+                        "id_str": "1206460914276265984",
+                        "media_url": "http://pbs.twimg.com/media/EL41zzbUcAAvTrK.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EL41zzbUcAAvTrK.jpg",
+                        "url": "https://t.co/besRuN7Doa",
+                        "display_url": "pic.twitter.com/besRuN7Doa",
+                        "expanded_url": "https://twitter.com/lTfC8qI4PATLiaC/status/1206460931829403653/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 949,
+                                "h": 1024,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 630,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 949,
+                                "h": 1024,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            125,
+                            148
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": [
+                    {
+                        "id": 1206460914276265984,
+                        "id_str": "1206460914276265984",
+                        "media_url": "http://pbs.twimg.com/media/EL41zzbUcAAvTrK.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EL41zzbUcAAvTrK.jpg",
+                        "url": "https://t.co/besRuN7Doa",
+                        "display_url": "pic.twitter.com/besRuN7Doa",
+                        "expanded_url": "https://twitter.com/lTfC8qI4PATLiaC/status/1206460931829403653/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 949,
+                                "h": 1024,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 630,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 949,
+                                "h": 1024,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            125,
+                            148
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    },
+                    {
+                        "id": 1206460922270601217,
+                        "id_str": "1206460922270601217",
+                        "media_url": "http://pbs.twimg.com/media/EL410RNUUAEwYkc.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EL410RNUUAEwYkc.jpg",
+                        "url": "https://t.co/besRuN7Doa",
+                        "display_url": "pic.twitter.com/besRuN7Doa",
+                        "expanded_url": "https://twitter.com/lTfC8qI4PATLiaC/status/1206460931829403653/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 720,
+                                "h": 255,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 241,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 255,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            125,
+                            148
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    },
+                    {
+                        "id": 1206460925131157504,
+                        "id_str": "1206460925131157504",
+                        "media_url": "http://pbs.twimg.com/media/EL410b3U8AATkkG.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EL410b3U8AATkkG.jpg",
+                        "url": "https://t.co/besRuN7Doa",
+                        "display_url": "pic.twitter.com/besRuN7Doa",
+                        "expanded_url": "https://twitter.com/lTfC8qI4PATLiaC/status/1206460931829403653/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 720,
+                                "h": 916,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 534,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 916,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            125,
+                            148
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 46334,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "グレダさんが満員電車で床に座る健気な少女だと言わんばかりの投稿をインスタでした直後にドイツ鉄道に「ファーストクラスに座ってましたよね？」とバラされてて草。もう16歳とか関係なく全て嘘で演出だらけじゃん。一事が万事というか全部信用できなくなるんだよ。 https://t.co/besRuN7Doa",
+            "has_extended_profile": false,
+            "id": 1206460931829403653,
+            "id_str": "1206460931829403653",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 23499,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+            "scopes": null,
+            "text": "グレダさんが満員電車で床に座る健気な少女だと言わんばかりの投稿をインスタでした直後\ufffd",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Nov 01 12:20:18 +0000 2018",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 156,
+                "follow_request_sent": false,
+                "followers_count": 1807,
+                "following": false,
+                "friends_count": 21,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1057970585303564288,
+                "id_str": "1057970585303564288",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 22,
+                "location": "",
+                "name": "える",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_banner_url": "",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1066855658731954176/Yc1_Dw5c_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1066855658731954176/Yc1_Dw5c_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "lTfC8qI4PATLiaC",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 638,
+                "time_zone": "",
+                "url": "",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "はい擁護者のみんな解散〜！\n\nゾゾさ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Jul 11 10:44:08 +0000 2018",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "#世の中だいたいネトウヨ\n#権力の監視としてのメディアに出る資格がない人\n普及委員会　会員No.01（俺のみ）\n\n安倍政権は国民が選んだ政権与党です。応援、監視は根拠に基づき行いましょう。レッテル貼りはNGです。倒すべきは与党ではなく岩盤規制を守る既得権益の構造です。与党も野党もメディアもしがらみを守るものは全て敵です",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 4281,
+            "follow_request_sent": false,
+            "followers_count": 2339,
+            "following": false,
+            "friends_count": 2606,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1016996555037917184,
+            "id_str": "1016996555037917184",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 3,
+            "location": "",
+            "name": "トモテツ",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1109494468472791040/PRi2Vosf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109494468472791040/PRi2Vosf_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "TrickstarsLR",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 3766,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @TrickstarsLR: はい擁護者のみんな解散〜！\n\nゾゾさん（8歳）「グレ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 03 03:16:10 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "家族 を愛し、 友人 を愛し、 故郷 を愛し、 国 を愛する。 TAMU.FC No (=ﾟωﾟ)ﾉﾆｬｰﾝ♪",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 65689,
+        "follow_request_sent": false,
+        "followers_count": 1494,
+        "following": false,
+        "friends_count": 1789,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1478729406,
+        "id_str": "1478729406",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 10,
+        "location": "ជប៉ុនជប៉ុន",
+        "name": "🎌丹沢 鮎太郎🎌",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1478729406/1566574021",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1205104886477574144/6ndsuVWi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205104886477574144/6ndsuVWi_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ayutarotanzawa",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 40518,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

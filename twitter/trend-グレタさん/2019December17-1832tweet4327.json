@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:43:40 +0000 2019",
+    "display_text_range": [
+        0,
+        41
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "蒲田 典弘",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "lets_skeptic",
+                "id": 24840917,
+                "id_str": "24840917"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @lets_skeptic: なんならグレタさんの存在すらスッパリ忘れていい",
+    "has_extended_profile": false,
+    "id": 1206797082469625856,
+    "id_str": "1206797082469625856",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 37,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 12:49:22 +0000 2019",
+        "display_text_range": [
+            0,
+            23
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 26,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "なんならグレタさんの存在すらスッパリ忘れていい",
+        "has_extended_profile": false,
+        "id": 1206556927569756160,
+        "id_str": "1206556927569756160",
+        "in_reply_to_screen_name": "lets_skeptic",
+        "in_reply_to_status_id": 1206556033797111808,
+        "in_reply_to_status_id_str": "1206556033797111808",
+        "in_reply_to_user_id": 24840917,
+        "in_reply_to_user_id_str": "24840917",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 37,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "なんならグレタ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Mar 17 04:42:45 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "懐疑論者。 非合理批判（疑似科学、ニセ医療、ニセ健康情報、悪徳商法など）なんかもしてます。その実態は超常現象マニア（批判的研究だけどボルトナットなUFOが好き）ASIOS 蒲田です。ロズウェル事件研究家。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/Ei0wn0eoeH",
+                            "display_url": "lets-skeptic.hateblo.jp",
+                            "expanded_url": "http://lets-skeptic.hateblo.jp/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 1249,
+            "follow_request_sent": false,
+            "followers_count": 860,
+            "following": false,
+            "friends_count": 291,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 24840917,
+            "id_str": "24840917",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 71,
+            "location": "",
+            "name": "蒲田 典弘",
+            "notifications": false,
+            "profile_background_color": "C2C2C2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1076426988674404353/CFBOZJKS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1076426988674404353/CFBOZJKS_normal.jpg",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "lets_skeptic",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 6398,
+            "time_zone": "",
+            "url": "https://t.co/Ei0wn0eoeH",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @lets_skeptic: なんならグレタ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 20 05:21:16 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "なおちんです。マダオさんです。保守・愛国者です。しばらく不在でしたが、やっと戻ってこれましたw ついったーのためにUQに月980円課金してますw また猫様と暮らし始めました。ＭＴ車に乗る、異常なほどの猫好きおじさん。映画(吹替版が好き)、カトリック末端信徒、医療従事者。医療系アドバイスするのが趣味ですｗ",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 4710,
+        "follow_request_sent": false,
+        "followers_count": 238,
+        "following": false,
+        "friends_count": 743,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1031410819957907457,
+        "id_str": "1031410819957907457",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 8,
+        "location": "大宮市",
+        "name": "なおちん@RightWing",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1031410819957907457/1538537804",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1031416225883025408/Tnm9ireL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1031416225883025408/Tnm9ireL_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "naoki_glo",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 14340,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

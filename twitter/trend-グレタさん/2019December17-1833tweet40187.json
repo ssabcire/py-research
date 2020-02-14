@@ -1,0 +1,164 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:53:48 +0000 2019",
+    "display_text_range": [
+        12,
+        26
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ノア",
+                "indices": [
+                    0,
+                    11
+                ],
+                "screen_name": "orchid0730",
+                "id": 143702681,
+                "id_str": "143702681"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 4,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@orchid0730 グレタさんの方がましですね😱",
+    "has_extended_profile": false,
+    "id": 1206542943672131585,
+    "id_str": "1206542943672131585",
+    "in_reply_to_screen_name": "orchid0730",
+    "in_reply_to_status_id": 1206529628522680322,
+    "in_reply_to_status_id_str": "1206529628522680322",
+    "in_reply_to_user_id": 143702681,
+    "in_reply_to_user_id_str": "143702681",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 13 09:30:38 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "サッカーと日本を愛してます。上司だろうがお客だろうが曲がったことが大嫌い、そんな性格です。無言フォロー失礼いたします。日本が日本らしく良くなることを望んでいます。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 61550,
+        "follow_request_sent": false,
+        "followers_count": 1308,
+        "following": false,
+        "friends_count": 1550,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 918770945388507136,
+        "id_str": "918770945388507136",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "",
+        "name": "🎌K-H foot🎌",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/918770945388507136/1569108996",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1199115409632329728/wopD9MOd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199115409632329728/wopD9MOd_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KHFootbrain",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 34089,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

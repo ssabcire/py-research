@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:34:45 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "たまごのきみ",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "tamagonokimi201",
+                "id": 300311513,
+                "id_str": "300311513"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @tamagonokimi201: グレタさんも知らない…環境利権のウラで日本が食い物にされる現実\n実は、環境NGOの活動を、ヨーロッパ諸国や欧米企業が煽っているのは、ビジネス界では知られた話だ。\n「ガス田を保有していて、天然ガスを日本に売りつけたい石油メジャーのような企…",
+    "has_extended_profile": false,
+    "id": 1206794837384515584,
+    "id_str": "1206794837384515584",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 01:34:27 +0000 2019",
+        "display_text_range": [
+            0,
+            152
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        129,
+                        152
+                    ],
+                    "url": "https://t.co/AbYfIRG3xE",
+                    "display_url": "headlines.yahoo.co.jp/article?a=2019…",
+                    "expanded_url": "https://headlines.yahoo.co.jp/article?a=20191217-00069226-gendaibiz-int\u0026p=1"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 8,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんも知らない…環境利権のウラで日本が食い物にされる現実\n実は、環境NGOの活動を、ヨーロッパ諸国や欧米企業が煽っているのは、ビジネス界では知られた話だ。\n「ガス田を保有していて、天然ガスを日本に売りつけたい石油メジャーのような企業がけしかけている」 https://t.co/AbYfIRG3xE",
+        "has_extended_profile": false,
+        "id": 1206749464725057536,
+        "id_str": "1206749464725057536",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": true,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんも知らない…環境利権のウラで日本が食い物にされる現実\n実は、環境NGOの活動を、ヨーロッパ諸国や\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 17 15:12:03 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "PFC JAPAN呼び掛け人、電話鑑定の西洋占星術師です。ライフワークと実益を兼ねて真実の追求と未来の予測に力を注いでいます。今こそ目覚めてアセンションに向かいましょう。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/oxvaJTcfte",
+                            "display_url": "athukokimishima.blog118.fc2.com",
+                            "expanded_url": "http://athukokimishima.blog118.fc2.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 19944,
+            "follow_request_sent": false,
+            "followers_count": 2984,
+            "following": false,
+            "friends_count": 1516,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 300311513,
+            "id_str": "300311513",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 97,
+            "location": "横浜市 神奈川区",
+            "name": "たまごのきみ",
+            "notifications": false,
+            "profile_background_color": "642D8B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/300311513/1357659472",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1526375858/002_3__normal.JPG",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1526375858/002_3__normal.JPG",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "65B0DA",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "tamagonokimi201",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 76354,
+            "time_zone": "",
+            "url": "https://t.co/oxvaJTcfte",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @tamagonokimi201: グレタさんも知らない…環境利権のウラで日本が食い物にされる現実\n実は、環境NGOの活\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 22 17:50:20 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ずっとヲタク。ユーリ♡FF♡その他♡ 成人式？何それおいしいの？ もう味は忘却の彼方(*´♡｀*) w♡無言フォローごめんなさい。。。政治ネタは❤️のみとしていたけど、いまの日本の酷さに遂に政治、時事リツアカに(˃̶͈̀＿˂̶͈́)੭ꠥ⁾⁾🙏 腐ヲタ垢に復帰する平和な時が来るのはいつ⁉️(♡は備忘用多し)",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 120260,
+        "follow_request_sent": false,
+        "followers_count": 470,
+        "following": false,
+        "friends_count": 944,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2907404684,
+        "id_str": "2907404684",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 6,
+        "location": "ミッドガル壱番魔晄炉",
+        "name": "ころりん111",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2907404684/1520856190",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/883793862967271424/dSRHsnPO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/883793862967271424/dSRHsnPO_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kororin111777",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 91944,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

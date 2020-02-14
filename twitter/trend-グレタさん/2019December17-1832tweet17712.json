@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 23:02:46 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    49,
+                    72
+                ],
+                "url": "https://t.co/vDRcvJAH6L",
+                "display_url": "afpbb.com/articles/-/325…",
+                "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "AFPBB News",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "afpbbcom",
+                "id": 90841111,
+                "id_str": "90841111"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @afpbbcom: グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い\nhttps://t.co/vDRcvJAH6L\nグレタさんは「超満員列車でドイツを移動中。やっと家に帰るところです！」と投稿。ドイツ鉄道はツイッター公式アカウントでいら立ち気味に反…",
+    "has_extended_profile": false,
+    "id": 1206711294339866625,
+    "id_str": "1206711294339866625",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 3447,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 13:01:06 +0000 2019",
+        "display_text_range": [
+            0,
+            153
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        35,
+                        58
+                    ],
+                    "url": "https://t.co/vDRcvJAH6L",
+                    "display_url": "afpbb.com/articles/-/325…",
+                    "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 5878,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い\nhttps://t.co/vDRcvJAH6L\nグレタさんは「超満員列車でドイツを移動中。やっと家に帰るところです！」と投稿。ドイツ鉄道はツイッター公式アカウントでいら立ち気味に反応し、「一行はファーストクラスに座っていた」と補足した。",
+        "has_extended_profile": false,
+        "id": 1206559878627635205,
+        "id_str": "1206559878627635205",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 3447,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://buffer.com\" rel=\"nofollow\"\u003eBuffer\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い\nhttps://t.co/vDRcvJAH6L\nグレタさんは「超満\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Nov 18 10:16:42 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "AFPBB Newsは、2007年に世界三大通信社のAFP通信が立ち上げた日本語のニュースサービスです。スポーツニュース→ @afpbb_spo 、フェイスブック→ https://t.co/9IX2ZPAfuy、LINE→https://t.co/t4lMKWSupp…",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/ZAAjzDebmN",
+                            "display_url": "afpbb.com",
+                            "expanded_url": "http://www.afpbb.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 2,
+            "follow_request_sent": false,
+            "followers_count": 180025,
+            "following": false,
+            "friends_count": 222,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 90841111,
+            "id_str": "90841111",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 6443,
+            "location": "",
+            "name": "AFPBB News",
+            "notifications": false,
+            "profile_background_color": "0C2A7C",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/90841111/1550890030",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/557115603169726464/oJ8VVNus_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/557115603169726464/oJ8VVNus_normal.png",
+            "profile_link_color": "5C7EB9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E4E4E4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "afpbbcom",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 122704,
+            "time_zone": "",
+            "url": "http://t.co/ZAAjzDebmN",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.softama.com/\" rel=\"nofollow\"\u003eツイタマ+ for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @afpbbcom: グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い\nhttps://t.co/vDRcvJAH6L\n\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 27 10:53:36 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "れいかさんときららちゃんと響(ヴェールヌイ)とレッズが好きで、最近はコロナ愛が止まらない給料泥棒不良中年。SHT＆プリキュア時は実況率激高。RT多し。空気。サッカー、Jリーグ、プリキュア、戦隊、ライダー、ビーナスイレブンびびっど！等 最近ポタオデ沼にハマり気味。アイコンは@HABOC260 様のドット絵を拝借しました☆",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 109540,
+        "follow_request_sent": false,
+        "followers_count": 780,
+        "following": false,
+        "friends_count": 1271,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 220298544,
+        "id_str": "220298544",
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "lang": "",
+        "listed_count": 28,
+        "location": "生まれてからずーっと春日部市",
+        "name": "福田某 ⋈ (女神拾壱.net)",
+        "notifications": false,
+        "profile_background_color": "D9333F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/220298544/1567783188",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1102539398816489472/vKvsGuyB_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102539398816489472/vKvsGuyB_normal.png",
+        "profile_link_color": "E60033",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E31C1C",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fuk_r9",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 201232,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

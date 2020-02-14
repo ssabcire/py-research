@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 07:30:39 +0000 2019",
+    "display_text_range": [
+        0,
+        76
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    53,
+                    76
+                ],
+                "url": "https://t.co/WUZRQklKi6",
+                "display_url": "headlines.yahoo.co.jp/article?a=2019…",
+                "expanded_url": "https://headlines.yahoo.co.jp/article?a=20191217-00069226-gendaibiz-int"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "justice",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "justice72374036",
+                "id": 1187080434695303168,
+                "id_str": "1187080434695303168"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @justice72374036: グレタさんも知らない…環境利権のウラで日本が食い物にされる現実 https://t.co/WUZRQklKi6",
+    "has_extended_profile": false,
+    "id": 1206839105650212864,
+    "id_str": "1206839105650212864",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": true,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 07:24:03 +0000 2019",
+        "display_text_range": [
+            0,
+            55
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        32,
+                        55
+                    ],
+                    "url": "https://t.co/WUZRQklKi6",
+                    "display_url": "headlines.yahoo.co.jp/article?a=2019…",
+                    "expanded_url": "https://headlines.yahoo.co.jp/article?a=20191217-00069226-gendaibiz-int"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんも知らない…環境利権のウラで日本が食い物にされる現実 https://t.co/WUZRQklKi6",
+        "has_extended_profile": false,
+        "id": 1206837446383554560,
+        "id_str": "1206837446383554560",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": true,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんも知らない…環境利権のウラ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Oct 23 18:59:01 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "#Q #Qanon #Qarmy #WWG1WGA どうやらこの世界(地球)が変わるらしい。目覚めよ日本人。日本は世界のひな型(中心) justice この世に正義を",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 1872,
+            "follow_request_sent": false,
+            "followers_count": 173,
+            "following": false,
+            "friends_count": 220,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1187080434695303168,
+            "id_str": "1187080434695303168",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 3,
+            "location": "",
+            "name": "justice",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1187080434695303168/1571857639",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1187081823718739968/TFB1WdSu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1187081823718739968/TFB1WdSu_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "justice72374036",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 1857,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @justice72374036: グレタさんも知らない…環境利権のウラ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 18 05:10:42 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "遅咲きのメッセンジャー...世界が平和になる様に進む道を信じて情報発信して行きます⭐️Let's go！ #Qanon #QarmyJapan #WWG1WGA #Digitalsoldier ご縁があったからです！👉https://t.co/I3mIXoGA6a👉 https://t.co/2511BOya9M",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 27768,
+        "follow_request_sent": false,
+        "followers_count": 918,
+        "following": false,
+        "friends_count": 900,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 777374264865415169,
+        "id_str": "777374264865415169",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 11,
+        "location": "日本",
+        "name": "Qa ～目覚め～☀✨",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/777374264865415169/1570804607",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1194750384738193408/F9rUmFNb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194750384738193408/F9rUmFNb_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JI33603959",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 24084,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

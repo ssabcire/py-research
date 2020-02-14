@@ -1,0 +1,337 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:27:29 +0000 2019",
+    "display_text_range": [
+        0,
+        101
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "mise",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "better_mice",
+                "id": 1070229475,
+                "id_str": "1070229475"
+            },
+            {
+                "name": "茂木健一郎",
+                "indices": [
+                    17,
+                    31
+                ],
+                "screen_name": "kenichiromogi",
+                "id": 92686016,
+                "id_str": "92686016"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @better_mice: @kenichiromogi グレタさんだけに限らず、目下の女子が意見を言うと目上の男性が気にくわないという反応をする、というのはよく直面します。保守的な地方では特に。",
+    "has_extended_profile": false,
+    "id": 1206732614347841536,
+    "id_str": "1206732614347841536",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 19,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 14 23:47:25 +0000 2019",
+        "display_text_range": [
+            15,
+            84
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "茂木健一郎",
+                    "indices": [
+                        0,
+                        14
+                    ],
+                    "screen_name": "kenichiromogi",
+                    "id": 92686016,
+                    "id_str": "92686016"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 81,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@kenichiromogi グレタさんだけに限らず、目下の女子が意見を言うと目上の男性が気にくわないという反応をする、というのはよく直面します。保守的な地方では特に。",
+        "has_extended_profile": false,
+        "id": 1205997754159255557,
+        "id_str": "1205997754159255557",
+        "in_reply_to_screen_name": "kenichiromogi",
+        "in_reply_to_status_id": 1205967125392826368,
+        "in_reply_to_status_id_str": "1205967125392826368",
+        "in_reply_to_user_id": 92686016,
+        "in_reply_to_user_id_str": "92686016",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 19,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんだけに限らず、目下の女子が意見を言う",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jan 08 07:17:04 +0000 2013",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "仕事と介護の両立を実践中のアラサー。大変な時も多いけど、考えようによっては、もの凄い学びの場です。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 417,
+            "follow_request_sent": false,
+            "followers_count": 6,
+            "following": false,
+            "friends_count": 65,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1070229475,
+            "id_str": "1070229475",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 0,
+            "location": "東京, 愛知",
+            "name": "mise",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1070229475/1551604112",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1111847243215065093/i1xo5T4C_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111847243215065093/i1xo5T4C_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "better_mice",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 14,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @better_mice: @kenichiromogi グレタさんだけに限らず、目下の女子が意見を言う",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 05 14:33:12 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "社会人20年、それなりに評価を得て幸せだけど、あまりにも政治のことを勉強しなさすぎた。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2725,
+        "follow_request_sent": false,
+        "followers_count": 38,
+        "following": false,
+        "friends_count": 55,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 992774213957136384,
+        "id_str": "992774213957136384",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "日本",
+        "name": "まるみ",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/992774213957136384/1525713502",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/993540363523510272/py35Tl1b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/993540363523510272/py35Tl1b_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lJJLjMCGXPrEiej",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 6480,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

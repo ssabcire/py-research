@@ -1,0 +1,355 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:08:34 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    100,
+                    123
+                ],
+                "url": "https://t.co/rRH5YQ6XOD",
+                "display_url": "CNN.co.jp",
+                "expanded_url": "http://CNN.co.jp"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ちえ僧",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "ryuzin1220",
+                "id": 2580204744,
+                "id_str": "2580204744"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @ryuzin1220: 小娘が調子に乗り過ぎってか、世間知らずの子供を都合よく利用するクソみたいな大人が心底腹立たしい。\n\nドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容され（https://t.co/rRH5YQ6XOD） - Y!ニュース https…",
+    "has_extended_profile": false,
+    "id": 1206576858872963073,
+    "id_str": "1206576858872963073",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 13:38:26 +0000 2019",
+        "display_text_range": [
+            0,
+            141
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        84,
+                        107
+                    ],
+                    "url": "https://t.co/rRH5YQ6XOD",
+                    "display_url": "CNN.co.jp",
+                    "expanded_url": "http://CNN.co.jp"
+                },
+                {
+                    "indices": [
+                        118,
+                        141
+                    ],
+                    "url": "https://t.co/hKdv2dDE0F",
+                    "display_url": "headlines.yahoo.co.jp/hl?a=20191216-…",
+                    "expanded_url": "https://headlines.yahoo.co.jp/hl?a=20191216-35146920-cnn-int"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 48,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "小娘が調子に乗り過ぎってか、世間知らずの子供を都合よく利用するクソみたいな大人が心底腹立たしい。\n\nドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容され（https://t.co/rRH5YQ6XOD） - Y!ニュース https://t.co/hKdv2dDE0F",
+        "has_extended_profile": false,
+        "id": 1206569272228499456,
+        "id_str": "1206569272228499456",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "小娘が調子に乗り過ぎってか、世間知らずの子供を都合よく利用するクソみたいな大人が心底腹立たしい",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jun 21 10:19:45 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "自転車、バイク、車、釣り(ジギング、ルアー)、料理、ゲーム、エレクトーン、おなご力高め系おっさん。YouTubeに動画上げてます。カメラ復帰しました。よろしくお願いします。#MT10 #CRF250L #ジムニー #アドレスv125s #Nikon #D7500 #徳島 ミリタリー垢@chiezohk416d",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/nJLg3IhEnx",
+                            "display_url": "m.youtube.com/channel/UCOD-6…",
+                            "expanded_url": "https://m.youtube.com/channel/UCOD-69XLaYg329Civvb-51Q"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 71587,
+            "follow_request_sent": false,
+            "followers_count": 6738,
+            "following": false,
+            "friends_count": 6035,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 2580204744,
+            "id_str": "2580204744",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 48,
+            "location": "田舎",
+            "name": "ちえ僧",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2580204744/1573173046",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1193382298047004673/xpVWhluu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1193382298047004673/xpVWhluu_normal.jpg",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "ryuzin1220",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 36308,
+            "time_zone": "",
+            "url": "https://t.co/nJLg3IhEnx",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @ryuzin1220: 小娘が調子に乗り過ぎってか、世間知らずの子供を都合よく利用するクソみたいな大人が心\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 17 10:38:58 +0000 2018",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "｢金閣寺｣と｢人間失格｣と｢車輪の下｣の主人公の悪い所を煮詰めた様な生き物です。一時期メンタルを病んで今は週2回の非常勤勤務で糊口を凌いでいます。 一応XSR900乗ってます。じぶんさがしちゅう。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 112537,
+        "follow_request_sent": false,
+        "followers_count": 3562,
+        "following": false,
+        "friends_count": 3802,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 974958264940085253,
+        "id_str": "974958264940085253",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 10,
+        "location": "日本 東京",
+        "name": "いかライダーはすみっこがおすき@XSR900",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/974958264940085253/1553161895",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1205511834180055042/hSgpDpI5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205511834180055042/hSgpDpI5_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ika819rider",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 55707,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

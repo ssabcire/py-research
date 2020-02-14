@@ -1,0 +1,164 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:09:48 +0000 2019",
+    "display_text_range": [
+        15,
+        68
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "さすが",
+                "indices": [
+                    0,
+                    14
+                ],
+                "screen_name": "sasuga_magica",
+                "id": 910338823,
+                "id_str": "910338823"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@sasuga_magica グレタさんに限らず欧米系の方々が日本(特に首都圏)の異常なラッシュ時の電車に乗ったら発狂することでしょう。",
+    "has_extended_profile": false,
+    "id": 1206788558452752384,
+    "id_str": "1206788558452752384",
+    "in_reply_to_screen_name": "sasuga_magica",
+    "in_reply_to_status_id": 1206506389780094976,
+    "in_reply_to_status_id_str": "1206506389780094976",
+    "in_reply_to_user_id": 910338823,
+    "in_reply_to_user_id_str": "910338823",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんに限らず欧米系の方々が日\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 20 12:58:28 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "北海道在住。趣味は乗り物各種を使った旅行、野球観戦、写真撮影、料理、その他諸々。 理不尽なことだらけの最近の世の中を憂う発言(主にRT)もします",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 478059,
+        "follow_request_sent": false,
+        "followers_count": 2322,
+        "following": false,
+        "friends_count": 1695,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 240662001,
+        "id_str": "240662001",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 23,
+        "location": "",
+        "name": "Kanayan@CTS",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/240662001/1540955110",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/648089120464482304/D8PsGt38_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/648089120464482304/D8PsGt38_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kanamecchi921",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 58987,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

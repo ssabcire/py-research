@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:19:58 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんはあちこち行かないといけないから船とか鉄道とかで無理矢理移動してるけど、結局、今ってネットがあるから絶対に飛行機で移動しないとダメなことって昔より減らせるのが今時っぽいなとかは思った。\n賛同してる人達はバカンスで飛行機の移動をやめたりしてるじゃん？うちらバカンスないけど",
+    "has_extended_profile": false,
+    "id": 1206534426177331201,
+    "id_str": "1206534426177331201",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんはあちこち行かないといけないから船とか鉄道とかで無理矢理移動してるけど、結局、今っ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 01 05:12:12 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "絵とか描いてます。「魔法☆中年 おじまじょ5」好評発売中 ■pixivFAN BOX https://t.co/DYgB6kpKSe ■シンゴジ絵まとめ→ https://t.co/G8AWfsH2Ec",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/VRjOC29AH3",
+                        "display_url": "crownworks.jp/ojimajo5/",
+                        "expanded_url": "http://crownworks.jp/ojimajo5/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 39823,
+        "follow_request_sent": false,
+        "followers_count": 2752,
+        "following": false,
+        "friends_count": 1622,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 61968672,
+        "id_str": "61968672",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 136,
+        "location": "",
+        "name": "ぼへ",
+        "notifications": false,
+        "profile_background_color": "FF264F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/61968672/1401983610",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/477271242156695552/SwxHVjvd_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/477271242156695552/SwxHVjvd_normal.jpeg",
+        "profile_link_color": "C40202",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DB8897",
+        "profile_text_color": "85485C",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bhe_bbo",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 127898,
+        "time_zone": "",
+        "url": "https://t.co/VRjOC29AH3",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

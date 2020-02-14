@@ -1,0 +1,376 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:51:31 +0000 2019",
+    "display_text_range": [
+        0,
+        104
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    59,
+                    82
+                ],
+                "url": "https://t.co/vEpALXyofR",
+                "display_url": "moccosnoon.com/archives/20387…",
+                "expanded_url": "https://moccosnoon.com/archives/203871.html"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    93,
+                    97
+                ],
+                "text": "グレタ"
+            },
+            {
+                "indices": [
+                    98,
+                    104
+                ],
+                "text": "環境活動家"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "もっこす",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "mokkosu6",
+                "id": 784321734,
+                "id_str": "784321734"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @mokkosu6: グレタさん「満員列車で帰りました」鉄道会社「ファーストクラスご利用ありがとうございます」 https://t.co/vEpALXyofR☆気になったらRT！ #グレタ #環境活動家",
+    "has_extended_profile": false,
+    "id": 1206557467569614848,
+    "id_str": "1206557467569614848",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 26,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 08:48:06 +0000 2019",
+        "display_text_range": [
+            0,
+            90
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        45,
+                        68
+                    ],
+                    "url": "https://t.co/vEpALXyofR",
+                    "display_url": "moccosnoon.com/archives/20387…",
+                    "expanded_url": "https://moccosnoon.com/archives/203871.html"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        79,
+                        83
+                    ],
+                    "text": "グレタ"
+                },
+                {
+                    "indices": [
+                        84,
+                        90
+                    ],
+                    "text": "環境活動家"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 21,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん「満員列車で帰りました」鉄道会社「ファーストクラスご利用ありがとうございます」 https://t.co/vEpALXyofR☆気になったらRT！ #グレタ #環境活動家",
+        "has_extended_profile": false,
+        "id": 1206496208174247937,
+        "id_str": "1206496208174247937",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 26,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://moccosnoon.com/\" rel=\"nofollow\"\u003eモッコスのアプリ\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん「満員列車で帰りました」鉄道会社「ファーストクラス",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Aug 27 10:08:53 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "『モッコスヌ～ン』という2chまとめブログをやっています。   主にニュース系スレッドをまとめた最新記事をツイートしています。   お気軽にフォローしてやってください。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/wzezBYPVdG",
+                            "display_url": "moccosnoon.com",
+                            "expanded_url": "http://moccosnoon.com"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 5,
+            "follow_request_sent": false,
+            "followers_count": 6849,
+            "following": false,
+            "friends_count": 7058,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 784321734,
+            "id_str": "784321734",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 43,
+            "location": "",
+            "name": "もっこす",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/784321734/1513626198",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/942843318794256384/hJEwpKX3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/942843318794256384/hJEwpKX3_normal.jpg",
+            "profile_link_color": "333333",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "mokkosu6",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 13956,
+            "time_zone": "",
+            "url": "http://t.co/wzezBYPVdG",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @mokkosu6: グレタさん「満員列車で帰りました」鉄道会社「ファーストクラス",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 11 10:15:47 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "其は違うでしょ、ってこと言いたい。 STOP! the C.K.D.(stage3)",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 59949,
+        "follow_request_sent": false,
+        "followers_count": 307,
+        "following": false,
+        "friends_count": 129,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2240545398,
+        "id_str": "2240545398",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 2,
+        "location": "日本",
+        "name": "Poochka",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2240545398/1543321855",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1067395194587238400/80ZuO9H1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067395194587238400/80ZuO9H1_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "esztersmt",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 53592,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

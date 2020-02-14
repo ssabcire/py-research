@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:38:31 +0000 2019",
+    "display_text_range": [
+        0,
+        57
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "モトケン",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "motoken_tw",
+                "id": 17941253,
+                "id_str": "17941253"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @motoken_tw: グレタさんの行動を見て一番強く思うのは、恵まれた環境にいて羨ましいな、ということ。",
+    "has_extended_profile": false,
+    "id": 1206780688860508160,
+    "id_str": "1206780688860508160",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 52,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 13 09:41:52 +0000 2019",
+        "display_text_range": [
+            0,
+            41
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 130,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんの行動を見て一番強く思うのは、恵まれた環境にいて羨ましいな、ということ。",
+        "has_extended_profile": false,
+        "id": 1205422577587380225,
+        "id_str": "1205422577587380225",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 52,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんの行動を見て一番\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Dec 07 14:22:32 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "矢部善朗。元検事の弁護士（京都弁護士会）です。 アイコン（作者は Y_Coronaさん）は単なる趣味(^^; \n趣味のブログ https://t.co/9UUGXYaZLh\n仕事用HP https://t.co/7izvggv7Hb \nFaceBookアカウント Yoshirou Yabe",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/2OUXCiYAQL",
+                            "display_url": "shikinokaze.com",
+                            "expanded_url": "http://shikinokaze.com"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 4123,
+            "follow_request_sent": false,
+            "followers_count": 22094,
+            "following": false,
+            "friends_count": 1776,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 17941253,
+            "id_str": "17941253",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1466,
+            "location": "日本",
+            "name": "モトケン",
+            "notifications": false,
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17941253/1508592296",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/727489628/nm3199534___________________0001_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/727489628/nm3199534___________________0001_normal.jpg",
+            "profile_link_color": "D02B55",
+            "profile_sidebar_border_color": "829D5E",
+            "profile_sidebar_fill_color": "99CC33",
+            "profile_text_color": "3E4415",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "motoken_tw",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 124051,
+            "time_zone": "",
+            "url": "https://t.co/2OUXCiYAQL",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @motoken_tw: グレタさんの行動を見て一番\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 27 01:05:41 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "音楽とお酒とコーヒーが好き。精神科系の障害を抱え苦悩しつつも、契約社員として就業中。左右を問わず極端な思想・言説は苦手…。【※たまにRTを連発することがあるため、フォローの際はご注意を。】",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ze4bG3v6Cz",
+                        "display_url": "mixi.jp/show_profile.p…",
+                        "expanded_url": "http://mixi.jp/show_profile.pl?id=8129166"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 74871,
+        "follow_request_sent": false,
+        "followers_count": 1085,
+        "following": false,
+        "friends_count": 2910,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 243429392,
+        "id_str": "243429392",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 24,
+        "location": "福島県 会津若松市",
+        "name": "通行人C（しーたけ）",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/243429392/1473277859",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/563800622814593025/6uhyGKoI_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/563800622814593025/6uhyGKoI_normal.png",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tsuukounin_C",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 147559,
+        "time_zone": "",
+        "url": "https://t.co/ze4bG3v6Cz",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

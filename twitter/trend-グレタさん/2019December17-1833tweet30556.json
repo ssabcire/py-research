@@ -1,0 +1,216 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:26:21 +0000 2019",
+    "display_text_range": [
+        36,
+        173
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [
+            {
+                "indices": [
+                    148,
+                    153
+                ],
+                "text": "jawp"
+            },
+            {
+                "indices": [
+                    154,
+                    162
+                ],
+                "text": "ウィキペディア"
+            },
+            {
+                "indices": [
+                    163,
+                    173
+                ],
+                "text": "Wikipedia"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Ryota Yashima",
+                "indices": [
+                    0,
+                    9
+                ],
+                "screen_name": "Ryota840",
+                "id": 789399181,
+                "id_str": "789399181"
+            },
+            {
+                "name": "ウィキペディアから国民を守る党（ウィキ国党）",
+                "indices": [
+                    10,
+                    24
+                ],
+                "screen_name": "wikipediabot1",
+                "id": 1139555177843720192,
+                "id_str": "1139555177843720192"
+            },
+            {
+                "name": "Wikipedia",
+                "indices": [
+                    25,
+                    35
+                ],
+                "screen_name": "Wikipedia",
+                "id": 86390214,
+                "id_str": "86390214"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@Ryota840 @wikipediabot1 @Wikipedia 発言者が発言者ですしこの発言には何の説得力も傾聴する価値もありませんね。それを抜きにしてもグレタさんは（賛否両論あれ）世界レベルでムーブメントを起こすほど著名活動をしてはいますし単独立項の目安は十分満たしてるとは思いますが。#jawp #ウィキペディア #Wikipedia",
+    "has_extended_profile": false,
+    "id": 1206581331028692993,
+    "id_str": "1206581331028692993",
+    "in_reply_to_screen_name": "Ryota840",
+    "in_reply_to_status_id": 1206389719346503681,
+    "in_reply_to_status_id_str": "1206389719346503681",
+    "in_reply_to_user_id": 789399181,
+    "in_reply_to_user_id_str": "789399181",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "発言者が発言者ですしこの発言には何の説得力も傾聴する価値もありませんね。それを抜きにしても\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 10 12:09:20 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "愛知県在住、名古屋市内勤務の竜党\u0026Wikipedia日本語版（#jawp）編集者。#dragons 正社員で就職希望ながら大学中退なので資格取得必須な模様。すずぬーと様（@suznooto）のゲームをプレイしてます。5年後の辰年には #2024年の中日ドラゴンズ がセ・リーグ100勝することを祈願。あとアンチ巨人。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/RGa7KL6NWp",
+                        "display_url": "ja.wikipedia.org/wiki/%E5%88%A9…",
+                        "expanded_url": "https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:%E8%A6%81%E5%A1%9E%E9%A8%8E%E5%A3%AB"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 12147,
+        "follow_request_sent": false,
+        "followers_count": 607,
+        "following": false,
+        "friends_count": 1647,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 263624019,
+        "id_str": "263624019",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 9,
+        "location": "日本,愛知県（パラレルワールド移住希望）",
+        "name": "要塞騎士@jawp利用者/2024年は中日ドラゴンズがリーグ100勝！",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/263624019/1546104186",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1173877119962664961/TVfdqp1H_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1173877119962664961/TVfdqp1H_normal.png",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fortknight1996",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 56690,
+        "time_zone": "",
+        "url": "https://t.co/RGa7KL6NWp",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

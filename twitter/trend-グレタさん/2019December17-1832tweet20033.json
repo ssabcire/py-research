@@ -1,0 +1,345 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 22:12:00 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    82,
+                    105
+                ],
+                "url": "https://t.co/doyuB6R38i",
+                "display_url": "togetter.com/li/1443674#c71…",
+                "expanded_url": "https://togetter.com/li/1443674#c7159022"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "成瀬京太郎",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "yuugekisen",
+                "id": 903559974,
+                "id_str": "903559974"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @yuugekisen: 悪いのは、グレタさんでもグレタさんを利用する大人達でもなく　大人が背後にいるのが見え見えなのに、子供の猿芝居にコロリと騙される.. https://t.co/doyuB6R38i\n\n「環境問題に取り組むグレタさん「超満員電車で帰るところです」と床…",
+    "has_extended_profile": false,
+    "id": 1206698518879981568,
+    "id_str": "1206698518879981568",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 22:09:07 +0000 2019",
+        "display_text_range": [
+            0,
+            167
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        66,
+                        89
+                    ],
+                    "url": "https://t.co/doyuB6R38i",
+                    "display_url": "togetter.com/li/1443674#c71…",
+                    "expanded_url": "https://togetter.com/li/1443674#c7159022"
+                },
+                {
+                    "indices": [
+                        133,
+                        156
+                    ],
+                    "url": "https://t.co/QJNhmZx6ns",
+                    "display_url": "togetter.com/li/1443674",
+                    "expanded_url": "https://togetter.com/li/1443674"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "悪いのは、グレタさんでもグレタさんを利用する大人達でもなく　大人が背後にいるのが見え見えなのに、子供の猿芝居にコロリと騙される.. https://t.co/doyuB6R38i\n\n「環境問題に取り組むグレタさん「超満員電車で帰るところです」と床に座ってる写真..」https://t.co/QJNhmZx6ns にコメントしました。",
+        "has_extended_profile": false,
+        "id": 1206697791822516226,
+        "id_str": "1206697791822516226",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://togetter.com\" rel=\"nofollow\"\u003eTogetter / min.t / Togech\u003c/a\u003e",
+        "scopes": null,
+        "text": "悪いのは、グレタさんでもグレタさんを利用する大人達でもなく　大人が背後にいるのが見え見えなのに、子供の猿芝居に\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Oct 25 09:34:48 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "この世でいちばん遠い場所は\n自分自身のこころである　1３卒社会人",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 118,
+            "follow_request_sent": false,
+            "followers_count": 148,
+            "following": false,
+            "friends_count": 172,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 903559974,
+            "id_str": "903559974",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 4,
+            "location": "仮定された「脳内宇宙」の理想郷",
+            "name": "成瀬京太郎",
+            "notifications": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/903559974/1555081356",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/811898887006863360/77J9HFS6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/811898887006863360/77J9HFS6_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "yuugekisen",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 6358,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @yuugekisen: 悪いのは、グレタさんでもグレタさんを利用する大人達でもなく　大人が背後にいるのが見\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 13 12:07:06 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "　アイコンはリコピコNさん（@rikopiko_pinn ）より。\n　名無し会平会員。松田優作とブルース・リーを愛するアラウンドサーティ。浅見絅斎の『靖献遺言』を愛読してます。白瀬咲耶とアンティーカのP。ストライダのマルチカムが愛車。電験三種に向けて勉強中。最近では二眼レフに関心があります。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 140265,
+        "follow_request_sent": false,
+        "followers_count": 2686,
+        "following": false,
+        "friends_count": 4993,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 202146819,
+        "id_str": "202146819",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 100,
+        "location": "未開の地",
+        "name": "40面相のくりいむ",
+        "notifications": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/202146819/1553680007",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/707198326152646656/bj1_c3iS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/707198326152646656/bj1_c3iS_normal.jpg",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "muhonnocream",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 231014,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

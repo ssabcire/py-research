@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:02:32 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "UMISATO",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "nautical_mile74",
+                "id": 784706064,
+                "id_str": "784706064"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @nautical_mile74: グレタさんの訴え届かず　日本、削減目標引き上げスルー\n\n◯◯しろと一方的に言うだけで、それをする際の障害は具体的になんであり、避ける・妥協するにはどうすればよく、何が必要か等々の実践的なことは言わないからね彼女。\n\n声は届かないのでなく…",
+    "has_extended_profile": false,
+    "id": 1206816932361453568,
+    "id_str": "1206816932361453568",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 00:12:20 +0000 2019",
+        "display_text_range": [
+            0,
+            149
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        126,
+                        149
+                    ],
+                    "url": "https://t.co/EWTevFClBR",
+                    "display_url": "asahi.com/articles/ASMDH…",
+                    "expanded_url": "https://www.asahi.com/articles/ASMDH6VQYMDGULBJ00F.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんの訴え届かず　日本、削減目標引き上げスルー\n\n◯◯しろと一方的に言うだけで、それをする際の障害は具体的になんであり、避ける・妥協するにはどうすればよく、何が必要か等々の実践的なことは言わないからね彼女。\n\n声は届かないのでなく、出ていない。 https://t.co/EWTevFClBR",
+        "has_extended_profile": false,
+        "id": 1206366410777092096,
+        "id_str": "1206366410777092096",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんの訴え届かず　日本、削減目標引き上げスルー\n\n◯◯しろと一方的に言うだけで、それをする際の障",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Aug 27 13:50:35 +0000 2012",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "主に、国際政治学(リアリズム)と戦略に関心がある、発達障害者（自閉症スペクトラム、旧アスペルガー障害）。何かしら思いついたことをつぶやく。最近、認知心理学・社会心理学にも手を出している。いつまでも初学者。note：https://t.co/ATkw58Talo",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 28214,
+            "follow_request_sent": false,
+            "followers_count": 453,
+            "following": false,
+            "friends_count": 309,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 784706064,
+            "id_str": "784706064",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 39,
+            "location": "",
+            "name": "UMISATO",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/784706064/1514898002",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2906990610/597d362acdf17c19e5c16d595c0eec34_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2906990610/597d362acdf17c19e5c16d595c0eec34_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "nautical_mile74",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 30881,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @nautical_mile74: グレタさんの訴え届かず　日本、削減目標引き上げスルー\n\n◯◯しろと一方的に言うだけ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 02 16:48:51 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "高機能自閉症スペクトラムという異能を活かしてA型作業所で紙箱を作ってます。ゆっくり解説動画を投稿してるので視てね！\nおーさか屋さんにアイコンを描いて戴きました。\n  オルテガbot→ @LaRebelionMasas",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ewf7bIQgOB",
+                        "display_url": "nicovideo.jp/user/88197360",
+                        "expanded_url": "http://nicovideo.jp/user/88197360"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 16085,
+        "follow_request_sent": false,
+        "followers_count": 444,
+        "following": false,
+        "friends_count": 635,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2541834019,
+        "id_str": "2541834019",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 21,
+        "location": "札幌住。郷土アピールが激しいことで有名な北海道民です。",
+        "name": "上宮太子@発達障害＆反ワクチン運動解説動画投稿者なう",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2541834019/1549207609",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1199594260024086528/vujigLwN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199594260024086528/vujigLwN_normal.jpg",
+        "profile_link_color": "0B7033",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "EINHALD_1",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 33463,
+        "time_zone": "",
+        "url": "https://t.co/ewf7bIQgOB",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

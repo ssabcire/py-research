@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 23:13:47 +0000 2019",
+    "display_text_range": [
+        0,
+        69
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    39,
+                    62
+                ],
+                "url": "https://t.co/ESsHKv5su5",
+                "display_url": "gendai.ismedia.jp/articles/-/692…",
+                "expanded_url": "https://gendai.ismedia.jp/articles/-/69226"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    63,
+                    69
+                ],
+                "text": "マネー現代"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "しょぼい。\n\nグレタさんも知らない…環境利権のウラで日本が食い物にされる現実 https://t.co/ESsHKv5su5 #マネー現代",
+    "has_extended_profile": false,
+    "id": 1206714063268409344,
+    "id_str": "1206714063268409344",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "しょぼい。\n\nグレタさんも知らない…環境利権のウ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 18 08:27:27 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "人間３日後には飽きる、３ヶ月後には冷める、３年後には忘れる。\n私はインチキな明治維新も悲惨な戊辰戦争も忘れない。東日本大震災も忘れない。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 623,
+        "follow_request_sent": false,
+        "followers_count": 367,
+        "following": false,
+        "friends_count": 238,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 611507474,
+        "id_str": "611507474",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 11,
+        "location": "山形⇒栃木⇒和歌山⇒長野⇒？",
+        "name": "myline1919",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/611507474/1447334682",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2318736397/DSC00044_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2318736397/DSC00044_normal.JPG",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "myline1919",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 41850,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,496 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 07:55:13 +0000 2019",
+    "display_text_range": [
+        0,
+        108
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "マライ・メントライン＠職業はドイツ人",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "marei_de_pon",
+                "id": 326067200,
+                "id_str": "326067200"
+            }
+        ],
+        "media": [
+            {
+                "id": 1206778078929670144,
+                "id_str": "1206778078929670144",
+                "media_url": "http://pbs.twimg.com/media/EL9WRN1U0AASuGP.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL9WRN1U0AASuGP.jpg",
+                "url": "https://t.co/nCHE54qlKu",
+                "display_url": "pic.twitter.com/nCHE54qlKu",
+                "expanded_url": "https://twitter.com/marei_de_pon/status/1206778084780724225/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 750,
+                        "h": 477,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 432,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 750,
+                        "h": 477,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206778084780724225,
+                "source_status_id_str": "1206778084780724225",
+                "type": "photo",
+                "indices": [
+                    85,
+                    108
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206778078929670144,
+                "id_str": "1206778078929670144",
+                "media_url": "http://pbs.twimg.com/media/EL9WRN1U0AASuGP.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL9WRN1U0AASuGP.jpg",
+                "url": "https://t.co/nCHE54qlKu",
+                "display_url": "pic.twitter.com/nCHE54qlKu",
+                "expanded_url": "https://twitter.com/marei_de_pon/status/1206778084780724225/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 750,
+                        "h": 477,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 432,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 750,
+                        "h": 477,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206778084780724225,
+                "source_status_id_str": "1206778084780724225",
+                "type": "photo",
+                "indices": [
+                    85,
+                    108
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @marei_de_pon: グレタさんをめぐる出来事って、\n「意識高い系アイドル」をめぐる諸般の力学すべてが象徴的に噴き出しているよなぁ、という面でも興味深い。 https://t.co/nCHE54qlKu",
+    "has_extended_profile": false,
+    "id": 1206845290025799680,
+    "id_str": "1206845290025799680",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 36,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 03:28:10 +0000 2019",
+        "display_text_range": [
+            0,
+            66
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206778078929670144,
+                    "id_str": "1206778078929670144",
+                    "media_url": "http://pbs.twimg.com/media/EL9WRN1U0AASuGP.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL9WRN1U0AASuGP.jpg",
+                    "url": "https://t.co/nCHE54qlKu",
+                    "display_url": "pic.twitter.com/nCHE54qlKu",
+                    "expanded_url": "https://twitter.com/marei_de_pon/status/1206778084780724225/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 750,
+                            "h": 477,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 432,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 750,
+                            "h": 477,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        67,
+                        90
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206778078929670144,
+                    "id_str": "1206778078929670144",
+                    "media_url": "http://pbs.twimg.com/media/EL9WRN1U0AASuGP.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL9WRN1U0AASuGP.jpg",
+                    "url": "https://t.co/nCHE54qlKu",
+                    "display_url": "pic.twitter.com/nCHE54qlKu",
+                    "expanded_url": "https://twitter.com/marei_de_pon/status/1206778084780724225/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 750,
+                            "h": 477,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 432,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 750,
+                            "h": 477,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        67,
+                        90
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 119,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんをめぐる出来事って、\n「意識高い系アイドル」をめぐる諸般の力学すべてが象徴的に噴き出しているよなぁ、という面でも興味深い。 https://t.co/nCHE54qlKu",
+        "has_extended_profile": false,
+        "id": 1206778084780724225,
+        "id_str": "1206778084780724225",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 36,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんをめぐる出来事って、\n「意識高い系\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Jun 29 09:43:53 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "ドイツから来ました。職業はドイツ人です。ドイツミステリ応援係をやってます。 https://t.co/Hkooz6Kyig レビュー・エッセイ記事を書いたり、映像翻訳をやったり、アニメ・ノイエ銀英伝のドイツ語監修をやったり。お仕事関係のご連絡はこちらまで： inoshishi_days-marei@yahoo.co.jp",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 7110,
+            "follow_request_sent": false,
+            "followers_count": 22295,
+            "following": false,
+            "friends_count": 277,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 326067200,
+            "id_str": "326067200",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 636,
+            "location": "",
+            "name": "マライ・メントライン＠職業はドイツ人",
+            "notifications": false,
+            "profile_background_color": "050505",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1418597405/yatsu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1418597405/yatsu_normal.jpg",
+            "profile_link_color": "1B7D4B",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "marei_de_pon",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 14395,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @marei_de_pon: グレタさんをめぐる出来事って、\n「意識高い系アイドル」をめぐ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 17 08:19:50 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 60,
+        "follow_request_sent": false,
+        "followers_count": 196,
+        "following": false,
+        "friends_count": 199,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 267633937,
+        "id_str": "267633937",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 14,
+        "location": "",
+        "name": "Hoshi Akinobu",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "akinobu787",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 153320,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

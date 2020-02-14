@@ -1,0 +1,508 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:59:17 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "大仁田厚",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "onitafire123",
+                "id": 3405965653,
+                "id_str": "3405965653"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @onitafire123: グレタさんよ\n今の時代\n嘘はすぐバレる\n俺の嘘もよくバレる（笑）\n俺がドイツにいた頃は\n鉄道のファーストクラスは完全予約制だったが\n今は変わったのかな\n関係ないがドイツのソーセージは格別旨い\n目立つといろいろ言われるから環境活動も大変だな h…",
+    "has_extended_profile": false,
+    "id": 1206816111393533952,
+    "id_str": "1206816111393533952",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206473907848515584,
+    "quoted_status_id_str": "1206473907848515584",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 70,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 15:23:49 +0000 2019",
+        "display_text_range": [
+            0,
+            119
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        120,
+                        143
+                    ],
+                    "url": "https://t.co/XJ3eJSfw3J",
+                    "display_url": "twitter.com/cnn_co_jp/stat…",
+                    "expanded_url": "https://twitter.com/cnn_co_jp/status/1206473907848515584"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 176,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんよ\n今の時代\n嘘はすぐバレる\n俺の嘘もよくバレる（笑）\n俺がドイツにいた頃は\n鉄道のファーストクラスは完全予約制だったが\n今は変わったのかな\n関係ないがドイツのソーセージは格別旨い\n目立つといろいろ言われるから環境活動も大変だな https://t.co/XJ3eJSfw3J",
+        "has_extended_profile": false,
+        "id": 1206595793928372225,
+        "id_str": "1206595793928372225",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206473907848515584,
+        "quoted_status_id_str": "1206473907848515584",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Mon Dec 16 07:19:29 +0000 2019",
+            "display_text_range": [
+                0,
+                57
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "indices": [
+                            34,
+                            57
+                        ],
+                        "url": "https://t.co/0n1wrhsn92",
+                        "display_url": "cnn.co.jp/travel/3514692…",
+                        "expanded_url": "https://www.cnn.co.jp/travel/35146920.html?ref=rss"
+                    }
+                ],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 356,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容され https://t.co/0n1wrhsn92",
+            "has_extended_profile": false,
+            "id": 1206473907848515584,
+            "id_str": "1206473907848515584",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 262,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"https://ifttt.com\" rel=\"nofollow\"\u003eIFTTT\u003c/a\u003e",
+            "scopes": null,
+            "text": "ドイツ鉄道、グレタさんにツイッターで応",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Jun 24 05:14:25 +0000 2010",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "朝日インタラクティブが運営する「https://t.co/uAGXE4T1zy」の公式アカウントです。このアカウントでは最新記事の情報を配信します。",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/wJHnf0s92O",
+                                "display_url": "cnn.co.jp",
+                                "expanded_url": "http://www.cnn.co.jp/"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 0,
+                "follow_request_sent": false,
+                "followers_count": 290067,
+                "following": false,
+                "friends_count": 38230,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 158996759,
+                "id_str": "158996759",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 8185,
+                "location": "東京都千代田区",
+                "name": "cnn_co_jp",
+                "notifications": false,
+                "profile_background_color": "0099B9",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/158996759/1366889507",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/575214640356978688/C1xncmfH_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/575214640356978688/C1xncmfH_normal.png",
+                "profile_link_color": "0099B9",
+                "profile_sidebar_border_color": "5ED4DC",
+                "profile_sidebar_fill_color": "95E8EC",
+                "profile_text_color": "3C3940",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "cnn_co_jp",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 43661,
+                "time_zone": "",
+                "url": "http://t.co/wJHnf0s92O",
+                "utc_offset": 0,
+                "verified": true,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 70,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんよ\n今の時代\n嘘はすぐバレる\n俺の嘘もよくバレる（笑）\n俺がドイツにいた頃\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Aug 31 17:26:09 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "【New！】大仁田厚公式twitter。「一生一回。胸いっぱい熱く！熱く！熱く！生きようぜ！」本人または事務局からのtweetを配信します。 ※以前の公式twitterから引越します。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/os07oGGDSl",
+                            "display_url": "onitafire.com",
+                            "expanded_url": "http://onitafire.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 5325,
+            "follow_request_sent": false,
+            "followers_count": 8391,
+            "following": false,
+            "friends_count": 1144,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 3405965653,
+            "id_str": "3405965653",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 112,
+            "location": "",
+            "name": "大仁田厚",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3405965653/1441042172",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/638402984116748288/1knjNvhW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/638402984116748288/1knjNvhW_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "onitafire123",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 3086,
+            "time_zone": "",
+            "url": "http://t.co/os07oGGDSl",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @onitafire123: グレタさんよ\n今の時代\n嘘はすぐバレる\n俺の嘘もよくバレる（笑）\n俺がドイツにいた頃は\n",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 17 16:29:40 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "みちプロにハマりだしました🥰プロレス初心者です。よろしくお願いします。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 5227,
+        "follow_request_sent": false,
+        "followers_count": 156,
+        "following": false,
+        "friends_count": 171,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 105826532,
+        "id_str": "105826532",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 7,
+        "location": "",
+        "name": "にゃぽれおん",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/105826532/1565887408",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/979052986662928385/VnsGlzBX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/979052986662928385/VnsGlzBX_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "yoshikage_kawaj",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 128627,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 10:24:47 +0000 2019",
+    "display_text_range": [
+        0,
+        16
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんを6両T電にご招待しろ",
+    "has_extended_profile": false,
+    "id": 1206520542112563202,
+    "id_str": "1206520542112563202",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://www.twitpane.com\" rel=\"nofollow\"\u003eTwitPanePlus\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさん\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 22 10:21:06 +0000 2017",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "飲食・一人旅・交通趣味を生活の三本柱とする青二才。折りたたみ自転車(DAHON K3)での輪行\u0026ポタリングも楽しんでいます。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/biBIP4aeL7",
+                        "display_url": "ariden.jimdo.com",
+                        "expanded_url": "https://ariden.jimdo.com"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1466,
+        "follow_request_sent": false,
+        "followers_count": 129,
+        "following": false,
+        "friends_count": 116,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 911173500101988352,
+        "id_str": "911173500101988352",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 10,
+        "location": "やまのうら",
+        "name": "ふぶき",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/911173500101988352/1563664579",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1193353105917657089/Ob9V2YmM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1193353105917657089/Ob9V2YmM_normal.jpg",
+        "profile_link_color": "EE7800",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "flor_ventisca",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 7538,
+        "time_zone": "",
+        "url": "https://t.co/biBIP4aeL7",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

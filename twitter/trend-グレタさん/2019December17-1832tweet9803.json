@@ -1,0 +1,508 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:25:03 +0000 2019",
+    "display_text_range": [
+        0,
+        112
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    89,
+                    112
+                ],
+                "url": "https://t.co/4ZyXOagcz0",
+                "display_url": "twitter.com/seirindo_book/…",
+                "expanded_url": "https://twitter.com/seirindo_book/status/1205852541600165893"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ぶんごのかみ",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "shun15720",
+                "id": 1182232939188240384,
+                "id_str": "1182232939188240384"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @shun15720: 先日来日したローマ教皇やグレタさんは、中国の極悪非道な行動や二酸化炭素の垂れ流しについては、一言も触れない。こんな見せかけの平和主義者は不要です。 https://t.co/4ZyXOagcz0",
+    "has_extended_profile": false,
+    "id": 1206762199269527552,
+    "id_str": "1206762199269527552",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1205852541600165893,
+    "quoted_status_id_str": "1205852541600165893",
+    "quoted_status": null,
+    "possibly_sensitive": true,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 07:44:32 +0000 2019",
+        "display_text_range": [
+            0,
+            73
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "url": "https://t.co/4ZyXOagcz0",
+                    "display_url": "twitter.com/seirindo_book/…",
+                    "expanded_url": "https://twitter.com/seirindo_book/status/1205852541600165893"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "先日来日したローマ教皇やグレタさんは、中国の極悪非道な行動や二酸化炭素の垂れ流しについては、一言も触れない。こんな見せかけの平和主義者は不要です。 https://t.co/4ZyXOagcz0",
+        "has_extended_profile": false,
+        "id": 1206480214018027520,
+        "id_str": "1206480214018027520",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1205852541600165893,
+        "quoted_status_id_str": "1205852541600165893",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sat Dec 14 14:10:24 +0000 2019",
+            "display_text_range": [
+                0,
+                70
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "indices": [
+                            47,
+                            70
+                        ],
+                        "url": "https://t.co/5Ip7wdsmx0",
+                        "display_url": "blog.goo.ne.jp/sakurasakuya7/…",
+                        "expanded_url": "https://blog.goo.ne.jp/sakurasakuya7/e/2792ab06daf568f62349a3d3188a2e19"
+                    }
+                ],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 4347,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "環境活動少女グレタはなぜ中国を批判しないのかと話題に　CO2排出量は米国の約2倍、日本の8倍 https://t.co/5Ip7wdsmx0",
+            "has_extended_profile": false,
+            "id": 1205852541600165893,
+            "id_str": "1205852541600165893",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 1901,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+            "scopes": null,
+            "text": "環境活動少女グレタはなぜ中国を批判しないのかと\ufffd",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Jan 15 05:31:53 +0000 2012",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "出版社青林堂の公式アカウントです。オピニオン誌『ジャパニズム』隔月刊行。TVマスコミが報道しないニュースを誌面で掲載、取材しています！情報募集中！主な書籍『まんがで読む古事記』『さよならパヨク』『日本版民間防衛』『みんな誰もが神様だった』facebook→ https://t.co/jK4P49zuJs",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/JIwLHRGa3E",
+                                "display_url": "garo.co.jp",
+                                "expanded_url": "http://www.garo.co.jp/"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 4563,
+                "follow_request_sent": false,
+                "followers_count": 20823,
+                "following": false,
+                "friends_count": 8686,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 464394982,
+                "id_str": "464394982",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 322,
+                "location": "",
+                "name": "青林堂",
+                "notifications": false,
+                "profile_background_color": "3B94D9",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000149769279/10c4da3a761c98dfc7633101dae49a66_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000149769279/10c4da3a761c98dfc7633101dae49a66_normal.jpeg",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "seirindo_book",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 82858,
+                "time_zone": "",
+                "url": "http://t.co/JIwLHRGa3E",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "先日来日したローマ教皇やグレタさんは、中国の極悪\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Oct 10 09:55:03 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "ウォーキングを楽しんだり、野菜作りをしています。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 3295,
+            "follow_request_sent": false,
+            "followers_count": 11,
+            "following": false,
+            "friends_count": 112,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1182232939188240384,
+            "id_str": "1182232939188240384",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 0,
+            "location": "",
+            "name": "ぶんごのかみ",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1182233453116317696/5dUIYrrn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1182233453116317696/5dUIYrrn_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "shun15720",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 95,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @shun15720: 先日来日したローマ教皇やグレタさんは、中国の極悪非道な行動や二酸\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 26 03:07:37 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "世間はもっと間違っている。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 45443,
+        "follow_request_sent": false,
+        "followers_count": 118,
+        "following": false,
+        "friends_count": 101,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1066891193739440130,
+        "id_str": "1066891193739440130",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "",
+        "name": "CANDY MAN",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1066891193739440130/1543201865",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1203601628785283072/3H5AbzW6_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1203601628785283072/3H5AbzW6_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CANDYMA30117749",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 40293,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

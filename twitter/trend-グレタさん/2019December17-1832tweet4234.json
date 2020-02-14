@@ -1,0 +1,281 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:47:38 +0000 2019",
+    "display_text_range": [
+        0,
+        118
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    43,
+                    66
+                ],
+                "url": "https://t.co/y4CLndt25S",
+                "display_url": "youtu.be/UBS4KR8Je-4",
+                "expanded_url": "https://youtu.be/UBS4KR8Je-4"
+            },
+            {
+                "indices": [
+                    82,
+                    105
+                ],
+                "url": "https://t.co/o27wTs4clA",
+                "display_url": "afpbb.com/articles/-/325…",
+                "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    107,
+                    118
+                ],
+                "text": "グレタ・トゥーンベリ"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "YouTube",
+                "indices": [
+                    67,
+                    75
+                ],
+                "screen_name": "YouTube",
+                "id": 10228272,
+                "id_str": "10228272"
+            }
+        ],
+        "media": [
+            {
+                "id": 1206798076247064576,
+                "id_str": "1206798076247064576",
+                "media_url": "http://pbs.twimg.com/media/EL9odNpUwAAXPv-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL9odNpUwAAXPv-.jpg",
+                "url": "https://t.co/MqLCiJ9Pfd",
+                "display_url": "pic.twitter.com/MqLCiJ9Pfd",
+                "expanded_url": "https://twitter.com/wa_no_kokoro/status/1206798083440250880/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 826,
+                        "h": 166,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 137,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 826,
+                        "h": 166,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    119,
+                    142
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206798076247064576,
+                "id_str": "1206798076247064576",
+                "media_url": "http://pbs.twimg.com/media/EL9odNpUwAAXPv-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL9odNpUwAAXPv-.jpg",
+                "url": "https://t.co/MqLCiJ9Pfd",
+                "display_url": "pic.twitter.com/MqLCiJ9Pfd",
+                "expanded_url": "https://twitter.com/wa_no_kokoro/status/1206798083440250880/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 826,
+                        "h": 166,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 137,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 826,
+                        "h": 166,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    119,
+                    142
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさん「満員列車で床に座って帰った」→鉄道会社「ファーストクラスに乗っていた」 \nhttps://t.co/y4CLndt25S @YouTube\n\n参考記事\nhttps://t.co/o27wTs4clA\n\n#グレタ・トゥーンベリ https://t.co/MqLCiJ9Pfd",
+    "has_extended_profile": false,
+    "id": 1206798083440250880,
+    "id_str": "1206798083440250880",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさん「満員列車で床に座って帰った」→鉄道会社「ファーストクラスに乗ってい\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 02 13:37:55 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "予備２等陸曹 ツイデモ垢取得 @ZeninDakkan #拉致被害者全員奪還  #keiba #Tigers #cat #頑張れ千葉県 十二指腸潰瘍発症により静養中",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 51690,
+        "follow_request_sent": false,
+        "followers_count": 3066,
+        "following": false,
+        "friends_count": 3016,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 186051232,
+        "id_str": "186051232",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 34,
+        "location": "堺市 大阪 日本",
+        "name": "小さな国益派🇹🇼台湾加油",
+        "notifications": false,
+        "profile_background_color": "F5ABB5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/186051232/1397854027",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/773174060259823616/U_YzwzMO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/773174060259823616/U_YzwzMO_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "wa_no_kokoro",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 69709,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

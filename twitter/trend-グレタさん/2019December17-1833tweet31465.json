@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:11:02 +0000 2019",
+    "display_text_range": [
+        0,
+        68
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 17,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんは今後学校に行かなくともパトロンから金出してもらったり適当に｢あの時の真実｣とか適当に本書いて一生悠々自適に暮らせるんやろなぁ",
+    "has_extended_profile": false,
+    "id": 1206577477541228544,
+    "id_str": "1206577477541228544",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんは今後学校に行かなくともパトロンか\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 07 13:14:12 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/iz0GQN5DeT",
+                        "display_url": "instagram.com/_farewell_U",
+                        "expanded_url": "https://www.instagram.com/_farewell_U"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 18072,
+        "follow_request_sent": false,
+        "followers_count": 6678,
+        "following": false,
+        "friends_count": 6355,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 861207537672085504,
+        "id_str": "861207537672085504",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 18,
+        "location": "",
+        "name": "雑種。🥀",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/861207537672085504/1572948043",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1200747513717768192/PT7MIP3U_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1200747513717768192/PT7MIP3U_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GILGIL0410",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 11334,
+        "time_zone": "",
+        "url": "https://t.co/iz0GQN5DeT",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

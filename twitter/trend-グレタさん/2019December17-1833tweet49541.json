@@ -1,0 +1,425 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 09:23:39 +0000 2019",
+    "display_text_range": [
+        0,
+        14
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    15,
+                    38
+                ],
+                "url": "https://t.co/1KQbEgsH6i",
+                "display_url": "twitter.com/moeruasia01/st…",
+                "expanded_url": "https://twitter.com/moeruasia01/status/1206458801324322816"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 4,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "やっぱりグレタさん底浅いし… https://t.co/1KQbEgsH6i",
+    "has_extended_profile": false,
+    "id": 1206505156826648576,
+    "id_str": "1206505156826648576",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206458801324322816,
+    "quoted_status_id_str": "1206458801324322816",
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 06:19:27 +0000 2019",
+        "display_text_range": [
+            0,
+            84
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        61,
+                        84
+                    ],
+                    "url": "https://t.co/YHm7AY7ThM",
+                    "display_url": "moeruasia.net/archives/49657…",
+                    "expanded_url": "https://www.moeruasia.net/archives/49657163.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206458799751483394,
+                    "id_str": "1206458799751483394",
+                    "media_url": "http://pbs.twimg.com/media/EL4z4uNU0AIIOFb.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL4z4uNU0AIIOFb.jpg",
+                    "url": "https://t.co/iF3AWTeIPj",
+                    "display_url": "pic.twitter.com/iF3AWTeIPj",
+                    "expanded_url": "https://twitter.com/moeruasia01/status/1206458801324322816/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 559,
+                            "h": 296,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 559,
+                            "h": 296,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 559,
+                            "h": 296,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        85,
+                        108
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206458799751483394,
+                    "id_str": "1206458799751483394",
+                    "media_url": "http://pbs.twimg.com/media/EL4z4uNU0AIIOFb.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL4z4uNU0AIIOFb.jpg",
+                    "url": "https://t.co/iF3AWTeIPj",
+                    "display_url": "pic.twitter.com/iF3AWTeIPj",
+                    "expanded_url": "https://twitter.com/moeruasia01/status/1206458801324322816/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 559,
+                            "h": 296,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 559,
+                            "h": 296,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 559,
+                            "h": 296,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        85,
+                        108
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 316,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "【ｗ】グレタ「帰りの列車は超満員。床に座ってた(写真付き」 ドイツ鉄道「ファーストクラス買ったのにPRしてくれないの？」 https://t.co/YHm7AY7ThM https://t.co/iF3AWTeIPj",
+        "has_extended_profile": false,
+        "id": 1206458801324322816,
+        "id_str": "1206458801324322816",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 248,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://publicize.wp.com/\" rel=\"nofollow\"\u003eWordPress.com\u003c/a\u003e",
+        "scopes": null,
+        "text": "【ｗ】グレタ「帰りの列車は超満員。床に座ってた(写真付き\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Oct 01 11:26:26 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "アジア関係のニュース、ネタなどを日本人目線で軽く\u0026見やすく\u0026分かりやすくをモットーにまとめます\nよろしくお願いいたします(*'ω'*)",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/z4ZFmzX28M",
+                            "display_url": "moeruasia.net",
+                            "expanded_url": "https://www.moeruasia.net/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 235,
+            "follow_request_sent": false,
+            "followers_count": 2712,
+            "following": false,
+            "friends_count": 2183,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1178994547302354945,
+            "id_str": "1178994547302354945",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 31,
+            "location": "",
+            "name": "もえるあじあ ･∀･",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1178995670763466752/NcN5pxLH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1178995670763466752/NcN5pxLH_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "moeruasia01",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 614,
+            "time_zone": "",
+            "url": "https://t.co/z4ZFmzX28M",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "やっぱり\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 26 03:32:53 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "日本の国益を護る会支持　男系男子皇統死守！\n風力発電、メガソーラー反対!!\n日教組、共産党、新興宗教は大嫌い！　　拉致被害者全員奪還！\nNHKをぶっ壊す！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 75911,
+        "follow_request_sent": false,
+        "followers_count": 2357,
+        "following": false,
+        "friends_count": 2356,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 845840956041551873,
+        "id_str": "845840956041551873",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 18,
+        "location": "",
+        "name": "まや🎌習近平国賓反対！",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/845840956041551873/1573646164",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1166933564501311489/PyMzk4hO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1166933564501311489/PyMzk4hO_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "1kev79d20rxFweo",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 21651,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

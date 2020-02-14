@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 23:56:10 +0000 2019",
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 10,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "長距離電車を乗り継いで、実際に座れないこともあった乗客のグレタさんが嘘ついてるみたいに誤解されたのがかわいそう。\n\nドイチェバーン、我もひどい目に何度も遭わされたから、奴らのあくどい神経は分かる！！！\n\nあいつらのなってないサービスのせいで、悔しい思いをしたことを思い出した。",
+    "has_extended_profile": false,
+    "id": 1206724730750791681,
+    "id_str": "1206724730750791681",
+    "in_reply_to_screen_name": "vostokintheair",
+    "in_reply_to_status_id": 1206723865260384256,
+    "in_reply_to_status_id_str": "1206723865260384256",
+    "in_reply_to_user_id": 70871976,
+    "in_reply_to_user_id_str": "70871976",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 10,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "長距離電車を乗り継いで、実際に座れないこともあった乗客のグレタさんが嘘ついてるみたいに誤解さ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 02 03:33:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Photographing Men Behind the Scenes. My 3rd photography books: \"少林寺 Shaolin Temple\" \u0026 2nd \"美少年論\" are now available at Vanilla Gallery, bookshops and AmazonJP.",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/WFcBv5aLIG",
+                        "display_url": "shokoogushi.com",
+                        "expanded_url": "http://www.shokoogushi.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 34327,
+        "follow_request_sent": false,
+        "followers_count": 6187,
+        "following": false,
+        "friends_count": 2909,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 70871976,
+        "id_str": "70871976",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 373,
+        "location": "Saga \u0026 Fukuoka, Japan",
+        "name": "Shoko Ogushi",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/70871976/1398210479",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/626646210/vostok_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/626646210/vostok_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "vostokintheair",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 597751,
+        "time_zone": "",
+        "url": "https://t.co/WFcBv5aLIG",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

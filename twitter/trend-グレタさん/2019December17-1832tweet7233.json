@@ -1,0 +1,508 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:31:54 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "chocolat.",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "chocolat_psyder",
+                "id": 1044587252670578690,
+                "id_str": "1044587252670578690"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @chocolat_psyder: これってつまり、グレタさんを侮辱したら褒め称えられ、石川優実さんにセクハラしたら面白がられ、女性の権利を訴える者は茶化され、ツイフェミと蔑むのが当たり前で、女性を性的に消費することにしか興味がない男が大多数の国が単に第三者から数値化され…",
+    "has_extended_profile": false,
+    "id": 1206779021557547008,
+    "id_str": "1206779021557547008",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206774911382872064,
+    "quoted_status_id_str": "1206774911382872064",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 31,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 03:25:57 +0000 2019",
+        "display_text_range": [
+            0,
+            130
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        131,
+                        154
+                    ],
+                    "url": "https://t.co/AycPaw1Q5T",
+                    "display_url": "twitter.com/chocolat_psyde…",
+                    "expanded_url": "https://twitter.com/chocolat_psyder/status/1206774911382872064"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 73,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "これってつまり、グレタさんを侮辱したら褒め称えられ、石川優実さんにセクハラしたら面白がられ、女性の権利を訴える者は茶化され、ツイフェミと蔑むのが当たり前で、女性を性的に消費することにしか興味がない男が大多数の国が単に第三者から数値化されちゃったってだけだよな。 https://t.co/AycPaw1Q5T",
+        "has_extended_profile": false,
+        "id": 1206777524132311040,
+        "id_str": "1206777524132311040",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206774911382872064,
+        "quoted_status_id_str": "1206774911382872064",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Dec 17 03:15:34 +0000 2019",
+            "display_text_range": [
+                0,
+                150
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "indices": [
+                            127,
+                            150
+                        ],
+                        "url": "https://t.co/PBW0uAhRj0",
+                        "display_url": "www3.nhk.or.jp/news/html/2019…",
+                        "expanded_url": "https://www3.nhk.or.jp/news/html/20191217/k10012217401000.html"
+                    }
+                ],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 270,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "「すべての女性が輝く社会づくり」という安倍さんのスローガン、いかにカラッポなものなのかわかりますよね？政治は結果と言いながら、結局なにひとつ結果出してないのがあのおじさん達なんです。過去最低ですよ。\n\n社会進出めぐる男女格差 日本は過去最低の121位に\nhttps://t.co/PBW0uAhRj0",
+            "has_extended_profile": false,
+            "id": 1206774911382872064,
+            "id_str": "1206774911382872064",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 165,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+            "scopes": null,
+            "text": "「すべての女性が輝く社会づくり」という安倍さんのスローガン、いかにカラッポなものなのかわかりますよね",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Sep 25 13:59:43 +0000 2018",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "ショコラです│愛国心を持つなら地球に持て。魂を国家に管理されるな。│私も軟弱なやつだよ。でも私たちは人種差別するような人間から進化したいって望んでいるんだよ。",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/1CAJlSu8Sj",
+                                "display_url": "note.mu/chocolat_psyder",
+                                "expanded_url": "https://note.mu/chocolat_psyder"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 12242,
+                "follow_request_sent": false,
+                "followers_count": 14700,
+                "following": false,
+                "friends_count": 1898,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 1044587252670578690,
+                "id_str": "1044587252670578690",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 184,
+                "location": "",
+                "name": "chocolat.",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1044587252670578690/1576312045",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1094894662844788736/XQ4TA4BH_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094894662844788736/XQ4TA4BH_normal.jpg",
+                "profile_link_color": "F58EA8",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "chocolat_psyder",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 33444,
+                "time_zone": "",
+                "url": "https://t.co/1CAJlSu8Sj",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 31,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "これってつまり、グレタさんを侮辱したら褒め称えられ、石川優実さんにセクハラしたら面白が\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Sep 25 13:59:43 +0000 2018",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "ショコラです│愛国心を持つなら地球に持て。魂を国家に管理されるな。│私も軟弱なやつだよ。でも私たちは人種差別するような人間から進化したいって望んでいるんだよ。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/1CAJlSu8Sj",
+                            "display_url": "note.mu/chocolat_psyder",
+                            "expanded_url": "https://note.mu/chocolat_psyder"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 12242,
+            "follow_request_sent": false,
+            "followers_count": 14700,
+            "following": false,
+            "friends_count": 1898,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 1044587252670578690,
+            "id_str": "1044587252670578690",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 184,
+            "location": "",
+            "name": "chocolat.",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1044587252670578690/1576312045",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1094894662844788736/XQ4TA4BH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094894662844788736/XQ4TA4BH_normal.jpg",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "chocolat_psyder",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 33444,
+            "time_zone": "",
+            "url": "https://t.co/1CAJlSu8Sj",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @chocolat_psyder: これってつまり、グレタさんを侮辱したら褒め称えられ、石川優実さんにセクハラした\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 29 15:05:31 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "DQX ラピスです。エルフっ娘。ゲーム垢だったはずが・・・。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 11588,
+        "follow_request_sent": false,
+        "followers_count": 204,
+        "following": false,
+        "friends_count": 332,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 4058633112,
+        "id_str": "4058633112",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "海外 アストルティア",
+        "name": "ラピス",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4058633112/1550675997",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1098240382230396930/QJ_rBg6x_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098240382230396930/QJ_rBg6x_normal.png",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Lapis_DQten",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 9819,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

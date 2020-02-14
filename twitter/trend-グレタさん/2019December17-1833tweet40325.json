@@ -1,0 +1,347 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:51:34 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "yuka.s",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "fallenangel1117",
+                "id": 133265273,
+                "id_str": "133265273"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @fallenangel1117: ソース出たよー！床座り\nやはり「やらせ」ドイツ鉄道側が「スイートルーム用意しましたよね(意訳)」だそうです。駄目だね、彼女。悪い大人に担ぎ上げられて勘違いしてる。\n\nグレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い…",
+    "has_extended_profile": false,
+    "id": 1206542379907338240,
+    "id_str": "1206542379907338240",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 11:14:21 +0000 2019",
+        "display_text_range": [
+            0,
+            154
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        119,
+                        142
+                    ],
+                    "url": "https://t.co/KZakmwDmGt",
+                    "display_url": "afpbb.com/articles/-/325…",
+                    "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "AFPBB News",
+                    "indices": [
+                        143,
+                        152
+                    ],
+                    "screen_name": "afpbbcom",
+                    "id": 90841111,
+                    "id_str": "90841111"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "ソース出たよー！床座り\nやはり「やらせ」ドイツ鉄道側が「スイートルーム用意しましたよね(意訳)」だそうです。駄目だね、彼女。悪い大人に担ぎ上げられて勘違いしてる。\n\nグレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い https://t.co/KZakmwDmGt @afpbbcomから",
+        "has_extended_profile": false,
+        "id": 1206533015435825152,
+        "id_str": "1206533015435825152",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": true,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "ソース出たよー！床座り\nやはり「やらせ」ドイツ鉄道側が「スイートルーム用意しましたよね(意訳)」だそうです\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Apr 15 12:27:35 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "保護猫4匹と次男が同居人\n保守左派/ネコウヨ？\n中島みゆきファン歴数十年\n解散後の木村拓哉ファン\nマスコミ不信者\n福島浜通りは実母実家で第2の故郷\nオタク呟きと政治呟き混ぜたままです。鬱陶しい方はミュートかブロック推奨します\nfollowもblockもご自由に♥こちらもそうします\nプロフィ、ヘッダー縁起物写真",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 249191,
+            "follow_request_sent": false,
+            "followers_count": 564,
+            "following": false,
+            "friends_count": 568,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 133265273,
+            "id_str": "133265273",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 10,
+            "location": "千葉県",
+            "name": "yuka.s",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/133265273/1497703725",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/967003484527542273/HyekIaWB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/967003484527542273/HyekIaWB_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "fallenangel1117",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 166843,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @fallenangel1117: ソース出たよー！床座り\nやはり「やらせ」ドイツ鉄道側が「スイートルーム用意しまし\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 16 01:00:20 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "オオカミ・反社イルミナティ(麻生＞安倍)らが庶民を欺く手口や、安倍神道/生長/大本、麻生イエズス全能神、諸仏教、統一/幸福の科学、スピ等が加担してることが遂に判明！終焉に向け真実へ導いてくれる命懸けの勇気あるツイート応援しよう！KAWATAとNANAのRAPT理論オススメhttps://t.co/Lp5tg29rIS※ラムヂー私設応援団",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/mJKxMtv9iL",
+                        "display_url": "rapt-neo.com/?page_id=21576",
+                        "expanded_url": "https://rapt-neo.com/?page_id=21576"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1871,
+        "follow_request_sent": false,
+        "followers_count": 206,
+        "following": false,
+        "friends_count": 3,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 97101445,
+        "id_str": "97101445",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "ラムヂー☆サポーター",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/97101445/1544354882",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1142860438557773825/YEKAoXPF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1142860438557773825/YEKAoXPF_normal.jpg",
+        "profile_link_color": "FFFFFF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "lambsy_lambsy",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 1887,
+        "time_zone": "",
+        "url": "https://t.co/mJKxMtv9iL",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,251 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:18:28 +0000 2019",
+    "display_text_range": [
+        0,
+        80
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [
+            {
+                "indices": [
+                    70,
+                    80
+                ],
+                "text": "画像はイメージです"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": [
+            {
+                "id": 1206534045527490562,
+                "id_str": "1206534045527490562",
+                "media_url": "http://pbs.twimg.com/media/EL54UmkUwAIT-Ly.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL54UmkUwAIT-Ly.jpg",
+                "url": "https://t.co/8xczhJmfrS",
+                "display_url": "pic.twitter.com/8xczhJmfrS",
+                "expanded_url": "https://twitter.com/mau_flute/status/1206534052057993216/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 679,
+                        "h": 507,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 679,
+                        "h": 507,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 679,
+                        "h": 507,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    81,
+                    104
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206534045527490562,
+                "id_str": "1206534045527490562",
+                "media_url": "http://pbs.twimg.com/media/EL54UmkUwAIT-Ly.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL54UmkUwAIT-Ly.jpg",
+                "url": "https://t.co/8xczhJmfrS",
+                "display_url": "pic.twitter.com/8xczhJmfrS",
+                "expanded_url": "https://twitter.com/mau_flute/status/1206534052057993216/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 679,
+                        "h": 507,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 679,
+                        "h": 507,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 679,
+                        "h": 507,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    81,
+                    104
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "金曜日の本部長報告の担当の子がグレタさんに似てて、本部長に向かって「良くもそんなことを！」って噛み付いたら素敵だなって思いながら見てた。\n #画像はイメージです https://t.co/8xczhJmfrS",
+    "has_extended_profile": false,
+    "id": 1206534052057993216,
+    "id_str": "1206534052057993216",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "金曜日の本部長報告の担当の子がグレタさんに似てて、本\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 29 17:07:55 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ぼんやり系アマチュアフルート吹き。本とか映画とかサッカーとか美術とかアニメとかえぬえっちけーの諸番組について呟きます。アビスパ福岡原理主義者。ガンダムは宇宙世紀原理主義者。 将棋ウォーズ５級。最弱。聖人済。フォローご自由に。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 6094,
+        "follow_request_sent": false,
+        "followers_count": 549,
+        "following": false,
+        "friends_count": 468,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 382197049,
+        "id_str": "382197049",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 13,
+        "location": "",
+        "name": "mau_metal",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/382197049/1522329155",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/601793752802308097/MYZzR_ND_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/601793752802308097/MYZzR_ND_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mau_flute",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 22024,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,164 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 22:42:27 +0000 2019",
+    "display_text_range": [
+        14,
+        105
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "下地ミキオ",
+                "indices": [
+                    0,
+                    13
+                ],
+                "screen_name": "mikioshimoji",
+                "id": 97387806,
+                "id_str": "97387806"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@mikioshimoji 他の人も言ってますが、人間の排出する量は微々たる物であり、影響は誤差の範囲。学校で勉強する内容ですよ。グレタさんは学校通った方がいい人。貴方はハーメルンの笛吹きにすらなれない痛い人。",
+    "has_extended_profile": false,
+    "id": 1206706178031419392,
+    "id_str": "1206706178031419392",
+    "in_reply_to_screen_name": "mikioshimoji",
+    "in_reply_to_status_id": 1205995062263341056,
+    "in_reply_to_status_id_str": "1205995062263341056",
+    "in_reply_to_user_id": 97387806,
+    "in_reply_to_user_id_str": "97387806",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "他の人も言ってますが、人間の排出する量は微々たる物であり、影\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 27 04:12:53 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "趣味垢。主に政治とゲーム関係、たまに子育てについて、好き勝手に呟きます。最近はfgoとポケモンGOやってます。ワーフリ始めました。邪ンヌ推し。手書きプロフ画",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 125,
+        "follow_request_sent": false,
+        "followers_count": 28,
+        "following": false,
+        "friends_count": 176,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1132862212253470721,
+        "id_str": "1132862212253470721",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "日本",
+        "name": "タユタ",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132862212253470721/1574757138",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1199687977275809793/283Klgfb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199687977275809793/283Klgfb_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tayutatata",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 638,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

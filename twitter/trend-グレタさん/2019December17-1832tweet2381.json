@@ -1,0 +1,588 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:05:03 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Plum / プラム",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "plumyogamat",
+                "id": 971900759770976256,
+                "id_str": "971900759770976256"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @plumyogamat: これが3万いいね！か。日本は終わってるな。\nその意見、グレタさん本人に言ってみてごらんよ。そんな事彼女は一言も言ってないはずだよ。つまり、お前の勘違い。\n持続可能なライフスタイルを彼女は模索しているんだよ。実行が非常に難しい現代社会の中で。世界…",
+    "has_extended_profile": false,
+    "id": 1206817563050594304,
+    "id_str": "1206817563050594304",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1204037070726918144,
+    "quoted_status_id_str": "1204037070726918144",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1479,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Dec 11 00:10:59 +0000 2019",
+        "display_text_range": [
+            0,
+            141
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        142,
+                        165
+                    ],
+                    "url": "https://t.co/eC4OXe64dO",
+                    "display_url": "twitter.com/_rai__1/status…",
+                    "expanded_url": "https://twitter.com/_rai__1/status/1204037070726918144"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 5076,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "これが3万いいね！か。日本は終わってるな。\nその意見、グレタさん本人に言ってみてごらんよ。そんな事彼女は一言も言ってないはずだよ。つまり、お前の勘違い。\n持続可能なライフスタイルを彼女は模索しているんだよ。実行が非常に難しい現代社会の中で。世界中を飛び回っているのに飛行機なしだよ？ https://t.co/eC4OXe64dO",
+        "has_extended_profile": false,
+        "id": 1204554133497249792,
+        "id_str": "1204554133497249792",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1204037070726918144,
+        "quoted_status_id_str": "1204037070726918144",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Mon Dec 09 13:56:22 +0000 2019",
+            "display_text_range": [
+                0,
+                27
+            ],
+            "entities": {
+                "urls": [],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": [
+                    {
+                        "id": 1204037066046107648,
+                        "id_str": "1204037066046107648",
+                        "media_url": "http://pbs.twimg.com/media/ELWZVRIU8AAQcN3.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/ELWZVRIU8AAQcN3.jpg",
+                        "url": "https://t.co/GdAN1K6nSQ",
+                        "display_url": "pic.twitter.com/GdAN1K6nSQ",
+                        "expanded_url": "https://twitter.com/_rai__1/status/1204037070726918144/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 640,
+                                "h": 354,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 640,
+                                "h": 354,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 640,
+                                "h": 354,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            28,
+                            51
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": [
+                    {
+                        "id": 1204037066046107648,
+                        "id_str": "1204037066046107648",
+                        "media_url": "http://pbs.twimg.com/media/ELWZVRIU8AAQcN3.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/ELWZVRIU8AAQcN3.jpg",
+                        "url": "https://t.co/GdAN1K6nSQ",
+                        "display_url": "pic.twitter.com/GdAN1K6nSQ",
+                        "expanded_url": "https://twitter.com/_rai__1/status/1204037070726918144/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 640,
+                                "h": 354,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 640,
+                                "h": 354,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 640,
+                                "h": 354,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            28,
+                            51
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 40479,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "自分が今乗る電車は地球温暖化に影響してないと思ってる女 https://t.co/GdAN1K6nSQ",
+            "has_extended_profile": false,
+            "id": 1204037070726918144,
+            "id_str": "1204037070726918144",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 10684,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+            "scopes": null,
+            "text": "自分が今乗る電車は",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Mar 15 15:02:50 +0000 2019",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Jリーグ(アントラーズ多め)/プレミア/サッカー/巨人/ミリタリー/ワタチル/ヨコハゲ/カツドンチャンネル/best700\n\n サブ→ @sutebaka_sute_  大切な人→ @sutelviss @sutemaru21",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/M0SfaqJNI0",
+                                "display_url": "sutehage.com",
+                                "expanded_url": "http://sutehage.com"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 20710,
+                "follow_request_sent": false,
+                "followers_count": 3090,
+                "following": false,
+                "friends_count": 2124,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 1106571462347911168,
+                "id_str": "1106571462347911168",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 37,
+                "location": "Rio de Janeiro, Brazil",
+                "name": "陰の堕天使",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1106571462347911168/1569264673",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1205165676836487168/i1HT_MeT_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205165676836487168/i1HT_MeT_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "_rai__1",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 17052,
+                "time_zone": "",
+                "url": "https://t.co/M0SfaqJNI0",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1479,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "これが3万いいね！か。日本は終わってるな。\nその意見、グレタさん本人に言ってみてごらんよ。そんな\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Mar 09 00:09:32 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "ダイバーシティ社会実現のためにあらゆるマイノリティ問題解消を是と考えています/フェミニズム/LGBTQ+/社会問題/環境問題/旅好きの食いしん坊/週末ランナー/動物好き/無言フォローを申し訳ありません",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 56533,
+            "follow_request_sent": false,
+            "followers_count": 3420,
+            "following": false,
+            "friends_count": 922,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 971900759770976256,
+            "id_str": "971900759770976256",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 45,
+            "location": "Tokyo",
+            "name": "Plum / プラム",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/971900759770976256/1556694367",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1199688974098296832/AxI5sobW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199688974098296832/AxI5sobW_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "plumyogamat",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 13488,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @plumyogamat: これが3万いいね！か。日本は終わってるな。\nその意見、グレタさん本人に言ってみてごら\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 09 12:08:20 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "◾️京都在住💮第26回eco検定合格者🎬映画検定2級■＃短歌 空撮のヘリからわれら見下ろされ大きな河の一滴となる【『時代の危機と向き合う短歌』（青磁社/2016年）に収録📙「未来」短歌会・夏韻集📘大辻隆弘📕青木俊📣2020年2月2日投開票 #京都市長選 は #福山和人（#つなぐ京都2020）#れいわ新選組",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/cNIKPBf2Ee",
+                        "display_url": "ameblo.jp/ootsukisan",
+                        "expanded_url": "http://ameblo.jp/ootsukisan"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 197781,
+        "follow_request_sent": false,
+        "followers_count": 3012,
+        "following": false,
+        "friends_count": 3302,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3146064212,
+        "id_str": "3146064212",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 51,
+        "location": "京都府 京都市 中京区",
+        "name": "大槻サンライズ（大槻和央）🌅京都人",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3146064212/1576325816",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1194955968934596608/cFYS4cFJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194955968934596608/cFYS4cFJ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ootsukisan126",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 97132,
+        "time_zone": "",
+        "url": "https://t.co/cNIKPBf2Ee",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

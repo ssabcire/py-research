@@ -1,0 +1,260 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:36:34 +0000 2019",
+    "display_text_range": [
+        0,
+        150
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [
+            {
+                "indices": [
+                    145,
+                    150
+                ],
+                "text": "男女格差"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": [
+            {
+                "id": 1206810387229724672,
+                "id_str": "1206810387229724672",
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EL9zpzoUUAAwL9L.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EL9zpzoUUAAwL9L.jpg",
+                "url": "https://t.co/kbXMQpSR2G",
+                "display_url": "pic.twitter.com/kbXMQpSR2G",
+                "expanded_url": "https://twitter.com/kanimitaisa/status/1206810397572886528/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 320,
+                        "h": 240,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 320,
+                        "h": 240,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 320,
+                        "h": 240,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    151,
+                    174
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206810387229724672,
+                "id_str": "1206810387229724672",
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EL9zpzoUUAAwL9L.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EL9zpzoUUAAwL9L.jpg",
+                "url": "https://t.co/kbXMQpSR2G",
+                "display_url": "pic.twitter.com/kbXMQpSR2G",
+                "expanded_url": "https://twitter.com/kanimitaisa/status/1206810397572886528/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 320,
+                        "h": 240,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 320,
+                        "h": 240,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 320,
+                        "h": 240,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "animated_gif",
+                "indices": [
+                    151,
+                    174
+                ],
+                "video_info": {
+                    "aspect_ratio": [
+                        4,
+                        3
+                    ],
+                    "duration_millis": 0,
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EL9zpzoUUAAwL9L.mp4"
+                        }
+                    ]
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "ルワンダと比べられても…\n北欧のイメージ\nグレタさんでだだ下がり\n\nスペインの女の人\nよく接するけど\n知る限り強い感じ\n\n格差なくなるのって\n男勝りになることなの？w\n\nソース忘れたから適当だけど\n群馬はかかあ天下で有名だが\n性行為の頻度が超低い\n（日本最低だったかな）\n\nそゆことな気\n\n#男女格差 https://t.co/kbXMQpSR2G",
+    "has_extended_profile": false,
+    "id": 1206810397572886528,
+    "id_str": "1206810397572886528",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "ルワンダと比べられても…\n北欧のイメージ\nグレタさんでだだ下がり\n\nスペインの女の人\nよく接するけど\n知る限",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 22 15:56:16 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "fusion\n最近スヌーピーが気になっています",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 46,
+        "follow_request_sent": false,
+        "followers_count": 15,
+        "following": false,
+        "friends_count": 14,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1065635081681682432,
+        "id_str": "1065635081681682432",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "さのみ",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1065635081681682432/1564753875",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1205479117900009472/D9CMrvPG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205479117900009472/D9CMrvPG_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kanimitaisa",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 13985,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

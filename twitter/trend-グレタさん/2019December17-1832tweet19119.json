@@ -1,0 +1,588 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 22:33:30 +0000 2019",
+    "display_text_range": [
+        0,
+        131
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    108,
+                    131
+                ],
+                "url": "https://t.co/3BIO17bwv7",
+                "display_url": "twitter.com/mikioshimoji/s…",
+                "expanded_url": "https://twitter.com/mikioshimoji/status/1205995062263341056"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "🇯🇵四季島弥栄🇯🇵",
+                "indices": [
+                    3,
+                    10
+                ],
+                "screen_name": "chun_n",
+                "id": 1312578692,
+                "id_str": "1312578692"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @chun_n: \u0026gt;グレタさんは本当にすごい人。\n\n確かに。\nグレタさんは本当にすごいウソツキ。\nグレタさんは本当にすごい操り人形。\n\n日本維新の会は本当にエセな保守。\nはっきりしました。それだけです。 https://t.co/3BIO17bwv7",
+    "has_extended_profile": false,
+    "id": 1206703927934083073,
+    "id_str": "1206703927934083073",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1205995062263341056,
+    "quoted_status_id_str": "1205995062263341056",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 25,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 13:44:33 +0000 2019",
+        "display_text_range": [
+            0,
+            95
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        96,
+                        119
+                    ],
+                    "url": "https://t.co/3BIO17bwv7",
+                    "display_url": "twitter.com/mikioshimoji/s…",
+                    "expanded_url": "https://twitter.com/mikioshimoji/status/1205995062263341056"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 53,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "\u0026gt;グレタさんは本当にすごい人。\n\n確かに。\nグレタさんは本当にすごいウソツキ。\nグレタさんは本当にすごい操り人形。\n\n日本維新の会は本当にエセな保守。\nはっきりしました。それだけです。 https://t.co/3BIO17bwv7",
+        "has_extended_profile": false,
+        "id": 1206570813714886657,
+        "id_str": "1206570813714886657",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1205995062263341056,
+        "quoted_status_id_str": "1205995062263341056",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sat Dec 14 23:36:43 +0000 2019",
+            "display_text_range": [
+                0,
+                81
+            ],
+            "entities": {
+                "urls": [],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": [
+                    {
+                        "id": 1205995057519591424,
+                        "id_str": "1205995057519591424",
+                        "media_url": "http://pbs.twimg.com/media/ELyOHXxVAAAR90Y.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/ELyOHXxVAAAR90Y.jpg",
+                        "url": "https://t.co/qNCYuXkteG",
+                        "display_url": "pic.twitter.com/qNCYuXkteG",
+                        "expanded_url": "https://twitter.com/mikioshimoji/status/1205995062263341056/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 625,
+                                "h": 415,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 625,
+                                "h": 415,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 625,
+                                "h": 415,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            82,
+                            105
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": [
+                    {
+                        "id": 1205995057519591424,
+                        "id_str": "1205995057519591424",
+                        "media_url": "http://pbs.twimg.com/media/ELyOHXxVAAAR90Y.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/ELyOHXxVAAAR90Y.jpg",
+                        "url": "https://t.co/qNCYuXkteG",
+                        "display_url": "pic.twitter.com/qNCYuXkteG",
+                        "expanded_url": "https://twitter.com/mikioshimoji/status/1205995062263341056/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 625,
+                                "h": 415,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 625,
+                                "h": 415,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 625,
+                                "h": 415,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            82,
+                            105
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 149,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "COP25が行われています。わかったことは、グレタさんは本当にすごい人。トランプ大統領は本当に変な人。小泉環境相は本当に普通の人。はっきりしました。それだけです。 https://t.co/qNCYuXkteG",
+            "has_extended_profile": false,
+            "id": 1205995062263341056,
+            "id_str": "1205995062263341056",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 134,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+            "scopes": null,
+            "text": "COP25が行われています。わかったことは、グレタさんは本当\ufffd",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Dec 17 07:14:06 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "衆議院議員・下地ミキオです。活動の報告や自身の考え方等を発信していきます。\ntwitter以外もぜひ！\n[facebook]\nhttps://t.co/oxK8mUFB4m\n[instagram]\nhttps://t.co/t3vZF2C1bD",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/dEYjfGDuMU",
+                                "display_url": "mikio.gr.jp",
+                                "expanded_url": "http://www.mikio.gr.jp"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 63,
+                "follow_request_sent": false,
+                "followers_count": 8041,
+                "following": false,
+                "friends_count": 2904,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 97387806,
+                "id_str": "97387806",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 997,
+                "location": "沖縄と日本全国、ときどき海外",
+                "name": "下地ミキオ",
+                "notifications": false,
+                "profile_background_color": "FFCC4D",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/97387806/1508716948",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/539363080493219840/LdbsYnjf_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/539363080493219840/LdbsYnjf_normal.png",
+                "profile_link_color": "FA743E",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "mikioshimoji",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 6410,
+                "time_zone": "",
+                "url": "http://t.co/dEYjfGDuMU",
+                "utc_offset": 0,
+                "verified": true,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 25,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "scopes": null,
+        "text": "\u0026gt;グレタさんは本当にすごい人。\n\n確かに。\nグレタさんは本当にすご\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Mar 29 04:33:21 +0000 2013",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "よろしくお願い致します。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 27259,
+            "follow_request_sent": false,
+            "followers_count": 3916,
+            "following": false,
+            "friends_count": 4341,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1312578692,
+            "id_str": "1312578692",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 10,
+            "location": "",
+            "name": "🇯🇵四季島弥栄🇯🇵",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1312578692/1564915446",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1158423468175527939/tbFMpLos_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158423468175527939/tbFMpLos_normal.png",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "chun_n",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 9768,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @chun_n: \u0026gt;グレタさんは本当にすごい人。\n\n確かに。\nグレタさんは本当にすごいウソツキ。\nグレ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 10 22:26:59 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "政治、経済政策論じる基礎的な知識を勉強中です。純粋な愛国者🇯🇵、 趣味 鉄馬乗り、筋トレ、寺社仏閣調査。既婚40代(後半) 。出会系❌金策やビジネス❌無言フォローご容赦ください🙇‍♂️。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1829,
+        "follow_request_sent": false,
+        "followers_count": 379,
+        "following": false,
+        "friends_count": 513,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1182422263569608705,
+        "id_str": "1182422263569608705",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "酒呑童子",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1182422263569608705/1571980720",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1198927993055281152/Ka0Xi91A_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198927993055281152/Ka0Xi91A_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "frankiebull7171",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 1312,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

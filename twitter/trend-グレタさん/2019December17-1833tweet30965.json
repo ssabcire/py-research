@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:18:42 +0000 2019",
+    "display_text_range": [
+        0,
+        103
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "メン赦",
+                "indices": [
+                    3,
+                    10
+                ],
+                "screen_name": "uudaiy",
+                "id": 122532148,
+                "id_str": "122532148"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @uudaiy: グレタさん、地球の本当の敵はな、CO2やない...自分で錦の御旗を持たない、前線に出ずに戦争で私服を肥やそうとする大人なんや...あんたにその舞台を用意しているそいつらだ......",
+    "has_extended_profile": false,
+    "id": 1206579406770032646,
+    "id_str": "1206579406770032646",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 33,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 12 23:36:54 +0000 2019",
+        "display_text_range": [
+            0,
+            91
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 272,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん、地球の本当の敵はな、CO2やない...自分で錦の御旗を持たない、前線に出ずに戦争で私服を肥やそうとする大人なんや...あんたにその舞台を用意しているそいつらだ......",
+        "has_extended_profile": false,
+        "id": 1205270331318927361,
+        "id_str": "1205270331318927361",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 33,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん、地球の本当の敵はな、CO2やない...自分で錦の御旗を持\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Mar 13 01:37:35 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "限界アラサー https://t.co/Dc1zkYMVQK",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/ziSfu2Dehn",
+                            "display_url": "instagram.com/men_san_s/",
+                            "expanded_url": "https://www.instagram.com/men_san_s/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 142548,
+            "follow_request_sent": false,
+            "followers_count": 20925,
+            "following": false,
+            "friends_count": 276,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 122532148,
+            "id_str": "122532148",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 372,
+            "location": "",
+            "name": "メン赦",
+            "notifications": false,
+            "profile_background_color": "94D487",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/122532148/1573165613",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000798027455/6883e39247a890d052ac30e12c23224b_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000798027455/6883e39247a890d052ac30e12c23224b_normal.jpeg",
+            "profile_link_color": "4A913C",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "uudaiy",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 66286,
+            "time_zone": "",
+            "url": "https://t.co/ziSfu2Dehn",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @uudaiy: グレタさん、地球の本当の敵はな、CO2やない...自分で錦の御旗を持\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 25 05:18:55 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "好:猫 鳥 花 緑 美 東京喰種。\n飼:セキセイ♂ラブ。猫ブニ♂チョビ♀。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 42087,
+        "follow_request_sent": false,
+        "followers_count": 366,
+        "following": false,
+        "friends_count": 132,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2309454588,
+        "id_str": "2309454588",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 12,
+        "location": "",
+        "name": "くるみ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2309454588/1467291982",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/719151361464475648/9bPcS3Mt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/719151361464475648/9bPcS3Mt_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "YuukyuNotoki",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 29952,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

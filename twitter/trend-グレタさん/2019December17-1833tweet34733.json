@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 13:17:55 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "regius heinrich",
+                "indices": [
+                    3,
+                    18
+                ],
+                "screen_name": "regiusheinrich",
+                "id": 3720167114,
+                "id_str": "3720167114"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @regiusheinrich: 2016年に気持ち悪くて吐き気がしたニュースなんだけど。女は、自分のワガママを許すママみたいな人であって、自分より評価される人もいるなんて信じられない、信じたくないんだな。グレタさんへのツイートでキモさ確認。\nhttps://t.co/o…",
+    "has_extended_profile": false,
+    "id": 1206564110982246401,
+    "id_str": "1206564110982246401",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 400,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 12 10:00:37 +0000 2019",
+        "display_text_range": [
+            0,
+            128
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        105,
+                        128
+                    ],
+                    "url": "https://t.co/opi5yeODQT",
+                    "display_url": "excite.co.jp/news/article/M…",
+                    "expanded_url": "https://www.excite.co.jp/news/article/Mycom_freshers__gmd_articles_31932/"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 691,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "2016年に気持ち悪くて吐き気がしたニュースなんだけど。女は、自分のワガママを許すママみたいな人であって、自分より評価される人もいるなんて信じられない、信じたくないんだな。グレタさんへのツイートでキモさ確認。\nhttps://t.co/opi5yeODQT",
+        "has_extended_profile": false,
+        "id": 1205064907672055808,
+        "id_str": "1205064907672055808",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 400,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "2016年に気持ち悪くて吐き気がしたニュースなんだけど。女は、自分のワガママを許すママみた\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Sep 29 00:27:42 +0000 2015",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Schon der Mythos ist Aufklärung, und: Aufklärung schlägt in Mythologie zurück.\n\n鍵アカの人はフォローの際、メッセージをくださらないとブロックします。\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 19707,
+            "follow_request_sent": false,
+            "followers_count": 1691,
+            "following": false,
+            "friends_count": 4989,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 3720167114,
+            "id_str": "3720167114",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 17,
+            "location": "",
+            "name": "regius heinrich",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3720167114/1469845502",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/760146348754644992/sAofXuwX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/760146348754644992/sAofXuwX_normal.jpg",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "regiusheinrich",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 20244,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @regiusheinrich: 2016年に気持ち悪くて吐き気がしたニュースなんだけど。女は、自分のワガママを許すマ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 06 00:23:51 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#松坂桃李 くんが好きです。ファン歴は短く知識も浅いですが、沢山の桃友さんと繋がりたいです。無言フォロー失礼します( * ॑꒳ ॑* )♡♡ 精神障害者です、病み期あったりなかったり。発達障害。線維筋痛症。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1873,
+        "follow_request_sent": false,
+        "followers_count": 173,
+        "following": false,
+        "friends_count": 377,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1158534109615906816,
+        "id_str": "1158534109615906816",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "🍑ぶっこ🍑",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1158534109615906816/1572586206",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1206787449453572096/O8z3Lnk0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1206787449453572096/O8z3Lnk0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mtzk_tr0407",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 5398,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

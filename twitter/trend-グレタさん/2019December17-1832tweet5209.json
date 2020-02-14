@@ -1,0 +1,261 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:15:50 +0000 2019",
+    "display_text_range": [
+        0,
+        21
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [
+            {
+                "indices": [
+                    16,
+                    21
+                ],
+                "text": "クソコラ"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": [
+            {
+                "id": 1206790067651375104,
+                "id_str": "1206790067651375104",
+                "media_url": "http://pbs.twimg.com/media/EL9hLDTUcAAht16.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL9hLDTUcAAht16.jpg",
+                "url": "https://t.co/yoJkkz93uO",
+                "display_url": "pic.twitter.com/yoJkkz93uO",
+                "expanded_url": "https://twitter.com/Nichinan_Kai/status/1206790079298953217/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 841,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 477,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1436,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    22,
+                    45
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206790067651375104,
+                "id_str": "1206790067651375104",
+                "media_url": "http://pbs.twimg.com/media/EL9hLDTUcAAht16.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL9hLDTUcAAht16.jpg",
+                "url": "https://t.co/yoJkkz93uO",
+                "display_url": "pic.twitter.com/yoJkkz93uO",
+                "expanded_url": "https://twitter.com/Nichinan_Kai/status/1206790079298953217/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 841,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 477,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1436,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    22,
+                    45
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 5,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "駅の改札で電車を待つグレタさん\n#クソコラ https://t.co/yoJkkz93uO",
+    "has_extended_profile": false,
+    "id": 1206790079298953217,
+    "id_str": "1206790079298953217",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "駅の改札で電車",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 15 14:37:03 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "己と機材の限界を超えてゆけ 睡眠/FJD/音mad/風景/PF/カメラ/旅行/アイマス/小早川紗枝/放送 規制垢→@KC_B10MC",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/SjP2dydLuw",
+                        "display_url": "twpf.jp/Nichinan_Kai",
+                        "expanded_url": "http://twpf.jp/Nichinan_Kai"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 8783,
+        "follow_request_sent": false,
+        "followers_count": 1242,
+        "following": false,
+        "friends_count": 1203,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2931249776,
+        "id_str": "2931249776",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 37,
+        "location": "Canon EOS Kiss x8i",
+        "name": "にちなん",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2931249776/1575973943",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1163628224368140288/zKSpWrmC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1163628224368140288/zKSpWrmC_normal.jpg",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Nichinan_Kai",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 98731,
+        "time_zone": "",
+        "url": "https://t.co/SjP2dydLuw",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

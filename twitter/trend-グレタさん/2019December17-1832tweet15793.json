@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 23:45:57 +0000 2019",
+    "display_text_range": [
+        0,
+        114
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    0,
+                    23
+                ],
+                "url": "https://t.co/tg8QY4bVLY",
+                "display_url": "headlines.yahoo.co.jp/article?a=2019…",
+                "expanded_url": "https://headlines.yahoo.co.jp/article?a=20191217-00069226-gendaibiz-int"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "https://t.co/tg8QY4bVLY 記事自体は面白かったのだが、コメントがグレタさんとやらの悪口で埋まっていることに苦笑。この記事、冒頭でしか彼女に触れてないのだが、それにもかかわらずこの存在感とはスター性あるなあ。",
+    "has_extended_profile": false,
+    "id": 1206722160837812224,
+    "id_str": "1206722160837812224",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+    "scopes": null,
+    "text": "https://t.co/tg8QY4bVLY 記事自体は面白かったのだが、コメントがグレタさんとやらの悪口",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 03 12:40:26 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "学者みたいな顔してますが小説書きです。趣味はボーカロイド使った楽曲の鑑賞と、ゲーム。最近のお気に入りゲームは艦これと千年戦争アイギスA。ブロマガでいろいろつぶやいてます。小説家になろうの著者ページ⇒https://t.co/DhxtxAeLKM",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/WiHM0AdGsq",
+                        "display_url": "ch.nicovideo.jp/stairlimit",
+                        "expanded_url": "http://ch.nicovideo.jp/stairlimit"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 62,
+        "follow_request_sent": false,
+        "followers_count": 217,
+        "following": false,
+        "friends_count": 23,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 119367686,
+        "id_str": "119367686",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 27,
+        "location": "鏡音の導きのままに",
+        "name": "すたりむ＠学園キノ実写映画化希望",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/558679381824921600/_IJMXjp8_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/558679381824921600/_IJMXjp8_normal.png",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "stairlimit",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 34919,
+        "time_zone": "",
+        "url": "http://t.co/WiHM0AdGsq",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,508 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:39:54 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "70",
+                "indices": [
+                    3,
+                    18
+                ],
+                "screen_name": "nanazerocolors",
+                "id": 711912763606441985,
+                "id_str": "711912763606441985"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @nanazerocolors: これ、ぱっと見出し読んだだけでも「海水温度の上昇と河川の汚染なのかな？」て思うんだけどよく読んだらロシアは4倍って書いてある。（北まで上がってるってこと？）有料なんで全部読んでないが。。。\nこれでもグレタさんのキャラクターの話しかしないの…",
+    "has_extended_profile": false,
+    "id": 1206781034462793728,
+    "id_str": "1206781034462793728",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206714355586232320,
+    "quoted_status_id_str": "1206714355586232320",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 02:14:35 +0000 2019",
+        "display_text_range": [
+            0,
+            127
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        128,
+                        151
+                    ],
+                    "url": "https://t.co/4px4TbvQd8",
+                    "display_url": "twitter.com/_shimizu/statu…",
+                    "expanded_url": "https://twitter.com/_shimizu/status/1206714355586232320"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "これ、ぱっと見出し読んだだけでも「海水温度の上昇と河川の汚染なのかな？」て思うんだけどよく読んだらロシアは4倍って書いてある。（北まで上がってるってこと？）有料なんで全部読んでないが。。。\nこれでもグレタさんのキャラクターの話しかしないのかしら、日本人。 https://t.co/4px4TbvQd8",
+        "has_extended_profile": false,
+        "id": 1206759564705533952,
+        "id_str": "1206759564705533952",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206714355586232320,
+        "quoted_status_id_str": "1206714355586232320",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Mon Dec 16 23:14:56 +0000 2019",
+            "display_text_range": [
+                0,
+                29
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "indices": [
+                            6,
+                            29
+                        ],
+                        "url": "https://t.co/34BTjuJKhS",
+                        "display_url": "courrier.jp/news/archives/…",
+                        "expanded_url": "https://courrier.jp/news/archives/184382/"
+                    }
+                ],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 17,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "ヤバそう。\nhttps://t.co/34BTjuJKhS",
+            "has_extended_profile": false,
+            "id": 1206714355586232320,
+            "id_str": "1206714355586232320",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 19,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+            "scopes": null,
+            "text": "ヤバそう。\nhttps://t.co/",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Apr 26 14:55:50 +0000 2007",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "群馬・東京間を行き来する出稼ぎエンジニアです。ブログではGIS(地理情報システム)・データビジュアライゼーション・オープンデータなどについて書いてます。",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/MdxwRj7MyQ",
+                                "display_url": "shimz.me/blog/",
+                                "expanded_url": "http://shimz.me/blog/"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 2352,
+                "follow_request_sent": false,
+                "followers_count": 2839,
+                "following": false,
+                "friends_count": 470,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 5529772,
+                "id_str": "5529772",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 270,
+                "location": "群馬県高崎市",
+                "name": "清水正行",
+                "notifications": false,
+                "profile_background_color": "9AC95D",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/5529772/1529551720",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/874109068972929024/ixC2SFXk_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/874109068972929024/ixC2SFXk_normal.jpg",
+                "profile_link_color": "18315F",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "8099C9",
+                "profile_text_color": "0F0F0F",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "_shimizu",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 22100,
+                "time_zone": "",
+                "url": "https://t.co/MdxwRj7MyQ",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "これ、ぱっと見出し読んだだけでも「海水温度の上昇と河川の汚染なのかな？」て思うんだけ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Mar 21 13:50:04 +0000 2016",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "現在休養中。 役に立つことは言いません。/Synæsthesia/お勉強中➝🇬🇧🇪🇸/🇲🇽🇮🇹🇮🇸/パーソナルスタイリング、メイクアップ。。の仕事は今お休み中/and I love music, sing a song.",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 35251,
+            "follow_request_sent": false,
+            "followers_count": 180,
+            "following": false,
+            "friends_count": 251,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 711912763606441985,
+            "id_str": "711912763606441985",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1,
+            "location": "",
+            "name": "70",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/711912763606441985/1572524999",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1138320994043432961/0yDjvj2r_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138320994043432961/0yDjvj2r_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "nanazerocolors",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 14848,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @nanazerocolors: これ、ぱっと見出し読んだだけでも「海水温度の上昇と河川の汚染なのかな？」て思うん",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 23 12:29:36 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "webコンサルタント(マーケティング、トロル対策) お問い合わせはminnnanocafe01shiga※https://t.co/Xtx28AllxF まで(※を@に変えてください)。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/99ifGA9ccr",
+                        "display_url": "countryday.exblog.jp",
+                        "expanded_url": "http://countryday.exblog.jp/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 109765,
+        "follow_request_sent": false,
+        "followers_count": 275,
+        "following": false,
+        "friends_count": 265,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 147181188,
+        "id_str": "147181188",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 2,
+        "location": "東京都中央区銀座一丁目２１番９号箱健ビル１階の戸棚",
+        "name": "消費税撤廃せよ榊原 諭",
+        "notifications": false,
+        "profile_background_color": "111680",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/147181188/1564242964",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1177515505529155585/MVon_Cxf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177515505529155585/MVon_Cxf_normal.jpg",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ShoulderbyShiga",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 106355,
+        "time_zone": "",
+        "url": "https://t.co/99ifGA9ccr",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

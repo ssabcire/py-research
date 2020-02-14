@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:03:30 +0000 2019",
+    "display_text_range": [
+        0,
+        100
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [
+            {
+                "indices": [
+                    21,
+                    25
+                ],
+                "text": "グレタ"
+            },
+            {
+                "indices": [
+                    26,
+                    32
+                ],
+                "text": "ドイツ鉄道"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "chocolateboutique",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "chocolatebouti2",
+                "id": 1173739064618450944,
+                "id_str": "1173739064618450944"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @chocolatebouti2: #グレタ #ドイツ鉄道 \nグレタさんへ\nその程度で混んでると思うのなら東京に来て下さい。120%超えの乗車率を体感して下さい。どうも支持できないなー。この子。",
+    "has_extended_profile": false,
+    "id": 1206575583800348672,
+    "id_str": "1206575583800348672",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 14:02:49 +0000 2019",
+        "display_text_range": [
+            0,
+            79
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [
+                {
+                    "indices": [
+                        0,
+                        4
+                    ],
+                    "text": "グレタ"
+                },
+                {
+                    "indices": [
+                        5,
+                        11
+                    ],
+                    "text": "ドイツ鉄道"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "#グレタ #ドイツ鉄道 \nグレタさんへ\nその程度で混んでると思うのなら東京に来て下さい。120%超えの乗車率を体感して下さい。どうも支持できないなー。この子。",
+        "has_extended_profile": false,
+        "id": 1206575410454003718,
+        "id_str": "1206575410454003718",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "#グレタ #ドイツ鉄道 \nグレタさんへ\nその程度で混んでると\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Sep 16 23:23:41 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "フォローは勝手にどうぞー。アンケートおもしろーい。テレビがつまらないのでテレビ離れ加速中。#勝手にアンケート #questionnaire",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 115,
+            "follow_request_sent": false,
+            "followers_count": 25,
+            "following": false,
+            "friends_count": 13,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1173739064618450944,
+            "id_str": "1173739064618450944",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 0,
+            "location": "",
+            "name": "chocolateboutique",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1173739064618450944/1575213886",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1185058647128399872/PHT7QlzO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1185058647128399872/PHT7QlzO_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "chocolatebouti2",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 286,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @chocolatebouti2: #グレタ #ドイツ鉄道 \nグレタさんへ\nその程度で混んでると\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 27 09:09:20 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "見知らぬ鍵垢はブロックします/カイト/Canon/写真は金儲けしなければお持ち帰りOK/まとめサイトとアフィリエイトサイトへの転載は金儲けなので禁止/綺麗な写真はRTしまくります/フォローのご挨拶不要です/",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 462046,
+        "follow_request_sent": false,
+        "followers_count": 5375,
+        "following": false,
+        "friends_count": 5820,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 2879319223,
+        "id_str": "2879319223",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 73,
+        "location": "",
+        "name": "カイトマン🪁🪁🪁🪁",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2879319223/1530530304",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/597680187480743938/d7OTy4hE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/597680187480743938/d7OTy4hE_normal.jpg",
+        "profile_link_color": "0084F0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "duf88logbook",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 391189,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

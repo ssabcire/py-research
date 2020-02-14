@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:17:29 +0000 2019",
+    "display_text_range": [
+        0,
+        111
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    88,
+                    111
+                ],
+                "url": "https://t.co/WCy2B2hhBZ",
+                "display_url": "twitter.com/i/events/12040…",
+                "expanded_url": "https://twitter.com/i/events/1204093204758294529"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "YAMATAKE⚓",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "qarmy_jp",
+                "id": 885557060028334081,
+                "id_str": "885557060028334081"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @qarmy_jp: カバールタレント売り出し中w\nスポンサーはクリントン当選に失敗したジョージ・ソロス爺w\n「グレタさんが「今年の人」に 米TIME誌が選出」 🤣😂🤣 https://t.co/WCy2B2hhBZ",
+    "has_extended_profile": false,
+    "id": 1206820691128938496,
+    "id_str": "1206820691128938496",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": true,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 31,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Dec 11 21:44:33 +0000 2019",
+        "display_text_range": [
+            0,
+            97
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "url": "https://t.co/WCy2B2hhBZ",
+                    "display_url": "twitter.com/i/events/12040…",
+                    "expanded_url": "https://twitter.com/i/events/1204093204758294529"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 56,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "カバールタレント売り出し中w\nスポンサーはクリントン当選に失敗したジョージ・ソロス爺w\n「グレタさんが「今年の人」に 米TIME誌が選出」 🤣😂🤣 https://t.co/WCy2B2hhBZ",
+        "has_extended_profile": false,
+        "id": 1204879671751397376,
+        "id_str": "1204879671751397376",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 31,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "カバールタレント売り出し中w\nスポンサーはクリントン当選に失敗した\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jul 13 17:50:30 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "馬鹿なのよ‼️💕\n\n\n\n\n\n\n\n#石井紘基",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 45424,
+            "follow_request_sent": false,
+            "followers_count": 3476,
+            "following": false,
+            "friends_count": 4365,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 885557060028334081,
+            "id_str": "885557060028334081",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 34,
+            "location": " サンクトペテルブルグ",
+            "name": "YAMATAKE⚓",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/885557060028334081/1575896111",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1173587124748046338/48as1nbp_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1173587124748046338/48as1nbp_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "qarmy_jp",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 55915,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @qarmy_jp: カバールタレント売り出し中w\nスポンサーはクリントン当選に失敗した\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 06 15:13:16 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "金融関係に携わり、何か人の為になる事をと、現在は色々チャレンジ中！洋楽好き66歳",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 4091,
+        "follow_request_sent": false,
+        "followers_count": 137,
+        "following": false,
+        "friends_count": 274,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 807025501,
+        "id_str": "807025501",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "日本 東京",
+        "name": "2525momo",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/807025501/1563768332",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1162199891256340480/-weaN23D_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1162199891256340480/-weaN23D_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "news4946",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 2096,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

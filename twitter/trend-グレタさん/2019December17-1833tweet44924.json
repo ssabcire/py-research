@@ -1,0 +1,356 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 10:37:26 +0000 2019",
+    "display_text_range": [
+        0,
+        99
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    76,
+                    99
+                ],
+                "url": "https://t.co/djw98Dmqim",
+                "display_url": "moeruasia.net/archives/49657…",
+                "expanded_url": "https://www.moeruasia.net/archives/49657134.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "春本″はるにゃん″綾子",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "harunyan",
+                "id": 13046732,
+                "id_str": "13046732"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @harunyan: 【こえぇｗ】グレタさん、自分に従わない指導者は「against the wall」(壁際に立たせる=銃殺刑) 大炎上、謝罪 https://t.co/djw98Dmqim",
+    "has_extended_profile": false,
+    "id": 1206523722863017984,
+    "id_str": "1206523722863017984",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 10:35:15 +0000 2019",
+        "display_text_range": [
+            0,
+            85
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        62,
+                        85
+                    ],
+                    "url": "https://t.co/djw98Dmqim",
+                    "display_url": "moeruasia.net/archives/49657…",
+                    "expanded_url": "https://www.moeruasia.net/archives/49657134.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "【こえぇｗ】グレタさん、自分に従わない指導者は「against the wall」(壁際に立たせる=銃殺刑) 大炎上、謝罪 https://t.co/djw98Dmqim",
+        "has_extended_profile": false,
+        "id": 1206523176190017536,
+        "id_str": "1206523176190017536",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://www.twitpane.com\" rel=\"nofollow\"\u003eTwitPane for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "【こえぇｗ】グレタさん、自分に従わない指導者は「against the w",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Feb 04 13:21:23 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "マストドンアカ作りました。「https://t.co/tsWOHYDQj8」ニコンデジ一D750所有。飛行機免許がほしい。Tumblr中毒中。真名は春本綾子、源氏名は伊東春菜。フィジカル異常には強い。ビールクズになりました。エスコン7、Diablo3浜離宮",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/tsWOHYDQj8",
+                            "display_url": "mstdn.jp/@harunya",
+                            "expanded_url": "https://mstdn.jp/@harunya"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 14390,
+            "follow_request_sent": false,
+            "followers_count": 1780,
+            "following": false,
+            "friends_count": 1435,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 13046732,
+            "id_str": "13046732",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 137,
+            "location": "日本",
+            "name": "春本″はるにゃん″綾子",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/951824543215009792/d0Uwy-3s_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/951824543215009792/d0Uwy-3s_normal.jpg",
+            "profile_link_color": "0000FF",
+            "profile_sidebar_border_color": "87BC44",
+            "profile_sidebar_fill_color": "E0FF92",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "harunyan",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 256337,
+            "time_zone": "",
+            "url": "https://t.co/tsWOHYDQj8",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://www.opentween.org/\" rel=\"nofollow\"\u003eOpenTween\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @harunyan: 【こえぇｗ】グレタさん、自分に従わない指導者は「against the w",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 30 12:01:35 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "読みはにーにぃ。画像の子はつかさです。神社で巫女をしています。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9QkZQhvuG7",
+                        "display_url": "bitbucket.org/knenet/profile…",
+                        "expanded_url": "https://bitbucket.org/knenet/profile/wiki/Home"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 46353,
+        "follow_request_sent": false,
+        "followers_count": 952,
+        "following": false,
+        "friends_count": 1131,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 14257711,
+        "id_str": "14257711",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 67,
+        "location": "sunjuku",
+        "name": "にーにぃ",
+        "notifications": false,
+        "profile_background_color": "A236F2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14257711/1536685750",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/618462376715628544/iKszJhe7_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/618462376715628544/iKszJhe7_normal.png",
+        "profile_link_color": "9649DE",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C9F7C1",
+        "profile_text_color": "360036",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "knenet",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 192365,
+        "time_zone": "",
+        "url": "https://t.co/9QkZQhvuG7",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

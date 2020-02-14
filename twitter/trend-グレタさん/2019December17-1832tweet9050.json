@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:48:53 +0000 2019",
+    "display_text_range": [
+        0,
+        137
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    114,
+                    137
+                ],
+                "url": "https://t.co/CtTaBCrvXl",
+                "display_url": "twitter.com/i/events/12066…",
+                "expanded_url": "https://twitter.com/i/events/1206600997478383617"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "宙(Sora)",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "GingaSora1",
+                "id": 1017959250482552832,
+                "id_str": "1017959250482552832"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @GingaSora1: 座席が空いてなくて床に座るぐらい超満員のドイツの鉄道をさ、車にばかり頼ってないって意味でさ、グレタさんは喜んでるツイートしてるのにさ。\n\n「グレタさん「帰りの列車は超満員」 ドイツ鉄道が応酬」  https://t.co/CtTaBCrvXl",
+    "has_extended_profile": false,
+    "id": 1206768196700667904,
+    "id_str": "1206768196700667904",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 21:55:21 +0000 2019",
+        "display_text_range": [
+            0,
+            121
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        98,
+                        121
+                    ],
+                    "url": "https://t.co/CtTaBCrvXl",
+                    "display_url": "twitter.com/i/events/12066…",
+                    "expanded_url": "https://twitter.com/i/events/1206600997478383617"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 7,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "座席が空いてなくて床に座るぐらい超満員のドイツの鉄道をさ、車にばかり頼ってないって意味でさ、グレタさんは喜んでるツイートしてるのにさ。\n\n「グレタさん「帰りの列車は超満員」 ドイツ鉄道が応酬」  https://t.co/CtTaBCrvXl",
+        "has_extended_profile": false,
+        "id": 1206694324932501504,
+        "id_str": "1206694324932501504",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "座席が空いてなくて床に座るぐらい超満員のドイツの鉄道をさ、車にばかり頼ってないっ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jul 14 02:29:32 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "自由気まま",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 7682,
+            "follow_request_sent": false,
+            "followers_count": 1259,
+            "following": false,
+            "friends_count": 1138,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1017959250482552832,
+            "id_str": "1017959250482552832",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 10,
+            "location": "そこいら辺",
+            "name": "宙(Sora)",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1017959250482552832/1567911012",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1164532978564755456/UpW2G1dR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1164532978564755456/UpW2G1dR_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "GingaSora1",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 11387,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @GingaSora1: 座席が空いてなくて床に座るぐらい超満員のドイツの鉄道をさ、車にばかり頼ってないっ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 16 13:11:21 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Travel  company. Travel caregiver Omotenasi care  attendant(caregiver) Acting to everyone can be recieved  care services .",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/QLj9wau9oz",
+                        "display_url": "oriental-cs.com",
+                        "expanded_url": "http://www.oriental-cs.com"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 5232,
+        "follow_request_sent": false,
+        "followers_count": 650,
+        "following": false,
+        "friends_count": 664,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 985868245021278208,
+        "id_str": "985868245021278208",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 25,
+        "location": "Japan",
+        "name": "Mayu Yamamoto 肉球新党党員",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/985868245021278208/1526887205",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1145715797588754437/2hA_rCcj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145715797588754437/2hA_rCcj_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CoOrianty",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 10607,
+        "time_zone": "",
+        "url": "https://t.co/QLj9wau9oz",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

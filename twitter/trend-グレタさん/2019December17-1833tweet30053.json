@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:35:10 +0000 2019",
+    "display_text_range": [
+        0,
+        67
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ぐれ",
+                "indices": [
+                    3,
+                    11
+                ],
+                "screen_name": "gure595",
+                "id": 186368806,
+                "id_str": "186368806"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @gure595: グレタさんは大人に要求するんじゃなくて、自分の言葉と知識で環境問題解決に向かうアイデアを話してほしいんだよな",
+    "has_extended_profile": false,
+    "id": 1206583550817923073,
+    "id_str": "1206583550817923073",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 10:05:47 +0000 2019",
+        "display_text_range": [
+            0,
+            54
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんは大人に要求するんじゃなくて、自分の言葉と知識で環境問題解決に向かうアイデアを話してほしいんだよな",
+        "has_extended_profile": false,
+        "id": 1206515759632961537,
+        "id_str": "1206515759632961537",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.softama.com/\" rel=\"nofollow\"\u003eツイタマ+ for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんは大人に要求するんじゃなく",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Sep 03 08:03:18 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Motor Sports/Red Bull Air Race/Motorcycle/Car/Aviation\nKTM 690Duke MY2014\nNikon D7000/D500",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/GOcFO9a9wg",
+                            "display_url": "gurehanger.exblog.jp",
+                            "expanded_url": "http://gurehanger.exblog.jp/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 20262,
+            "follow_request_sent": false,
+            "followers_count": 641,
+            "following": false,
+            "friends_count": 679,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 186368806,
+            "id_str": "186368806",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 65,
+            "location": "",
+            "name": "ぐれ",
+            "notifications": false,
+            "profile_background_color": "151617",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/186368806/1563281857",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1077134636428419074/hM6DJH9i_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1077134636428419074/hM6DJH9i_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "gure595",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 392265,
+            "time_zone": "",
+            "url": "https://t.co/GOcFO9a9wg",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\"\u003eTweetbot for Mac\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @gure595: グレタさんは大人に要求するんじゃなく",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 31 13:11:57 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "15年春に32年勤めたソニーを希望退職。あっという間にぼんやり3年過ごしてしまいましたとさ",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/TRPUZs29eC",
+                        "display_url": "flickr.com/photos/1300197…",
+                        "expanded_url": "https://www.flickr.com/photos/130019718@N03/albums"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 12572,
+        "follow_request_sent": false,
+        "followers_count": 319,
+        "following": false,
+        "friends_count": 356,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 275008288,
+        "id_str": "275008288",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 14,
+        "location": "南関東",
+        "name": "Naoki_O",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/275008288/1505652133",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000151867507/589f30fc8e4b7ac60e22c1ec997f32dc_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000151867507/589f30fc8e4b7ac60e22c1ec997f32dc_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nananao2236",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 49241,
+        "time_zone": "",
+        "url": "https://t.co/TRPUZs29eC",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

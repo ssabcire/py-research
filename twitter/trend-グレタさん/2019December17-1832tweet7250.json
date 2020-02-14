@@ -1,0 +1,471 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:31:45 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "牧野アンドレ @イラク🇮🇶で医療支援",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "andre_makino",
+                "id": 778220820476735491,
+                "id_str": "778220820476735491"
+            },
+            {
+                "name": "Howey Ou",
+                "indices": [
+                    51,
+                    60
+                ],
+                "screen_name": "howey_ou",
+                "id": 1126766656884068352,
+                "id_str": "1126766656884068352"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @andre_makino: グレタさんに感化され、中国で 気候変動ストライキを始めた16歳の @howey_ou さん。\n\n地方行政庁舎の前で一人で立ち警察に連行されたが、それでもめげずに大気汚染が深刻な問題となっている中国で植樹活動や啓発活動を続けている。\nhttps…",
+    "has_extended_profile": false,
+    "id": 1206778984022913030,
+    "id_str": "1206778984022913030",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 466,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 13 09:10:33 +0000 2019",
+        "display_text_range": [
+            0,
+            139
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "Howey Ou",
+                    "indices": [
+                        33,
+                        42
+                    ],
+                    "screen_name": "howey_ou",
+                    "id": 1126766656884068352,
+                    "id_str": "1126766656884068352"
+                }
+            ],
+            "media": [
+                {
+                    "id": 1190043647649210368,
+                    "id_str": "1190043647649210368",
+                    "media_url": "http://pbs.twimg.com/media/EIPivmMXkAEw6be.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EIPivmMXkAEw6be.jpg",
+                    "url": "https://t.co/25M4ID5yaA",
+                    "display_url": "pic.twitter.com/25M4ID5yaA",
+                    "expanded_url": "https://twitter.com/dwnews/status/1204619718751076352/video/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1204619718751076352,
+                    "source_status_id_str": "1204619718751076352",
+                    "type": "photo",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1190043647649210368,
+                    "id_str": "1190043647649210368",
+                    "media_url": "http://pbs.twimg.com/media/EIPivmMXkAEw6be.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EIPivmMXkAEw6be.jpg",
+                    "url": "https://t.co/25M4ID5yaA",
+                    "display_url": "pic.twitter.com/25M4ID5yaA",
+                    "expanded_url": "https://twitter.com/dwnews/status/1204619718751076352/video/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1204619718751076352,
+                    "source_status_id_str": "1204619718751076352",
+                    "type": "video",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "video_info": {
+                        "aspect_ratio": [
+                            1,
+                            1
+                        ],
+                        "duration_millis": 111040,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1190043647649210368/vid/480x480/MV4M4246h2WjVLJW.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 432000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1190043647649210368/vid/320x320/7c4CD6MA7Xy5j6R-.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 1280000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1190043647649210368/vid/720x720/HuCo-PD7jyDFDNht.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 0,
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1190043647649210368/pl/SiMXu36m43cIZYHX.m3u8?tag=13"
+                            }
+                        ]
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 913,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんに感化され、中国で 気候変動ストライキを始めた16歳の @howey_ou さん。\n\n地方行政庁舎の前で一人で立ち警察に連行されたが、それでもめげずに大気汚染が深刻な問題となっている中国で植樹活動や啓発活動を続けている。\nhttps://t.co/25M4ID5yaA",
+        "has_extended_profile": false,
+        "id": 1205414694657417216,
+        "id_str": "1205414694657417216",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 466,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんに感化され、中国で 気候変動ストライキを始めた16歳の @howey_ou さん。\n\n地方行政庁舎の前で",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Sep 20 13:14:37 +0000 2016",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "🇩🇪×🇯🇵早稲田(2016年度小野梓記念学術賞受賞)/ギリシャの島やキャンプで難民支援➡️大学卒業後、ヨルダンの難民キャンプでシリア難民の生計向上支援、教育支援➡️修士🇬🇧➡️イラクで避難民の医療支援 関心:難民/移民/国際政治/ハーフ/多様性/クルド/ケルト音楽 など。Views Are My Own",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/wxwlJJqjeD",
+                            "display_url": "note.mu/andremakino",
+                            "expanded_url": "https://note.mu/andremakino"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 5541,
+            "follow_request_sent": false,
+            "followers_count": 2952,
+            "following": false,
+            "friends_count": 297,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 778220820476735491,
+            "id_str": "778220820476735491",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 33,
+            "location": "Iraq",
+            "name": "牧野アンドレ @イラク🇮🇶で医療支援",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/778220820476735491/1503075507",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/898589812822769664/Qr03sXNB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/898589812822769664/Qr03sXNB_normal.jpg",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "andre_makino",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 3717,
+            "time_zone": "",
+            "url": "https://t.co/wxwlJJqjeD",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @andre_makino: グレタさんに感化され、中国で 気候変動ストライキを始めた16歳の @howey_ou さん。\n\n地方行\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 20 13:14:37 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "🇩🇪×🇯🇵早稲田(2016年度小野梓記念学術賞受賞)/ギリシャの島やキャンプで難民支援➡️大学卒業後、ヨルダンの難民キャンプでシリア難民の生計向上支援、教育支援➡️修士🇬🇧➡️イラクで避難民の医療支援 関心:難民/移民/国際政治/ハーフ/多様性/クルド/ケルト音楽 など。Views Are My Own",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/wxwlJJqjeD",
+                        "display_url": "note.mu/andremakino",
+                        "expanded_url": "https://note.mu/andremakino"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 5541,
+        "follow_request_sent": false,
+        "followers_count": 2952,
+        "following": false,
+        "friends_count": 297,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 778220820476735491,
+        "id_str": "778220820476735491",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 33,
+        "location": "Iraq",
+        "name": "牧野アンドレ @イラク🇮🇶で医療支援",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/778220820476735491/1503075507",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/898589812822769664/Qr03sXNB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/898589812822769664/Qr03sXNB_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "andre_makino",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 3717,
+        "time_zone": "",
+        "url": "https://t.co/wxwlJJqjeD",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

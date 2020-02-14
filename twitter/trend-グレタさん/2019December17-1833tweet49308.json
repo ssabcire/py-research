@@ -1,0 +1,343 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 09:29:02 +0000 2019",
+    "display_text_range": [
+        0,
+        97
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    98,
+                    121
+                ],
+                "url": "https://t.co/kK6PeKUbRC",
+                "display_url": "twitter.com/hoshusokuhou/s…",
+                "expanded_url": "https://twitter.com/hoshusokuhou/status/1206455177592442881"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    82,
+                    97
+                ],
+                "text": "GretaThurnberg"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんそんなしょうもない嘘つかんでいいのに。TIME誌に載るくらいの “Establishment” なんですから堂々と1st class に乗ってくださいよ。#GretaThurnberg https://t.co/kK6PeKUbRC",
+    "has_extended_profile": false,
+    "id": 1206506511905615873,
+    "id_str": "1206506511905615873",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206455177592442881,
+    "quoted_status_id_str": "1206455177592442881",
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 06:05:03 +0000 2019",
+        "display_text_range": [
+            0,
+            93
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "url": "https://t.co/9bkqabO5pK",
+                    "display_url": "hosyusokuhou.jp/archives/48867…",
+                    "expanded_url": "https://hosyusokuhou.jp/archives/48867169.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 5606,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "保守速報 : 【グレタvs ドイツ鉄道】グレタ「帰りの列車で床に座ってた」 ドイツ鉄道「途中からはファーストクラス(１等車)に座っていた」 https://t.co/9bkqabO5pK",
+        "has_extended_profile": false,
+        "id": 1206455177592442881,
+        "id_str": "1206455177592442881",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2217,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://hosyusokuhou.jp/\" rel=\"nofollow\"\u003e保守速報\u003c/a\u003e",
+        "scopes": null,
+        "text": "保守速報 : 【グレタvs ドイツ鉄道】グレタ「帰りの列車で床に座って",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Apr 26 08:53:00 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "2chまとめブログです。政治、東亜ニュースを中心にまとめています。メッセージはこちらへ https://t.co/DI020gvSDL",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/eF9LD2jYbP",
+                            "display_url": "hosyusokuhou.jp",
+                            "expanded_url": "http://hosyusokuhou.jp/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 262,
+            "follow_request_sent": false,
+            "followers_count": 78608,
+            "following": false,
+            "friends_count": 9636,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 563646483,
+            "id_str": "563646483",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1394,
+            "location": "JAPAN",
+            "name": "保守速報",
+            "notifications": false,
+            "profile_background_color": "DBE9ED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/563646483/1402408853",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2343684633/352jqu56kixeqz2y17t9_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2343684633/352jqu56kixeqz2y17t9_normal.png",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "hoshusokuhou",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 16694,
+            "time_zone": "",
+            "url": "http://t.co/eF9LD2jYbP",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんそんなしょうもない嘘つかんでいいのに。TIME誌に載るくらい",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 11 08:52:51 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "増税反対/ 金属材料研究者 / 航空/ 国際宇宙ステーション/ 結晶成長・凝固/ 鋳造/ アルペンスキー/ ロードバイク/ 天文部/ 我行精進忍終不悔/ 絵画/ アニメ",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 5923,
+        "follow_request_sent": false,
+        "followers_count": 72,
+        "following": false,
+        "friends_count": 300,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 18044119,
+        "id_str": "18044119",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 7,
+        "location": "Japan",
+        "name": "Molybdenum",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18044119/1515043110",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1060695689833799680/Wb8kAL9a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060695689833799680/Wb8kAL9a_normal.jpg",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "moly_bdenum",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 2036,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

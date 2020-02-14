@@ -1,0 +1,357 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 07:50:41 +0000 2019",
+    "display_text_range": [
+        0,
+        133
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "リアル友人からフォローされて焦るおじさん😅",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "pommta72",
+                "id": 70639419,
+                "id_str": "70639419"
+            },
+            {
+                "name": "林 志行",
+                "indices": [
+                    14,
+                    22
+                ],
+                "screen_name": "linsbar",
+                "id": 107099402,
+                "id_str": "107099402"
+            },
+            {
+                "name": "AFPBB News",
+                "indices": [
+                    23,
+                    32
+                ],
+                "screen_name": "afpbbcom",
+                "id": 90841111,
+                "id_str": "90841111"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @pommta72: @linsbar @afpbbcom グレタさんはゲッティンゲンから座れたと書いていますが、DBはフランクフルトから一等車と書いていますね。ちなみに、バーゼルから見て、ゲッティンゲンはフランクフルトの向こうです。\n\nとても不思議な話です。",
+    "has_extended_profile": false,
+    "id": 1206844149242023937,
+    "id_str": "1206844149242023937",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 01:39:29 +0000 2019",
+        "display_text_range": [
+            19,
+            119
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "林 志行",
+                    "indices": [
+                        0,
+                        8
+                    ],
+                    "screen_name": "linsbar",
+                    "id": 107099402,
+                    "id_str": "107099402"
+                },
+                {
+                    "name": "AFPBB News",
+                    "indices": [
+                        9,
+                        18
+                    ],
+                    "screen_name": "afpbbcom",
+                    "id": 90841111,
+                    "id_str": "90841111"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 24,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@linsbar @afpbbcom グレタさんはゲッティンゲンから座れたと書いていますが、DBはフランクフルトから一等車と書いていますね。ちなみに、バーゼルから見て、ゲッティンゲンはフランクフルトの向こうです。\n\nとても不思議な話です。",
+        "has_extended_profile": false,
+        "id": 1206750729991376896,
+        "id_str": "1206750729991376896",
+        "in_reply_to_screen_name": "linsbar",
+        "in_reply_to_status_id": 1206728455414411264,
+        "in_reply_to_status_id_str": "1206728455414411264",
+        "in_reply_to_user_id": 107099402,
+        "in_reply_to_user_id_str": "107099402",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 6,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんはゲッティンゲンから座れたと書いていますが、DBはフランク\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Sep 01 09:23:16 +0000 2009",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "#光復香港 #和理非 #徹査警黒 #追究警暴",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 58133,
+            "follow_request_sent": false,
+            "followers_count": 389,
+            "following": false,
+            "friends_count": 647,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 70639419,
+            "id_str": "70639419",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 33,
+            "location": "西日本主基地方",
+            "name": "リアル友人からフォローされて焦るおじさん😅",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/70639419/1565760528",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/392649642/IMG_19751_normal.JPG",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/392649642/IMG_19751_normal.JPG",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "pommta72",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 72824,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @pommta72: @linsbar @afpbbcom グレタさんはゲッティンゲンから座れたと書いていますが、DBはフランク\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 05 07:54:42 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "一部の外国人がァー               スーパーにやって来た中国人夫妻は日本の生活保護を受けていると笑っていた  .... スーパー温泉にいた韓国人は…団地も全部タダだって…息子に感謝していると",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 53441,
+        "follow_request_sent": false,
+        "followers_count": 951,
+        "following": false,
+        "friends_count": 1859,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 706025127700369408,
+        "id_str": "706025127700369408",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 8,
+        "location": "Japan ",
+        "name": "先祖代々日本人",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/706025127700369408/1563360790",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1176033112502833153/ZAHNZIZu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1176033112502833153/ZAHNZIZu_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Kiss88888888888",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 40149,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,153 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:48:16 +0000 2019",
+    "display_text_range": [
+        0,
+        53
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさん、うちのオカンですら「この人の顔イヤやわあ！」って言われてる。\nこの人逆効果なんじゃないかなあ。",
+    "has_extended_profile": false,
+    "id": 1206828441565163520,
+    "id_str": "1206828441565163520",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさん、うちのオカンですら「こ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 29 20:00:06 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ｵﾘｼﾞﾅﾙSTGｹﾞｰﾑ『クライシス2222(フォー・ツー)』(仮)制作検討中！\n察した人はﾌｫﾛｰ宜しくです！(^_^)ゞ『小川理研4　代表代理』CG造型とプラモとゲーム。\nWF、C3に参加。　　\nCRISIS 2222(Four Two)\nGame production, under consideration.",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 67014,
+        "follow_request_sent": false,
+        "followers_count": 657,
+        "following": false,
+        "friends_count": 596,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 891387879087144960,
+        "id_str": "891387879087144960",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 18,
+        "location": "兵庫の助",
+        "name": "ﾌｧｯ亭-CRISIS2222",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/891387879087144960/1549844862",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1194371642882809856/BYfXcFbp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194371642882809856/BYfXcFbp_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fmikataf",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 5464,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

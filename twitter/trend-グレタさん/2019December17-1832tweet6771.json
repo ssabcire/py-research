@@ -1,0 +1,201 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:40:43 +0000 2019",
+    "display_text_range": [
+        0,
+        76
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    45,
+                    68
+                ],
+                "url": "https://t.co/rhFPIMPAhe",
+                "display_url": "gendai.ismedia.jp/articles/-/677…",
+                "expanded_url": "https://gendai.ismedia.jp/articles/-/67794"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    69,
+                    76
+                ],
+                "text": "現代ビジネス"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "現代ビジネス",
+                "indices": [
+                    33,
+                    44
+                ],
+                "screen_name": "gendai_biz",
+                "id": 104705276,
+                "id_str": "104705276"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさん演説のウラで、日本メディアが報じない「ヤバすぎる現実」 @gendai_biz https://t.co/rhFPIMPAhe #現代ビジネス",
+    "has_extended_profile": false,
+    "id": 1206781239576809472,
+    "id_str": "1206781239576809472",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        140.387048,
+                        36.398858
+                    ],
+                    [
+                        140.566125,
+                        36.398858
+                    ],
+                    [
+                        140.566125,
+                        36.515475
+                    ],
+                    [
+                        140.387048,
+                        36.515475
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Japan",
+        "country_code": "JP",
+        "full_name": "Naka-shi, Ibaraki",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "51dd1a0b3e1e7c62",
+        "name": "Naka-shi",
+        "place_type": "city",
+        "polylines": null,
+        "url": "https://api.twitter.com/1.1/geo/id/51dd1a0b3e1e7c62.json"
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさん演説のウラで、日本メディアが報じない「ヤ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 21 05:44:49 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2,
+        "follow_request_sent": false,
+        "followers_count": 0,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1152816679077871616,
+        "id_str": "1152816679077871616",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "KuriharaYoshihisa",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1206458011922792448/5uLoqgfA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1206458011922792448/5uLoqgfA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KuriharaYoshih3",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 101,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

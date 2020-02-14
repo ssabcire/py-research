@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:19:43 +0000 2019",
+    "display_text_range": [
+        0,
+        96
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    19,
+                    42
+                ],
+                "url": "https://t.co/NXxWchegFq",
+                "display_url": "news.tv-asahi.co.jp/news_internati…",
+                "expanded_url": "https://news.tv-asahi.co.jp/news_international/articles/000171825.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんが鉄道会社の“反論”に釈明 https://t.co/NXxWchegFq\n\nなんかマスゴミの切り取り報道に近いものを感じるんだよねぇ。まあ、この子には全然興味が無いけどさ(・∀・)",
+    "has_extended_profile": false,
+    "id": 1206821254260387842,
+    "id_str": "1206821254260387842",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんが鉄道会社の“反論”に釈明 https://t.co/NXxWchegFq\n\nなんかマス\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 27 13:49:58 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ゆふぃすとだったり #ポムバサダー だったりたんこぶちゃんだったりぺろりすとだったりSORAMIMIstだったり。 ゆっふぃーから、「ゆるキャラに堕ちたヲタク」「ピューロランドのヲタク」認定を受けました(ﾟωﾟ)",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 11815,
+        "follow_request_sent": false,
+        "followers_count": 1103,
+        "following": false,
+        "friends_count": 1767,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 27006570,
+        "id_str": "27006570",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 53,
+        "location": "いろんな所に行ってます(ﾟωﾟ)",
+        "name": "# まっち〜の大三角関係",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27006570/1510628654",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1205734252953755648/dh3NNCZg_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205734252953755648/dh3NNCZg_normal.png",
+        "profile_link_color": "708090",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Matchy_switcher",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 96676,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

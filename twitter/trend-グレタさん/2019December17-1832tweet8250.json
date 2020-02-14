@@ -1,0 +1,347 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:12:38 +0000 2019",
+    "display_text_range": [
+        0,
+        77
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ちゃぴお",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "ddnxFzXnnhDLrV9",
+                "id": 1169141675429699584,
+                "id_str": "1169141675429699584"
+            },
+            {
+                "name": "下地ミキオ",
+                "indices": [
+                    21,
+                    34
+                ],
+                "screen_name": "mikioshimoji",
+                "id": 97387806,
+                "id_str": "97387806"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @ddnxFzXnnhDLrV9: @mikioshimoji グレタ一味の狙い通りのコメントに爆笑してしまいました🎵🤣🤣🤣\nエエお客さんですね🎵🤣",
+    "has_extended_profile": false,
+    "id": 1206774174338838528,
+    "id_str": "1206774174338838528",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 03:51:58 +0000 2019",
+        "display_text_range": [
+            14,
+            56
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "下地ミキオ",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "screen_name": "mikioshimoji",
+                    "id": 97387806,
+                    "id_str": "97387806"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 30,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@mikioshimoji グレタ一味の狙い通りのコメントに爆笑してしまいました🎵🤣🤣🤣\nエエお客さんですね🎵🤣",
+        "has_extended_profile": false,
+        "id": 1206421683524919296,
+        "id_str": "1206421683524919296",
+        "in_reply_to_screen_name": "mikioshimoji",
+        "in_reply_to_status_id": 1205995062263341056,
+        "in_reply_to_status_id_str": "1205995062263341056",
+        "in_reply_to_user_id": 97387806,
+        "in_reply_to_user_id_str": "97387806",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタ一味の狙い通りのコメン",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Sep 04 06:54:40 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "よろしくお願いします。\nパヨクと言う名のショッカーや死ね死ね団から日本を守りましょう‼️",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 32304,
+            "follow_request_sent": false,
+            "followers_count": 668,
+            "following": false,
+            "friends_count": 685,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1169141675429699584,
+            "id_str": "1169141675429699584",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1,
+            "location": "",
+            "name": "ちゃぴお",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1169141675429699584/1575454965",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1204693083993935872/ltNOmoKR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1204693083993935872/ltNOmoKR_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "ddnxFzXnnhDLrV9",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 7443,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @ddnxFzXnnhDLrV9: @mikioshimoji グレタ一味の狙い通りのコメン",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 04 04:25:05 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "平一郎はSecond Lifeのアバター名です。\nただ、殆どサブアカ状態で休眠中ですｗ　セカンドライフならとSLではメインは全くの別キャラも、詳細は秘密♪　日本人であることに誇りを持っています。５０の手習いでバイオリン習ってますｗ　安倍政権支持、但し自民党全てを支持しているわけではありません。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/X2zOrWpMms",
+                        "display_url": "heiichiro.tumblr.com",
+                        "expanded_url": "http://heiichiro.tumblr.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 22485,
+        "follow_request_sent": false,
+        "followers_count": 447,
+        "following": false,
+        "friends_count": 457,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 111211342,
+        "id_str": "111211342",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 11,
+        "location": "",
+        "name": "平一郎",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/111211342/1397457541",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/560295308123316226/8hALaoSR_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/560295308123316226/8hALaoSR_normal.jpeg",
+        "profile_link_color": "9FB6D1",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "heisan_desu",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 31827,
+        "time_zone": "",
+        "url": "http://t.co/X2zOrWpMms",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

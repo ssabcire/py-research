@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 22:40:08 +0000 2019",
+    "display_text_range": [
+        0,
+        107
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "NAOKI",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "naokiwifruit",
+                "id": 2346527634,
+                "id_str": "2346527634"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @naokiwifruit: グレタさんの件は一旦置いておくとして、ジェレミー・クラークソンが彼女を批判するのはトップギア/グランドツアー見てる人なら「絶対言うと思った」「奴ならやりかねん」と思うレベルの必然",
+    "has_extended_profile": false,
+    "id": 1206705595862011904,
+    "id_str": "1206705595862011904",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 22:39:41 +0000 2019",
+        "display_text_range": [
+            0,
+            89
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 7,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんの件は一旦置いておくとして、ジェレミー・クラークソンが彼女を批判するのはトップギア/グランドツアー見てる人なら「絶対言うと思った」「奴ならやりかねん」と思うレベルの必然",
+        "has_extended_profile": false,
+        "id": 1206705482729046018,
+        "id_str": "1206705482729046018",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんの件は一旦置いておくとして、ジェレミー・クラーク\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Feb 16 08:59:27 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Data Scientist in Sports Analytics ⚽/ https://t.co/HU97tYv0L5",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/OQHoBwwCqe",
+                            "display_url": "linkedin.com/in/naokiwifruit",
+                            "expanded_url": "https://www.linkedin.com/in/naokiwifruit"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 20878,
+            "follow_request_sent": false,
+            "followers_count": 2504,
+            "following": false,
+            "friends_count": 1077,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 2346527634,
+            "id_str": "2346527634",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 76,
+            "location": "Tokyo, Japan",
+            "name": "NAOKI",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2346527634/1567565756",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1159096612393644033/MvIxltQk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1159096612393644033/MvIxltQk_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "naokiwifruit",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 61628,
+            "time_zone": "",
+            "url": "https://t.co/OQHoBwwCqe",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @naokiwifruit: グレタさんの件は一旦置いておくとして、ジェレミー・クラーク\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 06 17:50:20 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "メリカに野球しに来たはずが左膝2度の亜脱臼+肩のケガ+イップスでサクッと引退、結局マネージャーからのやっとこさ理転\u0026大卒。Athletic Training専攻する為にマスターの道へ。空港で寝たり一週間風呂無しでジャングル100km歩き通したりバッグ一つで辺鄙な土地を徘徊してた事多々のヒゲ面放浪癖の院生モドキ",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 29126,
+        "follow_request_sent": false,
+        "followers_count": 740,
+        "following": false,
+        "friends_count": 982,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 456809320,
+        "id_str": "456809320",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 5,
+        "location": "ワシントンほぼアイダホ州",
+        "name": "Yudai(　˙灬˙　)",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/456809320/1565486885",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1111065339004096515/TaMFHQau_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111065339004096515/TaMFHQau_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Youdie1206",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 36343,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

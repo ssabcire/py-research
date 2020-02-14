@@ -1,0 +1,357 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:39:13 +0000 2019",
+    "display_text_range": [
+        0,
+        117
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ガテン",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "RrK9xKwM96pOWu6",
+                "id": 1027697840510791680,
+                "id_str": "1027697840510791680"
+            },
+            {
+                "name": "パパぱふぅ@pahoo.org",
+                "indices": [
+                    21,
+                    32
+                ],
+                "screen_name": "papa_pahoo",
+                "id": 54166299,
+                "id_str": "54166299"
+            },
+            {
+                "name": "seki_yo",
+                "indices": [
+                    33,
+                    41
+                ],
+                "screen_name": "seki_yo",
+                "id": 356195126,
+                "id_str": "356195126"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @RrK9xKwM96pOWu6: @papa_pahoo @seki_yo ぼけぼけさんがグレタお嬢の英語スピーチの間違い「責任者は壁に立て(銃殺しろ)」にツッコミ入れて垢凍結されて、新垢作ったら削除されてる。\nそんなのあり？",
+    "has_extended_profile": false,
+    "id": 1206539273710768130,
+    "id_str": "1206539273710768130",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 11:02:50 +0000 2019",
+        "display_text_range": [
+            21,
+            96
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "パパぱふぅ@pahoo.org",
+                    "indices": [
+                        0,
+                        11
+                    ],
+                    "screen_name": "papa_pahoo",
+                    "id": 54166299,
+                    "id_str": "54166299"
+                },
+                {
+                    "name": "seki_yo",
+                    "indices": [
+                        12,
+                        20
+                    ],
+                    "screen_name": "seki_yo",
+                    "id": 356195126,
+                    "id_str": "356195126"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@papa_pahoo @seki_yo ぼけぼけさんがグレタお嬢の英語スピーチの間違い「責任者は壁に立て(銃殺しろ)」にツッコミ入れて垢凍結されて、新垢作ったら削除されてる。\nそんなのあり？",
+        "has_extended_profile": false,
+        "id": 1206530115770806272,
+        "id_str": "1206530115770806272",
+        "in_reply_to_screen_name": "papa_pahoo",
+        "in_reply_to_status_id": 1206497848780451841,
+        "in_reply_to_status_id_str": "1206497848780451841",
+        "in_reply_to_user_id": 54166299,
+        "in_reply_to_user_id_str": "54166299",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "ぼけぼけさんがグレタお嬢の英語スピーチの間違い「責",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Aug 09 23:27:13 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "ひふみんファンで双極性障害Ⅱ型で杖で歩いて障害年金受給して20年以上前にHPV感染で子宮頸部細胞異形成でガンセンターに通院したマナー厳守の喫煙者な元准看護師の捻くれ者のババァです",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 59552,
+            "follow_request_sent": false,
+            "followers_count": 196,
+            "following": false,
+            "friends_count": 63,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1027697840510791680,
+            "id_str": "1027697840510791680",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 6,
+            "location": "有明海",
+            "name": "ガテン",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1027697840510791680/1573139708",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1053865870244474880/bFlp-PBD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053865870244474880/bFlp-PBD_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "RrK9xKwM96pOWu6",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 11325,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @RrK9xKwM96pOWu6: @papa_pahoo @seki_yo ぼけぼけさんがグレタお嬢の英語スピーチの間違い「責",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 22 13:26:34 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "🍺＜☕️ ＆ 🚄",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 110164,
+        "follow_request_sent": false,
+        "followers_count": 1547,
+        "following": false,
+        "friends_count": 794,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 76331792,
+        "id_str": "76331792",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 37,
+        "location": "娘と息子のいるところ",
+        "name": "HЇЧѲ❀",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76331792/1553777034",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1202867325780627456/tdr9VcHc_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202867325780627456/tdr9VcHc_normal.png",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hiyo_unnatural",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 349389,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

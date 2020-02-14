@@ -1,0 +1,357 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:38:53 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "松浦 景",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "kurakacacique",
+                "id": 1103582963743092737,
+                "id_str": "1103582963743092737"
+            },
+            {
+                "name": "福永太郎（Fukunaga-Taro)",
+                "indices": [
+                    19,
+                    28
+                ],
+                "screen_name": "t_taro55",
+                "id": 568899634,
+                "id_str": "568899634"
+            },
+            {
+                "name": "吉見和彦　自捨新生",
+                "indices": [
+                    29,
+                    39
+                ],
+                "screen_name": "yoss_2525",
+                "id": 192468241,
+                "id_str": "192468241"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @kurakacacique: @t_taro55 @yoss_2525 印象操作はやめましょう。\n\nあれは、ガーディアンやCNNだったかな。慰労経路のうち一部区間がファーストクラス。それ以外の区間はとても混んでいたそうです。\n別にグレタさんが大嘘を言っているのではないで…",
+    "has_extended_profile": false,
+    "id": 1206765681355526145,
+    "id_str": "1206765681355526145",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 00:48:31 +0000 2019",
+        "display_text_range": [
+            21,
+            123
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "福永太郎（Fukunaga-Taro)",
+                    "indices": [
+                        0,
+                        9
+                    ],
+                    "screen_name": "t_taro55",
+                    "id": 568899634,
+                    "id_str": "568899634"
+                },
+                {
+                    "name": "吉見和彦　自捨新生",
+                    "indices": [
+                        10,
+                        20
+                    ],
+                    "screen_name": "yoss_2525",
+                    "id": 192468241,
+                    "id_str": "192468241"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@t_taro55 @yoss_2525 印象操作はやめましょう。\n\nあれは、ガーディアンやCNNだったかな。慰労経路のうち一部区間がファーストクラス。それ以外の区間はとても混んでいたそうです。\n別にグレタさんが大嘘を言っているのではないですよ。",
+        "has_extended_profile": false,
+        "id": 1206737905785262080,
+        "id_str": "1206737905785262080",
+        "in_reply_to_screen_name": "t_taro55",
+        "in_reply_to_status_id": 1206526547483488257,
+        "in_reply_to_status_id_str": "1206526547483488257",
+        "in_reply_to_user_id": 568899634,
+        "in_reply_to_user_id_str": "568899634",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "印象操作はやめましょう。\n\nあれは、ガーディアンやCNNだったかな。慰労経\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Mar 07 09:07:36 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "別名、放浪プロレタリア。移動し、定住者の共同体から自由な存在。神聖でもあり、一方的に奴隷的なばかりではない。 戦国時代、君主と短期雇用契約を結び、諸国を移動した時代の武士・技術を持って渡り歩く職人とも共通点。脱学校、脱病院、脱車、ヴァナキュラー、脱進歩、脱単一の世界、社稷。大陸から玄界灘を守りたい。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 18855,
+            "follow_request_sent": false,
+            "followers_count": 204,
+            "following": false,
+            "friends_count": 1949,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1103582963743092737,
+            "id_str": "1103582963743092737",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 3,
+            "location": "列島・大渡海(だいとかい)",
+            "name": "松浦 景",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1103582963743092737/1576159574",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1113844395000782848/GdcqqbDi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113844395000782848/GdcqqbDi_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "kurakacacique",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 25606,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @kurakacacique: @t_taro55 @yoss_2525 印象操作はやめましょう。\n\nあれは、ガーディアンやCNNだったかな。慰労\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 19 15:16:12 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "パチンコ/パチスロ/競艇/地方競馬/旅うまチャレンジ/現地観戦派/EOS9000Dで一眼デビュー",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 41070,
+        "follow_request_sent": false,
+        "followers_count": 537,
+        "following": false,
+        "friends_count": 728,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2990060594,
+        "id_str": "2990060594",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 5,
+        "location": "",
+        "name": "バンコロの渕🐬",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2990060594/1575286368",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1181116534623571969/qnuZ-lGR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181116534623571969/qnuZ-lGR_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hirobuchikeiba",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 42687,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

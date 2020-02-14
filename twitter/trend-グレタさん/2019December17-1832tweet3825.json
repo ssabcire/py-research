@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:03:22 +0000 2019",
+    "display_text_range": [
+        0,
+        120
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [
+            {
+                "indices": [
+                    15,
+                    28
+                ],
+                "text": "拡散希望RTお願いします"
+            },
+            {
+                "indices": [
+                    30,
+                    41
+                ],
+                "text": "グレタ・トゥーンベリ"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "諸悪卵",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "87Junkers",
+                "id": 859042214881525760,
+                "id_str": "859042214881525760"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @87Junkers: #拡散希望RTお願いします \n#グレタ・トゥーンベリ \n私に従わない全ての首相を壁に立たせる（＝銃殺刑)とか電車が混んでたからどうのこうの言ってるグレタさんですが、日本の皆さんは結局彼女についてどう思いますか？",
+    "has_extended_profile": false,
+    "id": 1206802042309578752,
+    "id_str": "1206802042309578752",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 04:53:57 +0000 2019",
+        "display_text_range": [
+            0,
+            105
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [
+                {
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "text": "拡散希望RTお願いします"
+                },
+                {
+                    "indices": [
+                        15,
+                        26
+                    ],
+                    "text": "グレタ・トゥーンベリ"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "#拡散希望RTお願いします \n#グレタ・トゥーンベリ \n私に従わない全ての首相を壁に立たせる（＝銃殺刑)とか電車が混んでたからどうのこうの言ってるグレタさんですが、日本の皆さんは結局彼女についてどう思いますか？",
+        "has_extended_profile": false,
+        "id": 1206799669503782912,
+        "id_str": "1206799669503782912",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "#拡散希望RTお願いします \n#グレタ・トゥーンベリ \n私に従わない全ての首相を\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon May 01 13:49:59 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "自称進学校の74thのミリオタです。 趣味は、ラノベを読むことと、ミリタリー系プラモデルを作ること。ボランティアに所属してる偽善者。 最近はwotbにはまってます。アズレン/艦これどっちもやってます。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 20669,
+            "follow_request_sent": false,
+            "followers_count": 577,
+            "following": false,
+            "friends_count": 1432,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 859042214881525760,
+            "id_str": "859042214881525760",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 2,
+            "location": "偉大なる祖国 ソビエト連邦",
+            "name": "諸悪卵",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/859042214881525760/1540274220",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1009663806203572224/gRgCvNi9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1009663806203572224/gRgCvNi9_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "87Junkers",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 8022,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @87Junkers: #拡散希望RTお願いします \n#グレタ・トゥーンベリ \n私に従わない全ての首相を\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 15 12:53:10 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "高校3年. #U2 #MTB #MGS #柴犬 #スヌーピー #511tactical #Wotblitz",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 35574,
+        "follow_request_sent": false,
+        "followers_count": 434,
+        "following": false,
+        "friends_count": 677,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 875335373156569088,
+        "id_str": "875335373156569088",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "山梨",
+        "name": "Takumi",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/875335373156569088/1574084109",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1141644174678118400/BHOfFlwX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141644174678118400/BHOfFlwX_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "takumi3XK",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 19596,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

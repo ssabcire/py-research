@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:26:32 +0000 2019",
+    "display_text_range": [
+        0,
+        70
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    47,
+                    70
+                ],
+                "url": "https://t.co/PleVnlr5np",
+                "display_url": "blog.livedoor.jp/earthground/ar…",
+                "expanded_url": "http://blog.livedoor.jp/earthground/archives/31068814.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "２ちゃんまとめ発信基地 : ニュース - 環境少女グレタさんにぜひ食べさせたいものｗｗｗｗｗ\nhttps://t.co/PleVnlr5np",
+    "has_extended_profile": false,
+    "id": 1206822969273487360,
+    "id_str": "1206822969273487360",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://blog.livedoor.com/\" rel=\"nofollow\"\u003elivedoor Blog\u003c/a\u003e",
+    "scopes": null,
+    "text": "２ちゃんまとめ発信基地 : ニュース - 環境少女グレ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 17 12:42:23 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "２ちゃんまとめあんてなです。相互RSSご希望の方はお手数ですがメッセ下さい。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/6aya0JGTbu",
+                        "display_url": "blog.livedoor.jp/earthground/",
+                        "expanded_url": "http://blog.livedoor.jp/earthground/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 172,
+        "following": false,
+        "friends_count": 837,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 710446177771065344,
+        "id_str": "710446177771065344",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 2,
+        "location": "",
+        "name": "２ちゃんまとめ発信基地",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "earthgroundsech",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 57903,
+        "time_zone": "",
+        "url": "https://t.co/6aya0JGTbu",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 15:42:50 +0000 2019",
+    "display_text_range": [
+        0,
+        46
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    23,
+                    46
+                ],
+                "url": "https://t.co/qsLTah0eCl",
+                "display_url": "news.tv-asahi.co.jp/news_society/a…",
+                "expanded_url": "https://news.tv-asahi.co.jp/news_society/articles/000171771.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "尾畠春夫さん新たな挑戦　腕に「グレタ」なぜ？ https://t.co/qsLTah0eCl",
+    "has_extended_profile": false,
+    "id": 1206600579113308165,
+    "id_str": "1206600579113308165",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "尾畠春夫さん新たな挑戦　腕に「\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 12 05:33:11 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "🚃鉄道、✈航空機、🚌路線バス（高速バス以外）、🚢フェリーなどの公共交通ファン。●主に乗り鉄をしながら、飲み鉄、駅弁、駅そばを楽しむのが好きです。\n●たまに鉄道の撮影もするけど、撮り鉄というほどではなく、撮影のために出掛けることはありません。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 43966,
+        "follow_request_sent": false,
+        "followers_count": 468,
+        "following": false,
+        "friends_count": 982,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 250978579,
+        "id_str": "250978579",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 6,
+        "location": "東京を中心に日本国内",
+        "name": "青い流れ星ブルートレイン",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/250978579/1494346098",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1175969114818412544/76eMZgnS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1175969114818412544/76eMZgnS_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "railway_musashi",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 100503,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

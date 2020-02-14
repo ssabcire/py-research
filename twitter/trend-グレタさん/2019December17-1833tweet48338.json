@@ -1,0 +1,442 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 09:45:58 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    102,
+                    125
+                ],
+                "url": "https://t.co/4L7zQOoARY",
+                "display_url": "moeruasia.net/archives/49657…",
+                "expanded_url": "https://www.moeruasia.net/archives/49657134.html"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    18,
+                    22
+                ],
+                "text": "活動家"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "いとうちゃん【公式】",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "keitaboo2000",
+                "id": 237616727,
+                "id_str": "237616727"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @keitaboo2000: #活動家 だもの\n\n【こえぇｗ】グレタさん、自分に従わない指導者は「against the wall」(壁際に立たせる=銃殺刑)　大炎上、謝罪｜もえるあじあ(･∀･) https://t.co/4L7zQOoARY https://t.co/…",
+    "has_extended_profile": false,
+    "id": 1206510772878077952,
+    "id_str": "1206510772878077952",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 350,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 02:38:15 +0000 2019",
+        "display_text_range": [
+            0,
+            107
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        84,
+                        107
+                    ],
+                    "url": "https://t.co/4L7zQOoARY",
+                    "display_url": "moeruasia.net/archives/49657…",
+                    "expanded_url": "https://www.moeruasia.net/archives/49657134.html"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        0,
+                        4
+                    ],
+                    "text": "活動家"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206403130721632256,
+                    "id_str": "1206403130721632256",
+                    "media_url": "http://pbs.twimg.com/media/EL4BQW6VAAAU_9J.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL4BQW6VAAAU_9J.jpg",
+                    "url": "https://t.co/4bJZLYpx6L",
+                    "display_url": "pic.twitter.com/4bJZLYpx6L",
+                    "expanded_url": "https://twitter.com/keitaboo2000/status/1206403134358077440/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 150,
+                            "h": 107,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 107,
+                            "h": 107,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 150,
+                            "h": 107,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 150,
+                            "h": 107,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        108,
+                        131
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206403130721632256,
+                    "id_str": "1206403130721632256",
+                    "media_url": "http://pbs.twimg.com/media/EL4BQW6VAAAU_9J.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL4BQW6VAAAU_9J.jpg",
+                    "url": "https://t.co/4bJZLYpx6L",
+                    "display_url": "pic.twitter.com/4bJZLYpx6L",
+                    "expanded_url": "https://twitter.com/keitaboo2000/status/1206403134358077440/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 150,
+                            "h": 107,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 107,
+                            "h": 107,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 150,
+                            "h": 107,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 150,
+                            "h": 107,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        108,
+                        131
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 906,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "#活動家 だもの\n\n【こえぇｗ】グレタさん、自分に従わない指導者は「against the wall」(壁際に立たせる=銃殺刑)　大炎上、謝罪｜もえるあじあ(･∀･) https://t.co/4L7zQOoARY https://t.co/4bJZLYpx6L",
+        "has_extended_profile": false,
+        "id": 1206403134358077440,
+        "id_str": "1206403134358077440",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 350,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "#活動家 だもの\n\n【こえぇｗ】グレタさん、自分に従わない指導者は「against the w",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jan 13 06:52:17 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "長野市在住です。 \n営業職なので県内外飛び回っております。\n無言フォローお許しください。RT多め。 \n温厚ですが国辱･用日は断じて赦しません。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 102040,
+            "follow_request_sent": false,
+            "followers_count": 10579,
+            "following": false,
+            "friends_count": 10790,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 237616727,
+            "id_str": "237616727",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 18,
+            "location": "長野県長野市",
+            "name": "いとうちゃん【公式】",
+            "notifications": false,
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/237616727/1576359820",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1202884220298776576/tr6n1DQv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202884220298776576/tr6n1DQv_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "keitaboo2000",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 41789,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @keitaboo2000: #活動家 だもの\n\n【こえぇｗ】グレタさん、自分に従わない指導者は「against the wall」(壁際\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 27 13:58:49 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "日本の自然を愛し、日本の良き伝統を後世に伝えることを心がけて、日々暮らしています。\n#旧宮家復活 #万世一系\n#安部総理支持#麻生大臣支持#杉田水脈議員支持#自民党応援\n#拉致被害者全員奪還\n#メガソーラー反対\n#竹島は日本の領土\n#尖閣諸島は日本の領土\n#祝日には国旗を掲揚しよう\n#若者よ選挙に行こう",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 104674,
+        "follow_request_sent": false,
+        "followers_count": 2439,
+        "following": false,
+        "friends_count": 2048,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1089523120791117824,
+        "id_str": "1089523120791117824",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 6,
+        "location": "",
+        "name": "日々是好日🎌ネトウヨで何が悪い",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1089523120791117824/1548604271",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1089524327148441600/7HG0zjFT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1089524327148441600/7HG0zjFT_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "vIVaLg9hYFeWik5",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 65994,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

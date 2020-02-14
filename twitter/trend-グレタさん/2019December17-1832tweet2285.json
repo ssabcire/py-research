@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:09:00 +0000 2019",
+    "display_text_range": [
+        0,
+        122
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Willy 🌖米国大学教員",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "willyoes",
+                "id": 64667711,
+                "id_str": "64667711"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @willyoes: グレタさんは名前は売れたが、我田引水な感じの論理展開が多くてネタみたいになってるので今後ノーベル賞取れることもないだろうし、社会的影響力もピーク過ぎただろうね。あれだけ名前が売れれば一生生活に困る事はないだろうけど。",
+    "has_extended_profile": false,
+    "id": 1206818556555354112,
+    "id_str": "1206818556555354112",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 5,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 05:37:45 +0000 2019",
+        "display_text_range": [
+            0,
+            108
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 14,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんは名前は売れたが、我田引水な感じの論理展開が多くてネタみたいになってるので今後ノーベル賞取れることもないだろうし、社会的影響力もピーク過ぎただろうね。あれだけ名前が売れれば一生生活に困る事はないだろうけど。",
+        "has_extended_profile": false,
+        "id": 1206810691769905153,
+        "id_str": "1206810691769905153",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 5,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんは名前は売れたが、我田引水な感じの論理展開が多くてネタみたいに",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Aug 11 09:01:12 +0000 2009",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "アメリカの某州立大数学科准教授。統計屋。国内某大学数学科修士→某金融機関→米大PhD→現職。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/2l0OJERDSw",
+                            "display_url": "wofwof.blog60.fc2.com",
+                            "expanded_url": "http://wofwof.blog60.fc2.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 28063,
+            "follow_request_sent": false,
+            "followers_count": 21527,
+            "following": false,
+            "friends_count": 1449,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 64667711,
+            "id_str": "64667711",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 529,
+            "location": "Detroit, MI, USA",
+            "name": "Willy 🌖米国大学教員",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/769754510499651585/ClgrdpN0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/769754510499651585/ClgrdpN0_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "willyoes",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 24093,
+            "time_zone": "",
+            "url": "http://t.co/2l0OJERDSw",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @willyoes: グレタさんは名前は売れたが、我田引水な感じの論理展開が多くてネタみたいに",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 28 13:36:01 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "音楽と、ホンダと、バーガーキングが好きです。パソコンは、MacとWindows両方大丈夫です。ドラムやってます。ブログの方が、いい事書いてます。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Oxq8G0OdhA",
+                        "display_url": "kannon.blog.ss-blog.jp",
+                        "expanded_url": "https://kannon.blog.ss-blog.jp/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2783,
+        "follow_request_sent": false,
+        "followers_count": 246,
+        "following": false,
+        "friends_count": 349,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 109261488,
+        "id_str": "109261488",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 8,
+        "location": "",
+        "name": "歩海",
+        "notifications": false,
+        "profile_background_color": "CC3366",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/109261488/1443349905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1085525138685054976/Ba5bt3A6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085525138685054976/Ba5bt3A6_normal.jpg",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ayumi0avatar",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 37144,
+        "time_zone": "",
+        "url": "https://t.co/Oxq8G0OdhA",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

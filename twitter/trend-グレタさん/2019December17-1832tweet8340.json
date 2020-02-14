@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:10:27 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "和泉守兼定",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "netsensor1",
+                "id": 403210652,
+                "id_str": "403210652"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @netsensor1: 疲労困憊で超満員の鉄道の床に座り込んだ写真を投稿していたグレタさんだが、ドイツ鉄道にファーストクラスの席で移動していたことを暴露される。若いのにあざといやり口。周りの大人の入れ知恵か。\n\nグレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッター…",
+    "has_extended_profile": false,
+    "id": 1206773625270890497,
+    "id_str": "1206773625270890497",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": true,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 38,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 01:46:01 +0000 2019",
+        "display_text_range": [
+            0,
+            153
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        130,
+                        153
+                    ],
+                    "url": "https://t.co/ltUlBKIvpQ",
+                    "display_url": "afpbb.com/articles/-/325…",
+                    "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 87,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "疲労困憊で超満員の鉄道の床に座り込んだ写真を投稿していたグレタさんだが、ドイツ鉄道にファーストクラスの席で移動していたことを暴露される。若いのにあざといやり口。周りの大人の入れ知恵か。\n\nグレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い https://t.co/ltUlBKIvpQ",
+        "has_extended_profile": false,
+        "id": 1206752374905139200,
+        "id_str": "1206752374905139200",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": true,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 38,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "疲労困憊で超満員の鉄道の床に座り込んだ写真を投稿していたグレタさんだが、ドイツ鉄道にファーストクラスの",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Nov 02 05:25:23 +0000 2011",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "2児の父。映画、海外ドラマ、株式投資、政治、経済、野球(阪神タイガース)、格闘技(打撃系\u0026総合)、歴史(日本史)、アニメ、読書、艦船模型製作に興味。たまにネトウヨとか言われますがネット普及以前より右寄り #放送制度改革 #日韓通貨スワップ断固反対 #憲法改正",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/7jnRKtB11s",
+                            "display_url": "netsensor1.livedoor.blog/?ref=head_btn_…",
+                            "expanded_url": "http://netsensor1.livedoor.blog/?ref=head_btn_home\u0026id=8059120"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 20894,
+            "follow_request_sent": false,
+            "followers_count": 26562,
+            "following": false,
+            "friends_count": 3426,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 403210652,
+            "id_str": "403210652",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 235,
+            "location": "日本 大阪府箕面市",
+            "name": "和泉守兼定",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/403210652/1456195006",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/694054672231854080/1hazbcLl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/694054672231854080/1hazbcLl_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "netsensor1",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 23063,
+            "time_zone": "",
+            "url": "https://t.co/7jnRKtB11s",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @netsensor1: 疲労困憊で超満員の鉄道の床に座り込んだ写真を投稿していたグレタさんだが、ドイツ鉄道\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 20 14:34:17 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 15359,
+        "follow_request_sent": false,
+        "followers_count": 301,
+        "following": false,
+        "friends_count": 618,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 822452191176708097,
+        "id_str": "822452191176708097",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "",
+        "name": "ひろみ",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/822452191176708097/1495407322",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1201677553385136128/nxIsFGuB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201677553385136128/nxIsFGuB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "aWBVpuvbcY4TKpH",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 14778,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

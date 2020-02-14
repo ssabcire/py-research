@@ -1,0 +1,508 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:52:34 +0000 2019",
+    "display_text_range": [
+        0,
+        99
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    76,
+                    99
+                ],
+                "url": "https://t.co/q4IfM7aACr",
+                "display_url": "twitter.com/gretathunberg/…",
+                "expanded_url": "https://twitter.com/gretathunberg/status/1206203503363985408"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "立岩陽一郎",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "YoiTateiwa",
+                "id": 704764038,
+                "id_str": "704764038"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @YoiTateiwa: グレタさん、「電車が満席なことは良い事」と、ドイツ鉄道を揶揄する意図の無かった事を釈明。途中から椅子に座れたとも説明。 https://t.co/q4IfM7aACr",
+    "has_extended_profile": false,
+    "id": 1206769125046931456,
+    "id_str": "1206769125046931456",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206203503363985408,
+    "quoted_status_id_str": "1206203503363985408",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 22:10:35 +0000 2019",
+        "display_text_range": [
+            0,
+            59
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        60,
+                        83
+                    ],
+                    "url": "https://t.co/q4IfM7aACr",
+                    "display_url": "twitter.com/gretathunberg/…",
+                    "expanded_url": "https://twitter.com/gretathunberg/status/1206203503363985408"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 14,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん、「電車が満席なことは良い事」と、ドイツ鉄道を揶揄する意図の無かった事を釈明。途中から椅子に座れたとも説明。 https://t.co/q4IfM7aACr",
+        "has_extended_profile": false,
+        "id": 1206698158786371584,
+        "id_str": "1206698158786371584",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206203503363985408,
+        "quoted_status_id_str": "1206203503363985408",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Dec 15 13:25:00 +0000 2019",
+            "display_text_range": [
+                0,
+                264
+            ],
+            "entities": {
+                "urls": [],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 60629,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "Our train from Basel was taken out of traffic. So we sat on the floor on 2 different trains. After Göttingen I got a seat.This is no problem of course and I never said it was. Overcrowded trains is a great sign because it means the demand for train travel is high!",
+            "has_extended_profile": false,
+            "id": 1206203503363985408,
+            "id_str": "1206203503363985408",
+            "in_reply_to_screen_name": "GretaThunberg",
+            "in_reply_to_status_id": 1205969006982815751,
+            "in_reply_to_status_id_str": "1205969006982815751",
+            "in_reply_to_user_id": 1006419421244678144,
+            "in_reply_to_user_id_str": "1006419421244678144",
+            "is_translation_enabled": false,
+            "lang": "en",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 4040,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+            "scopes": null,
+            "text": "Our train from Basel was taken out of traffic. So we sat on the floor on 2 different trains. After Göttingen I got a seat.This is no problem of course and I never said it was. Overcrowded trains is a great sign because it means the demand for train travel is high",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Jun 12 06:14:23 +0000 2018",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "A teenager working on her anger management problem. Currently chilling and watching a good old fashioned movie with a friend.",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/T59gBserXD",
+                                "display_url": "youtu.be/H2QxFM9y0tY",
+                                "expanded_url": "https://youtu.be/H2QxFM9y0tY"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 16091,
+                "follow_request_sent": false,
+                "followers_count": 3671964,
+                "following": false,
+                "friends_count": 1793,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 1006419421244678144,
+                "id_str": "1006419421244678144",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 7266,
+                "location": "Sverige",
+                "name": "Greta Thunberg",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1006419421244678144/1559499911",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1205151355230457856/h78KQbyF_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205151355230457856/h78KQbyF_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "GretaThunberg",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 6206,
+                "time_zone": "",
+                "url": "https://t.co/T59gBserXD",
+                "utc_offset": 0,
+                "verified": true,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 6,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん、「電車が満席なことは良い事\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jul 19 09:57:25 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "ジャーナリスト、NPOニュースのタネ編集長。NHKでテヘラン特派員、イラク駐在、社会部記者、国際放送局デスクを経て退職。現在、日刊ゲンダイ、GOETHEにコラムを連載中。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/JQ0pwDv9BU",
+                            "display_url": "seedsfornews.com",
+                            "expanded_url": "https://seedsfornews.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 963,
+            "follow_request_sent": false,
+            "followers_count": 1863,
+            "following": false,
+            "friends_count": 96,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 704764038,
+            "id_str": "704764038",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 39,
+            "location": "大阪、日本",
+            "name": "立岩陽一郎",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/704764038/1532296251",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021150081557278720/I7Mjrv56_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021150081557278720/I7Mjrv56_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "YoiTateiwa",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 1068,
+            "time_zone": "",
+            "url": "https://t.co/JQ0pwDv9BU",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @YoiTateiwa: グレタさん、「電車が満席なことは良い事」と、ドイツ鉄道\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 21 04:20:36 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "写真とギターが趣味。殆どリツイート、たまにしか呟きません。\n金融その他商売がらみ、○○の紹介、○○のファン、の方フォローお断り。ブロックします。\n通知見ないので、フォロバしてません。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 34015,
+        "follow_request_sent": false,
+        "followers_count": 598,
+        "following": false,
+        "friends_count": 160,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1888854464,
+        "id_str": "1888854464",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 5,
+        "location": "日本",
+        "name": "蕪木　愛",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888854464/1521611233",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1075645589956644865/-fo--CuL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1075645589956644865/-fo--CuL_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ItsukuK",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 179522,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

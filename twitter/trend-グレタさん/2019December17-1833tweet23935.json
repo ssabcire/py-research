@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 18:21:50 +0000 2019",
+    "display_text_range": [
+        0,
+        81
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんの乗車スタイルが話題になっている様ですが、私の感想は『昭和の学生一人旅』でした。新幹線や特急電車で自由席にあぶれた人がよくやりましたね。もはや懐かしい。",
+    "has_extended_profile": false,
+    "id": 1206640593662726144,
+    "id_str": "1206640593662726144",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんの乗車スタイルが話題になっている様ですが、私",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 31 18:32:26 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "カクヨムで異世界釣りファンタジー「つりみこ」を掲載中。　https://t.co/1BnQRFwcOR　異世界転生現代ファンタジー「勇者ハイティーン」はこちら。　https://t.co/9GlrNuOLyZ",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/PnYRWEewih",
+                        "display_url": "pixiv.net/member.php?id=…",
+                        "expanded_url": "http://pixiv.net/member.php?id=8227040"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 555,
+        "follow_request_sent": false,
+        "followers_count": 257,
+        "following": false,
+        "friends_count": 551,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1636139371,
+        "id_str": "1636139371",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 7,
+        "location": "グリーンヘル（別荘・ルインズ）",
+        "name": "島風あさみ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1636139371/1398524212",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1088461053455790080/wgOmXvIW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088461053455790080/wgOmXvIW_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "asami0928_m",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 37698,
+        "time_zone": "",
+        "url": "https://t.co/PnYRWEewih",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

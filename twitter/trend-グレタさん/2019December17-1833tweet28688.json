@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 15:00:59 +0000 2019",
+    "display_text_range": [
+        0,
+        63
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "小沢治三郎",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "DGOuD5u0nn5RHIN",
+                "id": 1179690037568360450,
+                "id_str": "1179690037568360450"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @DGOuD5u0nn5RHIN: グレタさんいつか「人間が減れば二酸化炭素排出量が減る!｣とか言って人々を虐殺しそう。",
+    "has_extended_profile": false,
+    "id": 1206590048591724545,
+    "id_str": "1206590048591724545",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 24,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 14:55:24 +0000 2019",
+        "display_text_range": [
+            0,
+            42
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 180,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんいつか「人間が減れば二酸化炭素排出量が減る!｣とか言って人々を虐殺しそう。",
+        "has_extended_profile": false,
+        "id": 1206588644753960960,
+        "id_str": "1206588644753960960",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 24,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんいつか「人間が減れ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Oct 03 09:30:46 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "1/700艦船模型や1/72の航空機を作ってます。\n無言フォロー失礼します",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 11776,
+            "follow_request_sent": false,
+            "followers_count": 1510,
+            "following": false,
+            "friends_count": 1839,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 1179690037568360450,
+            "id_str": "1179690037568360450",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 3,
+            "location": "大日本帝國",
+            "name": "小沢治三郎",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1179690037568360450/1576200903",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1201734934412414979/lK9GUPFZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201734934412414979/lK9GUPFZ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "DGOuD5u0nn5RHIN",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 117,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @DGOuD5u0nn5RHIN: グレタさんいつか「人間が減れ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 11 10:17:32 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "徴兵された中の人Aの叔父です。中の人Aのリプ欄に出没します。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/TLnQSIsmof",
+                        "display_url": "youtube.com/channel/UCUFpO…",
+                        "expanded_url": "https://www.youtube.com/channel/UCUFpO6w6qnO4GYlbmmuKcMg"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 177,
+        "follow_request_sent": false,
+        "followers_count": 145,
+        "following": false,
+        "friends_count": 211,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1193835110996430849,
+        "id_str": "1193835110996430849",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "横浜",
+        "name": "中の人Aの叔父",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1193835110996430849/1575116881",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1199006699186601984/TDWigdmS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199006699186601984/TDWigdmS_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SFO8pLCslrPJesY",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 52,
+        "time_zone": "",
+        "url": "https://t.co/TLnQSIsmof",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

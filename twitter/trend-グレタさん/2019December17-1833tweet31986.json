@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:02:30 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "望月衣塑子",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "ISOKO_MOCHIZUKI",
+                "id": 119363202,
+                "id_str": "119363202"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @ISOKO_MOCHIZUKI: このニュース見るだけでも温暖化が世界にとって待ったなしの危機的な状況だという事実を世界の「指導者」とされるトップ達が全く理解出来てない事がよく分かる。実に情けない。\n\nグレタさんが皮肉で対抗 トランプ氏の「馬鹿げてる。怒りコントロールす…",
+    "has_extended_profile": false,
+    "id": 1206575329889796096,
+    "id_str": "1206575329889796096",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1368,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 09:01:27 +0000 2019",
+        "display_text_range": [
+            0,
+            153
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        130,
+                        153
+                    ],
+                    "url": "https://t.co/97mcoqegIR",
+                    "display_url": "www3.nhk.or.jp/news/html/2019…",
+                    "expanded_url": "https://www3.nhk.or.jp/news/html/20191213/k10012213391000.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 3779,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "このニュース見るだけでも温暖化が世界にとって待ったなしの危機的な状況だという事実を世界の「指導者」とされるトップ達が全く理解出来てない事がよく分かる。実に情けない。\n\nグレタさんが皮肉で対抗 トランプ氏の「馬鹿げてる。怒りコントロールする問題に取り組むべき」にhttps://t.co/97mcoqegIR",
+        "has_extended_profile": false,
+        "id": 1206137182609559555,
+        "id_str": "1206137182609559555",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1368,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "このニュース見るだけでも温暖化が世界にとって待ったなしの危機的な状況だという事実を世界の「指導者」とさ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Mar 03 12:21:27 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "新聞記者。千葉、埼玉など各県警、東京地検特捜部、社会部遊軍でもりかけ疑惑、セクハラ問題、武器輸出、軍学共同等を取材。著書に「武器輸出と日本企業」「新聞記者」「独裁者」「『安倍晋三』大研究」「新聞と権力の大問題」「同調圧力」ツィートはあくまでも個人の見解です",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 27322,
+            "follow_request_sent": false,
+            "followers_count": 146869,
+            "following": false,
+            "friends_count": 914,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 119363202,
+            "id_str": "119363202",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 2134,
+            "location": "",
+            "name": "望月衣塑子",
+            "notifications": false,
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/119363202/1572225476",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/794903864503742464/23bAJ_R1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/794903864503742464/23bAJ_R1_normal.jpg",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "5ED4DC",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "ISOKO_MOCHIZUKI",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 24292,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @ISOKO_MOCHIZUKI: このニュース見るだけでも温暖化が世界にとって待ったなしの危機的な状況だという事\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 06 15:14:48 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "有限会社オールフォアワン代表取締役/介護福祉士/ケアマネージャー/\n千葉県の宅老所いしいさん家代表。\n訪問看護、託児所、日中一時支援や居宅、駄菓子屋など運営し共生型を目指して生活。常に創造、想像してwinwinを考えてる。4児のパパ/ラグビー好き🏈Rugby Schoolで息子の成長を感じること、沖縄離島、犬が好き。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Xp3pCA2Ehs",
+                        "display_url": "ishiisanchi.com/visit#",
+                        "expanded_url": "https://www.ishiisanchi.com/visit#"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1313,
+        "follow_request_sent": false,
+        "followers_count": 920,
+        "following": false,
+        "friends_count": 185,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 261719860,
+        "id_str": "261719860",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 12,
+        "location": "千葉県 習志野市",
+        "name": "石井英寿@宅老所いしいさん家",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/261719860/1553659157",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1110753097855303682/YJSVFclk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110753097855303682/YJSVFclk_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "manahanasou",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 853,
+        "time_zone": "",
+        "url": "https://t.co/Xp3pCA2Ehs",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

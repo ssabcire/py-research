@@ -1,0 +1,335 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:42:49 +0000 2019",
+    "display_text_range": [
+        0,
+        145
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    146,
+                    169
+                ],
+                "url": "https://t.co/oAtD1acdZh",
+                "display_url": "twitter.com/q82slldnkudpwm…",
+                "expanded_url": "https://twitter.com/q82slldnkudpwmf/status/1206525775618293760"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんのことを薄っぺらい理由で叩いてる人が沢山いるね。\n\nって予測変換にあって不思議だなぁって思ってたけど、わたしネット偏差値56.3だから、世の中のほとんどの人はわたしよ以下略なわけで世の中の人がわたしよりもTMJを知らな以下略…と言う感じでTMJ知ってる人、コメント下さい！？(血眼 https://t.co/oAtD1acdZh",
+    "has_extended_profile": false,
+    "id": 1206555278092558336,
+    "id_str": "1206555278092558336",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206525775618293760,
+    "quoted_status_id_str": "1206525775618293760",
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 10:45:35 +0000 2019",
+        "display_text_range": [
+            0,
+            130
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        131,
+                        154
+                    ],
+                    "url": "https://t.co/gfQP4zfPQC",
+                    "display_url": "twitter.com/_____xd__/stat…",
+                    "expanded_url": "https://twitter.com/_____xd__/status/1206179431858892801"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんのことを薄っぺらい理由で叩いてる人が沢山いるね。\n\n不思議だなぁって思ってたけど、わたし淫夢偏差値114514だから、世の中のほとんどの人はわたしより邪淫ができないわけで、世の中のほとんどの人がわたしよりも淫夢が浅はかなのは当然か〜〜〜〜という感じ。 https://t.co/gfQP4zfPQC",
+        "has_extended_profile": false,
+        "id": 1206525775618293760,
+        "id_str": "1206525775618293760",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206179431858892801,
+        "quoted_status_id_str": "1206179431858892801",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんのことを薄っぺらい理由で叩いてる人が沢山いるね。\n\n不思議だなぁって思ってたけ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jan 07 02:05:27 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "主にRT、いいねをバンバンするゾ。いろんなことを投稿します。趣味は自転車、ミリタリー。あと弓道やってます。フォロバ率810% (ビジネス垢、鍵垢は除く)無言フォローすいません。CAAD13 ホスィ…",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 2333,
+            "follow_request_sent": false,
+            "followers_count": 312,
+            "following": false,
+            "friends_count": 565,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1082095841265905665,
+            "id_str": "1082095841265905665",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 0,
+            "location": "淫夢国",
+            "name": "自衛官先輩",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082095841265905665/1571552204",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1132063215200817152/Tx40z4Hd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1132063215200817152/Tx40z4Hd_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "q82sLldnKuDpwmF",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 1266,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんのことを薄っぺらい理由で叩いてる人が沢山いるね。\n\nって予測変換にあって不思議だなぁって\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 15 10:36:29 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ゴッドハンドになりたい柔整師。元ぽんでメイド。食い道楽で無責任な人生を謳歌。何か質問あれば→https://t.co/PrQ4yHkPQc 下記リンクは欲しい物リスト",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/zI8q9yNoCo",
+                        "display_url": "amazon.jp/hz/wishlist/ls…",
+                        "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1JP66GGB7GXFR?ref_=wl_share"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 3829,
+        "follow_request_sent": false,
+        "followers_count": 461,
+        "following": false,
+        "friends_count": 628,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 133237943,
+        "id_str": "133237943",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 13,
+        "location": "",
+        "name": "じぇん類みなメン類",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/133237943/1558910082",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1181800765968404481/XfZyrjYc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181800765968404481/XfZyrjYc_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hazukizm",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 38287,
+        "time_zone": "",
+        "url": "https://t.co/zI8q9yNoCo",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

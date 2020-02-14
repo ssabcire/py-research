@@ -1,0 +1,181 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:51:25 +0000 2019",
+    "display_text_range": [
+        0,
+        85
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    52,
+                    75
+                ],
+                "url": "https://t.co/yrzRPN4oFC",
+                "display_url": "jocr.jp/raditopi/2019/…",
+                "expanded_url": "https://jocr.jp/raditopi/2019/12/16/7752/"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    76,
+                    85
+                ],
+                "text": "スマートニュース"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "桂春蝶、グレタ・トゥンベリさんの行動に言及「グレタさんが一人で飛行機に乗っていけば、それだけで済む話」 https://t.co/yrzRPN4oFC #スマートニュース",
+    "has_extended_profile": false,
+    "id": 1206783933515304961,
+    "id_str": "1206783933515304961",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://www.smartnews.com/\" rel=\"nofollow\"\u003eSmartNews | スマートニュース\u003c/a\u003e",
+    "scopes": null,
+    "text": "桂春蝶、グレタ・トゥンベリさんの行動に言及「グレタさんが\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 03 10:17:20 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "日本人の物書きです。GA文庫「魔法の材料ございます」全11巻。 化学物質過敏症、ADHD、広汎性発達障害、HSP。  #拉致被害者全員奪還   アルファポリス、小説家になろう、カクヨムにて「一基当千ゴーレムライダー 」を連載。下記リンクから飛べます。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/6X4MzlCa9B",
+                        "display_url": "alphapolis.co.jp/novel/86556132…",
+                        "expanded_url": "https://www.alphapolis.co.jp/novel/865561328/726282469"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 69871,
+        "follow_request_sent": false,
+        "followers_count": 2721,
+        "following": false,
+        "friends_count": 2929,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 71220657,
+        "id_str": "71220657",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 167,
+        "location": "東京都",
+        "name": "葵東（☂被災地復興支援）😷",
+        "notifications": false,
+        "profile_background_color": "131414",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/71220657/1414494349",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/928064337436012545/62JaYxGj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/928064337436012545/62JaYxGj_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "aoi_azuma",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 295056,
+        "time_zone": "",
+        "url": "https://t.co/6X4MzlCa9B",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:37:57 +0000 2019",
+    "display_text_range": [
+        0,
+        114
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    91,
+                    114
+                ],
+                "url": "https://t.co/tuGrXo4SYn",
+                "display_url": "news.livedoor.com/article/detail…",
+                "expanded_url": "https://news.livedoor.com/article/detail/17510631/"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    83,
+                    90
+                ],
+                "text": "ldnews"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "おっさん大人げねえな\n所詮トランプの南米コピーか 本家やプーチンの取り繕いに比べたら粗末なもんだな\n\nブラジル大統領がグレタさんをガキ呼ばわり 先住民巡る発言に反発 #ldnews https://t.co/tuGrXo4SYn",
+    "has_extended_profile": false,
+    "id": 1206765444931014656,
+    "id_str": "1206765444931014656",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "おっさん大人げねえな\n所詮トランプの南米コピーか 本家やプーチンの取り繕いに比\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 15 17:50:10 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Abuse Contribution Zipangu\nACジパングは、冒涜を通じて様々な妄言を発狂し、住みづらい自民社会の偽善をけなす民間の変態です。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 3525,
+        "follow_request_sent": false,
+        "followers_count": 239,
+        "following": false,
+        "friends_count": 136,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 191133079,
+        "id_str": "191133079",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 16,
+        "location": "公共冒涜寄稿",
+        "name": "ACジパング",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/191133079/1446404984",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/635141501748559872/5nBkQyy1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/635141501748559872/5nBkQyy1_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "AC_ZIPANGU",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 25708,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

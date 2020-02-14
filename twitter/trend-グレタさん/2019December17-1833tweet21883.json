@@ -1,0 +1,584 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 21:09:17 +0000 2019",
+    "display_text_range": [
+        0,
+        123
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ぷるる",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "pururunpu2",
+                "id": 1187943774057447425,
+                "id_str": "1187943774057447425"
+            }
+        ],
+        "media": [
+            {
+                "id": 1194930499031982080,
+                "id_str": "1194930499031982080",
+                "media_url": "http://pbs.twimg.com/media/EJU-9TYU4AAG-7c.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EJU-9TYU4AAG-7c.jpg",
+                "url": "https://t.co/FUyBPHBKB4",
+                "display_url": "pic.twitter.com/FUyBPHBKB4",
+                "expanded_url": "https://twitter.com/pururunpu2/status/1194930513879846912/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 568,
+                        "h": 392,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 568,
+                        "h": 392,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 568,
+                        "h": 392,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1194930513879846912,
+                "source_status_id_str": "1194930513879846912",
+                "type": "photo",
+                "indices": [
+                    100,
+                    123
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1194930499031982080,
+                "id_str": "1194930499031982080",
+                "media_url": "http://pbs.twimg.com/media/EJU-9TYU4AAG-7c.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EJU-9TYU4AAG-7c.jpg",
+                "url": "https://t.co/FUyBPHBKB4",
+                "display_url": "pic.twitter.com/FUyBPHBKB4",
+                "expanded_url": "https://twitter.com/pururunpu2/status/1194930513879846912/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 568,
+                        "h": 392,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 568,
+                        "h": 392,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 568,
+                        "h": 392,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1194930513879846912,
+                "source_status_id_str": "1194930513879846912",
+                "type": "photo",
+                "indices": [
+                    100,
+                    123
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            },
+            {
+                "id": 1194930499027779585,
+                "id_str": "1194930499027779585",
+                "media_url": "http://pbs.twimg.com/media/EJU-9TXUwAEiSjd.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EJU-9TXUwAEiSjd.jpg",
+                "url": "https://t.co/FUyBPHBKB4",
+                "display_url": "pic.twitter.com/FUyBPHBKB4",
+                "expanded_url": "https://twitter.com/pururunpu2/status/1194930513879846912/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 639,
+                        "h": 366,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 639,
+                        "h": 366,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 639,
+                        "h": 366,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1194930513879846912,
+                "source_status_id_str": "1194930513879846912",
+                "type": "photo",
+                "indices": [
+                    100,
+                    123
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @pururunpu2: ムッソーニの巨大な顔のオブジェが際立つイタリアのファシスト党本部（1934年） \n\nサンフランシスコに環境活動家グレタさんの壁画、通行人見下ろす\n\nなんか似てるwww https://t.co/FUyBPHBKB4",
+    "has_extended_profile": false,
+    "id": 1206682733377773568,
+    "id_str": "1206682733377773568",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 33,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Nov 14 10:50:09 +0000 2019",
+        "display_text_range": [
+            0,
+            83
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1194930499031982080,
+                    "id_str": "1194930499031982080",
+                    "media_url": "http://pbs.twimg.com/media/EJU-9TYU4AAG-7c.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EJU-9TYU4AAG-7c.jpg",
+                    "url": "https://t.co/FUyBPHBKB4",
+                    "display_url": "pic.twitter.com/FUyBPHBKB4",
+                    "expanded_url": "https://twitter.com/pururunpu2/status/1194930513879846912/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 568,
+                            "h": 392,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 568,
+                            "h": 392,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 568,
+                            "h": 392,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        84,
+                        107
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1194930499031982080,
+                    "id_str": "1194930499031982080",
+                    "media_url": "http://pbs.twimg.com/media/EJU-9TYU4AAG-7c.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EJU-9TYU4AAG-7c.jpg",
+                    "url": "https://t.co/FUyBPHBKB4",
+                    "display_url": "pic.twitter.com/FUyBPHBKB4",
+                    "expanded_url": "https://twitter.com/pururunpu2/status/1194930513879846912/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 568,
+                            "h": 392,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 568,
+                            "h": 392,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 568,
+                            "h": 392,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        84,
+                        107
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                },
+                {
+                    "id": 1194930499027779585,
+                    "id_str": "1194930499027779585",
+                    "media_url": "http://pbs.twimg.com/media/EJU-9TXUwAEiSjd.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EJU-9TXUwAEiSjd.jpg",
+                    "url": "https://t.co/FUyBPHBKB4",
+                    "display_url": "pic.twitter.com/FUyBPHBKB4",
+                    "expanded_url": "https://twitter.com/pururunpu2/status/1194930513879846912/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 639,
+                            "h": 366,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 639,
+                            "h": 366,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 639,
+                            "h": 366,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        84,
+                        107
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 96,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "ムッソーニの巨大な顔のオブジェが際立つイタリアのファシスト党本部（1934年） \n\nサンフランシスコに環境活動家グレタさんの壁画、通行人見下ろす\n\nなんか似てるwww https://t.co/FUyBPHBKB4",
+        "has_extended_profile": false,
+        "id": 1194930513879846912,
+        "id_str": "1194930513879846912",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 33,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "ムッソーニの巨大な顔のオブジェが際立つイタリアのファシ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Oct 26 04:07:35 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "京都神泉苑のカエルです🐸🍄日本が好き🇯🇵世論誘導しようとするマスコミの姿勢が嫌い🚫 動物、アート、面白い事、綺麗な景色が好き🏖フォロー歓迎フォロバ返します。全部じゃなくて良い、共感が有れば皆んな繋がりましょう。例外規定はエロ🔞左翼🚷反日🚷鍵垢🚷",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 17086,
+            "follow_request_sent": false,
+            "followers_count": 3726,
+            "following": false,
+            "friends_count": 4579,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1187943774057447425,
+            "id_str": "1187943774057447425",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 10,
+            "location": "日本",
+            "name": "ぷるる",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1187943774057447425/1572610339",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1187945004095819777/FO204JQV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1187945004095819777/FO204JQV_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "pururunpu2",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 1461,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @pururunpu2: ムッソーニの巨大な顔のオブジェが際立つイタリアのファシスト党本部（1934年\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 11 21:21:44 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 6119,
+        "follow_request_sent": false,
+        "followers_count": 216,
+        "following": false,
+        "friends_count": 217,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 984179715312238594,
+        "id_str": "984179715312238594",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "",
+        "name": "tenon",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/984179715312238594/1557883576",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/989257021928062976/cQIZnV2t_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/989257021928062976/cQIZnV2t_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tenon17510015",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 6254,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

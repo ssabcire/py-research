@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:15:16 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "但馬問屋",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "wanpakuten",
+                "id": 1851190771,
+                "id_str": "1851190771"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @wanpakuten: グレタさん攻撃の登山家・野口健のスポンサーは飛行機燃料も販売するコスモ石油！ 電力業界の広告で再生エネルギー批判も｜リテラ\n\nスポンサー企業とのつながりや節操のない広告出演などを見ると、野口氏の意見というのは、結局、金儲け、身過ぎ世過ぎのまやかし…",
+    "has_extended_profile": false,
+    "id": 1206548344908070913,
+    "id_str": "1206548344908070913",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 615,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 07:08:21 +0000 2019",
+        "display_text_range": [
+            0,
+            153
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        130,
+                        153
+                    ],
+                    "url": "https://t.co/AVNcO04MFK",
+                    "display_url": "lite-ra.com/2019/12/post-5…",
+                    "expanded_url": "https://lite-ra.com/2019/12/post-5146.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1023,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん攻撃の登山家・野口健のスポンサーは飛行機燃料も販売するコスモ石油！ 電力業界の広告で再生エネルギー批判も｜リテラ\n\nスポンサー企業とのつながりや節操のない広告出演などを見ると、野口氏の意見というのは、結局、金儲け、身過ぎ世過ぎのまやかしにすぎない… https://t.co/AVNcO04MFK",
+        "has_extended_profile": false,
+        "id": 1206471107902967810,
+        "id_str": "1206471107902967810",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 615,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん攻撃の登山家・野口健のスポンサーは飛行機燃料も販売するコスモ石油！ 電力業界の広告で再生エネ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Sep 10 11:05:22 +0000 2013",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「2013年から利用しています」 いや、「2010年4月から利用」しとります。長いだけが取り柄の老舗問屋。 第二次安倍内閣発足後、目覚めたかの如く批判ツィートを展開。“但馬問屋”で検索すれば、自ずと安倍政治の酷さが知れたもの。 凍結後、全ツィートが無くなり、歴史から消滅。 だがこの国を愛するが故、続けるとしよう。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 99974,
+            "follow_request_sent": false,
+            "followers_count": 24703,
+            "following": false,
+            "friends_count": 4467,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1851190771,
+            "id_str": "1851190771",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 183,
+            "location": "",
+            "name": "但馬問屋",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851190771/1564136337",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/728920418292113409/EH5diKOm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/728920418292113409/EH5diKOm_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "wanpakuten",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 11313,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @wanpakuten: グレタさん攻撃の登山家・野口健のスポンサーは飛行機燃料も販売するコスモ石油！ 電力業",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 25 04:03:56 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 53605,
+        "follow_request_sent": false,
+        "followers_count": 423,
+        "following": false,
+        "friends_count": 157,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1121263547755876355,
+        "id_str": "1121263547755876355",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 6,
+        "location": "",
+        "name": "白 (pec)",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1123950851628982274/_bIjlsM3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123950851628982274/_bIjlsM3_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pec70309907",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 102835,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

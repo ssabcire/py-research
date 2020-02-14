@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:05:14 +0000 2019",
+    "display_text_range": [
+        0,
+        88
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 5,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさん、インスタに｢満員電車の床に座って帰った｣と上げるよりは、潔く｢ドイツ版グリーン車に乗って帰りました｣と上げた方が映えて好感持てまっせw\n(自称20歳・電車好き人間)",
+    "has_extended_profile": false,
+    "id": 1206576019475292160,
+    "id_str": "1206576019475292160",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさん、インスタに｢満員電車の床に座って帰った｣と上げ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 23 02:36:16 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "読書やゲーム、旅をして飲んだくれたい大卒在野。日本が好きで世の中とは何か徒然と書きます。趣味は日本史全般、三国志といった東洋史、西洋史、軍事、電車、武道(薙刀初段)、歴ゲー(特に無双)、艦これ、とうらぶ、大戦、アサクリな変わり者です。コスプレやサバゲーも久しぶりにやりたい…フォローは気が合う人ならご自由にどうぞ！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/lpCJLWR1M5",
+                        "display_url": "miroku-36.com",
+                        "expanded_url": "https://miroku-36.com"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 9421,
+        "follow_request_sent": false,
+        "followers_count": 2661,
+        "following": false,
+        "friends_count": 3398,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 193962182,
+        "id_str": "193962182",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 32,
+        "location": "出羽→西国 京ノ都に5年→出羽の何処か",
+        "name": "坂本みろく(20)",
+        "notifications": false,
+        "profile_background_color": "320869",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/193962182/1460184611",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1203019995850006531/qta0vMdS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1203019995850006531/qta0vMdS_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "82D2E0",
+        "profile_text_color": "141313",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rekizyonokokuki",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 20454,
+        "time_zone": "",
+        "url": "https://t.co/lpCJLWR1M5",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

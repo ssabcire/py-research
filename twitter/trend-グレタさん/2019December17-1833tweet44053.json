@@ -1,0 +1,356 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 10:51:28 +0000 2019",
+    "display_text_range": [
+        0,
+        97
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    74,
+                    97
+                ],
+                "url": "https://t.co/ldof3Dgix1",
+                "display_url": "lite-ra.com/2019/12/post-5…",
+                "expanded_url": "https://lite-ra.com/2019/12/post-5146.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "litera",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "litera_web",
+                "id": 2497555580,
+                "id_str": "2497555580"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @litera_web: グレタさん攻撃の登山家・野口健のスポンサーは飛行機燃料も販売するコスモ石油！ 電力業界の広告で再生エネルギー批判も https://t.co/ldof3Dgix1",
+    "has_extended_profile": false,
+    "id": 1206527257096806400,
+    "id_str": "1206527257096806400",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1145,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 05:47:07 +0000 2019",
+        "display_text_range": [
+            0,
+            81
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        58,
+                        81
+                    ],
+                    "url": "https://t.co/ldof3Dgix1",
+                    "display_url": "lite-ra.com/2019/12/post-5…",
+                    "expanded_url": "https://lite-ra.com/2019/12/post-5146.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1692,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん攻撃の登山家・野口健のスポンサーは飛行機燃料も販売するコスモ石油！ 電力業界の広告で再生エネルギー批判も https://t.co/ldof3Dgix1",
+        "has_extended_profile": false,
+        "id": 1206450662252449792,
+        "id_str": "1206450662252449792",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1145,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://ifttt.com\" rel=\"nofollow\"\u003eIFTTT\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん攻撃の登山家・野口健のスポンサーは飛行機燃料",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri May 16 02:17:45 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "本と雑誌のニュースサイト「LITERA(リテラ)」の公式twitterです。小説、マンガ、ビジネス書、サブカル本、新書、週刊誌、女性誌などあらゆる紙媒体を独自の視点で読み解きます。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/bRljkiC4Vq",
+                            "display_url": "lite-ra.com",
+                            "expanded_url": "http://lite-ra.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 78770,
+            "following": false,
+            "friends_count": 2329,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2497555580,
+            "id_str": "2497555580",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1723,
+            "location": "",
+            "name": "litera",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2497555580/1404098600",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/483448803299573760/1XxlIx08_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/483448803299573760/1XxlIx08_normal.png",
+            "profile_link_color": "363636",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "litera_web",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 7275,
+            "time_zone": "",
+            "url": "http://t.co/bRljkiC4Vq",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @litera_web: グレタさん攻撃の登山家・野口健のスポンサーは飛行機燃料",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 04 03:59:22 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "毎秋恒例のジャワ舞踊イベント≪十六夜コンサート≫＠上野公園水上音楽堂をプロデュースしています。2019年はお休み。ふだんはパイプオルガンのレンタルスタジオ≪BEATA（ベアータ）オルガン練習室≫のオーナー兼小間使い。ミホプロジェクト。コンサートの企画制作など。ときどき歌います。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/cjb9zyO9KO",
+                        "display_url": "beata.seesaa.net",
+                        "expanded_url": "http://beata.seesaa.net/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 630,
+        "follow_request_sent": false,
+        "followers_count": 229,
+        "following": false,
+        "friends_count": 50,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 276813178,
+        "id_str": "276813178",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 7,
+        "location": "新宿区山吹町",
+        "name": "izumi kida",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/276813178/1435380216",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1299279448/080107_2326_0001_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1299279448/080107_2326_0001_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "zumikida",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 37950,
+        "time_zone": "",
+        "url": "https://t.co/cjb9zyO9KO",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

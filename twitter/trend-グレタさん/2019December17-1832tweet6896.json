@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:38:23 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "アリーシャ",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "ar2_neji",
+                "id": 324281367,
+                "id_str": "324281367"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @ar2_neji: 予約した一等席の床に座りながら「混みすぎ！」とpostしたのか。この写真を撮影してる人がグレタさんのバックにいる詰めの甘い感じがする団体なのかな。\n\nドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容され https://t.co/M5z…",
+    "has_extended_profile": false,
+    "id": 1206780656098799616,
+    "id_str": "1206780656098799616",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 09:34:49 +0000 2019",
+        "display_text_range": [
+            0,
+            132
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        109,
+                        132
+                    ],
+                    "url": "https://t.co/M5zYrRGBkM",
+                    "display_url": "cnn.co.jp/travel/3514692…",
+                    "expanded_url": "https://www.cnn.co.jp/travel/35146920.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "予約した一等席の床に座りながら「混みすぎ！」とpostしたのか。この写真を撮影してる人がグレタさんのバックにいる詰めの甘い感じがする団体なのかな。\n\nドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容され https://t.co/M5zYrRGBkM",
+        "has_extended_profile": false,
+        "id": 1206507965030600705,
+        "id_str": "1206507965030600705",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://yoshika23218.com/\" rel=\"nofollow\"\u003etwitcle plus\u003c/a\u003e",
+        "scopes": null,
+        "text": "予約した一等席の床に座りながら「混みすぎ！」とpostしたのか。この写真を撮影してる人がグレ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Jun 26 09:47:48 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "プロレタリアートからジッカ・パラサイトへジョブチェンジした三十路。  同人誌即売会に出没したりしなかったりする生活をおくっています。  愚痴を呟くことが間々あるので閲覧にはご注意下さい。 体調が芳しくないので色々自粛傾向。 今年の目標は「無病息災」",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/P4BPeEGv7f",
+                            "display_url": "employment.en-japan.com",
+                            "expanded_url": "https://employment.en-japan.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 2176,
+            "follow_request_sent": false,
+            "followers_count": 542,
+            "following": false,
+            "friends_count": 2425,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 324281367,
+            "id_str": "324281367",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 30,
+            "location": "銀河系",
+            "name": "アリーシャ",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/848141918760345600/BmQb1Iai_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/848141918760345600/BmQb1Iai_normal.jpg",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "ar2_neji",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 181183,
+            "time_zone": "",
+            "url": "https://t.co/P4BPeEGv7f",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @ar2_neji: 予約した一等席の床に座りながら「混みすぎ！」とpostしたのか。この写真を撮影してる人が\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 19 16:54:07 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "同人即売会のスタッフしてる人。チーム「アラジンと魔法のランプ」所属。東方紅楼夢代表補佐、ボーパラ関西元代表、MusicCommunication副代表。 即売会で音響やDJの真似事する等。RO B鯖/FEZ/Ingress青Lv15/騎空士/ChuxChuの下僕",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/FJhFcqKxga",
+                        "display_url": "azusaworks.com/~kyougetu/",
+                        "expanded_url": "http://www.azusaworks.com/~kyougetu/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 16720,
+        "follow_request_sent": false,
+        "followers_count": 509,
+        "following": false,
+        "friends_count": 804,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 75590624,
+        "id_str": "75590624",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 26,
+        "location": "アウギュステ列島",
+        "name": "猫深夜鏡月@アラジンと(ry CIC担当",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/75590624/1509162758",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/929787428/u3_20_61__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/929787428/u3_20_61__normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kyougetu",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 83269,
+        "time_zone": "",
+        "url": "https://t.co/FJhFcqKxga",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

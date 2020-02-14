@@ -1,0 +1,466 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:14:38 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    89,
+                    112
+                ],
+                "url": "https://t.co/CuYV4WYJ19",
+                "display_url": "kerrang.com/the-news/oli-s…",
+                "expanded_url": "https://www.kerrang.com/the-news/oli-sykes-calls-donald-trump-the-ugliest-human-the-world-has-ever-seen/"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    114,
+                    119
+                ],
+                "text": "BMTH"
+            },
+            {
+                "indices": [
+                    121,
+                    133
+                ],
+                "text": "OliverSykes"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "日々是ハイディ",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "yoyodreamer",
+                "id": 553685665,
+                "id_str": "553685665"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @yoyodreamer: BMTHのオリバーがトランプ大統領にあんたはこの世の中で一番醜い人間だねってナイスリプライ。\n環境活動家のグレタさんを皮肉るツィートに対して。\nhttps://t.co/CuYV4WYJ19\n\n#BMTH  #OliverSykes https…",
+    "has_extended_profile": false,
+    "id": 1206548184324956160,
+    "id_str": "1206548184324956160",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 14 03:15:49 +0000 2019",
+        "display_text_range": [
+            0,
+            116
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        72,
+                        95
+                    ],
+                    "url": "https://t.co/CuYV4WYJ19",
+                    "display_url": "kerrang.com/the-news/oli-s…",
+                    "expanded_url": "https://www.kerrang.com/the-news/oli-sykes-calls-donald-trump-the-ugliest-human-the-world-has-ever-seen/"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        97,
+                        102
+                    ],
+                    "text": "BMTH"
+                },
+                {
+                    "indices": [
+                        104,
+                        116
+                    ],
+                    "text": "OliverSykes"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1205687805705252864,
+                    "id_str": "1205687805705252864",
+                    "media_url": "http://pbs.twimg.com/media/ELt2q9kU8AAk3O2.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELt2q9kU8AAk3O2.jpg",
+                    "url": "https://t.co/cHgKEen9ST",
+                    "display_url": "pic.twitter.com/cHgKEen9ST",
+                    "expanded_url": "https://twitter.com/yoyodreamer/status/1205687810721644545/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 750,
+                            "h": 815,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 626,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 750,
+                            "h": 815,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1205687805705252864,
+                    "id_str": "1205687805705252864",
+                    "media_url": "http://pbs.twimg.com/media/ELt2q9kU8AAk3O2.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELt2q9kU8AAk3O2.jpg",
+                    "url": "https://t.co/cHgKEen9ST",
+                    "display_url": "pic.twitter.com/cHgKEen9ST",
+                    "expanded_url": "https://twitter.com/yoyodreamer/status/1205687810721644545/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 750,
+                            "h": 815,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 626,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 750,
+                            "h": 815,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 3,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "BMTHのオリバーがトランプ大統領にあんたはこの世の中で一番醜い人間だねってナイスリプライ。\n環境活動家のグレタさんを皮肉るツィートに対して。\nhttps://t.co/CuYV4WYJ19\n\n#BMTH  #OliverSykes https://t.co/cHgKEen9ST",
+        "has_extended_profile": false,
+        "id": 1205687810721644545,
+        "id_str": "1205687810721644545",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "BMTHのオリバーがトランプ大統領にあんたはこの世の中で一番醜い人間だねってナイス\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Apr 14 17:05:59 +0000 2012",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "HYDEの活動と情報を毎日追っかけてます。Spread newest info.of your inspiration: HYDE to the world. Our hearts draw a dream with you guys.  つぶやき少なめLikes, RT多しでごめんなさい(⌒-⌒; )",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 41442,
+            "follow_request_sent": false,
+            "followers_count": 337,
+            "following": false,
+            "friends_count": 269,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 553685665,
+            "id_str": "553685665",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 6,
+            "location": "Tokyoの片隅",
+            "name": "日々是ハイディ",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/553685665/1556806016",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1123952008896102402/F0t5rpbk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123952008896102402/F0t5rpbk_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "yoyodreamer",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 22115,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @yoyodreamer: BMTHのオリバーがトランプ大統領にあんたはこの世の中で一番醜い人間だねってナイスリプ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 27 15:37:30 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "🧡แพ้ทุกอย่างที่เป็นเจมส์\nแพ้ทุกอย่างที่เจมส์เป็น แพ้ความเจมส์ แพ้เสียงเจมส์ แพ้พี่เจมส์ แพ้!!! จามายจาเมสสสสสส!!!!! #jamyjamess 🖤",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/dgpoZd6xau",
+                        "display_url": "Instagram.com/ppadtxx",
+                        "expanded_url": "http://Instagram.com/ppadtxx"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 24292,
+        "follow_request_sent": false,
+        "followers_count": 24,
+        "following": false,
+        "friends_count": 122,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 725348149909327873,
+        "id_str": "725348149909327873",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 2,
+        "location": "LJS | MYV | OLI | 9x9 | TNT ♡",
+        "name": "พัดᴾᴬᴰ ◟̽◞̽ .",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/725348149909327873/1576210520",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1205351292257783808/cBuuSN5Y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205351292257783808/cBuuSN5Y_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Ppadtxx",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 17908,
+        "time_zone": "",
+        "url": "https://t.co/dgpoZd6xau",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

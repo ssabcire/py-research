@@ -1,0 +1,174 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:45:28 +0000 2019",
+    "display_text_range": [
+        29,
+        104
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "リッツ　発達障害",
+                "indices": [
+                    0,
+                    12
+                ],
+                "screen_name": "seisyou5564",
+                "id": 3189862495,
+                "id_str": "3189862495"
+            },
+            {
+                "name": "藤田孝典",
+                "indices": [
+                    13,
+                    28
+                ],
+                "screen_name": "fujitatakanori",
+                "id": 250018237,
+                "id_str": "250018237"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@seisyou5564 @fujitatakanori そういう「仕方ない」っていうのが、全ての環境問題の元凶なんだと思いますよ。笑\n\nグレタさんも快適に生活するために、環境を犠牲にしててる。他の人もそう。",
+    "has_extended_profile": false,
+    "id": 1206827734736883712,
+    "id_str": "1206827734736883712",
+    "in_reply_to_screen_name": "seisyou5564",
+    "in_reply_to_status_id": 1204965613401067520,
+    "in_reply_to_status_id_str": "1204965613401067520",
+    "in_reply_to_user_id": 3189862495,
+    "in_reply_to_user_id_str": "3189862495",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "そういう「仕方ない」っていうのが、全ての環境問題の",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 17 09:50:28 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "投資・トレード",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 427,
+        "follow_request_sent": false,
+        "followers_count": 22,
+        "following": false,
+        "friends_count": 76,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1097070767949328387,
+        "id_str": "1097070767949328387",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "kkkk",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kkkk63829700",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 263,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

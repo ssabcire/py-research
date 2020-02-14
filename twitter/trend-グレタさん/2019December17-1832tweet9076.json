@@ -1,0 +1,316 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:47:46 +0000 2019",
+    "display_text_range": [
+        0,
+        60
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "たこっち®",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "takotakonori",
+                "id": 959991243001380865,
+                "id_str": "959991243001380865"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @takotakonori: グレタさんには是非日本に来て頂いて本当の満員電車を味わって欲しいですね(´・ω・`)",
+    "has_extended_profile": false,
+    "id": 1206767916214931458,
+    "id_str": "1206767916214931458",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 02:38:47 +0000 2019",
+        "display_text_range": [
+            0,
+            42
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 33,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんには是非日本に来て頂いて本当の満員電車を味わって欲しいですね(´・ω・`)",
+        "has_extended_profile": false,
+        "id": 1206765654767882240,
+        "id_str": "1206765654767882240",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんには是非日本に来て",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Feb 04 03:25:22 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "2年生 タイミング系ぬるぬる投資家 弱小兼業です♪ 株のこと生活のことをゆるくつぶやきます \"Always Look on the Bright Side of Life\"　",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 116945,
+            "follow_request_sent": false,
+            "followers_count": 1958,
+            "following": false,
+            "friends_count": 1211,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 959991243001380865,
+            "id_str": "959991243001380865",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 6,
+            "location": "日本 東京",
+            "name": "たこっち®",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/959991243001380865/1553907134",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1206415511036157956/Hee7Gf_w_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1206415511036157956/Hee7Gf_w_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "takotakonori",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 12576,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @takotakonori: グレタさんには是非日本に来て",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 03 07:55:46 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "平日は株、バッセン。土日は競馬、競艇、バッセン。株は配当、優待派からキャピタルゲイン派にシフト気味。ちち、しり、ふとももー⸜(* ॑꒳ ॑* )⸝♬.*ﾟ",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 63692,
+        "follow_request_sent": false,
+        "followers_count": 805,
+        "following": false,
+        "friends_count": 453,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 4701265740,
+        "id_str": "4701265740",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 6,
+        "location": "美神令子除霊事務所 大阪支部",
+        "name": "紙ろけっと",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4701265740/1476699790",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1194103879622750208/0aaPMkft_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194103879622750208/0aaPMkft_normal.jpg",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "kamiroke",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 40539,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

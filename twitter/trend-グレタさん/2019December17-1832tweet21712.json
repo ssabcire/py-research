@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 21:17:01 +0000 2019",
+    "display_text_range": [
+        0,
+        68
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "現在のトレンド「超満員電車」について調べましたホー！ → ドイツ鉄道「グレタさんファーストクラスにご乗車いただきありがとうございました」",
+    "has_extended_profile": false,
+    "id": 1206684681485221889,
+    "id_str": "1206684681485221889",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://yura.daa.jp/owl/\" rel=\"nofollow\"\u003eトピックの森\u003c/a\u003e",
+    "scopes": null,
+    "text": "現在のトレンド「超満員電車」について調べまし\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 10 15:04:45 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "リプライの内容を検索して、トピック推定をして返事をするよ。「◯◯のトピック」とリプライを送るとトピックだけを答えるよ！一見賢そうだけど、よくトンチンカンな事も言っちゃうんだ。\n自動リフォロー/トピック推定/LDA\n※ツイート内容は全て自動で生成されたものです。ご意見等はDMへ。 弟が出来ました→@markov_owl",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            20
+                        ],
+                        "url": "http://t.co/uae5FvTJ",
+                        "display_url": "yura.daa.jp/owl/",
+                        "expanded_url": "http://yura.daa.jp/owl/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 2439,
+        "following": false,
+        "friends_count": 2423,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1166157062,
+        "id_str": "1166157062",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 12,
+        "location": "",
+        "name": "トピックふくろう(BOT)",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1166157062/1361088113",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/699996500990959616/a4a1LaOS_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/699996500990959616/a4a1LaOS_normal.png",
+        "profile_link_color": "AAAAE6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "topic_owl",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 69555,
+        "time_zone": "",
+        "url": "http://t.co/uae5FvTJ",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

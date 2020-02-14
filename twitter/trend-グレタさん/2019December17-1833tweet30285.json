@@ -1,0 +1,164 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:31:11 +0000 2019",
+    "display_text_range": [
+        16,
+        38
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ノッヂ",
+                "indices": [
+                    0,
+                    15
+                ],
+                "screen_name": "kanade20151227",
+                "id": 2800098564,
+                "id_str": "2800098564"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@kanade20151227 グレタ　トゥーンたまさんですね。わかります。",
+    "has_extended_profile": false,
+    "id": 1206582549763375104,
+    "id_str": "1206582549763375104",
+    "in_reply_to_screen_name": "kanade20151227",
+    "in_reply_to_status_id": 1206556887648391168,
+    "in_reply_to_status_id_str": "1206556887648391168",
+    "in_reply_to_user_id": 2800098564,
+    "in_reply_to_user_id_str": "2800098564",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタ　トゥー\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 06 15:15:49 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "馬、酒、旅、食、音楽をこよなく愛する浪費家です。一口馬主はユニオン／ノルマンディー。\n札幌生まれ、東京育ち、社会人は大阪で始め、戻って東京在住。\n勝駒、PUNK IPA、エゾバフンウニがあれば人生満足。でも痛風の敵ばかり。フェブリク頑張れ！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2124,
+        "follow_request_sent": false,
+        "followers_count": 113,
+        "following": false,
+        "friends_count": 138,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 817389210835423233,
+        "id_str": "817389210835423233",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "",
+        "name": "サンバ杉山",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/817389210835423233/1574070400",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1196363601214197760/Ne4Vc3S2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196363601214197760/Ne4Vc3S2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "s5zSqjumvcVU8Ye",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 504,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

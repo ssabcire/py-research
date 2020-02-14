@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:59:16 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "あらかわ",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "kazu10233147",
+                "id": 900868478227275778,
+                "id_str": "900868478227275778"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @kazu10233147: 野口健氏　電車移動のグレタさんに「馬車でご移動かと」投稿　批判の声も（デイリースポーツ） - Yahoo!ニュース\n\n安倍一族の野口。登山家としての経歴が泣く。大の大人がこんなことしか言えないのか。結果として安倍の進める火力発電海外受注を後押…",
+    "has_extended_profile": false,
+    "id": 1206589614971949057,
+    "id_str": "1206589614971949057",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 239,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 13 08:27:11 +0000 2019",
+        "display_text_range": [
+            0,
+            155
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        132,
+                        155
+                    ],
+                    "url": "https://t.co/zU0lrgMnG0",
+                    "display_url": "headlines.yahoo.co.jp/hl?a=20191212-…",
+                    "expanded_url": "https://headlines.yahoo.co.jp/hl?a=20191212-00000138-dal-ent"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 415,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "野口健氏　電車移動のグレタさんに「馬車でご移動かと」投稿　批判の声も（デイリースポーツ） - Yahoo!ニュース\n\n安倍一族の野口。登山家としての経歴が泣く。大の大人がこんなことしか言えないのか。結果として安倍の進める火力発電海外受注を後押しし、温暖化推進。\n https://t.co/zU0lrgMnG0",
+        "has_extended_profile": false,
+        "id": 1205403781682233344,
+        "id_str": "1205403781682233344",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 239,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "野口健氏　電車移動のグレタさんに「馬車でご移動かと」投稿　批判の声も（デイリースポーツ） - Yahoo!ニュース\n\n",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Aug 24 23:52:37 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "安倍政権の目指す憲法改正は、専守防衛を捨て緊急事態条項により国会を無力化し、戦前の国家主義をめざすもの。その動きにNOの声をあげ続ける。\n　アマゾン電子書籍で、「安倍に未来を奪わせない」、「無制限な私有財産が私たちの生存を否定している」「従軍慰安婦問題の否定は許されない」などを「あらかわかずしげ」のペンネームで発刊。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 10541,
+            "follow_request_sent": false,
+            "followers_count": 4547,
+            "following": false,
+            "friends_count": 4920,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 900868478227275778,
+            "id_str": "900868478227275778",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 32,
+            "location": "",
+            "name": "あらかわ",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/900868478227275778/1538827026",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1048542168871104513/kSRdR7aH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048542168871104513/kSRdR7aH_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "kazu10233147",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 2565,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @kazu10233147: 野口健氏　電車移動のグレタさんに「馬車でご移動かと」投稿　批判の声も（デイリース\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 11 06:23:45 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "古き良き時代の洋画大好きです。世界が混沌とした時代、日本は真のリーダーを求めるべきです。そのためにも、小沢一郎氏には是非総理大臣になって欲しいです。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 8791,
+        "follow_request_sent": false,
+        "followers_count": 461,
+        "following": false,
+        "friends_count": 738,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 819067252246867968,
+        "id_str": "819067252246867968",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 3,
+        "location": "神奈川",
+        "name": "Komitsuko",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/819067252246867968/1486812655",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/830380667145838594/MsKCh5UE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/830380667145838594/MsKCh5UE_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "imtk1947",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 33447,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

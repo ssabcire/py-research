@@ -1,0 +1,484 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:15:17 +0000 2019",
+    "display_text_range": [
+        0,
+        129
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    106,
+                    129
+                ],
+                "url": "https://t.co/wdui22zr7c",
+                "display_url": "ushigaeru1.livedoor.blog/archives/53276…",
+                "expanded_url": "http://ushigaeru1.livedoor.blog/archives/5327620.html"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    56,
+                    63
+                ],
+                "text": "2chまとめ"
+            },
+            {
+                "indices": [
+                    64,
+                    69
+                ],
+                "text": "ニュース"
+            },
+            {
+                "indices": [
+                    70,
+                    74
+                ],
+                "text": "グレタ"
+            },
+            {
+                "indices": [
+                    75,
+                    79
+                ],
+                "text": "野口健"
+            },
+            {
+                "indices": [
+                    80,
+                    84
+                ],
+                "text": "登山家"
+            },
+            {
+                "indices": [
+                    85,
+                    90
+                ],
+                "text": "環境問題"
+            },
+            {
+                "indices": [
+                    91,
+                    94
+                ],
+                "text": "炎上"
+            },
+            {
+                "indices": [
+                    95,
+                    99
+                ],
+                "text": "児童婚"
+            },
+            {
+                "indices": [
+                    100,
+                    105
+                ],
+                "text": "動物虐待"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ニュースまとめ　ゲコ速",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "gekosoku",
+                "id": 1197881185726124032,
+                "id_str": "1197881185726124032"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @gekosoku: [悲報]グレタさん攻撃した登山家の野口健、児童婚や猫虐殺を行っていたことがバレる \n＃2chまとめ ＃ニュース ＃グレタ ＃野口健 ＃登山家 ＃環境問題 ＃炎上 ＃児童婚 ＃動物虐待\nhttps://t.co/wdui22zr7c",
+    "has_extended_profile": false,
+    "id": 1206759741424189440,
+    "id_str": "1206759741424189440",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 21:31:06 +0000 2019",
+        "display_text_range": [
+            0,
+            115
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "url": "https://t.co/wdui22zr7c",
+                    "display_url": "ushigaeru1.livedoor.blog/archives/53276…",
+                    "expanded_url": "http://ushigaeru1.livedoor.blog/archives/5327620.html"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        42,
+                        49
+                    ],
+                    "text": "2chまとめ"
+                },
+                {
+                    "indices": [
+                        50,
+                        55
+                    ],
+                    "text": "ニュース"
+                },
+                {
+                    "indices": [
+                        56,
+                        60
+                    ],
+                    "text": "グレタ"
+                },
+                {
+                    "indices": [
+                        61,
+                        65
+                    ],
+                    "text": "野口健"
+                },
+                {
+                    "indices": [
+                        66,
+                        70
+                    ],
+                    "text": "登山家"
+                },
+                {
+                    "indices": [
+                        71,
+                        76
+                    ],
+                    "text": "環境問題"
+                },
+                {
+                    "indices": [
+                        77,
+                        80
+                    ],
+                    "text": "炎上"
+                },
+                {
+                    "indices": [
+                        81,
+                        85
+                    ],
+                    "text": "児童婚"
+                },
+                {
+                    "indices": [
+                        86,
+                        91
+                    ],
+                    "text": "動物虐待"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "[悲報]グレタさん攻撃した登山家の野口健、児童婚や猫虐殺を行っていたことがバレる \n＃2chまとめ ＃ニュース ＃グレタ ＃野口健 ＃登山家 ＃環境問題 ＃炎上 ＃児童婚 ＃動物虐待\nhttps://t.co/wdui22zr7c",
+        "has_extended_profile": false,
+        "id": 1206688222622830592,
+        "id_str": "1206688222622830592",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": true,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://blog.livedoor.com/\" rel=\"nofollow\"\u003elivedoor Blog\u003c/a\u003e",
+        "scopes": null,
+        "text": "[悲報]グレタさん攻撃した登山家の野口健、児童婚や猫虐殺を行っていたことがバレ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Nov 22 14:15:12 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "2chまとめサイトを運営しています！\n\nまとめアンテナサイトも是非\nアクション対魔忍：https://t.co/y277vXmTrm\n時事アンテナ：https://t.co/GjomkGoDBU",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/3WXVVVw2D3",
+                            "display_url": "ushigaeru1.livedoor.blog",
+                            "expanded_url": "http://ushigaeru1.livedoor.blog/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 67,
+            "following": false,
+            "friends_count": 114,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1197881185726124032,
+            "id_str": "1197881185726124032",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 0,
+            "location": "",
+            "name": "ニュースまとめ　ゲコ速",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1197881185726124032/1574438490",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1197882184461238272/KlUUg0fW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197882184461238272/KlUUg0fW_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "gekosoku",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 152,
+            "time_zone": "",
+            "url": "https://t.co/3WXVVVw2D3",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @gekosoku: [悲報]グレタさん攻撃した登山家の野口健、児童婚や猫虐殺を行っていたことがバレ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 14 04:37:26 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "●晋三陛下は日本国の元首であって日本晋民の総意に基づく●晋は国家なり　晋三は神聖にして侵すべからず　晋民ども、奉仕せよ！ ●憲法改悪反対！リベラルは相互フォロー！ネトウヨはブロック！ ●アベいものに蓋は許せない！https://t.co/75xMdaV4so",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L7CeOKQqQF",
+                        "display_url": "anaume101.seesaa.net",
+                        "expanded_url": "http://anaume101.seesaa.net/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 15,
+        "follow_request_sent": false,
+        "followers_count": 2369,
+        "following": false,
+        "friends_count": 2327,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1350982418,
+        "id_str": "1350982418",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 25,
+        "location": "クーデター国家ＡＳ＝アベノミック・ステート",
+        "name": "憲法変えるな首相を変えよう！　#憲法改悪阻止",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1350982418/1531003763",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1023426141615357952/iypmTJwZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1023426141615357952/iypmTJwZ_normal.jpg",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "abenomaxsengen",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 79880,
+        "time_zone": "",
+        "url": "http://t.co/L7CeOKQqQF",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

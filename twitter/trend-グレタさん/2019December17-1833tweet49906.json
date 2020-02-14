@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 09:15:07 +0000 2019",
+    "display_text_range": [
+        0,
+        146
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    123,
+                    146
+                ],
+                "url": "https://t.co/7CoOsbWCUL",
+                "display_url": "johosokuhou.com/2019/12/13/221…",
+                "expanded_url": "https://johosokuhou.com/2019/12/13/22159/"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "【炎上】登山家の野口健氏、グレタさんに「あれ？電車に乗っていらっしゃるのかな？」「馬車だと思ってた」\n\nいや、でもグレタさんのヨットで行った話は正直？？だった。\nだって、非常用ディーゼル発電機も積んでるし、その高価なヨットは誰が提供したのかと。 https://t.co/7CoOsbWCUL",
+    "has_extended_profile": false,
+    "id": 1206503007094861824,
+    "id_str": "1206503007094861824",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "【炎上】登山家の野口健氏、グレタさんに「あれ？電車に乗っていらっしゃるのかな？」「馬車だと思って\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 12 05:06:35 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "安倍総理が指差した「こんな人たち」と、おそらく同じ考えを持っています。今の政治の腐敗ぶりを憂う、日本が大好きな日本人です。リツイートが相当多いです。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 35448,
+        "follow_request_sent": false,
+        "followers_count": 3039,
+        "following": false,
+        "friends_count": 4028,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 896236449107918848,
+        "id_str": "896236449107918848",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 28,
+        "location": "",
+        "name": "自由な日本を愛する「こんな人」",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/896305099126878208/uxbC69se_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/896305099126878208/uxbC69se_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pw4074",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 41887,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,516 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:17:29 +0000 2019",
+    "display_text_range": [
+        0,
+        64
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "宮本徹",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "miyamototooru",
+                "id": 341296862,
+                "id_str": "341296862"
+            }
+        ],
+        "media": [
+            {
+                "id": 1206351287635173376,
+                "id_str": "1206351287635173376",
+                "media_url": "http://pbs.twimg.com/media/EL3SGsXUYAAx87L.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL3SGsXUYAAx87L.jpg",
+                "url": "https://t.co/Tq4yloahrM",
+                "display_url": "pic.twitter.com/Tq4yloahrM",
+                "expanded_url": "https://twitter.com/miyamototooru/status/1206351289493311488/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 905,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 513,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1544,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206351289493311488,
+                "source_status_id_str": "1206351289493311488",
+                "type": "photo",
+                "indices": [
+                    41,
+                    64
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206351287635173376,
+                "id_str": "1206351287635173376",
+                "media_url": "http://pbs.twimg.com/media/EL3SGsXUYAAx87L.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL3SGsXUYAAx87L.jpg",
+                "url": "https://t.co/Tq4yloahrM",
+                "display_url": "pic.twitter.com/Tq4yloahrM",
+                "expanded_url": "https://twitter.com/miyamototooru/status/1206351289493311488/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 905,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 513,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1544,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206351289493311488,
+                "source_status_id_str": "1206351289493311488",
+                "type": "photo",
+                "indices": [
+                    41,
+                    64
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @miyamototooru: グレタさん家族のたたかい。ぜひ、ご一読を。 https://t.co/Tq4yloahrM",
+    "has_extended_profile": false,
+    "id": 1206548902444355585,
+    "id_str": "1206548902444355585",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 41,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 23:12:14 +0000 2019",
+        "display_text_range": [
+            0,
+            21
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206351287635173376,
+                    "id_str": "1206351287635173376",
+                    "media_url": "http://pbs.twimg.com/media/EL3SGsXUYAAx87L.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL3SGsXUYAAx87L.jpg",
+                    "url": "https://t.co/Tq4yloahrM",
+                    "display_url": "pic.twitter.com/Tq4yloahrM",
+                    "expanded_url": "https://twitter.com/miyamototooru/status/1206351289493311488/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 905,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 513,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1544,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        22,
+                        45
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206351287635173376,
+                    "id_str": "1206351287635173376",
+                    "media_url": "http://pbs.twimg.com/media/EL3SGsXUYAAx87L.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL3SGsXUYAAx87L.jpg",
+                    "url": "https://t.co/Tq4yloahrM",
+                    "display_url": "pic.twitter.com/Tq4yloahrM",
+                    "expanded_url": "https://twitter.com/miyamototooru/status/1206351289493311488/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 905,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 513,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1544,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        22,
+                        45
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 92,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん家族のたたかい。ぜひ、ご一読を。 https://t.co/Tq4yloahrM",
+        "has_extended_profile": false,
+        "id": 1206351289493311488,
+        "id_str": "1206351289493311488",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 41,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん家族",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Jul 24 04:13:49 +0000 2011",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "衆議院議員（東村山、清瀬、東久留米、東大和、武蔵村山/東京）２期。日本共産党。人生に影響をあたえたのはブルーハーツ、灰谷健次郎、本多勝一、宮沢賢治。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/ghAUzZgjjE",
+                            "display_url": "miyamototooru.info",
+                            "expanded_url": "http://miyamototooru.info"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 163,
+            "follow_request_sent": false,
+            "followers_count": 20865,
+            "following": false,
+            "friends_count": 140,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 341296862,
+            "id_str": "341296862",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 658,
+            "location": "東京",
+            "name": "宮本徹",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/341296862/1397550411",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/903111918423912448/muretERt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/903111918423912448/muretERt_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "miyamototooru",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 8986,
+            "time_zone": "",
+            "url": "https://t.co/ghAUzZgjjE",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @miyamototooru: グレタさん家族のたたかい。ぜひ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 21 04:48:46 +0000 2017",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "宮本徹衆院議員は、2017年総選挙において、東京20区（東久留米・清瀬・東村山・東大和・武蔵村山）で市民と野党の共同の候補としてたたかい、比例で２期目の当選を果たしました。宮本徹さん＠miyamototooruは、引き続き東京20区で活動しています。チーム宮本はその応援隊です。（ヘッダー写真撮影：長島可純）",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/LTREAQCOec",
+                        "display_url": "miyamototooru.info",
+                        "expanded_url": "http://miyamototooru.info/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 157,
+        "follow_request_sent": false,
+        "followers_count": 612,
+        "following": false,
+        "friends_count": 227,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 910727481472061440,
+        "id_str": "910727481472061440",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 13,
+        "location": "日本 東京",
+        "name": "チーム宮本徹（日本共産党・東京２０区）",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/910727481472061440/1505969873",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/910729644264923136/halHDLmG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/910729644264923136/halHDLmG_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "teamMymtTooru",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 1937,
+        "time_zone": "",
+        "url": "https://t.co/LTREAQCOec",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

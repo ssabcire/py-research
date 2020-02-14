@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:31:44 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "紙魚",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "silver_fishes",
+                "id": 166659970,
+                "id_str": "166659970"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @silver_fishes: “グレタさん、発達障害だし、原子力も温暖化のためならやむなしだし、(略)科学に耳を傾けろだし、おまえらがふだん賛同してることだらけの人物なのになんでだよ”→“「原子力も温暖化のためならやむなし」と明言していてそれをメディアも報道していたら賛…",
+    "has_extended_profile": false,
+    "id": 1206552487240486913,
+    "id_str": "1206552487240486913",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 18,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 11:27:32 +0000 2019",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 16,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "“グレタさん、発達障害だし、原子力も温暖化のためならやむなしだし、(略)科学に耳を傾けろだし、おまえらがふだん賛同してることだらけの人物なのになんでだよ”→“「原子力も温暖化のためならやむなし」と明言していてそれをメディアも報道していたら賛否が一気にひっくり返ると思うんだけど”…",
+        "has_extended_profile": false,
+        "id": 1206536330391375874,
+        "id_str": "1206536330391375874",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 18,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "“グレタさん、発達障害だし、原子力も温暖化のためならやむなしだし、(略)科学に耳を傾けろだし、お",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Jul 14 18:13:07 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "　",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 12,
+            "follow_request_sent": false,
+            "followers_count": 1434,
+            "following": false,
+            "friends_count": 63,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 166659970,
+            "id_str": "166659970",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 80,
+            "location": "",
+            "name": "紙魚",
+            "notifications": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/689622702370357248/LBcwsO4o_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/689622702370357248/LBcwsO4o_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "silver_fishes",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 101864,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://covelline.com/feather\" rel=\"nofollow\"\u003efeather for iOS  \u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @silver_fishes: “グレタさん、発達障害だし、原子力も温暖化のためならやむなしだし、(略)科学に耳を\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 25 09:54:35 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "生まれながら文鳥の下僕として仕える身。文鳥嗅ぎ師。昭和の人。 ●SMAP（5人がいいの）／高橋大輔、太田由希奈、小塚崇彦、パトリック、アボット、ネイサン、宇野昌磨／SHT（アギト555キバ天使豪快）／武田航平／小澤亮太／マスターP審神者提督／源平／平清盛（大河）／OL 等 ※ジャンルごちゃ混ぜなので要注意、挨拶不要",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/XyA3hAyivT",
+                        "display_url": "instagram.com/mone_0518/",
+                        "expanded_url": "http://www.instagram.com/mone_0518/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 7123,
+        "follow_request_sent": false,
+        "followers_count": 525,
+        "following": false,
+        "friends_count": 1675,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 230401020,
+        "id_str": "230401020",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 25,
+        "location": "岩おこし硬い",
+        "name": "文鳥嗅ぎ師 まこと📎📎📎📎🖇",
+        "notifications": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/230401020/1575188335",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1201050405678899201/4zgc354G_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201050405678899201/4zgc354G_normal.jpg",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gatun_to_buncho",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 270227,
+        "time_zone": "",
+        "url": "https://t.co/XyA3hAyivT",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

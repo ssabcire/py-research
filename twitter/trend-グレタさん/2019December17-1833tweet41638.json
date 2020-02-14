@@ -1,0 +1,184 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:29:41 +0000 2019",
+    "display_text_range": [
+        0,
+        137
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    102,
+                    125
+                ],
+                "url": "https://t.co/QTonIuziWd",
+                "display_url": "afpbb.com/articles/-/325…",
+                "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "AFPBB News",
+                "indices": [
+                    126,
+                    135
+                ],
+                "screen_name": "afpbbcom",
+                "id": 90841111,
+                "id_str": "90841111"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "＞列車が超満員ということは、鉄道の旅の需要が高いという素晴らしいしるしだ！\n\n電車走らせるのもCO2で出そうですがいいんですかね\n\nグレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い https://t.co/QTonIuziWd @afpbbcomから",
+    "has_extended_profile": false,
+    "id": 1206536872916185088,
+    "id_str": "1206536872916185088",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "＞列車が超満員ということは、鉄道の旅の需要が高いという素晴らしいしるしだ！\n\n電車走らせるのも",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 28 18:55:32 +0000 2018",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "フォロワー…どこ…もう目が見えないよ…",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/c9eR4D9d3Q",
+                        "display_url": "novelup.plus/user/925755788…",
+                        "expanded_url": "https://novelup.plus/user/925755788/profile"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 322437,
+        "follow_request_sent": false,
+        "followers_count": 160,
+        "following": false,
+        "friends_count": 996,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1023280814522396672,
+        "id_str": "1023280814522396672",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 5,
+        "location": "ふすま一枚の象牙の塔",
+        "name": "角角角",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1023280814522396672/1560052171",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1200418979304525824/STti3yij_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1200418979304525824/STti3yij_normal.png",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "tri_sankaku",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 79856,
+        "time_zone": "",
+        "url": "https://t.co/c9eR4D9d3Q",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 16:45:54 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    112,
+                    135
+                ],
+                "url": "https://t.co/sn6EKxSJMw",
+                "display_url": "afpbb.com/articles/-/325…",
+                "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "マライ・メントライン＠職業はドイツ人",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "marei_de_pon",
+                "id": 326067200,
+                "id_str": "326067200"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @marei_de_pon: ドイツ国鉄（DB）はよくネタになる存在。ドイツ人は列車で遠路やってきた知人を迎える際に「旅はどうだった？」ではなく「どのくらい遅れた？」とよく聞く。長距離国際列車が多いから仕方ないけど。\nhttps://t.co/sn6EKxSJMw【グレタ…",
+    "has_extended_profile": false,
+    "id": 1206616452502974464,
+    "id_str": "1206616452502974464",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 344,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 10:44:05 +0000 2019",
+        "display_text_range": [
+            0,
+            153
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        94,
+                        117
+                    ],
+                    "url": "https://t.co/sn6EKxSJMw",
+                    "display_url": "afpbb.com/articles/-/325…",
+                    "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 519,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "ドイツ国鉄（DB）はよくネタになる存在。ドイツ人は列車で遠路やってきた知人を迎える際に「旅はどうだった？」ではなく「どのくらい遅れた？」とよく聞く。長距離国際列車が多いから仕方ないけど。\nhttps://t.co/sn6EKxSJMw【グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い】",
+        "has_extended_profile": false,
+        "id": 1206525395924742144,
+        "id_str": "1206525395924742144",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 344,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "ドイツ国鉄（DB）はよくネタになる存在。ドイツ人は列車で遠路やってきた知人を迎える際に「旅はどうだった？\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Jun 29 09:43:53 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "ドイツから来ました。職業はドイツ人です。ドイツミステリ応援係をやってます。 https://t.co/Hkooz6Kyig レビュー・エッセイ記事を書いたり、映像翻訳をやったり、アニメ・ノイエ銀英伝のドイツ語監修をやったり。お仕事関係のご連絡はこちらまで： inoshishi_days-marei@yahoo.co.jp",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 7110,
+            "follow_request_sent": false,
+            "followers_count": 22295,
+            "following": false,
+            "friends_count": 277,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 326067200,
+            "id_str": "326067200",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 636,
+            "location": "",
+            "name": "マライ・メントライン＠職業はドイツ人",
+            "notifications": false,
+            "profile_background_color": "050505",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1418597405/yatsu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1418597405/yatsu_normal.jpg",
+            "profile_link_color": "1B7D4B",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "marei_de_pon",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 14395,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @marei_de_pon: ドイツ国鉄（DB）はよくネタになる存在。ドイツ人は列車で遠路やってきた知人を迎える際",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 10 16:14:24 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "由来は「遊び庭(あしびなー)」アラブ顔な夫 @tetsunosuke の妻(たまに中国語で話かけられる)｜沖縄出身/テレビっ子/ #baystars (俄)/謎解き/ボドゲ/限界しりとり/みんはや/高校野球バスケ実況多/スポーツは観戦派/読書/ラブコメ脳/ヒトカラ/音ゲー(歌マクロス)/カントリーマアム/歌詞重視派",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/SAGnFR19Y5",
+                        "display_url": "twilog.org/ashibi",
+                        "expanded_url": "http://twilog.org/ashibi"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 66065,
+        "follow_request_sent": false,
+        "followers_count": 1183,
+        "following": false,
+        "friends_count": 1856,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 5933962,
+        "id_str": "5933962",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 66,
+        "location": "しうまいちほー",
+        "name": "あしび(Xperia→GALAXY)",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5933962/1483808414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793110115477958656/hs1WqPuF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793110115477958656/hs1WqPuF_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ashibi",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 205387,
+        "time_zone": "",
+        "url": "https://t.co/SAGnFR19Y5",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

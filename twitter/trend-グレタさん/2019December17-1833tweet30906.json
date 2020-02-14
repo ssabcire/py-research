@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:19:42 +0000 2019",
+    "display_text_range": [
+        0,
+        80
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    57,
+                    80
+                ],
+                "url": "https://t.co/ooomYuyuYN",
+                "display_url": "bit.ly/36w9iKG",
+                "expanded_url": "http://bit.ly/36w9iKG"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ダイヤモンド・オンライン",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "dol_editors",
+                "id": 99232424,
+                "id_str": "99232424"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @dol_editors: グレタさんが訴える気候変動の正義は「新たな階級闘争」だ - ＤＯＬ特別レポート https://t.co/ooomYuyuYN",
+    "has_extended_profile": false,
+    "id": 1206579659455909889,
+    "id_str": "1206579659455909889",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 5,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 13 04:30:01 +0000 2019",
+        "display_text_range": [
+            0,
+            63
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        40,
+                        63
+                    ],
+                    "url": "https://t.co/ooomYuyuYN",
+                    "display_url": "bit.ly/36w9iKG",
+                    "expanded_url": "http://bit.ly/36w9iKG"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 19,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんが訴える気候変動の正義は「新たな階級闘争」だ - ＤＯＬ特別レポート https://t.co/ooomYuyuYN",
+        "has_extended_profile": false,
+        "id": 1205344095884832774,
+        "id_str": "1205344095884832774",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 5,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://diamond.jp\" rel=\"nofollow\"\u003eDOL_autopost\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんが訴える気候変動の正義は「新たな",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Dec 25 06:27:06 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "経済ビジネス情報サイト「ダイヤモンド・オンライン」の公式ツイッターです。ビジネス、政治、経営、マーケット、キャリア、スキルなどビジネスに必須の情報をお届けします",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/DKLlXSrFor",
+                            "display_url": "diamond.jp",
+                            "expanded_url": "https://diamond.jp/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 74,
+            "follow_request_sent": false,
+            "followers_count": 289788,
+            "following": false,
+            "friends_count": 27609,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 99232424,
+            "id_str": "99232424",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 8454,
+            "location": "東京都渋谷区",
+            "name": "ダイヤモンド・オンライン",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875602740730241024/WXymAE45_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875602740730241024/WXymAE45_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "E6DA8F",
+            "profile_sidebar_fill_color": "EBEBEB",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "dol_editors",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 170078,
+            "time_zone": "",
+            "url": "https://t.co/DKLlXSrFor",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @dol_editors: グレタさんが訴える気候変動の正義は「新たな",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 28 05:10:49 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "九州長崎生",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 8592,
+        "follow_request_sent": false,
+        "followers_count": 258,
+        "following": false,
+        "friends_count": 853,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 118284505,
+        "id_str": "118284505",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "湾岸有明",
+        "name": "ponta241402",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1503016527/icon13137328247202_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1503016527/icon13137328247202_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ponta241402",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 8383,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,607 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 15:32:10 +0000 2019",
+    "display_text_range": [
+        0,
+        51
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    28,
+                    51
+                ],
+                "url": "https://t.co/cUN0R8yTR1",
+                "display_url": "twitter.com/maori/status/1…",
+                "expanded_url": "https://twitter.com/maori/status/1206516349662564352"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Clara Kreft 🤨",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "808Towns",
+                "id": 116460955,
+                "id_str": "116460955"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @808Towns: ドイツのグレタさんの扱い方 https://t.co/cUN0R8yTR1",
+    "has_extended_profile": false,
+    "id": 1206597895270453248,
+    "id_str": "1206597895270453248",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206516349662564352,
+    "quoted_status_id_str": "1206516349662564352",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 8,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 15:25:12 +0000 2019",
+        "display_text_range": [
+            0,
+            13
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        14,
+                        37
+                    ],
+                    "url": "https://t.co/cUN0R8yTR1",
+                    "display_url": "twitter.com/maori/status/1…",
+                    "expanded_url": "https://twitter.com/maori/status/1206516349662564352"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 22,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "ドイツのグレタさんの扱い方 https://t.co/cUN0R8yTR1",
+        "has_extended_profile": false,
+        "id": 1206596143058014208,
+        "id_str": "1206596143058014208",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206516349662564352,
+        "quoted_status_id_str": "1206516349662564352",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Mon Dec 16 10:08:08 +0000 2019",
+            "display_text_range": [
+                0,
+                32
+            ],
+            "entities": {
+                "urls": [],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": [
+                    {
+                        "id": 1206516332377841666,
+                        "id_str": "1206516332377841666",
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/EL5oNj8WoAIVoJX.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EL5oNj8WoAIVoJX.jpg",
+                        "url": "https://t.co/yTcaxt4KUU",
+                        "display_url": "pic.twitter.com/yTcaxt4KUU",
+                        "expanded_url": "https://twitter.com/Maori/status/1206516349662564352/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 350,
+                                "h": 248,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 350,
+                                "h": 248,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 350,
+                                "h": 248,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            33,
+                            56
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": [
+                    {
+                        "id": 1206516332377841666,
+                        "id_str": "1206516332377841666",
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/EL5oNj8WoAIVoJX.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EL5oNj8WoAIVoJX.jpg",
+                        "url": "https://t.co/yTcaxt4KUU",
+                        "display_url": "pic.twitter.com/yTcaxt4KUU",
+                        "expanded_url": "https://twitter.com/Maori/status/1206516349662564352/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 350,
+                                "h": 248,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 350,
+                                "h": 248,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 350,
+                                "h": 248,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "animated_gif",
+                        "indices": [
+                            33,
+                            56
+                        ],
+                        "video_info": {
+                            "aspect_ratio": [
+                                175,
+                                124
+                            ],
+                            "duration_millis": 0,
+                            "variants": [
+                                {
+                                    "bitrate": 0,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/tweet_video/EL5oNj8WoAIVoJX.mp4"
+                                }
+                            ]
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 253,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "Wie Deutschland mit Greta umgeht https://t.co/yTcaxt4KUU",
+            "has_extended_profile": false,
+            "id": 1206516349662564352,
+            "id_str": "1206516349662564352",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "de",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 38,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+            "scopes": null,
+            "text": "Wie Deutschland mit Greta umgeht",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Jan 29 09:34:00 +0000 2010",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Ich könnte stundenlang so weitermachen. Meine Familie: @kallenje und Jack the Ripper.",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 194511,
+                "follow_request_sent": false,
+                "followers_count": 19131,
+                "following": false,
+                "friends_count": 909,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 109518412,
+                "id_str": "109518412",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 340,
+                "location": "Hamburg",
+                "name": "Maori",
+                "notifications": false,
+                "profile_background_color": "25263A",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/109518412/1449788004",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1186640714521858049/p8cni2DO_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186640714521858049/p8cni2DO_normal.jpg",
+                "profile_link_color": "25263A",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EEEEEE",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "Maori",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 31021,
+                "time_zone": "",
+                "url": "",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 8,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "ドイツの\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Feb 22 14:48:27 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "東京の街角探検が大好きな在日ドイツ人女性♪ 他に好き：映画、読書、通訳、落語、鯛焼き食べ比べ、再生可能エネルギー、現代美術、擬音語、人間観察、チョコミント、白アスパラガス。地震と津波は大嫌い。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/KaC0ly1gDn",
+                            "display_url": "eighthundredandeighttowns.typepad.com/808-towns/",
+                            "expanded_url": "http://eighthundredandeighttowns.typepad.com/808-towns/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 10553,
+            "follow_request_sent": false,
+            "followers_count": 23098,
+            "following": false,
+            "friends_count": 4625,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 116460955,
+            "id_str": "116460955",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 782,
+            "location": "やーぱん",
+            "name": "Clara Kreft 🤨",
+            "notifications": false,
+            "profile_background_color": "BADFCD",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/116460955/1574344296",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1419498120/kurara1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1419498120/kurara1_normal.jpg",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "F2E195",
+            "profile_sidebar_fill_color": "FFF7CC",
+            "profile_text_color": "0C3E53",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "808Towns",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 91462,
+            "time_zone": "",
+            "url": "https://t.co/KaC0ly1gDn",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @808Towns: ドイツのグレタさんの扱い\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 05 07:04:35 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "音楽作ったり、企画考えたり、写真撮ったり、渡米してたり、8年間親の介護したりしてました。今はただの大家のおっさんやってます。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/7eDM4uJ7DY",
+                        "display_url": "radio.garden/live/hanalei-h…",
+                        "expanded_url": "http://radio.garden/live/hanalei-hi/kkcr/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 7931,
+        "follow_request_sent": false,
+        "followers_count": 439,
+        "following": false,
+        "friends_count": 86,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 174955600,
+        "id_str": "174955600",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 45,
+        "location": "Tokyo",
+        "name": "yoshiya🐾",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/174955600/1504698757",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905397902154973184/bJ9zIApr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905397902154973184/bJ9zIApr_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ysy448",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 155455,
+        "time_zone": "",
+        "url": "https://t.co/7eDM4uJ7DY",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

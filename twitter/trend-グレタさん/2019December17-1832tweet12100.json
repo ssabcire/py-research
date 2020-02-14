@@ -1,0 +1,202 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 01:15:02 +0000 2019",
+    "display_text_range": [
+        0,
+        116
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    55,
+                    78
+                ],
+                "url": "https://t.co/lsoJLk1zBT",
+                "display_url": "smart-flash.jp/sociopolitics/…",
+                "expanded_url": "https://smart-flash.jp/sociopolitics/88305"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    81,
+                    92
+                ],
+                "text": "SmartFLASH"
+            },
+            {
+                "indices": [
+                    93,
+                    102
+                ],
+                "text": "グレタトゥンベリ"
+            },
+            {
+                "indices": [
+                    103,
+                    109
+                ],
+                "text": "環境活動家"
+            },
+            {
+                "indices": [
+                    110,
+                    116
+                ],
+                "text": "地球温暖化"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "開催地変更でグレタさん困惑…国連COP25で馬糞も登場の大混乱 ｜ Smart FLASH[光文社週刊誌] \nhttps://t.co/lsoJLk1zBT\n\n #SmartFLASH #グレタトゥンベリ #環境活動家 #地球温暖化",
+    "has_extended_profile": false,
+    "id": 1206744579447222272,
+    "id_str": "1206744579447222272",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+    "scopes": null,
+    "text": "開催地変更でグレタさん困惑…国連COP25で馬糞も登場の大混乱 ｜ Smart FLASH[光文社週刊\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 25 17:17:08 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "写真週刊誌FLASHの公式サイトです",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/I29pGezEFN",
+                        "display_url": "smart-flash.jp",
+                        "expanded_url": "https://smart-flash.jp"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 962,
+        "follow_request_sent": false,
+        "followers_count": 4255,
+        "following": false,
+        "friends_count": 275,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 4650444787,
+        "id_str": "4650444787",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 97,
+        "location": "",
+        "name": "SmartFLASH",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4650444787/1454929703",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/880682231450263552/Zh7zIs_i_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/880682231450263552/Zh7zIs_i_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "info_smafla",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 5967,
+        "time_zone": "",
+        "url": "https://t.co/I29pGezEFN",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

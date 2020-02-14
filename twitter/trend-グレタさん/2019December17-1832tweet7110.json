@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:34:01 +0000 2019",
+    "display_text_range": [
+        0,
+        47
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんが頑張ってCO2を減らしてくれるというので、俺は遠慮なくガソリンを燃やすことができる",
+    "has_extended_profile": false,
+    "id": 1206779555614117896,
+    "id_str": "1206779555614117896",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\"\u003eTweetbot for iΟS\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんが頑張ってCO2を減らし\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 22 14:06:14 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "RIDLEY NOAH RS/Panasonic FRCC01/SUBARU IMPREZA WRX STI(CBA-GRF)/PENTAX K-5/FUJIFILM X100S/Clubmusic/黒タイツ/眼鏡/タートルネック/Dr.Pepper/",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/0ECAUWpH46",
+                        "display_url": "fukahire4031.hatenablog.jp",
+                        "expanded_url": "http://fukahire4031.hatenablog.jp/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 23676,
+        "follow_request_sent": false,
+        "followers_count": 396,
+        "following": false,
+        "friends_count": 809,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 116451557,
+        "id_str": "116451557",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 22,
+        "location": "80デニール空間",
+        "name": "nabeken",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/116451557/1538237675",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/906870240235085824/7nTA0fCE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/906870240235085824/7nTA0fCE_normal.jpg",
+        "profile_link_color": "FF00F7",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BlacktightsNBKN",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 113101,
+        "time_zone": "",
+        "url": "https://t.co/0ECAUWpH46",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

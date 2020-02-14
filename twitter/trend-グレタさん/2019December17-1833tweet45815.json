@@ -1,0 +1,263 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 10:23:42 +0000 2019",
+    "display_text_range": [
+        0,
+        55
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    32,
+                    55
+                ],
+                "url": "https://t.co/1X7ft572c2",
+                "display_url": "ift.tt/2RXGp68",
+                "expanded_url": "https://ift.tt/2RXGp68"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": [
+            {
+                "id": 1206520265989079041,
+                "id_str": "1206520265989079041",
+                "media_url": "http://pbs.twimg.com/media/EL5ryhyWwAEvZay.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL5ryhyWwAEvZay.jpg",
+                "url": "https://t.co/fa9gVCjm5B",
+                "display_url": "pic.twitter.com/fa9gVCjm5B",
+                "expanded_url": "https://twitter.com/road_kumitsu/status/1206520267087982592/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 343,
+                        "h": 193,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 343,
+                        "h": 193,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 343,
+                        "h": 193,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    56,
+                    79
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206520265989079041,
+                "id_str": "1206520265989079041",
+                "media_url": "http://pbs.twimg.com/media/EL5ryhyWwAEvZay.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL5ryhyWwAEvZay.jpg",
+                "url": "https://t.co/fa9gVCjm5B",
+                "display_url": "pic.twitter.com/fa9gVCjm5B",
+                "expanded_url": "https://twitter.com/road_kumitsu/status/1206520267087982592/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 343,
+                        "h": 193,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 343,
+                        "h": 193,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 343,
+                        "h": 193,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    56,
+                    79
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんに激震、「第二のグレタ」８歳の美少女環境活動家が登場 https://t.co/1X7ft572c2 https://t.co/fa9gVCjm5B",
+    "has_extended_profile": false,
+    "id": 1206520267087982592,
+    "id_str": "1206520267087982592",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://ifttt.com\" rel=\"nofollow\"\u003eIFTTT\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんに激震、「第二のグレタ」８\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 13 15:55:21 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "相互希望100%3ヶ月程前からツイッターを始めました。　初心者の私でもツイッターを楽しむ方法を色々とつぶやきたいと想います。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/vy9r3UIQYh",
+                        "display_url": "twitterlife.work",
+                        "expanded_url": "https://twitterlife.work/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 626,
+        "following": false,
+        "friends_count": 751,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 995693992934236161,
+        "id_str": "995693992934236161",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "横浜市",
+        "name": "くみつ",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/995693992934236161/1526228414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/995699704653475840/HsCIUULG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/995699704653475840/HsCIUULG_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "road_kumitsu",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 25504,
+        "time_zone": "",
+        "url": "https://t.co/vy9r3UIQYh",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

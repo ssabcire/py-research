@@ -1,0 +1,172 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:29:54 +0000 2019",
+    "display_text_range": [
+        0,
+        26
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 6,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんの電車の床に座ってるポーズカッコエエな･･",
+    "has_extended_profile": false,
+    "id": 1206536927702175745,
+    "id_str": "1206536927702175745",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        122.9040343,
+                        24.0133434
+                    ],
+                    [
+                        153.9976966,
+                        24.0133434
+                    ],
+                    [
+                        153.9976966,
+                        45.562897
+                    ],
+                    [
+                        122.9040343,
+                        45.562897
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Japan",
+        "country_code": "JP",
+        "full_name": "Japan",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "06ef846bfc783874",
+        "name": "Japan",
+        "place_type": "country",
+        "polylines": null,
+        "url": "https://api.twitter.com/1.1/geo/id/06ef846bfc783874.json"
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんの電車\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 27 05:21:16 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "プロの漫画読み、あゝ我らがミャオ将軍、幼女戦記、、別式、鬼滅の刃、好きなものは風景写真の綺麗な空を見ることMMR無言フォロー気にしないので無言フォローします。同名でpixivやってます",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 68765,
+        "follow_request_sent": false,
+        "followers_count": 2732,
+        "following": false,
+        "friends_count": 1175,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1624672657,
+        "id_str": "1624672657",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 17,
+        "location": "あなたの後ろ",
+        "name": "たろう",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1624672657/1556684097",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1105944586227048448/D-pA0L9o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105944586227048448/D-pA0L9o_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jkthak",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 6541,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

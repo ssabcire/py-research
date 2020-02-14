@@ -1,0 +1,377 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:22:25 +0000 2019",
+    "display_text_range": [
+        0,
+        136
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    113,
+                    136
+                ],
+                "url": "https://t.co/A2DbfWsG6C",
+                "display_url": "news.yahoo.co.jp/byline/shivare…",
+                "expanded_url": "https://news.yahoo.co.jp/byline/shivarei/20191213-00154732/"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "志葉玲",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "reishiva",
+                "id": 51894123,
+                "id_str": "51894123"
+            },
+            {
+                "name": "野口健 （山屋）",
+                "indices": [
+                    14,
+                    29
+                ],
+                "screen_name": "kennoguchi0821",
+                "id": 153280000,
+                "id_str": "153280000"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @reishiva: @kennoguchi0821 なぜ、グレタさんが飛行機に乗らず、電車や船で移動するのか、それがどういう社会的・経済的な影響があるのか、ニュース配信しました。野口さんにも、是非お読みいただければ。\nhttps://t.co/A2DbfWsG6C",
+    "has_extended_profile": false,
+    "id": 1206821933897023490,
+    "id_str": "1206821933897023490",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 49,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 13 03:55:02 +0000 2019",
+        "display_text_range": [
+            16,
+            122
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        99,
+                        122
+                    ],
+                    "url": "https://t.co/A2DbfWsG6C",
+                    "display_url": "news.yahoo.co.jp/byline/shivare…",
+                    "expanded_url": "https://news.yahoo.co.jp/byline/shivarei/20191213-00154732/"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "野口健 （山屋）",
+                    "indices": [
+                        0,
+                        15
+                    ],
+                    "screen_name": "kennoguchi0821",
+                    "id": 153280000,
+                    "id_str": "153280000"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 121,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@kennoguchi0821 なぜ、グレタさんが飛行機に乗らず、電車や船で移動するのか、それがどういう社会的・経済的な影響があるのか、ニュース配信しました。野口さんにも、是非お読みいただければ。\nhttps://t.co/A2DbfWsG6C",
+        "has_extended_profile": false,
+        "id": 1205335294779617281,
+        "id_str": "1205335294779617281",
+        "in_reply_to_screen_name": "kennoguchi0821",
+        "in_reply_to_status_id": 1204920513446858752,
+        "in_reply_to_status_id_str": "1204920513446858752",
+        "in_reply_to_user_id": 153280000,
+        "in_reply_to_user_id_str": "153280000",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 49,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "scopes": null,
+        "text": "なぜ、グレタさんが飛行機に乗らず、電車や船で移動するのか、それがどうい\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jun 29 00:21:14 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "いわゆる戦場ジャーナリスト。環境(原発問題も)、人権、反貧困なども取材執筆。Yahoo!ニュース個人オーサー（オフィシャルライター）。\nhttps://t.co/HGXskchJ7F\n 講演、原稿等のご依頼は公式ウェブサイトのメールフォームから。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/ABAPNqrGGj",
+                            "display_url": "reishiva.net",
+                            "expanded_url": "https://www.reishiva.net/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 26116,
+            "follow_request_sent": false,
+            "followers_count": 53784,
+            "following": false,
+            "friends_count": 2739,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 51894123,
+            "id_str": "51894123",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 2180,
+            "location": "神出鬼没",
+            "name": "志葉玲",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/51894123/1425634325",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1001851416024039424/X5o64HSr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1001851416024039424/X5o64HSr_normal.jpg",
+            "profile_link_color": "0D07B3",
+            "profile_sidebar_border_color": "0051E8",
+            "profile_sidebar_fill_color": "FFA600",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "reishiva",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 50881,
+            "time_zone": "",
+            "url": "https://t.co/ABAPNqrGGj",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @reishiva: @kennoguchi0821 なぜ、グレタさんが飛行機に乗らず、電車や船で移動するのか、それがどうい\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 29 13:50:39 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "写真使用アイドル全員本人使用許可済。秋葉のぞみ,清水綾音,上原ありさ,谷口夕佳,服部紗也加,伏美亜里紗,豊田さやか 他。全員の幸せ願って応援します。関ガール, 仮面女子, Buffaloes, BsGirls, テレビ岸和田, ラヂオきしわだ, 野球 等も応援。宇宙戦艦ヤマト,ガンダム,模型 等も好き。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/lu6E7kdY22",
+                        "display_url": "bowling-xx.seesaa.net",
+                        "expanded_url": "http://bowling-xx.seesaa.net/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 73565,
+        "follow_request_sent": false,
+        "followers_count": 1629,
+        "following": false,
+        "friends_count": 774,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 109564296,
+        "id_str": "109564296",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 63,
+        "location": "大阪府岸和田市",
+        "name": "ダブルエックス1209",
+        "notifications": false,
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/109564296/1576415443",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/559730907985084418/fcwE8Uaq_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/559730907985084418/fcwE8Uaq_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GX9901DX1209",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 229856,
+        "time_zone": "",
+        "url": "http://t.co/lu6E7kdY22",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,347 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 13:21:34 +0000 2019",
+    "display_text_range": [
+        0,
+        111
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "神経発達症（発達障害）のたつや",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "t2861641202",
+                "id": 945450511817256961,
+                "id_str": "945450511817256961"
+            },
+            {
+                "name": "柏崎@垢凍結",
+                "indices": [
+                    17,
+                    30
+                ],
+                "screen_name": "miraikogoods",
+                "id": 2721196658,
+                "id_str": "2721196658"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @t2861641202: @miraikogoods 発達障害という点に注目されるのが良くないですね。\n\n性別や年齢や出生や経歴も然り。\n\n皆グレタさんが何を発言して、発言し続けているかに注目すればいいと思います。",
+    "has_extended_profile": false,
+    "id": 1206565030050680832,
+    "id_str": "1206565030050680832",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 7,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 13:48:00 +0000 2019",
+        "display_text_range": [
+            14,
+            94
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "柏崎@垢凍結",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "screen_name": "miraikogoods",
+                    "id": 2721196658,
+                    "id_str": "2721196658"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 61,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@miraikogoods 発達障害という点に注目されるのが良くないですね。\n\n性別や年齢や出生や経歴も然り。\n\n皆グレタさんが何を発言して、発言し続けているかに注目すればいいと思います。",
+        "has_extended_profile": false,
+        "id": 1206209292413489152,
+        "id_str": "1206209292413489152",
+        "in_reply_to_screen_name": "miraikogoods",
+        "in_reply_to_status_id": 1206053604093595649,
+        "in_reply_to_status_id_str": "1206053604093595649",
+        "in_reply_to_user_id": 2721196658,
+        "in_reply_to_user_id_str": "2721196658",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 7,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "発達障害という点に注目されるのが良くないですね。\n\n性別",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Dec 26 00:25:42 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "神経発達症（発達障害）のたつやは、\n神経発達症（発達障害）に悩み、\n神経発達症（発達障害）を受け入れ、\n神経発達症（発達障害）と共に生きていく\nと決めた人です。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/R6WHJfrMvW",
+                            "display_url": "ja.wikipedia.org/wiki/%E7%A5%9E…",
+                            "expanded_url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%B5%8C%E7%99%BA%E9%81%94%E7%97%87"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 21642,
+            "follow_request_sent": false,
+            "followers_count": 785,
+            "following": false,
+            "friends_count": 787,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 945450511817256961,
+            "id_str": "945450511817256961",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 4,
+            "location": "",
+            "name": "神経発達症（発達障害）のたつや",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/945450511817256961/1532877379",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1023587230223220736/3thCiuno_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1023587230223220736/3thCiuno_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "t2861641202",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 17347,
+            "time_zone": "",
+            "url": "https://t.co/R6WHJfrMvW",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @t2861641202: @miraikogoods 発達障害という点に注目されるのが良くないですね。\n\n性別",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 29 02:30:21 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "資源ゴミ",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2133,
+        "follow_request_sent": false,
+        "followers_count": 1,
+        "following": false,
+        "friends_count": 5,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1144795205406564352,
+        "id_str": "1144795205406564352",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "ショック❗❗❗❗❗❗",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1144795205406564352/1575897412",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1163736806350700544/nedFJRDy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1163736806350700544/nedFJRDy_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NAKAMUR79058987",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 13617,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 09:37:06 +0000 2019",
+    "display_text_range": [
+        0,
+        109
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "石井孝明（Ishii Takaaki）",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "ishiitakaaki",
+                "id": 240698532,
+                "id_str": "240698532"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @ishiitakaaki: 不勉強ですみませんがグレタさんの発言で壁の前に並べる（銃殺の意味）とか英語表現してまして私より英語能力は多分高い。スウェーデンの教育力なのか（頭良さそうではないが）取り巻きがいるのか",
+    "has_extended_profile": false,
+    "id": 1206508538723328001,
+    "id_str": "1206508538723328001",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 10,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 09:20:25 +0000 2019",
+        "display_text_range": [
+            0,
+            91
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 22,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "不勉強ですみませんがグレタさんの発言で壁の前に並べる（銃殺の意味）とか英語表現してまして私より英語能力は多分高い。スウェーデンの教育力なのか（頭良さそうではないが）取り巻きがいるのか",
+        "has_extended_profile": false,
+        "id": 1206504342762610689,
+        "id_str": "1206504342762610689",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 10,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "不勉強ですみませんがグレタさんの発言で壁の前に並べる（銃殺の\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jan 20 14:47:44 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "ジャーナリスト。エネルギー・原子力問題、グリーン経済、医療、農業、金融、投資と資産運用情報、安全保障問題、科学と工業技術、都市計画と地域振興。趣味で軍事史と経済史 。Ishii Takaaki, Journalist. Reporting Japanese energy policy and technology",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/23uDuyVPR0",
+                            "display_url": "blog.livedoor.jp/ishiitakaaki3/",
+                            "expanded_url": "http://blog.livedoor.jp/ishiitakaaki3/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 51,
+            "follow_request_sent": false,
+            "followers_count": 101365,
+            "following": false,
+            "friends_count": 8376,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 240698532,
+            "id_str": "240698532",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1883,
+            "location": "東京都",
+            "name": "石井孝明（Ishii Takaaki）",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/240698532/1572524130",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1654603221/ishii_takaaki______normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654603221/ishii_takaaki______normal.jpg",
+            "profile_link_color": "94D487",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "ishiitakaaki",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 178869,
+            "time_zone": "",
+            "url": "https://t.co/23uDuyVPR0",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @ishiitakaaki: 不勉強ですみませんがグレタさんの発言で壁の前に並べる（銃殺の\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 21 09:28:57 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "アカウント名は雅号。\n詠みは「ほずみ  しゃらく」\n「澄んだ心を保ちつつ、蕭洒に人生を楽しむ」をモットーにしております。⛓️  \n\n気になった方を勝手にフォローさせていただきます。こちらに対しては無理にフォロー・フォロバしなくて結構ですからね👍フォロー解除もご自由に😊",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 88387,
+        "follow_request_sent": false,
+        "followers_count": 972,
+        "following": false,
+        "friends_count": 869,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 921669628014628864,
+        "id_str": "921669628014628864",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 29,
+        "location": "",
+        "name": "しゃらく（保澄洒楽)",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/921669628014628864/1552986423",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1192652214138884096/WjcfMlut_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192652214138884096/WjcfMlut_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tc5GHs9SXM7ndfC",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 113336,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

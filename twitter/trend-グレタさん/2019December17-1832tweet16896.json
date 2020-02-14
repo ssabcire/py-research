@@ -1,0 +1,337 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 23:21:45 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "おかめはちもく",
+                "indices": [
+                    3,
+                    18
+                ],
+                "screen_name": "okame8mokutyuu",
+                "id": 3138899630,
+                "id_str": "3138899630"
+            },
+            {
+                "name": "ろくでなし子 祝デコまん無罪確定！",
+                "indices": [
+                    20,
+                    26
+                ],
+                "screen_name": "6d745",
+                "id": 264627362,
+                "id_str": "264627362"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @okame8mokutyuu: @6d745 （´-`）.｡oO（私見だけど、マララさんには『しなやか柔軟で強か』という、女性ならではの強みを全身から発せられるイメージを感じる一方、グレタさんには『鋭くて硬くて脆い』という男性の弱い一面が全身から感じられるイメージがある…",
+    "has_extended_profile": false,
+    "id": 1206716069970247680,
+    "id_str": "1206716069970247680",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 09 13:38:54 +0000 2019",
+        "display_text_range": [
+            7,
+            151
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "ろくでなし子 祝デコまん無罪確定！",
+                    "indices": [
+                        0,
+                        6
+                    ],
+                    "screen_name": "6d745",
+                    "id": 264627362,
+                    "id_str": "264627362"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@6d745 （´-`）.｡oO（私見だけど、マララさんには『しなやか柔軟で強か』という、女性ならではの強みを全身から発せられるイメージを感じる一方、グレタさんには『鋭くて硬くて脆い』という男性の弱い一面が全身から感じられるイメージがあるんだよなぁ…。\n何でグレタさんは男性の悪い面を見習うのかなぁ…?",
+        "has_extended_profile": false,
+        "id": 1204032677487071232,
+        "id_str": "1204032677487071232",
+        "in_reply_to_screen_name": "6d745",
+        "in_reply_to_status_id": 1203995034149965825,
+        "in_reply_to_status_id_str": "1203995034149965825",
+        "in_reply_to_user_id": 264627362,
+        "in_reply_to_user_id_str": "264627362",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "（´-`）.｡oO（私見だけど、マララさんには『しなやか柔軟で強か』という、女性ならではの強みを全身か\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Apr 04 11:52:31 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "リベラルになりました。嫌いなCMはハズキルーペです。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 8287,
+            "follow_request_sent": false,
+            "followers_count": 268,
+            "following": false,
+            "friends_count": 10,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 3138899630,
+            "id_str": "3138899630",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 79,
+            "location": "",
+            "name": "おかめはちもく",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1081471247660113920/aLAfWS6R_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081471247660113920/aLAfWS6R_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "okame8mokutyuu",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 29560,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @okame8mokutyuu: @6d745 （´-`）.｡oO（私見だけど、マララさんには『しなやか柔軟で強か』という、女性な\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 15 16:20:47 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Nice to meet u. ❀.(*´▽`*)❀.\n『謎の似非中国人』→『香菜LOVEパクチー』→『パクチーLOVE香菜』です(*･ω･)*_ _)ﾍﾟｺﾘ",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 176995,
+        "follow_request_sent": false,
+        "followers_count": 615,
+        "following": false,
+        "friends_count": 651,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 886259254956482560,
+        "id_str": "886259254956482560",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 6,
+        "location": "千葉 醤油市",
+        "name": "パクチーLOVE香菜",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/886259254956482560/1500136435",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1092369453268910080/XLIuuJ9R_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092369453268910080/XLIuuJ9R_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LOVEXIANGCAI926",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 159430,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

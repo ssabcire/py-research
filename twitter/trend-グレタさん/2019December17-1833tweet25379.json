@@ -1,0 +1,193 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 16:47:24 +0000 2019",
+    "display_text_range": [
+        0,
+        150
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    70,
+                    93
+                ],
+                "url": "https://t.co/jdsAO09FLP",
+                "display_url": "snjpn.net/archives/171675",
+                "expanded_url": "https://snjpn.net/archives/171675"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Share News Japan",
+                "indices": [
+                    94,
+                    110
+                ],
+                "screen_name": "sharenewsjapan1",
+                "id": 1161186227279654912,
+                "id_str": "1161186227279654912"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 9,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "【小競り合い】グレタさん「帰りの列車は超満員」→ ドイツ鉄道「ファーストクラスであなたをおもてなしした有能な弊社スタッフについても触れて」 https://t.co/jdsAO09FLP @sharenewsjapan1から\n\nおいグレタさんよ罰として\n次回から夜行バスで移動な\nしかも４列シートでな",
+    "has_extended_profile": false,
+    "id": 1206616827939287040,
+    "id_str": "1206616827939287040",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        134.422162,
+                        33.955288
+                    ],
+                    [
+                        134.608131,
+                        33.955288
+                    ],
+                    [
+                        134.608131,
+                        34.131129
+                    ],
+                    [
+                        134.422162,
+                        34.131129
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Japan",
+        "country_code": "JP",
+        "full_name": "Tokushima-shi, Tokushima",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "5d30a93c0cd673cd",
+        "name": "Tokushima-shi",
+        "place_type": "city",
+        "polylines": null,
+        "url": "https://api.twitter.com/1.1/geo/id/5d30a93c0cd673cd.json"
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "【小競り合い】グレタさん「帰りの列車は超満員」→ ドイツ鉄道「ファーストクラスであなたをおもてなしし\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 27 04:06:10 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "徳島市民です。オリックスファンです。徳島インディゴソックスファンです。カマタマーレ讃岐サポ(初心者)です。徳島ヴォルティスサポ(少々)です。鬼滅の刃好きです。飲んだくれです。ど変態です。とにかくゆるく楽しくやってます。なお泥酔時には訳わからんツイします。それ以外何もございません。こんなアカウントですがひとつよしなに。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 141927,
+        "follow_request_sent": false,
+        "followers_count": 1604,
+        "following": false,
+        "friends_count": 1833,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2465510798,
+        "id_str": "2465510798",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 24,
+        "location": "日本 徳島",
+        "name": "裕乃助@師走は仕事に励みます",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2465510798/1572751017",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1106116088901713920/K6PzLlL6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106116088901713920/K6PzLlL6_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "yunosuke2578",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 79300,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

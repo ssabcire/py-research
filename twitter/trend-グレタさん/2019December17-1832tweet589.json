@@ -1,0 +1,356 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 07:34:01 +0000 2019",
+    "display_text_range": [
+        0,
+        95
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    96,
+                    119
+                ],
+                "url": "https://t.co/ijnjdpfFBR",
+                "display_url": "twitter.com/mathrunner7/st…",
+                "expanded_url": "https://twitter.com/mathrunner7/status/1176649693570318336"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんに対する皮肉のツイート。\n\n『いわゆる活動家が使用するプラスチックは、気候の保護に役立つ魔法のプラスチックの一種です。プラスチックは、一般の人が使用する場合にのみ害を及ぼします。』 https://t.co/ijnjdpfFBR",
+    "has_extended_profile": false,
+    "id": 1206839952996126721,
+    "id_str": "1206839952996126721",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1176649693570318336,
+    "quoted_status_id_str": "1176649693570318336",
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Sep 25 00:08:42 +0000 2019",
+        "display_text_range": [
+            27,
+            175
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "Marcos Ordás",
+                    "indices": [
+                        0,
+                        11
+                    ],
+                    "screen_name": "MarcosOrds",
+                    "id": 512301910,
+                    "id_str": "512301910"
+                },
+                {
+                    "name": "Greta Thunberg",
+                    "indices": [
+                        12,
+                        26
+                    ],
+                    "screen_name": "GretaThunberg",
+                    "id": 1006419421244678144,
+                    "id_str": "1006419421244678144"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 420,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@MarcosOrds @GretaThunberg Plastic used by so called activists is some kind of magical plastic which helps saving climate. Plastic harms only when it is used by common people.",
+        "has_extended_profile": false,
+        "id": 1176649693570318336,
+        "id_str": "1176649693570318336",
+        "in_reply_to_screen_name": "MarcosOrds",
+        "in_reply_to_status_id": 1157977731591737344,
+        "in_reply_to_status_id_str": "1157977731591737344",
+        "in_reply_to_user_id": 512301910,
+        "in_reply_to_user_id_str": "512301910",
+        "is_translation_enabled": false,
+        "lang": "en",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 50,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "Plastic used by so called activists is some kind of magical plastic which helps saving climate. Plastic harms only when it is used by common people.",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon May 14 08:47:27 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Proud Indian🇮🇳. Sanatan Tradition.🏃‍♂️🏊‍♂️🚵‍♀️. Races🏁3x10k🏁9xHM🏁1x25k🏁1xFM ❗️PB⚫️1k:3:33⚫️10k:44:34⚫️HM:1:40:50⚫️25k:2:25:54",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/BV8frFcjX7",
+                            "display_url": "facebook.com/thummar7",
+                            "expanded_url": "http://www.facebook.com/thummar7"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 8246,
+            "follow_request_sent": false,
+            "followers_count": 210,
+            "following": false,
+            "friends_count": 206,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 579691313,
+            "id_str": "579691313",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 5,
+            "location": "Surat",
+            "name": "Thummar Ankit 🇮🇳",
+            "notifications": false,
+            "profile_background_color": "EDECE9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/579691313/1475043532",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/849464484917891074/kds8I_Ib_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/849464484917891074/kds8I_Ib_normal.jpg",
+            "profile_link_color": "088253",
+            "profile_sidebar_border_color": "D3D2CF",
+            "profile_sidebar_fill_color": "E3E2DE",
+            "profile_text_color": "634047",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "mathrunner7",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 2535,
+            "time_zone": "",
+            "url": "https://t.co/BV8frFcjX7",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんに対する皮肉のツイート。\n\n『いわゆる活動家が使用するプ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 20 23:57:23 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ゲーム関連/西村眞悟/きのこ派/粒あん派/犬派",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/AQ6CzJAfD0",
+                        "display_url": "twilog.org/kikori2660",
+                        "expanded_url": "http://twilog.org/kikori2660"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 3829,
+        "follow_request_sent": false,
+        "followers_count": 1296,
+        "following": false,
+        "friends_count": 2797,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 5365452,
+        "id_str": "5365452",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 51,
+        "location": "吉祥寺と杉並区の狭間から西へ行ったとこ",
+        "name": "山中 樵",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5365452/1521605077",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1187501614845743105/zEU3pvCS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1187501614845743105/zEU3pvCS_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kikori2660",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 39456,
+        "time_zone": "",
+        "url": "https://t.co/AQ6CzJAfD0",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

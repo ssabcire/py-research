@@ -1,0 +1,253 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 01:28:05 +0000 2019",
+    "display_text_range": [
+        0,
+        61
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": [
+            {
+                "id": 1206747843869806593,
+                "id_str": "1206747843869806593",
+                "media_url": "http://pbs.twimg.com/media/EL86xTdUEAEdr3Q.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL86xTdUEAEdr3Q.jpg",
+                "url": "https://t.co/92E72hJNtb",
+                "display_url": "pic.twitter.com/92E72hJNtb",
+                "expanded_url": "https://twitter.com/shosuke123/status/1206747862270275584/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    62,
+                    85
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206747843869806593,
+                "id_str": "1206747843869806593",
+                "media_url": "http://pbs.twimg.com/media/EL86xTdUEAEdr3Q.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL86xTdUEAEdr3Q.jpg",
+                "url": "https://t.co/92E72hJNtb",
+                "display_url": "pic.twitter.com/92E72hJNtb",
+                "expanded_url": "https://twitter.com/shosuke123/status/1206747862270275584/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    62,
+                    85
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 5,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "雪の降り積もっていない山形！！！\n蔵王の山頂は白くなってるが…今年も暖冬か…！？　地球温暖化についてグレタさんと喋りたい😀 https://t.co/92E72hJNtb",
+    "has_extended_profile": false,
+    "id": 1206747862270275584,
+    "id_str": "1206747862270275584",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "雪の降り積もっていない山形！！！\n蔵王の山",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 10 11:39:11 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "上方落語協会。前よしもと東北住みます落語家兼山形住みます芸人。やまがた特命観光・つや姫大使。現在は大阪が拠点。笑助ちゃんねる(休止中)https://t.co/tpj7sOPpbQ",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/1xhiqD3OCO",
+                        "display_url": "shousuke.net",
+                        "expanded_url": "http://shousuke.net"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 576,
+        "follow_request_sent": false,
+        "followers_count": 1320,
+        "following": false,
+        "friends_count": 479,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 165028501,
+        "id_str": "165028501",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 89,
+        "location": "八尾→東京→山形→上方",
+        "name": "笑福亭 笑助 (Shofukutei Shosuke)",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/165028501/1488557184",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1154036425051951106/4CfwP1j6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1154036425051951106/4CfwP1j6_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "shosuke123",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 5704,
+        "time_zone": "",
+        "url": "https://t.co/1xhiqD3OCO",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

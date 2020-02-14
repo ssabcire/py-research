@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:41:01 +0000 2019",
+    "display_text_range": [
+        0,
+        73
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    50,
+                    73
+                ],
+                "url": "https://t.co/Qoui31k7iW",
+                "display_url": "headlines.yahoo.co.jp/hl?a=20191211-…",
+                "expanded_url": "https://headlines.yahoo.co.jp/hl?a=20191211-00000116-jij-int"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "山口貴士 aka無駄に感じが悪いヤマベン",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "otakulawyer",
+                "id": 107693215,
+                "id_str": "107693215"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @otakulawyer: グレタさんファンの多くが反原発でもある現象、本当に不思議です。\n https://t.co/Qoui31k7iW",
+    "has_extended_profile": false,
+    "id": 1206796417932513280,
+    "id_str": "1206796417932513280",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1673,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 13 02:42:53 +0000 2019",
+        "display_text_range": [
+            0,
+            56
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        33,
+                        56
+                    ],
+                    "url": "https://t.co/Qoui31k7iW",
+                    "display_url": "headlines.yahoo.co.jp/hl?a=20191211-…",
+                    "expanded_url": "https://headlines.yahoo.co.jp/hl?a=20191211-00000116-jij-int"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 3246,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんファンの多くが反原発でもある現象、本当に不思議です。\n https://t.co/Qoui31k7iW",
+        "has_extended_profile": false,
+        "id": 1205317135116861440,
+        "id_str": "1205317135116861440",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1673,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんファンの多くが反原発でもあ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jan 23 11:52:55 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "日英バイリンガル弁護士（東京弁護士会＆State Bar of California）＠リンク総合法律事務所 https://t.co/I5oqEKKofD ／日本脱カルト協会理事／全国霊感商法対策弁護士連絡会／登山／乗り鉄／本来のリベラル／メルアド yama_benアットhttps://t.co/ia0YHhiOIc",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/GLtqpuNFad",
+                            "display_url": "yama-ben.cocolog-nifty.com",
+                            "expanded_url": "http://yama-ben.cocolog-nifty.com"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 4060,
+            "follow_request_sent": false,
+            "followers_count": 21179,
+            "following": false,
+            "friends_count": 1127,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 107693215,
+            "id_str": "107693215",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1160,
+            "location": "東京都千代田区麹町",
+            "name": "山口貴士 aka無駄に感じが悪いヤマベン",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649988986/ca310017_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649988986/ca310017_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "otakulawyer",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 43297,
+            "time_zone": "",
+            "url": "https://t.co/GLtqpuNFad",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @otakulawyer: グレタさんファンの多くが反原発でもあ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 27 15:30:02 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The fate, my friend, you say the strangest things I find, sometimes.(運命よ、わが友よ、君はときどきサイコーに変なことを言う)",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1490,
+        "follow_request_sent": false,
+        "followers_count": 325,
+        "following": false,
+        "friends_count": 150,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 220364367,
+        "id_str": "220364367",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 16,
+        "location": "Neo TOKIO",
+        "name": "etsuko🦖",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/220364367/1569167087",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1175780385420038144/ROBkIDMH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1175780385420038144/ROBkIDMH_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "etketketketke",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 119605,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

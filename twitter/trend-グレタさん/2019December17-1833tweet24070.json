@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 18:10:42 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    56,
+                    79
+                ],
+                "url": "https://t.co/DRMOSwNaM0",
+                "display_url": "mainichi.jp/articles/20191…",
+                "expanded_url": "https://mainichi.jp/articles/20191211/k00/00m/030/319000c"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "さいとう和子",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "saitokazuko",
+                "id": 265477948,
+                "id_str": "265477948"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @saitokazuko: グレタさん「最大の脅威は行動を取らないこと」COP25演説全文 - 毎日新聞 https://t.co/DRMOSwNaM0\n\n私は最大の脅威は行動を取らないことだと今でも思っています。本当の脅威は、政治家や最高経営責任者（CEO）たちが行動を…",
+    "has_extended_profile": false,
+    "id": 1206637791162945537,
+    "id_str": "1206637791162945537",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 118,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 12 04:06:49 +0000 2019",
+        "display_text_range": [
+            0,
+            142
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        39,
+                        62
+                    ],
+                    "url": "https://t.co/DRMOSwNaM0",
+                    "display_url": "mainichi.jp/articles/20191…",
+                    "expanded_url": "https://mainichi.jp/articles/20191211/k00/00m/030/319000c"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 157,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん「最大の脅威は行動を取らないこと」COP25演説全文 - 毎日新聞 https://t.co/DRMOSwNaM0\n\n私は最大の脅威は行動を取らないことだと今でも思っています。本当の脅威は、政治家や最高経営責任者（CEO）たちが行動を取っているように見せかけていることです。",
+        "has_extended_profile": false,
+        "id": 1204975871825592320,
+        "id_str": "1204975871825592320",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 118,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん「最大の脅威は行動を取らないこと」COP25演説全文 - 毎日新聞 https://t.co/DRMOSwNaM0\n\n私は最大の脅",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Mar 13 16:17:20 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "現行憲法こそ生かした政治改革を！戦争を含め、人を殺すことを正当化することは許さない！原発は再稼働せず廃炉に！子育ても、老後も安心、誰もが最後まで納得して生きぬける日本へ！日本共産党前衆議院議員（千葉県・神奈川県・山梨県、南関東ブロック比例）",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/Yp1Iv6dfpv",
+                            "display_url": "saitokazuko.jp",
+                            "expanded_url": "http://saitokazuko.jp/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 648,
+            "follow_request_sent": false,
+            "followers_count": 5953,
+            "following": false,
+            "friends_count": 967,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 265477948,
+            "id_str": "265477948",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 192,
+            "location": "千葉県船橋市",
+            "name": "さいとう和子",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/265477948/1508731385",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/935439938283233280/Mzlf9WIL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/935439938283233280/Mzlf9WIL_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "saitokazuko",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 9117,
+            "time_zone": "",
+            "url": "https://t.co/Yp1Iv6dfpv",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @saitokazuko: グレタさん「最大の脅威は行動を取らないこと」COP25演説全文 - 毎日新聞 https://t.co/DRMOSwNaM0\n",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 03 08:15:41 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "日本共産党広島市議会議員\n　　安佐南区高取北に住んでます。\n　　平和憲法が大好き💓♥️❤️\n　　わたしの活動の原点です。\n　　",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 179,
+        "follow_request_sent": false,
+        "followers_count": 50,
+        "following": false,
+        "friends_count": 45,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1124226006171045888,
+        "id_str": "1124226006171045888",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "藤井とし子",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1140069965824811008/fRQDQVNx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140069965824811008/fRQDQVNx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "IRt5ux97KE3xO9E",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 127,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 16:31:09 +0000 2019",
+    "display_text_range": [
+        0,
+        56
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんの事イマイチ知らんから\n世間知らずのお嬢さんって感じしか\nしない\nボンボンのお嬢さんが駄々こねてるだけ",
+    "has_extended_profile": false,
+    "id": 1206612737670836224,
+    "id_str": "1206612737670836224",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんの事イマイチ知らんから\n世間\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 15 21:27:39 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ゲームキャラのイラスト描いてます　最近はポケモンとカービィ関連　\npixiv　https://t.co/nBidQ9Mj7E  ニコ動　https://t.co/6TMlybTeuY ニコ静 https://t.co/ModINCWUDx",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/1HsTv2YjBp",
+                        "display_url": "irori.app/@kimagurewolf05",
+                        "expanded_url": "https://irori.app/@kimagurewolf05"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 33675,
+        "follow_request_sent": false,
+        "followers_count": 1940,
+        "following": false,
+        "friends_count": 764,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 525765834,
+        "id_str": "525765834",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 55,
+        "location": "",
+        "name": "ふらんすパンダ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/525765834/1576363538",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1205982209489784832/uAPSIRlz_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205982209489784832/uAPSIRlz_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kimagurewolf05",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 152858,
+        "time_zone": "",
+        "url": "https://t.co/1HsTv2YjBp",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

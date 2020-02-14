@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:05:25 +0000 2019",
+    "display_text_range": [
+        0,
+        90
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんをフジロックに呼ぼうぜ！ って思ったけどフジロックに呼ぶには飛行機に乗せないといかんのだった。\nいや、北朝鮮がシベリア鉄道を韓国とつなげばワンチャンある。 北朝鮮がんばれ",
+    "has_extended_profile": false,
+    "id": 1206787455816368130,
+    "id_str": "1206787455816368130",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://sites.google.com/site/tweentwitterclient/\" rel=\"nofollow\"\u003eTween\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんをフジロックに呼ぼうぜ！ って思ったけどフジロック\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 17 12:06:55 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "フリーター。映画見るのとアニメ観るのと寝るのが好きです。男です。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/uZKBDNY1kd",
+                        "display_url": "d.hatena.ne.jp/soylent_green/",
+                        "expanded_url": "http://d.hatena.ne.jp/soylent_green/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2165,
+        "follow_request_sent": false,
+        "followers_count": 1034,
+        "following": false,
+        "friends_count": 2668,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 10330732,
+        "id_str": "10330732",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 61,
+        "location": "極東",
+        "name": "そゐれん",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10330732/1568714865",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/879871523279970304/5_GO-jvT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/879871523279970304/5_GO-jvT_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "soylent_green",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 194287,
+        "time_zone": "",
+        "url": "https://t.co/uZKBDNY1kd",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

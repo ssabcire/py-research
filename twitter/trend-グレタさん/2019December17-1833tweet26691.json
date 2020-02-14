@@ -1,0 +1,426 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 15:53:12 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "フィフィ",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "FIFI_Egypt",
+                "id": 32394429,
+                "id_str": "32394429"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @FIFI_Egypt: ★TIME誌の今年の顔にグレタさん、環境保護の意識は益々高まっています。COP25での小泉環境大臣の発言も注目されていましたが、環境問題に今後日本はどう取り組むべきか？フィフィが解説。動画をご覧頂き、皆様のご意見もお聞かせ下さい。\nチャンネル登録…",
+    "has_extended_profile": false,
+    "id": 1206603187999784960,
+    "id_str": "1206603187999784960",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 19,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 12:44:00 +0000 2019",
+        "display_text_range": [
+            0,
+            157
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        134,
+                        157
+                    ],
+                    "url": "https://t.co/9sKjhzkx9k",
+                    "display_url": "youtu.be/YBluUzzG-M0",
+                    "expanded_url": "https://youtu.be/YBluUzzG-M0"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206193177733894144,
+                    "id_str": "1206193177733894144",
+                    "media_url": "http://pbs.twimg.com/media/EL1CTfFUEAAagyc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL1CTfFUEAAagyc.jpg",
+                    "url": "https://t.co/ini5WYYdeM",
+                    "display_url": "pic.twitter.com/ini5WYYdeM",
+                    "expanded_url": "https://twitter.com/FIFI_Egypt/status/1206193187053637633/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 676,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1705,
+                            "h": 961,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        158,
+                        181
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206193177733894144,
+                    "id_str": "1206193177733894144",
+                    "media_url": "http://pbs.twimg.com/media/EL1CTfFUEAAagyc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL1CTfFUEAAagyc.jpg",
+                    "url": "https://t.co/ini5WYYdeM",
+                    "display_url": "pic.twitter.com/ini5WYYdeM",
+                    "expanded_url": "https://twitter.com/FIFI_Egypt/status/1206193187053637633/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 676,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1705,
+                            "h": 961,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        158,
+                        181
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 102,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "★TIME誌の今年の顔にグレタさん、環境保護の意識は益々高まっています。COP25での小泉環境大臣の発言も注目されていましたが、環境問題に今後日本はどう取り組むべきか？フィフィが解説。動画をご覧頂き、皆様のご意見もお聞かせ下さい。\nチャンネル登録もお願いします。\n↓\nhttps://t.co/9sKjhzkx9k https://t.co/ini5WYYdeM",
+        "has_extended_profile": false,
+        "id": 1206193187053637633,
+        "id_str": "1206193187053637633",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 19,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "★TIME誌の今年の顔にグレタさん、環境保護の意識は益々高まっています。COP25での小泉環境大臣の発言も注目されて\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Apr 17 13:01:16 +0000 2009",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "サンミュージック所属 著書『日本人に知ってほしいイスラムのこと』(2018年 祥伝社) 『おかしいことを「おかしい」と言えない日本という社会へ』（2013年 祥伝社）  YouTubeチャンネル：フィフィ",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/cXfFeNUzUF",
+                            "display_url": "youtube.com/channel/UC4feg…",
+                            "expanded_url": "https://www.youtube.com/channel/UC4feg3_vUrGepbNH97fV-Iw"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 3220,
+            "follow_request_sent": false,
+            "followers_count": 435728,
+            "following": false,
+            "friends_count": 1,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 32394429,
+            "id_str": "32394429",
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "lang": "",
+            "listed_count": 5192,
+            "location": "",
+            "name": "フィフィ",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/32394429/1576418553",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1151465892359786496/6XwpZlpc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151465892359786496/6XwpZlpc_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "FIFI_Egypt",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 34369,
+            "time_zone": "",
+            "url": "https://t.co/cXfFeNUzUF",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @FIFI_Egypt: ★TIME誌の今年の顔にグレタさん、環境保護の意識は益々高まっています。COP25での小泉環境\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 04 13:46:56 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1577,
+        "follow_request_sent": false,
+        "followers_count": 4,
+        "following": false,
+        "friends_count": 33,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 937679616222752768,
+        "id_str": "937679616222752768",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "茨城 笠間市",
+        "name": "ぱっきん",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "qO3fQ3TvxBQA26l",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 1685,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

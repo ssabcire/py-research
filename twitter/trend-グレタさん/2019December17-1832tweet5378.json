@@ -1,0 +1,188 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:11:53 +0000 2019",
+    "display_text_range": [
+        0,
+        67
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    44,
+                    67
+                ],
+                "url": "https://t.co/lwtaaqlnE4",
+                "display_url": "nikkansports.com/general/news/2…",
+                "expanded_url": "https://www.nikkansports.com/general/news/201912170000071.html?utm_source=twitter\u0026utm_medium=social\u0026utm_campaign=nikkansports_ogp"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    25,
+                    35
+                ],
+                "text": "グレタ・トゥンベリ"
+            },
+            {
+                "indices": [
+                    36,
+                    43
+                ],
+                "text": "社会ニュース"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 4,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさん床に座り「大混雑」に独鉄道１等車で… \n#グレタ・トゥンベリ #社会ニュース\nhttps://t.co/lwtaaqlnE4",
+    "has_extended_profile": false,
+    "id": 1206789085378965509,
+    "id_str": "1206789085378965509",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさん床に座り「大混雑」に独鉄道１等車で\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 10 07:11:30 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "日刊スポーツ新聞社の公式アカウントです。芸能、野球、サッカー、スポーツのニュース速報を配信します。日刊スポーツのアカウント一覧はこちら → https://t.co/zk8pS0bDXv　\n掲載内容は必ずしも日刊スポーツの立場、意見を代表するものではありません",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/JmbnbxPFcG",
+                        "display_url": "nikkansports.com",
+                        "expanded_url": "http://www.nikkansports.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1860,
+        "follow_request_sent": false,
+        "followers_count": 315151,
+        "following": false,
+        "friends_count": 22374,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 46058599,
+        "id_str": "46058599",
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "lang": "",
+        "listed_count": 10061,
+        "location": "中央区築地",
+        "name": "日刊スポーツ",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/46058599/1575433387",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/530600276302909440/fbD0sFZK_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/530600276302909440/fbD0sFZK_normal.png",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "nikkansports",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 392963,
+        "time_zone": "",
+        "url": "http://t.co/JmbnbxPFcG",
+        "utc_offset": 0,
+        "verified": true,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

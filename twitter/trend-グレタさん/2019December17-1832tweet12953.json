@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:53:42 +0000 2019",
+    "display_text_range": [
+        0,
+        22
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 7,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんに是非朝の山手線一周体験して欲しい",
+    "has_extended_profile": false,
+    "id": 1206739209614028800,
+    "id_str": "1206739209614028800",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんに是\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 02 19:33:48 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "日本のごはんは美味しい 猫好き（飼えない） スキル：Python 機械学習 bio/cheminfo 数理最適化 LAND10/iGEM12 Ingress lvl16 弐寺七段 minecraft-modder QMAリウム 政治経済は@rydia_crypto ゲームは@rydia_game",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Y5mWmBZAD6",
+                        "display_url": "checkio.org/user/nakanohit…",
+                        "expanded_url": "http://checkio.org/user/nakanohito_piyo"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 33164,
+        "follow_request_sent": false,
+        "followers_count": 797,
+        "following": false,
+        "friends_count": 658,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 512372650,
+        "id_str": "512372650",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 66,
+        "location": "ねこのいるラボ",
+        "name": "りでぃネコ（芝猫）",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/512372650/1365004710",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/470667603321425920/DJUEIg0u_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/470667603321425920/DJUEIg0u_normal.png",
+        "profile_link_color": "8040C8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "nakanohito_piyo",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 125169,
+        "time_zone": "",
+        "url": "https://t.co/Y5mWmBZAD6",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

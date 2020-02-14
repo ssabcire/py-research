@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 10:18:39 +0000 2019",
+    "display_text_range": [
+        0,
+        142
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "ドイツ鉄道は、予約されてるか座席の上に表示されるシステム。\n途中からは席を見つけたんでしょうね。\n\n飛行機はダメで、電車はOKというのが、いまいち理解できない。\n確かに、燃料は多く使うけど、大陸間は仕方ないやん。\n\nしかし、グレタさんのSNSの使い方は上手なのかな。何でも話題になる！",
+    "has_extended_profile": false,
+    "id": 1206518995840487424,
+    "id_str": "1206518995840487424",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "ドイツ鉄道は、予約されてるか座席の上に表示されるシステム。\n途中からは席を見つけたんでしょうね。",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 23 13:32:50 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ニュースなどに対して、個人的に思うことを勝手につぶやいています。\n\n健康に、楽しく、お得に生きていくためのブログhttps://t.co/kn7ETFZkSTを始めました。\n\n将来的には、生活習慣病の方に生活習慣を改善する事で薬を減らすサービスの提供に関われたらと思っている奈良県で働く循環器内科医です。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Ol1uMmlH6t",
+                        "display_url": "blognurumayu.com",
+                        "expanded_url": "https://blognurumayu.com"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 496,
+        "follow_request_sent": false,
+        "followers_count": 77,
+        "following": false,
+        "friends_count": 169,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1153659236217319425,
+        "id_str": "1153659236217319425",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 3,
+        "location": "",
+        "name": "ぬるまゆ＠心臓リハビリ重視の循環器内科医💊ブロガーを目指して",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1153659236217319425/1563889297",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1153661438327525381/4jSjrdyM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153661438327525381/4jSjrdyM_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "blognurumayu",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 691,
+        "time_zone": "",
+        "url": "https://t.co/Ol1uMmlH6t",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:35:41 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "櫻井 正男💫",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "SAKURAIMASAO",
+                "id": 102558244,
+                "id_str": "102558244"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @SAKURAIMASAO: 「安易に」飛行機に乗ることを「恥」とみなし、できるだけ鉄道など、「より環境負荷の少ない」移動方法を「選択」しよう\n\nホリエモンよりグレタさんは「760万倍賢い」―温暖化防止「飛び恥」の衝撃(志葉玲) - Y!ニュース https://t.co…",
+    "has_extended_profile": false,
+    "id": 1206734676888391680,
+    "id_str": "1206734676888391680",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 01:26:42 +0000 2019",
+        "display_text_range": [
+            0,
+            132
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        109,
+                        132
+                    ],
+                    "url": "https://t.co/yfqOKbTuS2",
+                    "display_url": "news.yahoo.co.jp/byline/shivare…",
+                    "expanded_url": "https://news.yahoo.co.jp/byline/shivarei/20191213-00154732/"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 4,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "「安易に」飛行機に乗ることを「恥」とみなし、できるだけ鉄道など、「より環境負荷の少ない」移動方法を「選択」しよう\n\nホリエモンよりグレタさんは「760万倍賢い」―温暖化防止「飛び恥」の衝撃(志葉玲) - Y!ニュース https://t.co/yfqOKbTuS2",
+        "has_extended_profile": false,
+        "id": 1206385125404971013,
+        "id_str": "1206385125404971013",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "scopes": null,
+        "text": "「安易に」飛行機に乗ることを「恥」とみなし、できるだけ鉄道など、「より環境負荷の少ない」",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jan 07 03:07:37 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "●●●立憲民主党 支持●●●　🌞太陽から受ける恩恵は絶大🏞️ 太陽は大切な存在・・・でも 太陽一つが輝く昼より 限りなく多くの星々が✨✨✨光り輝く夜がいい！🌌",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 50768,
+            "follow_request_sent": false,
+            "followers_count": 426,
+            "following": false,
+            "friends_count": 474,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 102558244,
+            "id_str": "102558244",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 6,
+            "location": "神戸市",
+            "name": "櫻井 正男💫",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/102558244/1575180955",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1155100986744008704/dqc-1GQm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1155100986744008704/dqc-1GQm_normal.jpg",
+            "profile_link_color": "001177",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "SAKURAIMASAO",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 29546,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @SAKURAIMASAO: 「安易に」飛行機に乗ることを「恥」とみなし、できるだけ鉄道など、「より環境負荷の\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 20 23:26:11 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "PN:極田 龍治🐾 #立憲民主党(https://t.co/ibqjGURuYe)を軸にした #社会民主党 #日本共産党 #れいわ新選組 #緑の党グリーンズジャパン による共闘を支持します（@miyoshi_tenshi）",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 25214,
+        "follow_request_sent": false,
+        "followers_count": 220,
+        "following": false,
+        "friends_count": 217,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1152721392170704896,
+        "id_str": "1152721392170704896",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "",
+        "name": "立憲民主党関西應援團",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152721392170704896/1576130162",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1198454012330176513/E_uGwM7C_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198454012330176513/E_uGwM7C_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CDPK_angel",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 8559,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

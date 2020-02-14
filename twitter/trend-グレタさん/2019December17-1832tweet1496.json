@@ -1,0 +1,498 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:45:33 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "白金桜花＠四日目 西『む』24b委託",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "YamanekoOuka",
+                "id": 96291810,
+                "id_str": "96291810"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @YamanekoOuka: だからそれがもう古くなっちゃったんじゃ……という懸念\n若者が魔法の剣を持っても世界は変わらないし大人に利用されるだけってのはグレタさんが体を張って見せてしまったし\nじゃあガンダムもここから先どうすりゃいいんだろうねという模索期かなと思いました…",
+    "has_extended_profile": false,
+    "id": 1206827755536388097,
+    "id_str": "1206827755536388097",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206776990897848320,
+    "quoted_status_id_str": "1206776990897848320",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 03:29:28 +0000 2019",
+        "display_text_range": [
+            0,
+            121
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        122,
+                        145
+                    ],
+                    "url": "https://t.co/fxbgvtQjvk",
+                    "display_url": "twitter.com/the_thingX/sta…",
+                    "expanded_url": "https://twitter.com/the_thingX/status/1206776990897848320"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "だからそれがもう古くなっちゃったんじゃ……という懸念\n若者が魔法の剣を持っても世界は変わらないし大人に利用されるだけってのはグレタさんが体を張って見せてしまったし\nじゃあガンダムもここから先どうすりゃいいんだろうねという模索期かなと思いました https://t.co/fxbgvtQjvk",
+        "has_extended_profile": false,
+        "id": 1206778411642806272,
+        "id_str": "1206778411642806272",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206776990897848320,
+        "quoted_status_id_str": "1206776990897848320",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Dec 17 03:23:50 +0000 2019",
+            "display_text_range": [
+                0,
+                108
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "indices": [
+                            109,
+                            132
+                        ],
+                        "url": "https://t.co/AHhFyxiZr5",
+                        "display_url": "twitter.com/yamanekoouka/s…",
+                        "expanded_url": "https://twitter.com/yamanekoouka/status/1206767261324697601"
+                    }
+                ],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 3,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "ガンダムは魔法の剣を手に入れてしまった若者の物語をロボットで、やってるので、\nロボット戦争モノじゃないんだよね…\n\nつか、「時代遅れ」言い出したら\nロボット戦争も魔法少女も剣と魔法も大半のアニメはそうなるんやけどね。 https://t.co/AHhFyxiZr5",
+            "has_extended_profile": false,
+            "id": 1206776990897848320,
+            "id_str": "1206776990897848320",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 1206767261324697601,
+            "quoted_status_id_str": "1206767261324697601",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+            "scopes": null,
+            "text": "ガンダムは魔法の剣を手に入れてしまった若者の物語をロボットで、やってるの",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Dec 30 18:30:36 +0000 2014",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "ガノタです。PC、アニメをメインです。 と言いながら保守なことばっかり言ってる自称民族派左翼です。 元アウシタン(なんのこっちゃ)",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 297878,
+                "follow_request_sent": false,
+                "followers_count": 1494,
+                "following": false,
+                "friends_count": 1525,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 2952447402,
+                "id_str": "2952447402",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 31,
+                "location": "",
+                "name": "first_オヤジ@機動戦士ガンダム40周年",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2952447402/1550630671",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1098050734795382785/c6SDwUy0_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098050734795382785/c6SDwUy0_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "the_thingX",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 286820,
+                "time_zone": "",
+                "url": "",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": true,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "だからそれがもう古くなっちゃったんじゃ……という懸念\n若者が魔法の剣を持っても世界",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Dec 12 06:37:48 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "サークル：アカシャエフェクト観測委員会主催 陽炎と叢雲ラブ \nアイコンはＮ２さんから。\n PXIV:https://t.co/tq5bB9M8ij  #地獄鎮守府の日常",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/lL9VCgmryi",
+                            "display_url": "togetter.com/id/YamanekoOuka",
+                            "expanded_url": "http://togetter.com/id/YamanekoOuka"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 319586,
+            "follow_request_sent": false,
+            "followers_count": 3676,
+            "following": false,
+            "friends_count": 3878,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 96291810,
+            "id_str": "96291810",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 197,
+            "location": "新潟",
+            "name": "白金桜花＠四日目 西『む』24b委託",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96291810/1398231037",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1109436442248282113/95XN7ZEQ_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109436442248282113/95XN7ZEQ_normal.png",
+            "profile_link_color": "454445",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "YamanekoOuka",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 547594,
+            "time_zone": "",
+            "url": "https://t.co/lL9VCgmryi",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @YamanekoOuka: だからそれがもう古くなっちゃったんじゃ……という懸念\n若者が魔法の剣を持っても世界\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 28 17:00:41 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "https://t.co/oyO4hDfYbe",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 6771,
+        "follow_request_sent": false,
+        "followers_count": 96,
+        "following": false,
+        "friends_count": 148,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1056591593552044032,
+        "id_str": "1056591593552044032",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "",
+        "name": "七橋◆RnJYizp486※ミュート推奨",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1193566195129057280/jLzfHf_-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1193566195129057280/jLzfHf_-_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sssshinndasekai",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 29875,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

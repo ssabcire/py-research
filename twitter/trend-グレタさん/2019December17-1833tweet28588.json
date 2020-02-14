@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 15:03:04 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "アメリカの真ん中のちょっと東から",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "Yuyu_Stl",
+                "id": 126467423,
+                "id_str": "126467423"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @Yuyu_Stl: グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い\nみんな色々言ってるけど、世界のリーダーの前で演説して、大人が言わなかったことをはっきり伝えて、運動のリーダーになっている十六歳がお前たちの中にどれだけいる？別に揚げ足取るなよ。 h…",
+    "has_extended_profile": false,
+    "id": 1206590570660974593,
+    "id_str": "1206590570660974593",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 13:26:27 +0000 2019",
+        "display_text_range": [
+            0,
+            147
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        124,
+                        147
+                    ],
+                    "url": "https://t.co/ZgFqdxHrUz",
+                    "display_url": "afpbb.com/articles/-/325…",
+                    "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い\nみんな色々言ってるけど、世界のリーダーの前で演説して、大人が言わなかったことをはっきり伝えて、運動のリーダーになっている十六歳がお前たちの中にどれだけいる？別に揚げ足取るなよ。 https://t.co/ZgFqdxHrUz",
+        "has_extended_profile": false,
+        "id": 1206566259514658821,
+        "id_str": "1206566259514658821",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い\nみんな色々言ってるけど、世界の\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Mar 25 23:54:13 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "アメリカのミズーリライセンスのカウンセラー。在米11年目（2019年現在）。プロのカウンセラーとして仕事しつつ、 異文化カウンセリング を勉強中(ただいま博士過程)/人種・ジェンダー差別を日本・アメリカで体験し、社会変革の方法を模索中。#オカメインコ 飼ってます。広告やエロ関係でなければ基本相互フォロー。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/Bue7A2Ytu3",
+                            "display_url": "watervalleyyuyu.blog55.fc2.com",
+                            "expanded_url": "http://watervalleyyuyu.blog55.fc2.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 12983,
+            "follow_request_sent": false,
+            "followers_count": 682,
+            "following": false,
+            "friends_count": 674,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 126467423,
+            "id_str": "126467423",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 9,
+            "location": "st. louis",
+            "name": "アメリカの真ん中のちょっと東から",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/126467423/1359137286",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/518875902910799873/vrELyeEi_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/518875902910799873/vrELyeEi_normal.jpeg",
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "Yuyu_Stl",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 5724,
+            "time_zone": "",
+            "url": "https://t.co/Bue7A2Ytu3",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @Yuyu_Stl: グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い\nみんな色々言って\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 10 17:44:03 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "GRANRODEO/妖精帝國/may'n等､ｱﾆｿﾝが大好き。趣味は謳う事。謳う事は生きる事。ｱﾆﾒもｱﾆｿﾝも私に喜怒哀楽を教えてくれた大事な物。ｾｷｾｲ⇒ｻｸ、文鳥⇒ﾁﾖ、ｵｶﾒ⇒ﾒｲ(ﾒｰ)、のママです★現在は、全身性自己免疫疾患(関節ﾘｳﾏﾁ)と、気分変調症の闘病で潜り気味。ﾒｲﾝｼﾞｮﾌﾞ→詩人",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/LqnZvImqvx",
+                        "display_url": "jp.finalfantasyxiv.com/lodestone/char…",
+                        "expanded_url": "http://jp.finalfantasyxiv.com/lodestone/character/6242244/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 7016,
+        "follow_request_sent": false,
+        "followers_count": 135,
+        "following": false,
+        "friends_count": 423,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 154217743,
+        "id_str": "154217743",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 2,
+        "location": "【❖】Ramuh鯖",
+        "name": "❖ ACIDHEAD　sacya ❖",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/154217743/1401976172",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1177227121753616384/YUA7YueT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177227121753616384/YUA7YueT_normal.jpg",
+        "profile_link_color": "C73B42",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sacya_s",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 9823,
+        "time_zone": "",
+        "url": "https://t.co/LqnZvImqvx",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

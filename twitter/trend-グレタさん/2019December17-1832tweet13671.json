@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:34:18 +0000 2019",
+    "display_text_range": [
+        0,
+        127
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    54,
+                    77
+                ],
+                "url": "https://t.co/GuqQIaAqRo",
+                "display_url": "afpbb.com/articles/-/325…",
+                "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "銀子☆5さい",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "ginco_silver",
+                "id": 34559247,
+                "id_str": "34559247"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @ginco_silver: グレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い https://t.co/GuqQIaAqRo \n\nいかにも戦い疲れた風のカッコつけた写真のグレタに、一等車でおもてなししたドイツ鉄道の誠実な対応",
+    "has_extended_profile": false,
+    "id": 1206734326932467712,
+    "id_str": "1206734326932467712",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 09:40:52 +0000 2019",
+        "display_text_range": [
+            0,
+            109
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        36,
+                        59
+                    ],
+                    "url": "https://t.co/GuqQIaAqRo",
+                    "display_url": "afpbb.com/articles/-/325…",
+                    "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 4,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い https://t.co/GuqQIaAqRo \n\nいかにも戦い疲れた風のカッコつけた写真のグレタに、一等車でおもてなししたドイツ鉄道の誠実な対応",
+        "has_extended_profile": false,
+        "id": 1206509489333010432,
+        "id_str": "1206509489333010432",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い https:/",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Apr 23 07:15:38 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "きのこの山つぶあん穏健派／全力でスルー／令和も「みんな生きていこう」",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 8456,
+            "follow_request_sent": false,
+            "followers_count": 3694,
+            "following": false,
+            "friends_count": 1057,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 34559247,
+            "id_str": "34559247",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 280,
+            "location": "東京☯ジャパァン☥ヴィエリチカ岩塩坑",
+            "name": "銀子☆5さい",
+            "notifications": false,
+            "profile_background_color": "ECF0F1",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/34559247/1484095162",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1191028727871881216/htnLwxv6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191028727871881216/htnLwxv6_normal.jpg",
+            "profile_link_color": "5A4494",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "8CB2BD",
+            "profile_text_color": "424C55",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "ginco_silver",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 213252,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @ginco_silver: グレタさん「帰りの列車は超満員」  ドイツ鉄道とツイッターで小競り合い https:/",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 27 07:21:07 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/R4WuuWUPKW",
+                        "display_url": "imuraya.tumblr.com",
+                        "expanded_url": "http://imuraya.tumblr.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1112,
+        "follow_request_sent": false,
+        "followers_count": 3093,
+        "following": false,
+        "friends_count": 1055,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 69229172,
+        "id_str": "69229172",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 201,
+        "location": "横須賀鎮守府",
+        "name": "いむらや",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1287779077/4737962005_c80f8cd760_s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287779077/4737962005_c80f8cd760_s_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "reichi062",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 793646,
+        "time_zone": "",
+        "url": "http://t.co/R4WuuWUPKW",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

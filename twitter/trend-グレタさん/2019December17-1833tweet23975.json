@@ -1,0 +1,337 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 18:18:14 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "susa",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "susa23671175",
+                "id": 1015445258497241089,
+                "id_str": "1015445258497241089"
+            },
+            {
+                "name": "AFPBB News",
+                "indices": [
+                    18,
+                    27
+                ],
+                "screen_name": "afpbbcom",
+                "id": 90841111,
+                "id_str": "90841111"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @susa23671175: @afpbbcom 昔、コスタリカからの帰りアメリカからファーストクラス乗せてくれるって人いたけど断ったことあったな。初めて自分で働いたお金で買ったチケットだったからちゃんとしたかった私、グレタさんより強情娘やんw 一生ファーストクラスなんか…",
+    "has_extended_profile": false,
+    "id": 1206639689546878982,
+    "id_str": "1206639689546878982",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 18:13:46 +0000 2019",
+        "display_text_range": [
+            10,
+            138
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "AFPBB News",
+                    "indices": [
+                        0,
+                        9
+                    ],
+                    "screen_name": "afpbbcom",
+                    "id": 90841111,
+                    "id_str": "90841111"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@afpbbcom 昔、コスタリカからの帰りアメリカからファーストクラス乗せてくれるって人いたけど断ったことあったな。初めて自分で働いたお金で買ったチケットだったからちゃんとしたかった私、グレタさんより強情娘やんw 一生ファーストクラスなんか乗れないよと吐き捨てた大人→正解w",
+        "has_extended_profile": false,
+        "id": 1206638565142056960,
+        "id_str": "1206638565142056960",
+        "in_reply_to_screen_name": "afpbbcom",
+        "in_reply_to_status_id": 1206559878627635205,
+        "in_reply_to_status_id_str": "1206559878627635205",
+        "in_reply_to_user_id": 90841111,
+        "in_reply_to_user_id_str": "90841111",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "昔、コスタリカからの帰りアメリカからファーストクラス乗せてくれるって人いたけど断った\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jul 07 03:59:50 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "10年くらい無職で3人の子どもを育ててます。先月から新たなスタートきって、月収100万目指して頑張るぞい。税金とか健康保険とかどうなるかな。取らぬ狸の皮算用中。勝手にフォローします、お願いします。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 383,
+            "follow_request_sent": false,
+            "followers_count": 0,
+            "following": false,
+            "friends_count": 17,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1015445258497241089,
+            "id_str": "1015445258497241089",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 0,
+            "location": "",
+            "name": "susa",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1015445258497241089/1570423266",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1181066621009326081/Kzdf06Wn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181066621009326081/Kzdf06Wn_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "susa23671175",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 63,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @susa23671175: @afpbbcom 昔、コスタリカからの帰りアメリカからファーストクラス乗せてくれるって人いた\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 14 05:48:12 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "出版・メーカー・IT・ICT業界経験者。洋楽・衣食住・美容・国内外の建築やアート・F１・欧州リーグ・バスケ・歴史・国内外のドラマ映画に傾倒しつつ、特定TV局に偏らず政治経済含め倍速フルセグ視聴しています〈お詫び〉2012年〜勤務先のセキュリティ上リアタイ激減気味＆2018年〜TV番組まとめ自粛中【つぶやき歴3444日】",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 10345,
+        "follow_request_sent": false,
+        "followers_count": 1983,
+        "following": false,
+        "friends_count": 565,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 56620449,
+        "id_str": "56620449",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 95,
+        "location": "TOKYO",
+        "name": "マツモトユミ",
+        "notifications": false,
+        "profile_background_color": "D7D29F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1032677259/Image061_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1032677259/Image061_normal.jpg",
+        "profile_link_color": "B5C1AA",
+        "profile_sidebar_border_color": "584C71",
+        "profile_sidebar_fill_color": "8E6C81",
+        "profile_text_color": "A9959B",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "matsumocchi",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 205364,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

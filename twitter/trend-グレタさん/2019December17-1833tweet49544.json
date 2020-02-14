@@ -1,0 +1,568 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 09:23:37 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "隠者",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "egeLA5SLQPV55jo",
+                "id": 2949948336,
+                "id_str": "2949948336"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @egeLA5SLQPV55jo: あの教授、アノニマスポストや百田を引用しちゃうような人なんだよな...。温暖化懐疑論者っぽい発言もしてたしグレタさんのこともバッシング。例の東大客員准教授もそうだったけど、教授職にある人が実名でそういう事をする光景が珍しくもなんともなく…",
+    "has_extended_profile": false,
+    "id": 1206505147406245890,
+    "id_str": "1206505147406245890",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1205868566790017024,
+    "quoted_status_id_str": "1205868566790017024",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 10,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 11:22:28 +0000 2019",
+        "display_text_range": [
+            0,
+            153
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        130,
+                        153
+                    ],
+                    "url": "https://t.co/S87shJt1uB",
+                    "display_url": "twitter.com/respect_oe/sta…",
+                    "expanded_url": "https://twitter.com/respect_oe/status/1205868566790017024?s=19"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 20,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "あの教授、アノニマスポストや百田を引用しちゃうような人なんだよな...。温暖化懐疑論者っぽい発言もしてたしグレタさんのこともバッシング。例の東大客員准教授もそうだったけど、教授職にある人が実名でそういう事をする光景が珍しくもなんともなくなっていてゾッとする。\nhttps://t.co/S87shJt1uB",
+        "has_extended_profile": false,
+        "id": 1206172667750936577,
+        "id_str": "1206172667750936577",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1205868566790017024,
+        "quoted_status_id_str": "1205868566790017024",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sat Dec 14 15:14:04 +0000 2019",
+            "display_text_range": [
+                0,
+                58
+            ],
+            "entities": {
+                "urls": [],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": [
+                    {
+                        "id": 1205868562356654080,
+                        "id_str": "1205868562356654080",
+                        "media_url": "http://pbs.twimg.com/media/ELwbEYkUUAAb9Bh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/ELwbEYkUUAAb9Bh.jpg",
+                        "url": "https://t.co/A5FJHh4FDv",
+                        "display_url": "pic.twitter.com/A5FJHh4FDv",
+                        "expanded_url": "https://twitter.com/respect_oe/status/1205868566790017024/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 827,
+                                "h": 709,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 583,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 827,
+                                "h": 709,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            59,
+                            82
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": [
+                    {
+                        "id": 1205868562356654080,
+                        "id_str": "1205868562356654080",
+                        "media_url": "http://pbs.twimg.com/media/ELwbEYkUUAAb9Bh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/ELwbEYkUUAAb9Bh.jpg",
+                        "url": "https://t.co/A5FJHh4FDv",
+                        "display_url": "pic.twitter.com/A5FJHh4FDv",
+                        "expanded_url": "https://twitter.com/respect_oe/status/1205868566790017024/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 827,
+                                "h": 709,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 583,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 827,
+                                "h": 709,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            59,
+                            82
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 197,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "僕が知ってるイスラーム研究の先生方がこの人のこと全然言及しないから不思議に思ってたが、成程こういう人か、得心いった。 https://t.co/A5FJHh4FDv",
+            "has_extended_profile": false,
+            "id": 1205868566790017024,
+            "id_str": "1205868566790017024",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 126,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+            "scopes": null,
+            "text": "僕が知ってるイスラーム研究の先生方がこ\ufffd",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Jul 23 12:50:27 +0000 2017",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "失われた良心を求めて。仲良くして下さい。アイコン・ヘッダーは@kanzakihiro先生。かわいいね。",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 7731,
+                "follow_request_sent": false,
+                "followers_count": 708,
+                "following": false,
+                "friends_count": 370,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 889105427639681024,
+                "id_str": "889105427639681024",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 9,
+                "location": "",
+                "name": "ラエトル",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/889105427639681024/1545455080",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1076342730135982080/Q6hbQBa8_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1076342730135982080/Q6hbQBa8_normal.jpg",
+                "profile_link_color": "19CF86",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "respect_oe",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 1633,
+                "time_zone": "",
+                "url": "",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 10,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "あの教授、アノニマスポストや百田を引用しちゃうような人なんだよな...。温暖化懐疑論者っぽい発言もしてたし",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Dec 29 11:20:10 +0000 2014",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "最近はあまり通知見れていません。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 11482,
+            "follow_request_sent": false,
+            "followers_count": 1819,
+            "following": false,
+            "friends_count": 271,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2949948336,
+            "id_str": "2949948336",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 81,
+            "location": "海よりは高い場所",
+            "name": "隠者",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2949948336/1553398644",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1192743096292802561/fkmBd4wV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192743096292802561/fkmBd4wV_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "egeLA5SLQPV55jo",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 20844,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @egeLA5SLQPV55jo: あの教授、アノニマスポストや百田を引用しちゃうような人なんだよな...。温暖化懐疑\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 17 01:22:22 +0000 2018",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ささやかながら拡散と通報のお手伝いをするアカウントです　日本脱出したい大学生　反差別",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 235666,
+        "follow_request_sent": false,
+        "followers_count": 482,
+        "following": false,
+        "friends_count": 1118,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 986052215595909120,
+        "id_str": "986052215595909120",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "夢の藻屑@一日腹筋40回",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/986052215595909120/1565071863",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1179628407388135424/BymYKmP-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179628407388135424/BymYKmP-_normal.jpg",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "rom18184741",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 225377,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

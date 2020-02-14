@@ -1,0 +1,356 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:11:33 +0000 2019",
+    "display_text_range": [
+        0,
+        104
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    81,
+                    104
+                ],
+                "url": "https://t.co/BaO247moFQ",
+                "display_url": "lite-ra.com/2019/12/post-5…",
+                "expanded_url": "https://lite-ra.com/2019/12/post-5145.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "藤原直哉",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "naoyafujiwara",
+                "id": 94120026,
+                "id_str": "94120026"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @naoyafujiwara: グレタさん攻撃で炎上した登山家・野口健の過去は事実だった！「15歳のシェルパの娘と“児童婚”して離婚」「猫を空気銃で射殺」\nhttps://t.co/BaO247moFQ",
+    "has_extended_profile": false,
+    "id": 1206728601959202816,
+    "id_str": "1206728601959202816",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 80,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 23:34:27 +0000 2019",
+        "display_text_range": [
+            0,
+            85
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        62,
+                        85
+                    ],
+                    "url": "https://t.co/BaO247moFQ",
+                    "display_url": "lite-ra.com/2019/12/post-5…",
+                    "expanded_url": "https://lite-ra.com/2019/12/post-5145.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 127,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん攻撃で炎上した登山家・野口健の過去は事実だった！「15歳のシェルパの娘と“児童婚”して離婚」「猫を空気銃で射殺」\nhttps://t.co/BaO247moFQ",
+        "has_extended_profile": false,
+        "id": 1206356878667599872,
+        "id_str": "1206356878667599872",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 80,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん攻撃で炎上した登山家・野口健の過去は事実だった\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Dec 02 16:17:39 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/un7yxY2Jfa",
+                            "display_url": "naoyafujiwara.cocolog-nifty.com/ipodcasting/",
+                            "expanded_url": "http://naoyafujiwara.cocolog-nifty.com/ipodcasting/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 14,
+            "follow_request_sent": false,
+            "followers_count": 24072,
+            "following": false,
+            "friends_count": 0,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 94120026,
+            "id_str": "94120026",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 970,
+            "location": "",
+            "name": "藤原直哉",
+            "notifications": false,
+            "profile_background_color": "DBE9ED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1587947565/JS1AOS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1587947565/JS1AOS_normal.jpg",
+            "profile_link_color": "CC3366",
+            "profile_sidebar_border_color": "DBE9ED",
+            "profile_sidebar_fill_color": "E6F6F9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "naoyafujiwara",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 88380,
+            "time_zone": "",
+            "url": "http://t.co/un7yxY2Jfa",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @naoyafujiwara: グレタさん攻撃で炎上した登山家・野口健の過去は事実だった\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 31 11:45:52 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "https://t.co/PsjT08kg7f「コンセプト思考術オープンソース」 日本人の発想思考の特徴を雑学。「日本型の集団独創」に２タイプ。集団を身内で固める「家康志向」への一辺倒化が組織を硬直化し社会を膠着化。打開するのは、自由に活動する個々を適宜に集団に構成する「信長志向」。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/5d5mQeo4XE",
+                        "display_url": "cds190.exblog.jp",
+                        "expanded_url": "http://cds190.exblog.jp/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 3202,
+        "follow_request_sent": false,
+        "followers_count": 1040,
+        "following": false,
+        "friends_count": 24,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 70373145,
+        "id_str": "70373145",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 68,
+        "location": "静岡県伊東市",
+        "name": "かわらっぴ",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000431844104/93a0fe16ae62b478d7d739e7cfb2c8e5_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000431844104/93a0fe16ae62b478d7d739e7cfb2c8e5_normal.png",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cds190",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 211919,
+        "time_zone": "",
+        "url": "https://t.co/5d5mQeo4XE",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

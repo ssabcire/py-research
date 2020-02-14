@@ -1,0 +1,337 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:04:33 +0000 2019",
+    "display_text_range": [
+        0,
+        37
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "航耶",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "MatsuoKoya",
+                "id": 3091395152,
+                "id_str": "3091395152"
+            },
+            {
+                "name": "素人が新聞記事書いてみた",
+                "indices": [
+                    16,
+                    23
+                ],
+                "screen_name": "np_ama",
+                "id": 791586183096610816,
+                "id_str": "791586183096610816"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @MatsuoKoya: @np_ama グレタさんがそうなのでは…",
+    "has_extended_profile": false,
+    "id": 1206772138826326016,
+    "id_str": "1206772138826326016",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 23:27:07 +0000 2019",
+        "display_text_range": [
+            8,
+            21
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "素人が新聞記事書いてみた",
+                    "indices": [
+                        0,
+                        7
+                    ],
+                    "screen_name": "np_ama",
+                    "id": 791586183096610816,
+                    "id_str": "791586183096610816"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 9,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@np_ama グレタさんがそうなのでは…",
+        "has_extended_profile": false,
+        "id": 1206717421186240513,
+        "id_str": "1206717421186240513",
+        "in_reply_to_screen_name": "np_ama",
+        "in_reply_to_status_id": 1206716856200904704,
+        "in_reply_to_status_id_str": "1206716856200904704",
+        "in_reply_to_user_id": 791586183096610816,
+        "in_reply_to_user_id_str": "791586183096610816",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Mar 16 23:06:04 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "自動車、欅坂46、乃木坂46、浜崎あゆみ、GLAY、西野カナ…等が好きな20歳です。 \n\nADHDという障害を持っています。\n\nビジネス、アフィリエイト、副業ビジネス系、FX投資、アダルト、オフパコに関する出会い系、政治関係、荒らし厨などのアカウントの追加は絶対にお断りです.",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 45726,
+            "follow_request_sent": false,
+            "followers_count": 1557,
+            "following": false,
+            "friends_count": 5002,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 3091395152,
+            "id_str": "3091395152",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 2,
+            "location": "Hyogo,JAPAN",
+            "name": "航耶",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1198415549027405824/mso5qMSi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198415549027405824/mso5qMSi_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "MatsuoKoya",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 26645,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @MatsuoKoya: @np_ama グレタさ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 04 13:35:55 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "２０１８年２月頃より本格的に開始…この度２２８６フォロワーにて凍結😨やり直しです😭美しい日本を取り戻す為、蟷螂の斧にも満たぬ非力なれど、呟き再開致します🙇",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 8126,
+        "follow_request_sent": false,
+        "followers_count": 450,
+        "following": false,
+        "friends_count": 757,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 749959927687294976,
+        "id_str": "749959927687294976",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "関西の片隅",
+        "name": "黒猫屋伝右衛門Ｚ",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1197759451840700416/DFPXmRVF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197759451840700416/DFPXmRVF_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kuroneko3293",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 8176,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

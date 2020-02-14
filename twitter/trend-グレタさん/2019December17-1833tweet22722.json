@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 20:21:57 +0000 2019",
+    "display_text_range": [
+        0,
+        90
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    67,
+                    90
+                ],
+                "url": "https://t.co/mw0gHJiwnI",
+                "display_url": "newsweb.blog.jp/archives/34029…",
+                "expanded_url": "http://newsweb.blog.jp/archives/34029714.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "元米大統領、グレタさんに「我々のような年配者は若いリーダーに道を明け渡すべき！疑いの目を向ける人は無視して！」   News web\nhttps://t.co/mw0gHJiwnI",
+    "has_extended_profile": false,
+    "id": 1206670823744057345,
+    "id_str": "1206670823744057345",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://blog.livedoor.com/\" rel=\"nofollow\"\u003elivedoor Blog\u003c/a\u003e",
+    "scopes": null,
+    "text": "元米大統領、グレタさんに「我々のような年配者は若いリーダーに",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 04 05:04:17 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "政治、経済、社会、国際、スポーツ、文化、科学、芸能、教育、医療、環境、デジタル、ファッション、車、旅、鉄道などの話題や写真の速報記事をお届けします。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/SFsN5qbcRK",
+                        "display_url": "newsweb.blog.jp",
+                        "expanded_url": "http://newsweb.blog.jp/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1501,
+        "follow_request_sent": false,
+        "followers_count": 3147,
+        "following": false,
+        "friends_count": 3500,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 882102741408993280,
+        "id_str": "882102741408993280",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 15,
+        "location": "",
+        "name": "News web",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/882102741408993280/1499173273",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/882413750027812864/L3Gwi9pf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/882413750027812864/L3Gwi9pf_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tj_haru",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 30304,
+        "time_zone": "",
+        "url": "https://t.co/SFsN5qbcRK",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

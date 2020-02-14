@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:12:28 +0000 2019",
+    "display_text_range": [
+        0,
+        66
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    43,
+                    66
+                ],
+                "url": "https://t.co/R4nESYlDND",
+                "display_url": "news.yahoo.co.jp/byline/shivare…",
+                "expanded_url": "https://news.yahoo.co.jp/byline/shivarei/20191213-00154732/"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "ホリエモンよりグレタさんは「760万倍賢い」―温暖化防止「飛び恥」の衝撃(志葉玲)  https://t.co/R4nESYlDND",
+    "has_extended_profile": false,
+    "id": 1206819431273254912,
+    "id_str": "1206819431273254912",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "ホリエモンよりグレタさんは「760万倍賢い」―温",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 20 23:45:21 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "詐欺師から日本国と日本人を守る為の情報を提供しています。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/uUPmzfPWaN",
+                        "display_url": "sagishibunsenmei.web.fc2.com",
+                        "expanded_url": "http://sagishibunsenmei.web.fc2.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 6,
+        "follow_request_sent": false,
+        "followers_count": 187,
+        "following": false,
+        "friends_count": 8,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 269527481,
+        "id_str": "269527481",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "",
+        "name": "く〜ちゃん",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/269527481/1459334839",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/715126787408265217/lvBchA5__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/715126787408265217/lvBchA5__normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Quu_cyan",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 1941,
+        "time_zone": "",
+        "url": "https://t.co/uUPmzfPWaN",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

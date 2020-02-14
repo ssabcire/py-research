@@ -1,0 +1,325 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 16:46:18 +0000 2019",
+    "display_text_range": [
+        0,
+        45
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    46,
+                    69
+                ],
+                "url": "https://t.co/wY880iNpO7",
+                "display_url": "twitter.com/miraikogoods/s…",
+                "expanded_url": "https://twitter.com/miraikogoods/status/1206053604093595649"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんを利用してる周りの大人が悪いよなー。まだ子供なんだからしっかり守ってあげてよ、、 https://t.co/wY880iNpO7",
+    "has_extended_profile": false,
+    "id": 1206616551564005376,
+    "id_str": "1206616551564005376",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206053604093595649,
+    "quoted_status_id_str": "1206053604093595649",
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 03:29:21 +0000 2019",
+        "display_text_range": [
+            0,
+            96
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 4166,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん、発達障害だし、原子力も温暖化のためならやむなしだし、学校も金曜日は休みにしようだし、鉄道好きだし、科学に耳を傾けろだし、おまえらがふだん賛同してることだらけの人物なのになんでだよ。",
+        "has_extended_profile": false,
+        "id": 1206053604093595649,
+        "id_str": "1206053604093595649",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1237,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん、発達障害だし、原子力も温暖化のためならやむなしだし、",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Aug 10 09:01:20 +0000 2014",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "@miraikoが凍結したため、こっちに転生しようかと考え中。なに垢で転生するかの。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 5385,
+            "follow_request_sent": false,
+            "followers_count": 199,
+            "following": false,
+            "friends_count": 172,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2721196658,
+            "id_str": "2721196658",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 7,
+            "location": "",
+            "name": "柏崎@垢凍結",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2721196658/1572089741",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1188058260697272320/qIRu3-w__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1188058260697272320/qIRu3-w__normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "miraikogoods",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 6410,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "possibly_sensitive": true,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんを利用してる周りの大",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 28 13:29:14 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "好きなことをつぶやくゴミ箱用アカウントです。関心のある話題→フェミニズム、セクマイ、(他人の)恋愛、コスメ、海外セレブ、育児、投資など。 誤字脱字ひどいです、、。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/3Hu8rDl1JV",
+                        "display_url": "room.rakuten.co.jp/koara2019?scid…",
+                        "expanded_url": "https://room.rakuten.co.jp/koara2019?scid=we_rom_newweb_mr_line"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 20499,
+        "follow_request_sent": false,
+        "followers_count": 274,
+        "following": false,
+        "friends_count": 122,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2687558269,
+        "id_str": "2687558269",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "",
+        "name": "ぷりり🍦",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2687558269/1570530389",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1195291297176637440/AyrgEkix_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195291297176637440/AyrgEkix_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Puripuri_2017",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 6879,
+        "time_zone": "",
+        "url": "https://t.co/3Hu8rDl1JV",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

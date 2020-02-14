@@ -1,0 +1,460 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 07:59:38 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "果林＆樹林 (Karin \u0026 Kirin)",
+                "indices": [
+                    3,
+                    18
+                ],
+                "screen_name": "japanawakening",
+                "id": 1134316965860745216,
+                "id_str": "1134316965860745216"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @japanawakening: 母方系は、スウェーデンのウプサラ県が地元で、先祖はバイエルン・イルミナティ創設者のアダム・ヴァイスハオプト（Adam Weisshaupt）の関係者。\nグレタさんの父親は俳優、母親はオペラ歌手、お姉さんは有名なポップ歌手と芸能一家。父親と…",
+    "has_extended_profile": false,
+    "id": 1206846400283082752,
+    "id_str": "1206846400283082752",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 899,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Sep 24 15:39:20 +0000 2019",
+        "display_text_range": [
+            0,
+            139
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1176521443548389377,
+                    "id_str": "1176521443548389377",
+                    "media_url": "http://pbs.twimg.com/media/EFPYBPlU4AEDPU7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EFPYBPlU4AEDPU7.jpg",
+                    "url": "https://t.co/hVnE8TrJoA",
+                    "display_url": "pic.twitter.com/hVnE8TrJoA",
+                    "expanded_url": "https://twitter.com/japanawakening/status/1176521508170059776/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 914,
+                            "h": 516,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 384,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 914,
+                            "h": 516,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        140,
+                        163
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1176521443548389377,
+                    "id_str": "1176521443548389377",
+                    "media_url": "http://pbs.twimg.com/media/EFPYBPlU4AEDPU7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EFPYBPlU4AEDPU7.jpg",
+                    "url": "https://t.co/hVnE8TrJoA",
+                    "display_url": "pic.twitter.com/hVnE8TrJoA",
+                    "expanded_url": "https://twitter.com/japanawakening/status/1176521508170059776/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 914,
+                            "h": 516,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 384,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 914,
+                            "h": 516,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        140,
+                        163
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                },
+                {
+                    "id": 1176521443586134018,
+                    "id_str": "1176521443586134018",
+                    "media_url": "http://pbs.twimg.com/media/EFPYBPuU0AI5kKt.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EFPYBPuU0AI5kKt.png",
+                    "url": "https://t.co/hVnE8TrJoA",
+                    "display_url": "pic.twitter.com/hVnE8TrJoA",
+                    "expanded_url": "https://twitter.com/japanawakening/status/1176521508170059776/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 650,
+                            "h": 420,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 650,
+                            "h": 420,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 650,
+                            "h": 420,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        140,
+                        163
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1041,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "母方系は、スウェーデンのウプサラ県が地元で、先祖はバイエルン・イルミナティ創設者のアダム・ヴァイスハオプト（Adam Weisshaupt）の関係者。\nグレタさんの父親は俳優、母親はオペラ歌手、お姉さんは有名なポップ歌手と芸能一家。父親と母親は過激左翼のアンティファメンバーだ。 https://t.co/hVnE8TrJoA",
+        "has_extended_profile": false,
+        "id": 1176521508170059776,
+        "id_str": "1176521508170059776",
+        "in_reply_to_screen_name": "japanawakening",
+        "in_reply_to_status_id": 1176521128677801984,
+        "in_reply_to_status_id_str": "1176521128677801984",
+        "in_reply_to_user_id": 1134316965860745216,
+        "in_reply_to_user_id_str": "1134316965860745216",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 899,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "母方系は、スウェーデンのウプサラ県が地元で、先祖はバイエルン・イルミナティ創設者のアダム・ヴ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri May 31 04:33:34 +0000 2019",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "マスコミが報じていない情報やQアノン情報をなど、英語で見聞きした情報をフォロー＆紹介しています。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/nd1mUUcOU6",
+                            "display_url": "ameblo.jp/doorforawakeni…",
+                            "expanded_url": "https://ameblo.jp/doorforawakening/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 1888,
+            "follow_request_sent": false,
+            "followers_count": 4009,
+            "following": false,
+            "friends_count": 190,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1134316965860745216,
+            "id_str": "1134316965860745216",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 66,
+            "location": "Australia",
+            "name": "果林＆樹林 (Karin \u0026 Kirin)",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1134316965860745216/1559753605",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1136315094017515520/LLS18w8Q_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1136315094017515520/LLS18w8Q_normal.jpg",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "japanawakening",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 1105,
+            "time_zone": "",
+            "url": "https://t.co/nd1mUUcOU6",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @japanawakening: 母方系は、スウェーデンのウプサラ県が地元で、先祖はバイエルン・イルミナティ創設者",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 11 04:17:26 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 48323,
+        "follow_request_sent": false,
+        "followers_count": 966,
+        "following": false,
+        "friends_count": 1211,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 929201375887507456,
+        "id_str": "929201375887507456",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 3,
+        "location": "",
+        "name": "❤️Elly.a.s.7🌹",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/929201375887507456/1566116215",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1197377824639709184/HcCT9xfb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197377824639709184/HcCT9xfb_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "happyellie7",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 32380,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,316 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 23:26:38 +0000 2019",
+    "display_text_range": [
+        0,
+        135
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "付焼刃砥蔵",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "tackn_roll",
+                "id": 290437263,
+                "id_str": "290437263"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @tackn_roll: グレタさん、宇宙世紀まで生き延びたら地球に小惑星落としそうだな\n\n「地球に住む者は自分達のことしか考えていない！だから抹殺すると宣言した！」\n「私、グレタ・トゥンベリが粛正しようというのだ、アムロ！」\n「地球がもたんときが来ているのだ！」",
+    "has_extended_profile": false,
+    "id": 1206717299077480448,
+    "id_str": "1206717299077480448",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 23:24:03 +0000 2019",
+        "display_text_range": [
+            0,
+            119
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 17,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん、宇宙世紀まで生き延びたら地球に小惑星落としそうだな\n\n「地球に住む者は自分達のことしか考えていない！だから抹殺すると宣言した！」\n「私、グレタ・トゥンベリが粛正しようというのだ、アムロ！」\n「地球がもたんときが来ているのだ！」",
+        "has_extended_profile": false,
+        "id": 1206716650730348544,
+        "id_str": "1206716650730348544",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん、宇宙世紀まで生き延びたら地球に小惑星落としそうだな\n\n「地球に住む者は",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Apr 30 08:21:04 +0000 2011",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "通りすがりのつぶやきんど。人生の設計図はとうに捨て、絶賛迷走中。【好きなもの】広告/競馬/映画/野球（巨人）/サッカー（ミラニスタ）/ガンダム/二次元/甥っ子（カズくん）/姪っ子（カンちゃん）　【苦手なもの】きのこ類/酒（でも好き）/計算/兄",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 20582,
+            "follow_request_sent": false,
+            "followers_count": 1057,
+            "following": false,
+            "friends_count": 776,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 290437263,
+            "id_str": "290437263",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 23,
+            "location": "横浜",
+            "name": "付焼刃砥蔵",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/290437263/1447828073",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/785582132512960512/nASZ9iWu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/785582132512960512/nASZ9iWu_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "tackn_roll",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 135863,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @tackn_roll: グレタさん、宇宙世紀まで生き延びたら地球に小惑星落としそうだな\n\n「地球に住む者は",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 12 20:25:58 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "独立系sierのシステムエンジニア。既婚者\n。日本酒を愛してます。コーギー♀のラキちゅと暮らしてます。\n\n人の体における水分と同等の割合で下ネタを発するネットアイドルです。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 93658,
+        "follow_request_sent": false,
+        "followers_count": 399,
+        "following": false,
+        "friends_count": 424,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 874362159261601792,
+        "id_str": "874362159261601792",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 6,
+        "location": "兵庫 神戸市 東灘区",
+        "name": "🍻T.kitamoto🍶",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/874362159261601792/1566389658",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1164148721791012864/fvnSrnhM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1164148721791012864/fvnSrnhM_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "t_kitamoto",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 38735,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,182 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:42:04 +0000 2019",
+    "display_text_range": [
+        0,
+        38
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんはただのクソガキだと思ってる\nまあ真にイカレてるのは周りの大人だが",
+    "has_extended_profile": false,
+    "id": 1206796680730824704,
+    "id_str": "1206796680730824704",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        136.917732000895,
+                        35.1320260013779
+                    ],
+                    [
+                        136.981095999383,
+                        35.1320260013779
+                    ],
+                    [
+                        136.981095999383,
+                        35.1555129960014
+                    ],
+                    [
+                        136.917732000895,
+                        35.1555129960014
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Japan",
+        "country_code": "JP",
+        "full_name": "Nagoya-shi Showa-ku, Aichi",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "fb9b1514741550ec",
+        "name": "Nagoya-shi Showa-ku",
+        "place_type": "city",
+        "polylines": null,
+        "url": "https://api.twitter.com/1.1/geo/id/fb9b1514741550ec.json"
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんはただのクソガ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 21 10:09:20 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "好きなもの：nullと樺太と素因数分解",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/S5uAjktb1d",
+                        "display_url": "危険な思想のアカウントです.xyz",
+                        "expanded_url": "http://xn--88j1aiq4xya8a3r9n8650aue3andcv55z.xyz"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 245,
+        "follow_request_sent": false,
+        "followers_count": 333,
+        "following": false,
+        "friends_count": 274,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2512157168,
+        "id_str": "2512157168",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 9,
+        "location": "大泊",
+        "name": "ふるさわ",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2512157168/1567407475",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1162587206818467840/QaKD05yZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1162587206818467840/QaKD05yZ_normal.jpg",
+        "profile_link_color": "9C27B0",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "s_frsw",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 65581,
+        "time_zone": "",
+        "url": "https://t.co/S5uAjktb1d",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

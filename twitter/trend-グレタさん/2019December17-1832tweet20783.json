@@ -1,0 +1,316 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 21:50:52 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Saussure",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "mamiyac330",
+                "id": 238411618,
+                "id_str": "238411618"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @mamiyac330: 茂木健一郎さんに対する引用RTとして、何故グレタさんが嫌いなのはおじさんばかりなのか、という疑問に対して「父親の存在として交換財である若い娘が交換価値を低下するような自己主張するのは許しがたいから」と解説させて頂いた。傍証となるのは野口健の一件で…",
+    "has_extended_profile": false,
+    "id": 1206693199319724032,
+    "id_str": "1206693199319724032",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 21:12:49 +0000 2019",
+        "display_text_range": [
+            0,
+            126
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 17,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "茂木健一郎さんに対する引用RTとして、何故グレタさんが嫌いなのはおじさんばかりなのか、という疑問に対して「父親の存在として交換財である若い娘が交換価値を低下するような自己主張するのは許しがたいから」と解説させて頂いた。傍証となるのは野口健の一件である。",
+        "has_extended_profile": false,
+        "id": 1206683622666752000,
+        "id_str": "1206683622666752000",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "茂木健一郎さんに対する引用RTとして、何故グレタさんが嫌いなのはおじさんばかりなのか、\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jan 15 03:24:25 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "自閉症スペクトラム障害/介護生活/美術/サイクリング/現代思想/民俗学/宗教学/社会学等について呟いています/何故かイワクラ学会会員/カメラはMamiya　C330とRB67 FUJIFILM X-pro2 引伸ばし機はフジタイプB アナクロ親父 勝手にピーティ田代櫻さんを絶賛応援中",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 2891,
+            "follow_request_sent": false,
+            "followers_count": 3411,
+            "following": false,
+            "friends_count": 998,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 238411618,
+            "id_str": "238411618",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 118,
+            "location": "",
+            "name": "Saussure",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/238411618/1463218799",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/784680112419577856/sCnZkfq2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/784680112419577856/sCnZkfq2_normal.jpg",
+            "profile_link_color": "0039B3",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "mamiyac330",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 32321,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @mamiyac330: 茂木健一郎さんに対する引用RTとして、何故グレタさんが嫌いなのはおじさんばかりなのか\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 20 23:56:14 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "医療と福祉の間で仕事ちう／ #きょうだい児 (現在は #きょうだい者 )自閉＋重度知的の姉と２人姉妹／就職氷河期世代／ #十二国記 と #おんな城主直虎 はバイブル。原点は戦う女の子。／いいね👍してくれる皆様、励みになります。ありがとうございます。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 13218,
+        "follow_request_sent": false,
+        "followers_count": 280,
+        "following": false,
+        "friends_count": 392,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 708018644,
+        "id_str": "708018644",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 3,
+        "location": "日本の真ん中へんか空港",
+        "name": "nononi@仕事リハビリ開始",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/708018644/1574995675",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1204321264644452352/d4Fr0lwV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1204321264644452352/d4Fr0lwV_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nononi_",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 35427,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

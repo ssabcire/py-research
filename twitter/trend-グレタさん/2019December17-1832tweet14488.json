@@ -1,0 +1,372 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:15:04 +0000 2019",
+    "display_text_range": [
+        0,
+        113
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    90,
+                    113
+                ],
+                "url": "https://t.co/68VkqoVm7G",
+                "display_url": "news.livedoor.com/article/detail…",
+                "expanded_url": "https://news.livedoor.com/article/detail/17490682/"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    82,
+                    89
+                ],
+                "text": "ldnews"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "畑邊康浩",
+                "indices": [
+                    3,
+                    8
+                ],
+                "screen_name": "htby",
+                "id": 8134502,
+                "id_str": "8134502"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @htby: イラストでコーヒー吹いた\n\nホリエモンが環境活動家グレタさんに「堂々と飛行機に乗って、技術革新で地球温暖化ガスを減らす方向に動いたほうがいい」 #ldnews https://t.co/68VkqoVm7G",
+    "has_extended_profile": false,
+    "id": 1206729486525296641,
+    "id_str": "1206729486525296641",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 06 21:56:38 +0000 2019",
+        "display_text_range": [
+            0,
+            103
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        80,
+                        103
+                    ],
+                    "url": "https://t.co/68VkqoVm7G",
+                    "display_url": "news.livedoor.com/article/detail…",
+                    "expanded_url": "https://news.livedoor.com/article/detail/17490682/"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        72,
+                        79
+                    ],
+                    "text": "ldnews"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "イラストでコーヒー吹いた\n\nホリエモンが環境活動家グレタさんに「堂々と飛行機に乗って、技術革新で地球温暖化ガスを減らす方向に動いたほうがいい」 #ldnews https://t.co/68VkqoVm7G",
+        "has_extended_profile": false,
+        "id": 1203070771951628288,
+        "id_str": "1203070771951628288",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "イラストでコーヒー吹いた\n\nホリエモンが環境活動家グレタさんに「堂々と\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Aug 12 04:21:40 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "フリーランス編集者・ライター。HR、採用、テクノロジー関連の仕事が多いです。独り言を呟いたり、気になるニュースをポストします。札幌出身、足立区在住。署名記事のリンク集はこちら https://t.co/R9jM45Uv8U",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/QdZg8klkeN",
+                            "display_url": "profiee.com/i/htby",
+                            "expanded_url": "https://profiee.com/i/htby"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 24497,
+            "follow_request_sent": false,
+            "followers_count": 2789,
+            "following": false,
+            "friends_count": 3000,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 8134502,
+            "id_str": "8134502",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 58,
+            "location": "足立区",
+            "name": "畑邊康浩",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/8134502/1549194624",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1190650887745740802/AXW5PSPN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190650887745740802/AXW5PSPN_normal.jpg",
+            "profile_link_color": "0D0A6B",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "E0DEBC",
+            "profile_text_color": "191970",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "htby",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 96824,
+            "time_zone": "",
+            "url": "https://t.co/QdZg8klkeN",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @htby: イラストでコーヒー吹いた\n\nホリエモンが環境活動家グレタさんに「堂々と\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 23 13:14:03 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ホリエモンLINEスタンプ発売中！https://t.co/Ppfc3291pY『刑務所いたけど何か質問ある？ 』https://t.co/0q0vX6LsgX 漫画家・イラストレーター。福井県出身。平日17：00～20：30は子守中につき対応しづらいです。\nnishiaznable@gmail.com\n\n書籍や連載等、活動内容こちら下記FBページに↓",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/J20sXjoDgJ",
+                        "display_url": "facebook.com/nishiaznable24",
+                        "expanded_url": "https://www.facebook.com/nishiaznable24"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 17733,
+        "follow_request_sent": false,
+        "followers_count": 5250,
+        "following": false,
+        "friends_count": 1628,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 59456931,
+        "id_str": "59456931",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 108,
+        "location": "西新宿",
+        "name": "西アズナブル",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/59456931/1532596442",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1201484732019593216/BqWSaVez_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201484732019593216/BqWSaVez_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nishi_aznable",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 27594,
+        "time_zone": "",
+        "url": "https://t.co/J20sXjoDgJ",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

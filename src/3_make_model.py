@@ -8,7 +8,7 @@ def make_w2v(sentence: List[List[str]], model_path: str):
     '''
     2次元リストからモデルを作成し、保存する
     '''
-    model = Word2Vec(sentence, size=100, window=5, min_count=2, workers=3)
+    model = Word2Vec(sentence, size=100, window=2, min_count=1, workers=3)
     model.save(model_path)
 
 

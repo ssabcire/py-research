@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 13:18:58 +0000 2019",
+    "display_text_range": [
+        0,
+        151
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    128,
+                    151
+                ],
+                "url": "https://t.co/m1r9vwnTWd",
+                "display_url": "htn.to/2gjbXEdJbo",
+                "expanded_url": "https://htn.to/2gjbXEdJbo"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "“列車が超満員ということは、鉄道の旅の需要が高いという素晴らしいしるしだ！” 新宿駅あたりの通勤電車に乗せてあげたら狂喜しそう。 / “グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い　写真10枚　国際ニュース：AFPBB News” https://t.co/m1r9vwnTWd",
+    "has_extended_profile": false,
+    "id": 1206564374963318786,
+    "id_str": "1206564374963318786",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://b.hatena.ne.jp/\" rel=\"nofollow\"\u003eはてなブックマーク\u003c/a\u003e",
+    "scopes": null,
+    "text": "“列車が超満員ということは、鉄道の旅の需要が高いという素晴らしいしるしだ！” 新宿駅あたりの通勤電車に",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 04 13:35:14 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "wanna be a libertarian",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/qhBzh0t6Xk",
+                        "display_url": "fujixe.hatenablog.com",
+                        "expanded_url": "http://fujixe.hatenablog.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 40,
+        "follow_request_sent": false,
+        "followers_count": 162,
+        "following": false,
+        "friends_count": 325,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 140067410,
+        "id_str": "140067410",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 17,
+        "location": "Japan",
+        "name": "fujixe",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1462463150/fujixe_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1462463150/fujixe_normal.gif",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fujixe",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 7736,
+        "time_zone": "",
+        "url": "http://t.co/qhBzh0t6Xk",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

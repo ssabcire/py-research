@@ -1,0 +1,506 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 10:48:34 +0000 2019",
+    "display_text_range": [
+        0,
+        65
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "せいうち堂",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "seiutitarou",
+                "id": 201029613,
+                "id_str": "201029613"
+            }
+        ],
+        "media": [
+            {
+                "id": 1206245456457547776,
+                "id_str": "1206245456457547776",
+                "media_url": "http://pbs.twimg.com/media/EL1x2ggUwAAeLqc.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL1x2ggUwAAeLqc.jpg",
+                "url": "https://t.co/QlezVNIlhO",
+                "display_url": "pic.twitter.com/QlezVNIlhO",
+                "expanded_url": "https://twitter.com/seiutitarou/status/1206245476778921984/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 800,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 453,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1365,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206245476778921984,
+                "source_status_id_str": "1206245476778921984",
+                "type": "photo",
+                "indices": [
+                    42,
+                    65
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206245456457547776,
+                "id_str": "1206245456457547776",
+                "media_url": "http://pbs.twimg.com/media/EL1x2ggUwAAeLqc.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL1x2ggUwAAeLqc.jpg",
+                "url": "https://t.co/QlezVNIlhO",
+                "display_url": "pic.twitter.com/QlezVNIlhO",
+                "expanded_url": "https://twitter.com/seiutitarou/status/1206245476778921984/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 800,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 453,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1365,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206245476778921984,
+                "source_status_id_str": "1206245476778921984",
+                "type": "photo",
+                "indices": [
+                    42,
+                    65
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @seiutitarou: グレタさん。ゴジラのフォントで書きたかったので… https://t.co/QlezVNIlhO",
+    "has_extended_profile": false,
+    "id": 1206526525010403328,
+    "id_str": "1206526525010403328",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 31,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 16:11:47 +0000 2019",
+        "display_text_range": [
+            0,
+            24
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206245456457547776,
+                    "id_str": "1206245456457547776",
+                    "media_url": "http://pbs.twimg.com/media/EL1x2ggUwAAeLqc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL1x2ggUwAAeLqc.jpg",
+                    "url": "https://t.co/QlezVNIlhO",
+                    "display_url": "pic.twitter.com/QlezVNIlhO",
+                    "expanded_url": "https://twitter.com/seiutitarou/status/1206245476778921984/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 800,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 453,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1365,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        25,
+                        48
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206245456457547776,
+                    "id_str": "1206245456457547776",
+                    "media_url": "http://pbs.twimg.com/media/EL1x2ggUwAAeLqc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL1x2ggUwAAeLqc.jpg",
+                    "url": "https://t.co/QlezVNIlhO",
+                    "display_url": "pic.twitter.com/QlezVNIlhO",
+                    "expanded_url": "https://twitter.com/seiutitarou/status/1206245476778921984/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 800,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 453,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1365,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        25,
+                        48
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 71,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん。ゴジラのフォントで書きたかったので… https://t.co/QlezVNIlhO",
+        "has_extended_profile": false,
+        "id": 1206245476778921984,
+        "id_str": "1206245476778921984",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 31,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん。ゴジ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Oct 10 22:24:31 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "毎月、最終日曜日あたりに、福岡市西区の木の葉モールで似顔絵を書いて折ります",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 66923,
+            "follow_request_sent": false,
+            "followers_count": 785,
+            "following": false,
+            "friends_count": 2700,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 201029613,
+            "id_str": "201029613",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 7,
+            "location": "福岡県糸島市",
+            "name": "せいうち堂",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1810849596/aOn39oDV_normal",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1810849596/aOn39oDV_normal",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "seiutitarou",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 17395,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @seiutitarou: グレタさん。ゴジラのフォントで書",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 10 12:37:37 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "創作垢。色々好き。🎌無口でキチガイ🎌 https://t.co/SwneKD0lZj(詳細)",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/XkLrft0941",
+                        "display_url": "akayuu13.tumblr.com",
+                        "expanded_url": "https://akayuu13.tumblr.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 13234,
+        "follow_request_sent": false,
+        "followers_count": 42,
+        "following": false,
+        "friends_count": 18,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 840179837079756804,
+        "id_str": "840179837079756804",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "超遅筆",
+        "name": "ユウ",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/840179837079756804/1556547829",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1185564833296465920/i2mQi0Mz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1185564833296465920/i2mQi0Mz_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "akayuu0403",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 5518,
+        "time_zone": "",
+        "url": "https://t.co/XkLrft0941",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

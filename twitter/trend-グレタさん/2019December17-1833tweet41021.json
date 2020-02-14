@@ -1,0 +1,366 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:39:37 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [
+            {
+                "indices": [
+                    53,
+                    59
+                ],
+                "text": "みんな電力"
+            },
+            {
+                "indices": [
+                    79,
+                    83
+                ],
+                "text": "NEM"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "トレスト🐺",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "TrendStream",
+                "id": 589979075,
+                "id_str": "589979075"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @TrendStream: 環境問題にグレタちゃんほど注力してないレギュラーガソリン派のワシですが、#みんな電力 さんの取り組みには感銘しか受けないし、#NEM パブリックチェーンが活用されてることは誇らしい。\n\n個人サービスにもはよっ！\n\nhttps://t.co/fa…",
+    "has_extended_profile": false,
+    "id": 1206539372079697920,
+    "id_str": "1206539372079697920",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 8,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 03:22:03 +0000 2019",
+        "display_text_range": [
+            0,
+            130
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        107,
+                        130
+                    ],
+                    "url": "https://t.co/fa9AgghMo6",
+                    "display_url": "food-stadium.com/special/27661/",
+                    "expanded_url": "https://food-stadium.com/special/27661/"
+                }
+            ],
+            "hashtags": [
+                {
+                    "indices": [
+                        36,
+                        42
+                    ],
+                    "text": "みんな電力"
+                },
+                {
+                    "indices": [
+                        62,
+                        66
+                    ],
+                    "text": "NEM"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 39,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "環境問題にグレタちゃんほど注力してないレギュラーガソリン派のワシですが、#みんな電力 さんの取り組みには感銘しか受けないし、#NEM パブリックチェーンが活用されてることは誇らしい。\n\n個人サービスにもはよっ！\n\nhttps://t.co/fa9AgghMo6",
+        "has_extended_profile": false,
+        "id": 1206414157542608896,
+        "id_str": "1206414157542608896",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 8,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "環境問題にグレタちゃんほど注力してないレギュラーガソリン派のワシですが、#みんな電力 さ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri May 25 13:11:51 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "暗号野良。グレタに叱られないように気を付けます。\n#NEM エンジョイ勢 #Catapult",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/7guOatePaI",
+                            "display_url": "nemgraph.net/profile/5d5e9c…",
+                            "expanded_url": "https://nemgraph.net/profile/5d5e9c2255616fad5adaaea0ce4618c337e41"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 76729,
+            "follow_request_sent": false,
+            "followers_count": 30728,
+            "following": false,
+            "friends_count": 297,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 589979075,
+            "id_str": "589979075",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 626,
+            "location": "豚骨香る街",
+            "name": "トレスト🐺",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/589979075/1571716795",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1186498566451187713/l9V_t00z_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186498566451187713/l9V_t00z_normal.png",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "TrendStream",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 58311,
+            "time_zone": "",
+            "url": "https://t.co/7guOatePaI",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @TrendStream: 環境問題にグレタちゃんほど注力してないレギュラーガソリン派のワシですが、#みんな電\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 12 09:53:56 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "NEMber #NEM/#XEM\nVALU→https://t.co/0SWtqSx4aW\n\nNEMとは何かわかりやすいサイト様→https://t.co/rughI8HYsy",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 25637,
+        "follow_request_sent": false,
+        "followers_count": 279,
+        "following": false,
+        "friends_count": 55,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 874203102567514112,
+        "id_str": "874203102567514112",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 3,
+        "location": "",
+        "name": "golddoor",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/874203102567514112/1497781374",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1084043909158731777/Y7qcliIq_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084043909158731777/Y7qcliIq_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "golddoor_nem",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 16828,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

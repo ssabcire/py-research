@@ -1,0 +1,688 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:07:13 +0000 2019",
+    "display_text_range": [
+        0,
+        85
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    38,
+                    61
+                ],
+                "url": "https://t.co/158zF3ipXW",
+                "display_url": "twitter.com/jyunesu_/statu…",
+                "expanded_url": "https://twitter.com/jyunesu_/status/1204906611728273410"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "violetnyanco",
+                "indices": [
+                    3,
+                    16
+                ],
+                "screen_name": "violetnyanco",
+                "id": 75668176,
+                "id_str": "75668176"
+            }
+        ],
+        "media": [
+            {
+                "id": 1204923935403364353,
+                "id_str": "1204923935403364353",
+                "media_url": "http://pbs.twimg.com/media/ELi_728VUAE0SpO.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ELi_728VUAE0SpO.jpg",
+                "url": "https://t.co/CU0Ptx8hW3",
+                "display_url": "pic.twitter.com/CU0Ptx8hW3",
+                "expanded_url": "https://twitter.com/violetnyanco/status/1204923939836678145/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 677,
+                        "h": 408,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 677,
+                        "h": 408,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 677,
+                        "h": 408,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1204923939836678145,
+                "source_status_id_str": "1204923939836678145",
+                "type": "photo",
+                "indices": [
+                    62,
+                    85
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1204923935403364353,
+                "id_str": "1204923935403364353",
+                "media_url": "http://pbs.twimg.com/media/ELi_728VUAE0SpO.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ELi_728VUAE0SpO.jpg",
+                "url": "https://t.co/CU0Ptx8hW3",
+                "display_url": "pic.twitter.com/CU0Ptx8hW3",
+                "expanded_url": "https://twitter.com/violetnyanco/status/1204923939836678145/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 677,
+                        "h": 408,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 677,
+                        "h": 408,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 677,
+                        "h": 408,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1204923939836678145,
+                "source_status_id_str": "1204923939836678145",
+                "type": "photo",
+                "indices": [
+                    62,
+                    85
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @violetnyanco: アースジャスティスがグレタさんのバック https://t.co/158zF3ipXW https://t.co/CU0Ptx8hW3",
+    "has_extended_profile": false,
+    "id": 1206727513629552640,
+    "id_str": "1206727513629552640",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1204906611728273410,
+    "quoted_status_id_str": "1204906611728273410",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 12 00:40:28 +0000 2019",
+        "display_text_range": [
+            0,
+            43
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "url": "https://t.co/158zF3ipXW",
+                    "display_url": "twitter.com/jyunesu_/statu…",
+                    "expanded_url": "https://twitter.com/jyunesu_/status/1204906611728273410"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1204923935403364353,
+                    "id_str": "1204923935403364353",
+                    "media_url": "http://pbs.twimg.com/media/ELi_728VUAE0SpO.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELi_728VUAE0SpO.jpg",
+                    "url": "https://t.co/CU0Ptx8hW3",
+                    "display_url": "pic.twitter.com/CU0Ptx8hW3",
+                    "expanded_url": "https://twitter.com/violetnyanco/status/1204923939836678145/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 677,
+                            "h": 408,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 677,
+                            "h": 408,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 677,
+                            "h": 408,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        44,
+                        67
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1204923935403364353,
+                    "id_str": "1204923935403364353",
+                    "media_url": "http://pbs.twimg.com/media/ELi_728VUAE0SpO.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELi_728VUAE0SpO.jpg",
+                    "url": "https://t.co/CU0Ptx8hW3",
+                    "display_url": "pic.twitter.com/CU0Ptx8hW3",
+                    "expanded_url": "https://twitter.com/violetnyanco/status/1204923939836678145/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 677,
+                            "h": 408,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 677,
+                            "h": 408,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 677,
+                            "h": 408,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        44,
+                        67
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 4,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "アースジャスティスがグレタさんのバック https://t.co/158zF3ipXW https://t.co/CU0Ptx8hW3",
+        "has_extended_profile": false,
+        "id": 1204923939836678145,
+        "id_str": "1204923939836678145",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1204906611728273410,
+        "quoted_status_id_str": "1204906611728273410",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Dec 11 23:31:36 +0000 2019",
+            "display_text_range": [
+                0,
+                154
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "indices": [
+                            30,
+                            53
+                        ],
+                        "url": "https://t.co/feMUra5EHK",
+                        "display_url": "thutmosev.com/archives/81694…",
+                        "expanded_url": "http://www.thutmosev.com/archives/81694338.html"
+                    }
+                ],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 98,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "環境少女グレタは中国の工作員だった　背後で操ったのは共産党 https://t.co/feMUra5EHK\n世界最大のco2排出国は中国だが、グレタは中国を一切批判せず、中国の100分の1しか輩出していない国を「悪魔」と罵っている。世界一の河川汚染国も土壌汚染も食品汚染もすべて中国だが、何の関心も示さない。",
+            "has_extended_profile": false,
+            "id": 1204906611728273410,
+            "id_str": "1204906611728273410",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 79,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+            "scopes": null,
+            "text": "環境少女グレタは中国の工作員だった　背後で操ったのは共産党 https://t.co/feMUra5EHK\n世界最大のco2排出国は中国だが",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Dec 03 08:51:03 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "歌手の古屋かおりさんのファンサイトをやっています。\r\n読書・カメラ・インターネットラジオ・映画・アイドルが好きです。\r\nI am running a fan site singer Kaori Furuya.\r\nI love internet radio idol film camera  reading.",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/7w5OZZD3oZ",
+                                "display_url": "alles.or.jp/~jyunesu/index…",
+                                "expanded_url": "http://www.alles.or.jp/~jyunesu/index.html"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 2084,
+                "follow_request_sent": false,
+                "followers_count": 5790,
+                "following": false,
+                "friends_count": 6354,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 94288919,
+                "id_str": "94288919",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 104,
+                "location": "埼玉県 （Saitama Japan）",
+                "name": "ジュネス （jyunesu)",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/94288919/1522642307",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/952028155/eto1104_normal.gif",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/952028155/eto1104_normal.gif",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "jyunesu_",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 810356,
+                "time_zone": "",
+                "url": "http://t.co/7w5OZZD3oZ",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "アースジャスティスがグレタさ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Sep 19 23:26:04 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "若くはないけど嫌反日。日本を日本のまま子供たちに残したい。  ツイログはこちら  https://t.co/c1f362BxD7 \n★ボラプから今はQUEENのフレディにどはまり中😍社会問題ツイ多いけど実は寝ても覚めてもフレディ🥰",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 88170,
+            "follow_request_sent": false,
+            "followers_count": 4836,
+            "following": false,
+            "friends_count": 4019,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 75668176,
+            "id_str": "75668176",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 119,
+            "location": "",
+            "name": "violetnyanco",
+            "notifications": false,
+            "profile_background_color": "FCEBB6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1526253775/nyanco_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1526253775/nyanco_normal.jpg",
+            "profile_link_color": "5E412F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "78C0A8",
+            "profile_text_color": "CE7834",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "violetnyanco",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 371640,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @violetnyanco: アースジャスティスがグレタさんのバック https://t",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 24 01:07:06 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "事実を報道しない偏向メディアは日本の癌だと思います。安倍総理を全力で応援、支持します！リツイート多めなのは拡散目的。但し、肯定とは限りません。報道しない自由はネットでは通用しないよ。ダイレクトメールは見ません。フォローはご自由にどうぞ。JNSC会員。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 120064,
+        "follow_request_sent": false,
+        "followers_count": 6079,
+        "following": false,
+        "friends_count": 6031,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 158927348,
+        "id_str": "158927348",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 71,
+        "location": "日本",
+        "name": "青いクラゲ",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/158927348/1564278591",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1159277568811360256/WrEVcCHB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1159277568811360256/WrEVcCHB_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "masugominikatu",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 284665,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

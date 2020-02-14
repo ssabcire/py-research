@@ -1,0 +1,607 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:54:03 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    57,
+                    80
+                ],
+                "url": "https://t.co/OJ4wMeMJpm",
+                "display_url": "afpbb.com/articles/-/325…",
+                "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "世界四季報（セカ報）",
+                "indices": [
+                    3,
+                    8
+                ],
+                "screen_name": "4ki4",
+                "id": 5915912,
+                "id_str": "5915912"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @4ki4: グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い：AFPBB News\n https://t.co/OJ4wMeMJpm\n\nグレタ「床に座らされたわ」\n\nドイツ鉄道「フランクフルト以降はファーストクラスに座っていた」\n\n何この展開わらたw…",
+    "has_extended_profile": false,
+    "id": 1206558105246388228,
+    "id_str": "1206558105246388228",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1205969006982815751,
+    "quoted_status_id_str": "1205969006982815751",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 54,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 09:43:32 +0000 2019",
+        "display_text_range": [
+            0,
+            131
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        47,
+                        70
+                    ],
+                    "url": "https://t.co/OJ4wMeMJpm",
+                    "display_url": "afpbb.com/articles/-/325…",
+                    "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+                },
+                {
+                    "indices": [
+                        132,
+                        155
+                    ],
+                    "url": "https://t.co/KNbwH898xh",
+                    "display_url": "twitter.com/GretaThunberg/…",
+                    "expanded_url": "https://twitter.com/GretaThunberg/status/1205969006982815751"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 102,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い：AFPBB News\n https://t.co/OJ4wMeMJpm\n\nグレタ「床に座らされたわ」\n\nドイツ鉄道「フランクフルト以降はファーストクラスに座っていた」\n\n何この展開わらたwww https://t.co/KNbwH898xh",
+        "has_extended_profile": false,
+        "id": 1206510158232207360,
+        "id_str": "1206510158232207360",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1205969006982815751,
+        "quoted_status_id_str": "1205969006982815751",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sat Dec 14 21:53:11 +0000 2019",
+            "display_text_range": [
+                0,
+                80
+            ],
+            "entities": {
+                "urls": [],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": [
+                    {
+                        "id": 1205969001693798400,
+                        "id_str": "1205969001693798400",
+                        "media_url": "http://pbs.twimg.com/media/ELx2auQXYAAIOUu.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/ELx2auQXYAAIOUu.jpg",
+                        "url": "https://t.co/ssfLCPsR8o",
+                        "display_url": "pic.twitter.com/ssfLCPsR8o",
+                        "expanded_url": "https://twitter.com/GretaThunberg/status/1205969006982815751/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 1000,
+                                "h": 702,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 477,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1000,
+                                "h": 702,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            81,
+                            104
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": [
+                    {
+                        "id": 1205969001693798400,
+                        "id_str": "1205969001693798400",
+                        "media_url": "http://pbs.twimg.com/media/ELx2auQXYAAIOUu.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/ELx2auQXYAAIOUu.jpg",
+                        "url": "https://t.co/ssfLCPsR8o",
+                        "display_url": "pic.twitter.com/ssfLCPsR8o",
+                        "expanded_url": "https://twitter.com/GretaThunberg/status/1205969006982815751/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 1000,
+                                "h": 702,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 477,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1000,
+                                "h": 702,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            81,
+                            104
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 200143,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "Traveling on overcrowded trains through Germany. And I’m finally on my way home! https://t.co/ssfLCPsR8o",
+            "has_extended_profile": false,
+            "id": 1205969006982815751,
+            "id_str": "1205969006982815751",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "en",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 12463,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+            "scopes": null,
+            "text": "Traveling on overcrowded trains through Germany. And I’m finally on my way hom",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Jun 12 06:14:23 +0000 2018",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "A teenager working on her anger management problem. Currently chilling and watching a good old fashioned movie with a friend.",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/T59gBserXD",
+                                "display_url": "youtu.be/H2QxFM9y0tY",
+                                "expanded_url": "https://youtu.be/H2QxFM9y0tY"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 16091,
+                "follow_request_sent": false,
+                "followers_count": 3672275,
+                "following": false,
+                "friends_count": 1793,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 1006419421244678144,
+                "id_str": "1006419421244678144",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 7268,
+                "location": "Sverige",
+                "name": "Greta Thunberg",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1006419421244678144/1559499911",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1205151355230457856/h78KQbyF_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205151355230457856/h78KQbyF_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "GretaThunberg",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 6206,
+                "time_zone": "",
+                "url": "https://t.co/T59gBserXD",
+                "utc_offset": 0,
+                "verified": true,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 54,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い：AFPBB News\n https://t.co/OJ4",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu May 10 01:01:09 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "世界情勢・経済ニュース・マーケット・データ・米国株・スタートアップ・金融用語などをメモ帳代わりにつぶやいております。ツイート範囲は広め、地元ネタもちょこっと。辻堂寄りの茅ヶ崎民です。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/bBKK7iFszZ",
+                            "display_url": "twilog.org/4ki4",
+                            "expanded_url": "http://twilog.org/4ki4"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 25919,
+            "follow_request_sent": false,
+            "followers_count": 52996,
+            "following": false,
+            "friends_count": 3475,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 5915912,
+            "id_str": "5915912",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1714,
+            "location": "湘南エリアに生息",
+            "name": "世界四季報（セカ報）",
+            "notifications": false,
+            "profile_background_color": "FF8C00",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5915912/1508557621",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1120402105079037955/TpeAiAUl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120402105079037955/TpeAiAUl_normal.jpg",
+            "profile_link_color": "CC3366",
+            "profile_sidebar_border_color": "99CC66",
+            "profile_sidebar_fill_color": "FFFF99",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "4ki4",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 73041,
+            "time_zone": "",
+            "url": "https://t.co/bBKK7iFszZ",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @4ki4: グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い：AFPBB News\n https://t.co/OJ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 02 21:48:49 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "反日と売国を進める方々に鉄槌を与える\n愛国者の方、相互フォローお願いします。\n不動産投資をしています",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 10155,
+        "follow_request_sent": false,
+        "followers_count": 479,
+        "following": false,
+        "friends_count": 483,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3763197194,
+        "id_str": "3763197194",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 3,
+        "location": "大阪府",
+        "name": "日御子@相互フォロー",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3763197194/1448630847",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1124785997294686208/-YDW08Wv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1124785997294686208/-YDW08Wv_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "KAGARYOKI",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 18392,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

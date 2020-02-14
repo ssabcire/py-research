@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 01:42:18 +0000 2019",
+    "display_text_range": [
+        0,
+        133
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    110,
+                    133
+                ],
+                "url": "https://t.co/PCg4zJ7MzY",
+                "display_url": "moeruasia.net/archives/49657…",
+                "expanded_url": "https://www.moeruasia.net/archives/49657134.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "松下幸",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "Cruise_kou",
+                "id": 198047415,
+                "id_str": "198047415"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @Cruise_kou: これな、「子供が使う言葉は、周りにいる大人が使っている言葉」なんだよな。\n\nグレタさん、自分に従わない指導者は「against the wall」(壁際に立たせる=銃殺刑)　大炎上、謝罪 https://t.co/PCg4zJ7MzY",
+    "has_extended_profile": false,
+    "id": 1206751441416667136,
+    "id_str": "1206751441416667136",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 149,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 22:55:58 +0000 2019",
+        "display_text_range": [
+            0,
+            117
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        94,
+                        117
+                    ],
+                    "url": "https://t.co/PCg4zJ7MzY",
+                    "display_url": "moeruasia.net/archives/49657…",
+                    "expanded_url": "https://www.moeruasia.net/archives/49657134.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 119,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "これな、「子供が使う言葉は、周りにいる大人が使っている言葉」なんだよな。\n\nグレタさん、自分に従わない指導者は「against the wall」(壁際に立たせる=銃殺刑)　大炎上、謝罪 https://t.co/PCg4zJ7MzY",
+        "has_extended_profile": false,
+        "id": 1206347194640453632,
+        "id_str": "1206347194640453632",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 149,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "scopes": null,
+        "text": "これな、「子供が使う言葉は、周りにいる大人が使っている言葉」なんだよな。\n\nグレ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Oct 03 05:45:17 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "富山 船釣り全般、クルマ、サッカー、カメラ、時計。\n中道右派。是々非々。\nNC ﾛｰﾄﾞｽﾀｰ\nKF CX-5\nKW ｶﾝｸﾞｰ\nYAMAHA DFR29\nｶﾞﾝﾊﾞ大阪\nｶﾀｰﾚ富山\nSONY α7S\nZENITHｸﾛﾉﾏｽﾀｰTｵｰﾌﾟﾝ",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 1124,
+            "follow_request_sent": false,
+            "followers_count": 1177,
+            "following": false,
+            "friends_count": 1353,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 198047415,
+            "id_str": "198047415",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 47,
+            "location": "富山県富山市",
+            "name": "松下幸",
+            "notifications": false,
+            "profile_background_color": "FFF04D",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/198047415/1554875503",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/710810776068448256/qdUx4aCr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/710810776068448256/qdUx4aCr_normal.jpg",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "FFF8AD",
+            "profile_sidebar_fill_color": "F6FFD1",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Cruise_kou",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 170199,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @Cruise_kou: これな、「子供が使う言葉は、周りにいる大人が使っている言葉」なんだよな。\n\nグレ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 31 07:48:56 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "LoveJapan!美しくとてつもない日本と麻生太郎総理大好!あ～民♪(＾ΦωΦ＾)ﾆｬｵﾈﾄｰﾖ♪@cesarmillan #大野智 haveMyRespect.(dislikeGroup/despiseNS)フォロ有難うございます。当方好嫌明確型(not敵意)RTイイネ頻繁雑多。お邪魔でしたらリムブロ等して下さい。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 107568,
+        "follow_request_sent": false,
+        "followers_count": 846,
+        "following": false,
+        "friends_count": 180,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 595277819,
+        "id_str": "595277819",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 30,
+        "location": "日本",
+        "name": "💙Akiko (亜希子)💙",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2268257956/AKITAimage_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2268257956/AKITAimage_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AmarJapon",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 383845,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

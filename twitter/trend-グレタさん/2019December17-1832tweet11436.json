@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 01:35:25 +0000 2019",
+    "display_text_range": [
+        0,
+        19
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "守ろう恥丘環境！！グレタさんと共に！！",
+    "has_extended_profile": false,
+    "id": 1206749710574211072,
+    "id_str": "1206749710574211072",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "守ろう恥丘環\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 20 15:43:17 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ハードコアパンクバンドのギタリストから2018年にピアノ轢き語りに転向。元ニトロ爆弾、韮。大型二輪(DSC1100)、四輪(ソアラZ20)。千葉大学工学部卒。横浜在住。截拳道、拳闘。\n出演依頼下さい  corecorecore666@gmail.com",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/B3mOQJm0LL",
+                        "display_url": "youtube.com/channel/UCMGf5…",
+                        "expanded_url": "https://www.youtube.com/channel/UCMGf5Tx-gG6LvsYjTS6jOjw"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 4038,
+        "follow_request_sent": false,
+        "followers_count": 1829,
+        "following": false,
+        "friends_count": 954,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 146093598,
+        "id_str": "146093598",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 14,
+        "location": "姉ヶ崎 / 福岡 / 仙台",
+        "name": "かずお爆弾@ピアノ轢き語り",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/146093598/1547262753",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1187136429878497280/6qH-VjuH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1187136429878497280/6qH-VjuH_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KAZUOxCORE",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 25012,
+        "time_zone": "",
+        "url": "https://t.co/B3mOQJm0LL",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

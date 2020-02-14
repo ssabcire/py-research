@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 15:45:45 +0000 2019",
+    "display_text_range": [
+        0,
+        130
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "毒島",
+                "indices": [
+                    3,
+                    11
+                ],
+                "screen_name": "busuGma",
+                "id": 1103189664087695360,
+                "id_str": "1103189664087695360"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @busuGma: グレタさんに1ナノでも否定的な反応を示すと「若い少女だから反発してるんだろう！」みたいなトコに着地させられてしまうので虚無にしかならない。\n昔クラスにいたワガママ女ボスにはどんなこと言っても平伏すしかない陰キャラの思い出が蘇ってきた。",
+    "has_extended_profile": false,
+    "id": 1206601314739748867,
+    "id_str": "1206601314739748867",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 16,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 10:49:56 +0000 2019",
+        "display_text_range": [
+            0,
+            117
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 65,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんに1ナノでも否定的な反応を示すと「若い少女だから反発してるんだろう！」みたいなトコに着地させられてしまうので虚無にしかならない。\n昔クラスにいたワガママ女ボスにはどんなこと言っても平伏すしかない陰キャラの思い出が蘇ってきた。",
+        "has_extended_profile": false,
+        "id": 1206526868507090944,
+        "id_str": "1206526868507090944",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 16,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんに1ナノでも否定的な反応を示すと「若い少女だから反発してるんだろう！\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Mar 06 07:04:46 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "↑30 喪女 この世にある人間の悪徳、醜女要素を全て持ち合わせたのが私だ、逃げるな、目を背けるな、ほら私の汚い乳を揉め。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/7lsfVFm2y5",
+                            "display_url": "note.mu/busug",
+                            "expanded_url": "https://note.mu/busug"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 2238,
+            "follow_request_sent": false,
+            "followers_count": 510,
+            "following": false,
+            "friends_count": 65,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1103189664087695360,
+            "id_str": "1103189664087695360",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 24,
+            "location": "どこにも居場所がねえんだわ",
+            "name": "毒島",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1181071885305409536/4wsc_rVy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181071885305409536/4wsc_rVy_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "busuGma",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 3432,
+            "time_zone": "",
+            "url": "https://t.co/7lsfVFm2y5",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @busuGma: グレタさんに1ナノでも否定的な反応を示すと「若い少女だから反発してるんだろう！\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 01 07:27:36 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "フリーター、派遣工場労働者、日雇いドカタ、などを経てサラリーマン。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 40974,
+        "follow_request_sent": false,
+        "followers_count": 2719,
+        "following": false,
+        "friends_count": 1941,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2783678624,
+        "id_str": "2783678624",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 52,
+        "location": "羽生蛇村",
+        "name": "ドカ太郎",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2783678624/1567906369",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1071892130665132032/VTqNWvuA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1071892130665132032/VTqNWvuA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dameningen1gou",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 109369,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

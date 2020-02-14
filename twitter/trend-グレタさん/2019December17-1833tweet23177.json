@@ -1,0 +1,509 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 19:40:29 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ロンゲのママ",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "Longe0829",
+                "id": 988085252672241664,
+                "id_str": "988085252672241664"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @Longe0829: 野口健がグレタさんの電車移動を揶揄した件で、炎上中です。\n\n皆さん、彼のこと誤解していませんかね。\nトップ登山家が少女を愚弄した、と。\n\n正確に言うと、\n彼、有名ですが、\n『有能』登山家ではありません。\n\n自称『アルピニスト』ですが、\n界隈に言わせ…",
+    "has_extended_profile": false,
+    "id": 1206660387594096640,
+    "id_str": "1206660387594096640",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1205023686899617792,
+    "quoted_status_id_str": "1205023686899617792",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 4536,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 12 12:32:54 +0000 2019",
+        "display_text_range": [
+            0,
+            145
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        146,
+                        169
+                    ],
+                    "url": "https://t.co/6ZPVHzYdSI",
+                    "display_url": "twitter.com/Longe0829/stat…",
+                    "expanded_url": "https://twitter.com/Longe0829/status/1205023686899617792"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 7296,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "野口健がグレタさんの電車移動を揶揄した件で、炎上中です。\n\n皆さん、彼のこと誤解していませんかね。\nトップ登山家が少女を愚弄した、と。\n\n正確に言うと、\n彼、有名ですが、\n『有能』登山家ではありません。\n\n自称『アルピニスト』ですが、\n界隈に言わせれば『市民ランナー』です。\n\n少し続けます https://t.co/6ZPVHzYdSI",
+        "has_extended_profile": false,
+        "id": 1205103231522627585,
+        "id_str": "1205103231522627585",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1205023686899617792,
+        "quoted_status_id_str": "1205023686899617792",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Thu Dec 12 07:16:49 +0000 2019",
+            "display_text_range": [
+                15,
+                170
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "indices": [
+                            147,
+                            170
+                        ],
+                        "url": "https://t.co/By2i6lC0qF",
+                        "display_url": "youtu.be/nF2s1Yyg4Gg",
+                        "expanded_url": "https://youtu.be/nF2s1Yyg4Gg"
+                    }
+                ],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [
+                    {
+                        "name": "からあげ速報",
+                        "indices": [
+                            0,
+                            14
+                        ],
+                        "screen_name": "KaraAgeSokuho",
+                        "id": 1137722030399168513,
+                        "id_str": "1137722030399168513"
+                    }
+                ],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 1244,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "@KaraAgeSokuho アルピニスト界隈で野口氏は３流以下、とは有名です。\n多額の経費を投じ人員機材を大量投下、そして大量の廃棄物発生させる極地法。（そういう意味では野口氏の環境保全運動は自分の尻を拭いているに過ぎない、と揶揄されます。しないよりマシ程度）\n\n動画50秒頃服部氏も言及\n\nhttps://t.co/By2i6lC0qF",
+            "has_extended_profile": false,
+            "id": 1205023686899617792,
+            "id_str": "1205023686899617792",
+            "in_reply_to_screen_name": "KaraAgeSokuho",
+            "in_reply_to_status_id": 1205019668697665537,
+            "in_reply_to_status_id_str": "1205019668697665537",
+            "in_reply_to_user_id": 1137722030399168513,
+            "in_reply_to_user_id_str": "1137722030399168513",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 900,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+            "scopes": null,
+            "text": "アルピニスト界隈で野口氏は３流以下、とは有名です。\n多額の経費を投じ人員機材を大量投下、そして大量の廃棄\ufffd",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Apr 22 16:00:56 +0000 2018",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "スナックロンゲのママです。\n政治思想薄め、ロマンチストです。\n恋愛とグルメが大好きです。\n#フォロバ100パーセント します",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 70558,
+                "follow_request_sent": false,
+                "followers_count": 1032,
+                "following": false,
+                "friends_count": 1590,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 988085252672241664,
+                "id_str": "988085252672241664",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 3,
+                "location": "すすきの",
+                "name": "ロンゲのママ",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/988085252672241664/1575561429",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1202619875329363968/XjOsi-8v_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202619875329363968/XjOsi-8v_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "Longe0829",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 30710,
+                "time_zone": "",
+                "url": "",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 4536,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "野口健がグレタさんの電車移動を揶揄した件で、炎上中です。\n\n皆さん、彼のこと誤解していませんかね。\n\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Apr 22 16:00:56 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "スナックロンゲのママです。\n政治思想薄め、ロマンチストです。\n恋愛とグルメが大好きです。\n#フォロバ100パーセント します",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 70558,
+            "follow_request_sent": false,
+            "followers_count": 1032,
+            "following": false,
+            "friends_count": 1590,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 988085252672241664,
+            "id_str": "988085252672241664",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 3,
+            "location": "すすきの",
+            "name": "ロンゲのママ",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/988085252672241664/1575561429",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1202619875329363968/XjOsi-8v_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202619875329363968/XjOsi-8v_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Longe0829",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 30710,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @Longe0829: 野口健がグレタさんの電車移動を揶揄した件で、炎上中です。\n\n皆さん、彼のこと誤解してい",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 07 11:08:44 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "QMAサークル「ルミナスナイツ」幽霊管理人です。GF(仮)、駅メモ、FGOにハマってます。アルトリアオルタ（セイバー）ジャンヌオルタ（アベンジャー・バーサーカー）推し。アメブロやってますので宜しければ下のリンクからどうぞ。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/AErsSLNvd2",
+                        "display_url": "s.amebame.com/?frm_id=v.jpam…",
+                        "expanded_url": "https://s.amebame.com/?frm_id=v.jpameblo\u0026device_id=87204fced3e64ba395f542c186dbc47e#mypage"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 204812,
+        "follow_request_sent": false,
+        "followers_count": 360,
+        "following": false,
+        "friends_count": 668,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 2609441251,
+        "id_str": "2609441251",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 7,
+        "location": "かわさきちほー",
+        "name": "ちゃあ🐾🐾🐾🐾",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2609441251/1573234212",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1190675965636227074/U5mPUADv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190675965636227074/U5mPUADv_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fortuneakd01",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 55893,
+        "time_zone": "",
+        "url": "https://t.co/AErsSLNvd2",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,506 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:16:31 +0000 2019",
+    "display_text_range": [
+        0,
+        99
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "メガネをホォ棄した志村新八bot",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "syogunka_yooooo",
+                "id": 1130840407724609536,
+                "id_str": "1130840407724609536"
+            }
+        ],
+        "media": [
+            {
+                "id": 1206756004500668417,
+                "id_str": "1206756004500668417",
+                "media_url": "http://pbs.twimg.com/media/EL9CMULVAAEu75d.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL9CMULVAAEu75d.jpg",
+                "url": "https://t.co/Ogw8h8jO3x",
+                "display_url": "pic.twitter.com/Ogw8h8jO3x",
+                "expanded_url": "https://twitter.com/syogunka_yooooo/status/1206756011991683072/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 720,
+                        "h": 1075,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 455,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1075,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206756011991683072,
+                "source_status_id_str": "1206756011991683072",
+                "type": "photo",
+                "indices": [
+                    76,
+                    99
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206756004500668417,
+                "id_str": "1206756004500668417",
+                "media_url": "http://pbs.twimg.com/media/EL9CMULVAAEu75d.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL9CMULVAAEu75d.jpg",
+                "url": "https://t.co/Ogw8h8jO3x",
+                "display_url": "pic.twitter.com/Ogw8h8jO3x",
+                "expanded_url": "https://twitter.com/syogunka_yooooo/status/1206756011991683072/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 720,
+                        "h": 1075,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 455,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1075,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206756011991683072,
+                "source_status_id_str": "1206756011991683072",
+                "type": "photo",
+                "indices": [
+                    76,
+                    99
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @syogunka_yooooo: グレタさんにクロちゃん的な何かを感じた()\nというか実際、もうクロちゃん同様ネットのおもちゃにされてるし() https://t.co/Ogw8h8jO3x",
+    "has_extended_profile": false,
+    "id": 1206775151548780546,
+    "id_str": "1206775151548780546",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 9,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 02:00:28 +0000 2019",
+        "display_text_range": [
+            0,
+            54
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206756004500668417,
+                    "id_str": "1206756004500668417",
+                    "media_url": "http://pbs.twimg.com/media/EL9CMULVAAEu75d.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL9CMULVAAEu75d.jpg",
+                    "url": "https://t.co/Ogw8h8jO3x",
+                    "display_url": "pic.twitter.com/Ogw8h8jO3x",
+                    "expanded_url": "https://twitter.com/syogunka_yooooo/status/1206756011991683072/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 720,
+                            "h": 1075,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 455,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1075,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        55,
+                        78
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206756004500668417,
+                    "id_str": "1206756004500668417",
+                    "media_url": "http://pbs.twimg.com/media/EL9CMULVAAEu75d.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL9CMULVAAEu75d.jpg",
+                    "url": "https://t.co/Ogw8h8jO3x",
+                    "display_url": "pic.twitter.com/Ogw8h8jO3x",
+                    "expanded_url": "https://twitter.com/syogunka_yooooo/status/1206756011991683072/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 720,
+                            "h": 1075,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 455,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1075,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        55,
+                        78
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 117,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんにクロちゃん的な何かを感じた()\nというか実際、もうクロちゃん同様ネットのおもちゃにされてるし() https://t.co/Ogw8h8jO3x",
+        "has_extended_profile": false,
+        "id": 1206756011991683072,
+        "id_str": "1206756011991683072",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 9,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんにクロちゃん的な何かを感じ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 21 14:18:58 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "銀魂の新作が来なくて死にそうって定期的にツイートするbot。嘘です。ポケモンとルパンで飢えをしのごう…汚物の中の汚物系ツイッタラー、略して汚物オブ汚物イッタラー。選手権最37金50入294参8落17淫スタ89淫スタ不可1 ホォ棄族創設者。下ネタと(自主規制)常習犯。サブ垢@syogunda_yooooo",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 58043,
+            "follow_request_sent": false,
+            "followers_count": 4599,
+            "following": false,
+            "friends_count": 4304,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1130840407724609536,
+            "id_str": "1130840407724609536",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 24,
+            "location": "#クリスマスにパンツを被ろう委員会",
+            "name": "メガネをホォ棄した志村新八bot",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1130840407724609536/1576492872",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1206521290363822080/uddb9sRr_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1206521290363822080/uddb9sRr_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "syogunka_yooooo",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 19810,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @syogunka_yooooo: グレタさんにクロちゃん的な何かを感じた()\nというか実際",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 25 13:18:58 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "自称実況者マックダニエルです！！ 高評価と低評価、そしてチャンネル登録よろしくね(^O^) あ、趣味でゲーム実況してます😎あと、勝手にリプとかDMいきます。絡みます。おねがいいたします。無言フォロー常習犯過ぎて、たまにブロックされます。心折れそうになります☺️ あとおっ○ぱいが大好きです",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/C7GH0dx34T",
+                        "display_url": "youtube.com/channel/UCA1ZW…",
+                        "expanded_url": "https://www.youtube.com/channel/UCA1ZWobHCGX6OWzINKf3pgw"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 8363,
+        "follow_request_sent": false,
+        "followers_count": 1335,
+        "following": false,
+        "friends_count": 3016,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1176848520407482368,
+        "id_str": "1176848520407482368",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "どっかの島国",
+        "name": "自称実況者マックダニエル",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1176848635075555328/qtrsLQRb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1176848635075555328/qtrsLQRb_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gshowyoutuber",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 2137,
+        "time_zone": "",
+        "url": "https://t.co/C7GH0dx34T",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

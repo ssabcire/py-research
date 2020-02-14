@@ -1,0 +1,263 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 10:56:38 +0000 2019",
+    "display_text_range": [
+        0,
+        76
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    53,
+                    76
+                ],
+                "url": "https://t.co/fKk4dTNlz1",
+                "display_url": "jin115.com/archives/52277…",
+                "expanded_url": "http://jin115.com/archives/52277493.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": [
+            {
+                "id": 1206528551026954241,
+                "id_str": "1206528551026954241",
+                "media_url": "http://pbs.twimg.com/media/EL5zUx9UEAE7kFd.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL5zUx9UEAE7kFd.jpg",
+                "url": "https://t.co/khk6iaeBwU",
+                "display_url": "pic.twitter.com/khk6iaeBwU",
+                "expanded_url": "https://twitter.com/b8gTxsqDEasHcnf/status/1206528554181095426/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 600,
+                        "h": 400,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 600,
+                        "h": 400,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 600,
+                        "h": 400,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    77,
+                    100
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206528551026954241,
+                "id_str": "1206528551026954241",
+                "media_url": "http://pbs.twimg.com/media/EL5zUx9UEAE7kFd.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL5zUx9UEAE7kFd.jpg",
+                "url": "https://t.co/khk6iaeBwU",
+                "display_url": "pic.twitter.com/khk6iaeBwU",
+                "expanded_url": "https://twitter.com/b8gTxsqDEasHcnf/status/1206528554181095426/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 600,
+                        "h": 400,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 600,
+                        "h": 400,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 600,
+                        "h": 400,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    77,
+                    100
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "茂木健一郎氏 「グレタさんの活動をやたらと敵視して反応する男性は傍から見ていてみっともないなあと思う。」 https://t.co/fKk4dTNlz1 https://t.co/khk6iaeBwU",
+    "has_extended_profile": false,
+    "id": 1206528554181095426,
+    "id_str": "1206528554181095426",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://social-dog.net/\" rel=\"nofollow\"\u003eSocialDog for Twitter\u003c/a\u003e",
+    "scopes": null,
+    "text": "茂木健一郎氏 「グレタさんの活動をやたらと敵視して反",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 09 09:58:26 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "人気の記事をまとめてお届け。\n\n↓補足サイト\n痛いニュース(ﾉ∀`)\nオレ的ゲーム速報＠刃\n哲学ニュースnwk\nカオスちゃんねる\nやらおん！\n大地震・前兆・予言.com\nはちま起稿\nカラパイア\nロケットニュース24\n\nフォロー返し100％(時差あり)\n\n↓すべての記事が一目でチェックできる便利なヤツです。　",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/gALXhDf0Vh",
+                        "display_url": "iimiimiimii.blog.fc2.com",
+                        "expanded_url": "https://iimiimiimii.blog.fc2.com"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 296,
+        "following": false,
+        "friends_count": 316,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1193105304428273666,
+        "id_str": "1193105304428273666",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "まとめ×アンテナ",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1193105304428273666/1573295150",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1193112446304542720/Y8dd14h9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1193112446304542720/Y8dd14h9_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "b8gTxsqDEasHcnf",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 1691,
+        "time_zone": "",
+        "url": "https://t.co/gALXhDf0Vh",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

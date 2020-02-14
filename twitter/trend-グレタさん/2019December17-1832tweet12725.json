@@ -1,0 +1,325 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:59:03 +0000 2019",
+    "display_text_range": [
+        0,
+        48
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    49,
+                    72
+                ],
+                "url": "https://t.co/6aJ0nqkmLw",
+                "display_url": "twitter.com/gretathunberg/…",
+                "expanded_url": "https://twitter.com/gretathunberg/status/1206203503363985408"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "これが本当だとしたら、やっぱりグレタさん不憫だなって思ってしまう。\n\nもう少し優しくしてあげて… https://t.co/6aJ0nqkmLw",
+    "has_extended_profile": false,
+    "id": 1206740556837113857,
+    "id_str": "1206740556837113857",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206203503363985408,
+    "quoted_status_id_str": "1206203503363985408",
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 13:25:00 +0000 2019",
+        "display_text_range": [
+            0,
+            264
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 60630,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "Our train from Basel was taken out of traffic. So we sat on the floor on 2 different trains. After Göttingen I got a seat.This is no problem of course and I never said it was. Overcrowded trains is a great sign because it means the demand for train travel is high!",
+        "has_extended_profile": false,
+        "id": 1206203503363985408,
+        "id_str": "1206203503363985408",
+        "in_reply_to_screen_name": "GretaThunberg",
+        "in_reply_to_status_id": 1205969006982815751,
+        "in_reply_to_status_id_str": "1205969006982815751",
+        "in_reply_to_user_id": 1006419421244678144,
+        "in_reply_to_user_id_str": "1006419421244678144",
+        "is_translation_enabled": false,
+        "lang": "en",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 4040,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "Our train from Basel was taken out of traffic. So we sat on the floor on 2 different trains. After Göttingen I got a seat.This is no problem of course and I never said it was. Overcrowded trains is a great sign because it means the demand for train travel is high",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jun 12 06:14:23 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "A teenager working on her anger management problem. Currently chilling and watching a good old fashioned movie with a friend.",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/T59gBserXD",
+                            "display_url": "youtu.be/H2QxFM9y0tY",
+                            "expanded_url": "https://youtu.be/H2QxFM9y0tY"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 16091,
+            "follow_request_sent": false,
+            "followers_count": 3671967,
+            "following": false,
+            "friends_count": 1793,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1006419421244678144,
+            "id_str": "1006419421244678144",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 7266,
+            "location": "Sverige",
+            "name": "Greta Thunberg",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1006419421244678144/1559499911",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1205151355230457856/h78KQbyF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205151355230457856/h78KQbyF_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "GretaThunberg",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 6206,
+            "time_zone": "",
+            "url": "https://t.co/T59gBserXD",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "これが本当だとしたら、やっぱりグ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 07 13:16:34 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "興味ある内容や思ったことをただひたすら殴り書きしてある",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2047,
+        "follow_request_sent": false,
+        "followers_count": 66,
+        "following": false,
+        "friends_count": 146,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1147856934738939904,
+        "id_str": "1147856934738939904",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 5,
+        "location": "",
+        "name": "5時間ふやかした橋本環奈",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1147856934738939904/1575383604",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1202902199468056576/ZN_zUJ5F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202902199468056576/ZN_zUJ5F_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "svlxnl",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 1216,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,415 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:54:46 +0000 2019",
+    "display_text_range": [
+        0,
+        25
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    26,
+                    49
+                ],
+                "url": "https://t.co/a3F4XmMrSq",
+                "display_url": "twitter.com/gretathunberg/…",
+                "expanded_url": "https://twitter.com/gretathunberg/status/1205969006982815751"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんのためにも鉄道より高効率な飛行機お願い。 https://t.co/a3F4XmMrSq",
+    "has_extended_profile": false,
+    "id": 1206784775433805824,
+    "id_str": "1206784775433805824",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1205969006982815751,
+    "quoted_status_id_str": "1205969006982815751",
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 14 21:53:11 +0000 2019",
+        "display_text_range": [
+            0,
+            80
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1205969001693798400,
+                    "id_str": "1205969001693798400",
+                    "media_url": "http://pbs.twimg.com/media/ELx2auQXYAAIOUu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELx2auQXYAAIOUu.jpg",
+                    "url": "https://t.co/ssfLCPsR8o",
+                    "display_url": "pic.twitter.com/ssfLCPsR8o",
+                    "expanded_url": "https://twitter.com/GretaThunberg/status/1205969006982815751/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1000,
+                            "h": 702,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 477,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1000,
+                            "h": 702,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        81,
+                        104
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1205969001693798400,
+                    "id_str": "1205969001693798400",
+                    "media_url": "http://pbs.twimg.com/media/ELx2auQXYAAIOUu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELx2auQXYAAIOUu.jpg",
+                    "url": "https://t.co/ssfLCPsR8o",
+                    "display_url": "pic.twitter.com/ssfLCPsR8o",
+                    "expanded_url": "https://twitter.com/GretaThunberg/status/1205969006982815751/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1000,
+                            "h": 702,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 477,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1000,
+                            "h": 702,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        81,
+                        104
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 200009,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "Traveling on overcrowded trains through Germany. And I’m finally on my way home! https://t.co/ssfLCPsR8o",
+        "has_extended_profile": false,
+        "id": 1205969006982815751,
+        "id_str": "1205969006982815751",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "en",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 12425,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "Traveling on overcrowded trains through Germany. And I’m finally on my way hom",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jun 12 06:14:23 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "A teenager working on her anger management problem. Currently chilling and watching a good old fashioned movie with a friend.",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/T59gBserXD",
+                            "display_url": "youtu.be/H2QxFM9y0tY",
+                            "expanded_url": "https://youtu.be/H2QxFM9y0tY"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 16091,
+            "follow_request_sent": false,
+            "followers_count": 3671961,
+            "following": false,
+            "friends_count": 1793,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1006419421244678144,
+            "id_str": "1006419421244678144",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 7266,
+            "location": "Sverige",
+            "name": "Greta Thunberg",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1006419421244678144/1559499911",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1205151355230457856/h78KQbyF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205151355230457856/h78KQbyF_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "GretaThunberg",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 6206,
+            "time_zone": "",
+            "url": "https://t.co/T59gBserXD",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんのため\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 08 17:22:42 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "理由を考えろ！生き方を決めろ！抽象化が命！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1679,
+        "follow_request_sent": false,
+        "followers_count": 401,
+        "following": false,
+        "friends_count": 1292,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 811339670,
+        "id_str": "811339670",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 21,
+        "location": "",
+        "name": "M.K",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2697421766/08887ae291e8fd821ac6458c9e05fe27_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2697421766/08887ae291e8fd821ac6458c9e05fe27_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "k_tumuji",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 32593,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

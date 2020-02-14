@@ -1,0 +1,506 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 09:47:40 +0000 2019",
+    "display_text_range": [
+        0,
+        102
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ono hiroshi",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "hiroshimilano",
+                "id": 148089499,
+                "id_str": "148089499"
+            }
+        ],
+        "media": [
+            {
+                "id": 1205812378379665408,
+                "id_str": "1205812378379665408",
+                "media_url": "http://pbs.twimg.com/media/ELvn-C8WwAAz8LP.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ELvn-C8WwAAz8LP.jpg",
+                "url": "https://t.co/6rRuEVVJZg",
+                "display_url": "pic.twitter.com/6rRuEVVJZg",
+                "expanded_url": "https://twitter.com/hiroshimilano/status/1205812391331729409/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1205812391331729409,
+                "source_status_id_str": "1205812391331729409",
+                "type": "photo",
+                "indices": [
+                    79,
+                    102
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1205812378379665408,
+                "id_str": "1205812378379665408",
+                "media_url": "http://pbs.twimg.com/media/ELvn-C8WwAAz8LP.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ELvn-C8WwAAz8LP.jpg",
+                "url": "https://t.co/6rRuEVVJZg",
+                "display_url": "pic.twitter.com/6rRuEVVJZg",
+                "expanded_url": "https://twitter.com/hiroshimilano/status/1205812391331729409/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1205812391331729409,
+                "source_status_id_str": "1205812391331729409",
+                "type": "photo",
+                "indices": [
+                    79,
+                    102
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @hiroshimilano: さて、ミラノは久しぶりに快晴。今年から広場のツリーがグレタさんの影響(かどうか知らんけど)で再利用可能なやつになった。 https://t.co/6rRuEVVJZg",
+    "has_extended_profile": false,
+    "id": 1206511201175261185,
+    "id_str": "1206511201175261185",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 16,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 14 11:30:51 +0000 2019",
+        "display_text_range": [
+            0,
+            59
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1205812378379665408,
+                    "id_str": "1205812378379665408",
+                    "media_url": "http://pbs.twimg.com/media/ELvn-C8WwAAz8LP.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELvn-C8WwAAz8LP.jpg",
+                    "url": "https://t.co/6rRuEVVJZg",
+                    "display_url": "pic.twitter.com/6rRuEVVJZg",
+                    "expanded_url": "https://twitter.com/hiroshimilano/status/1205812391331729409/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        60,
+                        83
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1205812378379665408,
+                    "id_str": "1205812378379665408",
+                    "media_url": "http://pbs.twimg.com/media/ELvn-C8WwAAz8LP.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELvn-C8WwAAz8LP.jpg",
+                    "url": "https://t.co/6rRuEVVJZg",
+                    "display_url": "pic.twitter.com/6rRuEVVJZg",
+                    "expanded_url": "https://twitter.com/hiroshimilano/status/1205812391331729409/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        60,
+                        83
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 58,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "さて、ミラノは久しぶりに快晴。今年から広場のツリーがグレタさんの影響(かどうか知らんけど)で再利用可能なやつになった。 https://t.co/6rRuEVVJZg",
+        "has_extended_profile": false,
+        "id": 1205812391331729409,
+        "id_str": "1205812391331729409",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 16,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "さて、ミラノは久しぶりに快晴。今年から\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 25 20:27:17 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "ミラノ在住デザイナー / ブロガー /  I ♥ INTER  / ふるいちのぶっかけうどん / Facebook: https://t.co/Gkf0LcuEVW / @happydesignsas / Instagram: https://t.co/HQZJzvlM3R",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                20
+                            ],
+                            "url": "http://t.co/WxTMH6iU",
+                            "display_url": "happydesign.it",
+                            "expanded_url": "http://www.happydesign.it"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 177818,
+            "follow_request_sent": false,
+            "followers_count": 11924,
+            "following": false,
+            "friends_count": 1387,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 148089499,
+            "id_str": "148089499",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 280,
+            "location": "Milano",
+            "name": "ono hiroshi",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/148089499/1575202254",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1193054422995218432/-5BGE_vk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1193054422995218432/-5BGE_vk_normal.jpg",
+            "profile_link_color": "041A85",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "hiroshimilano",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 77916,
+            "time_zone": "",
+            "url": "http://t.co/WxTMH6iU",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @hiroshimilano: さて、ミラノは久しぶりに快晴。今年から広場のツリーがグ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 11 14:16:24 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "2011年3月「知るため」に始めました。 主義主張にかかわらずぜひ覚えておきたいと思ったつぶやきをリツィートさせていただいています。 その時点では情報の真偽について確認しておりません。 よろしくお願いいたします✿",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 56226,
+        "follow_request_sent": false,
+        "followers_count": 850,
+        "following": false,
+        "friends_count": 631,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 264198772,
+        "id_str": "264198772",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 11,
+        "location": "",
+        "name": "うさくら",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/628444174002450432/2YYQv2FA_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/628444174002450432/2YYQv2FA_normal.png",
+        "profile_link_color": "EFD1D7",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sakurasiratama",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 148227,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:30:30 +0000 2019",
+    "display_text_range": [
+        0,
+        105
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    43,
+                    66
+                ],
+                "url": "https://t.co/7zuPeOfZlx",
+                "display_url": "sakamobi.com/news/greta-uso…",
+                "expanded_url": "https://sakamobi.com/news/greta-usomatsu"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "sakamobi.com",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "sakamobi",
+                "id": 112724844,
+                "id_str": "112724844"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @sakamobi: 【画像あり】グレタさん、嘘松ツイートで鉄道会社を敵に回す\nhttps://t.co/7zuPeOfZlx\n\n鉄道会社「あなたファーストクラスだったよね」🤣🤣🤣\n\n※リンク先に画像あり",
+    "has_extended_profile": false,
+    "id": 1206808867495002113,
+    "id_str": "1206808867495002113",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 00:06:07 +0000 2019",
+        "display_text_range": [
+            0,
+            91
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        29,
+                        52
+                    ],
+                    "url": "https://t.co/7zuPeOfZlx",
+                    "display_url": "sakamobi.com/news/greta-uso…",
+                    "expanded_url": "https://sakamobi.com/news/greta-usomatsu"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 12,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "【画像あり】グレタさん、嘘松ツイートで鉄道会社を敵に回す\nhttps://t.co/7zuPeOfZlx\n\n鉄道会社「あなたファーストクラスだったよね」🤣🤣🤣\n\n※リンク先に画像あり",
+        "has_extended_profile": false,
+        "id": 1206727234406338561,
+        "id_str": "1206727234406338561",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "scopes": null,
+        "text": "【画像あり】グレタさん、嘘松ツイートで鉄道会社を敵に回す\nhttps:",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 09 14:07:51 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "🇲🇾マレーシア🦎ペナン島在住🐕犬でいえば6才くらい♂🤙左利き👨‍🏫広告案件のご依頼やご相談はこちらまで📧penamura@gmail.com",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/5AOnHvORa0",
+                            "display_url": "sakamobi.com",
+                            "expanded_url": "https://sakamobi.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 188787,
+            "follow_request_sent": false,
+            "followers_count": 960896,
+            "following": false,
+            "friends_count": 1049197,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 112724844,
+            "id_str": "112724844",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 3157,
+            "location": "Georgetown, Pulau Pinang",
+            "name": "sakamobi.com",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/112724844/1572008404",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1078916946517667842/BljV165-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1078916946517667842/BljV165-_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "sakamobi",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 342370,
+            "time_zone": "",
+            "url": "https://t.co/5AOnHvORa0",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @sakamobi: 【画像あり】グレタさん、嘘松ツイートで鉄道会社を敵に回す\nhttps:",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 25 22:40:34 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "SUPERQUINIELAB14!PARTICIPATE\u0026WIN$W/URFORECAST\\PARTICIPAYGANA$C/TUPRONOSTICOUS$150BANAMEX7008-2444066CLABE002180700824440666DEADL\\FECHAL61114",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 472903,
+        "follow_request_sent": false,
+        "followers_count": 29712,
+        "following": false,
+        "friends_count": 25807,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 421417889,
+        "id_str": "421417889",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1959,
+        "location": "garciasalgadoedgardo@gmail.com",
+        "name": "EDGARDOGARCIASALGADO",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/421417889/1405323460",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/476858476199567360/heIFLf5O_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/476858476199567360/heIFLf5O_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "EDGARDOGARCIASA",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 462703,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

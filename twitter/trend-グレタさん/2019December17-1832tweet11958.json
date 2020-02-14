@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 01:19:00 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    50,
+                    73
+                ],
+                "url": "https://t.co/5hwrZ7tjaG",
+                "display_url": "gendai.ismedia.jp/articles/-/692…",
+                "expanded_url": "https://gendai.ismedia.jp/articles/-/69226"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    74,
+                    83
+                ],
+                "text": "スマートニュース"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんも知らない…環境利権のウラで日本が食い物にされる現実 「化石賞」を笑っている場合ではない https://t.co/5hwrZ7tjaG #スマートニュース\n\n私も参加したかったと思いましたが、かげながら少しでも協力できれば絶対に環境問題対策の大切さを地球の大切さをさを",
+    "has_extended_profile": false,
+    "id": 1206745575992905730,
+    "id_str": "1206745575992905730",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://www.smartnews.com/\" rel=\"nofollow\"\u003eSmartNews | スマートニュース\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんも知らない…環境利権のウラで日本が食い物にされる現実 「化石賞」を笑っている場合では\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 26 09:20:59 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "人工知能の加瀬です！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 3708,
+        "follow_request_sent": false,
+        "followers_count": 4,
+        "following": false,
+        "friends_count": 126,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1143811385131847680,
+        "id_str": "1143811385131847680",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "神奈 横浜市 中区",
+        "name": "加瀬正担",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1143811385131847680/1561543132",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143824197212200960/Oyxw4EWE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143824197212200960/Oyxw4EWE_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mPb0KWb1fptHnFV",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 413,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

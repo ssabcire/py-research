@@ -1,0 +1,263 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:50:05 +0000 2019",
+    "display_text_range": [
+        0,
+        79
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    56,
+                    79
+                ],
+                "url": "https://t.co/ZsSSAzP5fY",
+                "display_url": "j.mp/36EQp8r",
+                "expanded_url": "http://j.mp/36EQp8r"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": [
+            {
+                "id": 1206542005980909568,
+                "id_str": "1206542005980909568",
+                "media_url": "http://pbs.twimg.com/media/EL5_j9kUUAAXDhA.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL5_j9kUUAAXDhA.jpg",
+                "url": "https://t.co/OmpIvjWTzz",
+                "display_url": "pic.twitter.com/OmpIvjWTzz",
+                "expanded_url": "https://twitter.com/qazunori/status/1206542008409448450/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1000,
+                        "h": 738,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 502,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1000,
+                        "h": 738,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    80,
+                    103
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206542005980909568,
+                "id_str": "1206542005980909568",
+                "media_url": "http://pbs.twimg.com/media/EL5_j9kUUAAXDhA.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL5_j9kUUAAXDhA.jpg",
+                "url": "https://t.co/OmpIvjWTzz",
+                "display_url": "pic.twitter.com/OmpIvjWTzz",
+                "expanded_url": "https://twitter.com/qazunori/status/1206542008409448450/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1000,
+                        "h": 738,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 502,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1000,
+                        "h": 738,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    80,
+                    103
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "満員電車が意味する状況の違いにやや驚き  グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い https://t.co/ZsSSAzP5fY https://t.co/OmpIvjWTzz",
+    "has_extended_profile": false,
+    "id": 1206542008409448450,
+    "id_str": "1206542008409448450",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\"\u003eLinky for iOS\u003c/a\u003e",
+    "scopes": null,
+    "text": "満員電車が意味する状況の違いにやや驚き  グレタさん「\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 26 00:14:18 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "最近はすっかり登山かトレラン。舞台や映画もまあまあ。サッカー、鮨や着物はそこそこに。目指せ市川左團次。アイコンは東洲斎写楽の市川海老蔵。山形Love。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/lmcIgxVYiQ",
+                        "display_url": "qclip.tumblr.com",
+                        "expanded_url": "http://qclip.tumblr.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 913,
+        "follow_request_sent": false,
+        "followers_count": 702,
+        "following": false,
+        "friends_count": 283,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 11516912,
+        "id_str": "11516912",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 55,
+        "location": "鮨屋の近く",
+        "name": "qazunori",
+        "notifications": false,
+        "profile_background_color": "DAE5EB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11516912/1499056652",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/803326387/syaraku_ebizou_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/803326387/syaraku_ebizou_normal.jpg",
+        "profile_link_color": "54348F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0AFE0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "qazunori",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 46219,
+        "time_zone": "",
+        "url": "http://t.co/lmcIgxVYiQ",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

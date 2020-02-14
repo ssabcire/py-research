@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 20:39:54 +0000 2019",
+    "display_text_range": [
+        0,
+        64
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 5,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "みんな、グレタさんを見習って鉄道に乗ろう。ただし、根室本線はディーゼルだが。それでも、まとめて輸送する鉄道は環境負荷が低いはず。",
+    "has_extended_profile": false,
+    "id": 1206675339163897865,
+    "id_str": "1206675339163897865",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "みんな、グレタさんを見習って鉄道に乗ろう。\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 08 12:25:03 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "博物館を転々として来ましたが、いまは北海道東部の十勝郡浦幌町にて「準職員」の身分で学芸員をしています。植物、標本、博物館資料、博物館図書室、学芸員のネットワーク、鉄道史などに関心があります。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/7JrcnKPzlO",
+                        "display_url": "researchmap.jp/read0149873/",
+                        "expanded_url": "http://researchmap.jp/read0149873/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 5434,
+        "follow_request_sent": false,
+        "followers_count": 1419,
+        "following": false,
+        "friends_count": 991,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 141568534,
+        "id_str": "141568534",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 79,
+        "location": "北海道十勝郡浦幌町",
+        "name": "持田　誠",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/582998086294765568/VxInjOM0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/582998086294765568/VxInjOM0_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sapokachi",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 20318,
+        "time_zone": "",
+        "url": "http://t.co/7JrcnKPzlO",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

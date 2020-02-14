@@ -1,0 +1,447 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:57:49 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Maintenance",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "single_GG3",
+                "id": 1867515194,
+                "id_str": "1867515194"
+            },
+            {
+                "name": "日本共産党⚙🌾",
+                "indices": [
+                    16,
+                    23
+                ],
+                "screen_name": "jcp_cc",
+                "id": 1431933733,
+                "id_str": "1431933733"
+            },
+            {
+                "name": "YouTube",
+                "indices": [
+                    24,
+                    32
+                ],
+                "screen_name": "YouTube",
+                "id": 10228272,
+                "id_str": "10228272"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @single_GG3: @jcp_cc @YouTube グレタさんを支える環境団体、中国政府の代理人の疑い　沖縄「ジュゴン裁判」も担当\n\n世界中が化石燃料だらけなのに\n日本が標的にされている\n\n日本国内に仕掛ける団体もいるのか？ https://t.co/o0Nf1H…",
+    "has_extended_profile": false,
+    "id": 1206785543125618688,
+    "id_str": "1206785543125618688",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 03:27:00 +0000 2019",
+        "display_text_range": [
+            17,
+            103
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "日本共産党⚙🌾",
+                    "indices": [
+                        0,
+                        7
+                    ],
+                    "screen_name": "jcp_cc",
+                    "id": 1431933733,
+                    "id_str": "1431933733"
+                },
+                {
+                    "name": "YouTube",
+                    "indices": [
+                        8,
+                        16
+                    ],
+                    "screen_name": "YouTube",
+                    "id": 10228272,
+                    "id_str": "10228272"
+                }
+            ],
+            "media": [
+                {
+                    "id": 1206777784095236096,
+                    "id_str": "1206777784095236096",
+                    "media_url": "http://pbs.twimg.com/media/EL9WADfUYAAjke8.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL9WADfUYAAjke8.jpg",
+                    "url": "https://t.co/o0Nf1HaF3Z",
+                    "display_url": "pic.twitter.com/o0Nf1HaF3Z",
+                    "expanded_url": "https://twitter.com/single_GG3/status/1206777790315417600/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 1122,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 636,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1579,
+                            "h": 1477,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206777784095236096,
+                    "id_str": "1206777784095236096",
+                    "media_url": "http://pbs.twimg.com/media/EL9WADfUYAAjke8.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL9WADfUYAAjke8.jpg",
+                    "url": "https://t.co/o0Nf1HaF3Z",
+                    "display_url": "pic.twitter.com/o0Nf1HaF3Z",
+                    "expanded_url": "https://twitter.com/single_GG3/status/1206777790315417600/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 1122,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 636,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1579,
+                            "h": 1477,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@jcp_cc @YouTube グレタさんを支える環境団体、中国政府の代理人の疑い　沖縄「ジュゴン裁判」も担当\n\n世界中が化石燃料だらけなのに\n日本が標的にされている\n\n日本国内に仕掛ける団体もいるのか？ https://t.co/o0Nf1HaF3Z",
+        "has_extended_profile": false,
+        "id": 1206777790315417600,
+        "id_str": "1206777790315417600",
+        "in_reply_to_screen_name": "jcp_cc",
+        "in_reply_to_status_id": 1206744905537572864,
+        "in_reply_to_status_id_str": "1206744905537572864",
+        "in_reply_to_user_id": 1431933733,
+        "in_reply_to_user_id_str": "1431933733",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": true,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんを支える環境団体、中国政府の代理人の疑い　沖縄\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Sep 15 12:17:14 +0000 2013",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "保守点検を常とし、壊れたら直します",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 2994,
+            "follow_request_sent": false,
+            "followers_count": 282,
+            "following": false,
+            "friends_count": 250,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1867515194,
+            "id_str": "1867515194",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 4,
+            "location": "",
+            "name": "Maintenance",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1867515194/1548668204",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1094264673094971393/w75LOCbL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094264673094971393/w75LOCbL_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "single_GG3",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 28235,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @single_GG3: @jcp_cc @YouTube グレタさんを支える環境団体、中国政府の代理人の疑い　沖縄「ジュゴン裁判\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 19 04:21:22 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "真実を知りたいマン",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 18066,
+        "follow_request_sent": false,
+        "followers_count": 118,
+        "following": false,
+        "friends_count": 70,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 3097129993,
+        "id_str": "3097129993",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "日本",
+        "name": "おとしんまる",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1202890362819231744/mCLJh1ai_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202890362819231744/mCLJh1ai_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Otocinclus_ex",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 5228,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

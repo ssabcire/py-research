@@ -1,0 +1,337 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:28:20 +0000 2019",
+    "display_text_range": [
+        0,
+        92
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ＭＳどす☁TL40",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "msdos148",
+                "id": 2686255141,
+                "id_str": "2686255141"
+            },
+            {
+                "name": "shira",
+                "indices": [
+                    14,
+                    23
+                ],
+                "screen_name": "shirassh",
+                "id": 4742743292,
+                "id_str": "4742743292"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @msdos148: @shirassh グレタさん最高です！\n皆さんも、「善」の原子力発電所を受け入れましょう。\nスウェーデンとの人口比でいくと、日本には100基が必要ですね。",
+    "has_extended_profile": false,
+    "id": 1206823425060163584,
+    "id_str": "1206823425060163584",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 13,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 14 11:30:02 +0000 2019",
+        "display_text_range": [
+            10,
+            78
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "shira",
+                    "indices": [
+                        0,
+                        9
+                    ],
+                    "screen_name": "shirassh",
+                    "id": 4742743292,
+                    "id_str": "4742743292"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 35,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@shirassh グレタさん最高です！\n皆さんも、「善」の原子力発電所を受け入れましょう。\nスウェーデンとの人口比でいくと、日本には100基が必要ですね。",
+        "has_extended_profile": false,
+        "id": 1205812185479278592,
+        "id_str": "1205812185479278592",
+        "in_reply_to_screen_name": "shirassh",
+        "in_reply_to_status_id": 1205128106916212736,
+        "in_reply_to_status_id_str": "1205128106916212736",
+        "in_reply_to_user_id": 4742743292,
+        "in_reply_to_user_id_str": "4742743292",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 13,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん最高です！\n皆さんも、「善」の原子力\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jul 28 00:23:10 +0000 2014",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "大阪で脱サラして、不動産賃貸業をしています。元はメーカ系のSE会社に勤務していました。技術系の何でも屋さんでしたが、今もDIY大好きで仕事しています。休日は子供と一緒に、ガンダムトライエイジや、ポケモンGOで遊んでいます。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 14805,
+            "follow_request_sent": false,
+            "followers_count": 295,
+            "following": false,
+            "friends_count": 248,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2686255141,
+            "id_str": "2686255141",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 14,
+            "location": "",
+            "name": "ＭＳどす🌧️TL40",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2686255141/1429770326",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1136218354337796096/hTb9RHqN_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1136218354337796096/hTb9RHqN_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "msdos148",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 17392,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @msdos148: @shirassh グレタさん最高です！\n皆さんも、「善」の原子力\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 18 17:17:09 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "オンラインゲームがきっかけで始めたら、政治など気になることをつぶやき始めて収拾がつかなくなり始めたり。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1440,
+        "follow_request_sent": false,
+        "followers_count": 789,
+        "following": false,
+        "friends_count": 35,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 115438396,
+        "id_str": "115438396",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 48,
+        "location": "古都",
+        "name": "§ルクシオン§",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/774012577/ac3_2_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/774012577/ac3_2_normal.JPG",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_Luxion_",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 402170,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

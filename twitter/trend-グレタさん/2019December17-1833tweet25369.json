@@ -1,0 +1,526 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 16:47:47 +0000 2019",
+    "display_text_range": [
+        0,
+        100
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    53,
+                    76
+                ],
+                "url": "https://t.co/QoDRWwjdQp",
+                "display_url": "bloom.bg/2LXxm1x",
+                "expanded_url": "https://bloom.bg/2LXxm1x"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ブルームバーグニュース日本語版",
+                "indices": [
+                    3,
+                    18
+                ],
+                "screen_name": "BloombergJapan",
+                "id": 145455082,
+                "id_str": "145455082"
+            }
+        ],
+        "media": [
+            {
+                "id": 1204582341215215617,
+                "id_str": "1204582341215215617",
+                "media_url": "http://pbs.twimg.com/media/ELeJQdbXYAEa_-6.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ELeJQdbXYAEa_-6.jpg",
+                "url": "https://t.co/akSRNOP1Lj",
+                "display_url": "pic.twitter.com/akSRNOP1Lj",
+                "expanded_url": "https://twitter.com/BloombergJapan/status/1204582342863589378/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 800,
+                        "h": 533,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 800,
+                        "h": 533,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1204582342863589378,
+                "source_status_id_str": "1204582342863589378",
+                "type": "photo",
+                "indices": [
+                    77,
+                    100
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1204582341215215617,
+                "id_str": "1204582341215215617",
+                "media_url": "http://pbs.twimg.com/media/ELeJQdbXYAEa_-6.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ELeJQdbXYAEa_-6.jpg",
+                "url": "https://t.co/akSRNOP1Lj",
+                "display_url": "pic.twitter.com/akSRNOP1Lj",
+                "expanded_url": "https://twitter.com/BloombergJapan/status/1204582342863589378/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 800,
+                        "h": 533,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 800,
+                        "h": 533,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1204582342863589378,
+                "source_status_id_str": "1204582342863589378",
+                "type": "photo",
+                "indices": [
+                    77,
+                    100
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @BloombergJapan: ノルウェーとカナダの石油生産は子どもの権利侵害－グレタさんが書簡 https://t.co/QoDRWwjdQp https://t.co/akSRNOP1Lj",
+    "has_extended_profile": false,
+    "id": 1206616923330334720,
+    "id_str": "1206616923330334720",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 153,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Dec 11 02:03:05 +0000 2019",
+        "display_text_range": [
+            0,
+            56
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        33,
+                        56
+                    ],
+                    "url": "https://t.co/QoDRWwjdQp",
+                    "display_url": "bloom.bg/2LXxm1x",
+                    "expanded_url": "https://bloom.bg/2LXxm1x"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1204582341215215617,
+                    "id_str": "1204582341215215617",
+                    "media_url": "http://pbs.twimg.com/media/ELeJQdbXYAEa_-6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELeJQdbXYAEa_-6.jpg",
+                    "url": "https://t.co/akSRNOP1Lj",
+                    "display_url": "pic.twitter.com/akSRNOP1Lj",
+                    "expanded_url": "https://twitter.com/BloombergJapan/status/1204582342863589378/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 800,
+                            "h": 533,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 800,
+                            "h": 533,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        57,
+                        80
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1204582341215215617,
+                    "id_str": "1204582341215215617",
+                    "media_url": "http://pbs.twimg.com/media/ELeJQdbXYAEa_-6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELeJQdbXYAEa_-6.jpg",
+                    "url": "https://t.co/akSRNOP1Lj",
+                    "display_url": "pic.twitter.com/akSRNOP1Lj",
+                    "expanded_url": "https://twitter.com/BloombergJapan/status/1204582342863589378/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 800,
+                            "h": 533,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 800,
+                            "h": 533,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        57,
+                        80
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 189,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "ノルウェーとカナダの石油生産は子どもの権利侵害－グレタさんが書簡 https://t.co/QoDRWwjdQp https://t.co/akSRNOP1Lj",
+        "has_extended_profile": false,
+        "id": 1204582342863589378,
+        "id_str": "1204582342863589378",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 153,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://www.socialflow.com\" rel=\"nofollow\"\u003eSocialFlow\u003c/a\u003e",
+        "scopes": null,
+        "text": "ノルウェーとカナダの石油生産は子ども\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed May 19 01:09:54 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "世界のビジネス＆経済ニュースをツイートします。Facebookでも配信中です：https://t.co/qXyUAvdkpm",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/YPgvQjmJzQ",
+                            "display_url": "bloomberg.co.jp",
+                            "expanded_url": "http://www.bloomberg.co.jp"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 1,
+            "follow_request_sent": false,
+            "followers_count": 286855,
+            "following": false,
+            "friends_count": 34,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 145455082,
+            "id_str": "145455082",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 11466,
+            "location": "日本",
+            "name": "ブルームバーグニュース日本語版",
+            "notifications": false,
+            "profile_background_color": "EBEBEB",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/145455082/1514332003",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/821883578006896640/ZhHoKmQ5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/821883578006896640/ZhHoKmQ5_normal.jpg",
+            "profile_link_color": "16327C",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F5F1ED",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "BloombergJapan",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 78822,
+            "time_zone": "",
+            "url": "http://t.co/YPgvQjmJzQ",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @BloombergJapan: ノルウェーとカナダの石油生産は子どもの権利侵害－グレ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 16 14:01:24 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 15260,
+        "follow_request_sent": false,
+        "followers_count": 95,
+        "following": false,
+        "friends_count": 28,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1184469348838019073,
+        "id_str": "1184469348838019073",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "N'aime pas les gens",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1184469635703271425/aHAPdTtv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1184469635703271425/aHAPdTtv_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Naimepaslesgen1",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 3528,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:40:55 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "M.A.F.@博クリ",
+                "indices": [
+                    3,
+                    10
+                ],
+                "screen_name": "M_A_F_",
+                "id": 103893430,
+                "id_str": "103893430"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @M_A_F_: グレタさんを揶揄する会話を聞かされて思ったのが、\n我々はデカい問題から目をそらさないと安穏として日常を送れない弱い存在に過ぎないんだから\n目をそらさない人を見て「そらしてりゃいいのにバカだぜ」って言うのは違うよなあ〜〜むしろ我々がバカの自覚持ってるべきだ…",
+    "has_extended_profile": false,
+    "id": 1206539701668069377,
+    "id_str": "1206539701668069377",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 28,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 10 08:59:18 +0000 2019",
+        "display_text_range": [
+            0,
+            133
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 95,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんを揶揄する会話を聞かされて思ったのが、\n我々はデカい問題から目をそらさないと安穏として日常を送れない弱い存在に過ぎないんだから\n目をそらさない人を見て「そらしてりゃいいのにバカだぜ」って言うのは違うよなあ〜〜むしろ我々がバカの自覚持ってるべきだぜ\nってこと",
+        "has_extended_profile": false,
+        "id": 1204324699120914432,
+        "id_str": "1204324699120914432",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 28,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんを揶揄する会話を聞かされて思ったのが、\n我々はデカい問題から目をそらさないと安穏",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jan 11 16:06:32 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "古生物飼育小説「Lv100」連載中。 けもフレ二次創作小説も少し。サイトで見づらい場合はカクヨムでどうぞhttps://t.co/VOZpIgUjIb…南海の小悪魔マダラトビエイbot  @A_narinari_bot",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/3YwqSw9cao",
+                            "display_url": "mafatfctwo.web.fc2.com/sisochoudou/in…",
+                            "expanded_url": "http://mafatfctwo.web.fc2.com/sisochoudou/index.html"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 175182,
+            "follow_request_sent": false,
+            "followers_count": 1668,
+            "following": false,
+            "friends_count": 744,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 103893430,
+            "id_str": "103893430",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 91,
+            "location": "始祖鳥堂書店",
+            "name": "M.A.F.@博クリ",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/103893430/1398261732",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/876245662387453952/8fa9vaj6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/876245662387453952/8fa9vaj6_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "M_A_F_",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 136550,
+            "time_zone": "",
+            "url": "https://t.co/3YwqSw9cao",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @M_A_F_: グレタさんを揶揄する会話を聞かされて思ったのが、\n我々はデカい問題から目をそらさないと\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 16 15:52:01 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "勢いで作った趣味垢。基本的に独り言。人外クラスタであり水木しげらー。ファンタジー好きの空想屋。詳しくはツイフィールにて。フォローもリムブロもご自由にどうぞ。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/uVWqnnvI0D",
+                        "display_url": "twpf.jp/kaoru_iriyama",
+                        "expanded_url": "http://twpf.jp/kaoru_iriyama"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 506,
+        "follow_request_sent": false,
+        "followers_count": 11,
+        "following": false,
+        "friends_count": 41,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 721365537008160768,
+        "id_str": "721365537008160768",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "茶畑のなか、銀杏の木陰",
+        "name": "いりやまかおる@鬼太郎6期を見て下さい",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/721366325243699200/BoKemEJF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/721366325243699200/BoKemEJF_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kaoru_iriyama",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 570,
+        "time_zone": "",
+        "url": "https://t.co/uVWqnnvI0D",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

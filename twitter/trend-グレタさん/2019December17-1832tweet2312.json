@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:08:03 +0000 2019",
+    "display_text_range": [
+        0,
+        71
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    48,
+                    71
+                ],
+                "url": "https://t.co/0Py6I1gbTR",
+                "display_url": "twitter.com/i/events/12066…",
+                "expanded_url": "https://twitter.com/i/events/1206600997478383617"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "この子の後ろには誰がいるんだろうなぁ😅\n グレタさん「帰りの列車は超満員」 ドイツ鉄道が応酬  https://t.co/0Py6I1gbTR",
+    "has_extended_profile": false,
+    "id": 1206818318767681538,
+    "id_str": "1206818318767681538",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "この子の後ろには誰がいるんだろうなぁ😅\n グレタ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 05 20:16:18 +0000 2019",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm Vanessa Miriam Fox, who wants to live in my dream. \n日本人！\nPS4/ Resident Evil/ DBD/ Drawing/ Movie/ etc...\nEnglish learner.\n🚫Unauthorized copying prohibited.",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Z3VJx2w9OK",
+                        "display_url": "youtube.com/channel/UCX-Qs…",
+                        "expanded_url": "https://www.youtube.com/channel/UCX-QsozshrYh9BQb9brPaQg/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2518,
+        "follow_request_sent": false,
+        "followers_count": 27,
+        "following": false,
+        "friends_count": 57,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1136366153951993856,
+        "id_str": "1136366153951993856",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "Japan",
+        "name": "Vamiria Fox",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1141021410464157703/OzkOWbwU_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141021410464157703/OzkOWbwU_normal.png",
+        "profile_link_color": "C22F55",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Vanessa_M_Fox",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 6730,
+        "time_zone": "",
+        "url": "https://t.co/Z3VJx2w9OK",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

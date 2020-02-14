@@ -1,0 +1,347 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:31:36 +0000 2019",
+    "display_text_range": [
+        0,
+        83
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ポン太",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "wBEK79RAEKeAfq2",
+                "id": 1045289910259707904,
+                "id_str": "1045289910259707904"
+            },
+            {
+                "name": "しあん🇩🇪",
+                "indices": [
+                    21,
+                    29
+                ],
+                "screen_name": "cyan112",
+                "id": 1239160080,
+                "id_str": "1239160080"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @wBEK79RAEKeAfq2: @cyan112 グレタさんの胡散臭さを見抜けない人は信用できない。。\n\nちょうど、れいわ新選組を信じる輩と似ていると思ふ。",
+    "has_extended_profile": false,
+    "id": 1206809144201580544,
+    "id_str": "1206809144201580544",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 15,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 03:00:08 +0000 2019",
+        "display_text_range": [
+            9,
+            62
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "しあん🇩🇪",
+                    "indices": [
+                        0,
+                        8
+                    ],
+                    "screen_name": "cyan112",
+                    "id": 1239160080,
+                    "id_str": "1239160080"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 79,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@cyan112 グレタさんの胡散臭さを見抜けない人は信用できない。。\n\nちょうど、れいわ新選組を信じる輩と似ていると思ふ。",
+        "has_extended_profile": false,
+        "id": 1206771027763580929,
+        "id_str": "1206771027763580929",
+        "in_reply_to_screen_name": "cyan112",
+        "in_reply_to_status_id": 1206507941194600448,
+        "in_reply_to_status_id_str": "1206507941194600448",
+        "in_reply_to_user_id": 1239160080,
+        "in_reply_to_user_id_str": "1239160080",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 15,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんの胡散臭さを見抜けない人\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Sep 27 12:31:49 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "早期リタイア目指しています！！★30代後半★家族持ち（子供=三人）★読書、映画が好き★家族での世界一周が夢★",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 6527,
+            "follow_request_sent": false,
+            "followers_count": 66,
+            "following": false,
+            "friends_count": 165,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1045289910259707904,
+            "id_str": "1045289910259707904",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 5,
+            "location": "日本 千葉",
+            "name": "ポン太",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1106187720970244097/6f0wFLFI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106187720970244097/6f0wFLFI_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "wBEK79RAEKeAfq2",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 1334,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @wBEK79RAEKeAfq2: @cyan112 グレタさんの胡散臭さを見抜けない人\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 23 16:55:11 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "都内でひっそり生息する同人作家兼レイヤー。\n一時期はゲーム業界の末席にいたけど今は現役では無いっぽい。\n機会があれば戻るかも知れないっぽい？\n※予備垢のため普段はほぼbotがツイートしてます。 \n※最近は本垢から政治系の話題を退避することもあり。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/ICumPp1nca",
+                        "display_url": "seiga.nicovideo.jp/user/illust/88…",
+                        "expanded_url": "http://seiga.nicovideo.jp/user/illust/8864963?target=seiga"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 32,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "following": false,
+        "friends_count": 294,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 419670764,
+        "id_str": "419670764",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 23,
+        "location": "東京都区内（城西地区）",
+        "name": "水瀬玲亜",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/419670764/1431536964",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/506293763493228544/e4cMKB-r_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/506293763493228544/e4cMKB-r_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Reah_Minase",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 129042,
+        "time_zone": "",
+        "url": "http://t.co/ICumPp1nca",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

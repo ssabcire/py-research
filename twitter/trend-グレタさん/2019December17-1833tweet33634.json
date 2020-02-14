@@ -1,0 +1,496 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 13:36:14 +0000 2019",
+    "display_text_range": [
+        0,
+        61
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "c1815(内閣調査室 技官)",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "unisol211",
+                "id": 1678451113,
+                "id_str": "1678451113"
+            }
+        ],
+        "media": [
+            {
+                "id": 1206468922301501440,
+                "id_str": "1206468922301501440",
+                "media_url": "http://pbs.twimg.com/media/EL49F7pUUAAiivh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL49F7pUUAAiivh.jpg",
+                "url": "https://t.co/XLpkuz69HE",
+                "display_url": "pic.twitter.com/XLpkuz69HE",
+                "expanded_url": "https://twitter.com/unisol211/status/1206468931587719170/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 718,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 407,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1262,
+                        "h": 755,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206468931587719170,
+                "source_status_id_str": "1206468931587719170",
+                "type": "photo",
+                "indices": [
+                    38,
+                    61
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206468922301501440,
+                "id_str": "1206468922301501440",
+                "media_url": "http://pbs.twimg.com/media/EL49F7pUUAAiivh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL49F7pUUAAiivh.jpg",
+                "url": "https://t.co/XLpkuz69HE",
+                "display_url": "pic.twitter.com/XLpkuz69HE",
+                "expanded_url": "https://twitter.com/unisol211/status/1206468931587719170/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 718,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 407,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1262,
+                        "h": 755,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206468931587719170,
+                "source_status_id_str": "1206468931587719170",
+                "type": "photo",
+                "indices": [
+                    38,
+                    61
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @unisol211: グレタさんが具体的なプランを示した事は無い。 https://t.co/XLpkuz69HE",
+    "has_extended_profile": false,
+    "id": 1206568720010604544,
+    "id_str": "1206568720010604544",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 23,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 06:59:43 +0000 2019",
+        "display_text_range": [
+            0,
+            22
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206468922301501440,
+                    "id_str": "1206468922301501440",
+                    "media_url": "http://pbs.twimg.com/media/EL49F7pUUAAiivh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL49F7pUUAAiivh.jpg",
+                    "url": "https://t.co/XLpkuz69HE",
+                    "display_url": "pic.twitter.com/XLpkuz69HE",
+                    "expanded_url": "https://twitter.com/unisol211/status/1206468931587719170/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 718,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 407,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1262,
+                            "h": 755,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        23,
+                        46
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206468922301501440,
+                    "id_str": "1206468922301501440",
+                    "media_url": "http://pbs.twimg.com/media/EL49F7pUUAAiivh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL49F7pUUAAiivh.jpg",
+                    "url": "https://t.co/XLpkuz69HE",
+                    "display_url": "pic.twitter.com/XLpkuz69HE",
+                    "expanded_url": "https://twitter.com/unisol211/status/1206468931587719170/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 718,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 407,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1262,
+                            "h": 755,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        23,
+                        46
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 48,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんが具体的なプランを示した事は無い。 https://t.co/XLpkuz69HE",
+        "has_extended_profile": false,
+        "id": 1206468931587719170,
+        "id_str": "1206468931587719170",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 23,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんが具\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Aug 17 14:54:20 +0000 2013",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "サヨ、ウヨ共にネタとして消費するアカウントになります。専門はIT全般です。美味い、もしくは珍しいランチを食べて報告する頻度が高いです。普通ではない日本人です。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 1130,
+            "follow_request_sent": false,
+            "followers_count": 2546,
+            "following": false,
+            "friends_count": 842,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1678451113,
+            "id_str": "1678451113",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 61,
+            "location": "",
+            "name": "c1815(内閣調査室 技官)",
+            "notifications": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678451113/1535624213",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000315104828/4bd138a259b2a992ca042b56b7249b4c_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000315104828/4bd138a259b2a992ca042b56b7249b4c_normal.jpeg",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "unisol211",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 29134,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @unisol211: グレタさんが具体的なプランを示\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 27 10:25:33 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "はじめまして、まーらいおんです。 TRPGとボードゲームをたしなむ巨漢（主に横方向）。ヘッダーの写真は、ジェイク（@Jake_SYS ）さんに作ってもらったクロスステッチの雪歩です。品のない話をする為のアカウントはこちら。@merlion_morbid",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 42287,
+        "follow_request_sent": false,
+        "followers_count": 611,
+        "following": false,
+        "friends_count": 1427,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 137652109,
+        "id_str": "137652109",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 34,
+        "location": "北海道 北見市",
+        "name": "まーらいおん",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/137652109/1398230859",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/798535610310852609/LJ6Nt_d5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/798535610310852609/LJ6Nt_d5_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "merlionjam",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 133403,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

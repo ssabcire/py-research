@@ -1,0 +1,488 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 08:01:31 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "テリマカシ 。。",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "terimakasih0001",
+                "id": 1120586163150966784,
+                "id_str": "1120586163150966784"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @terimakasih0001: グレタさんは世界を相手に、大人の世界で活動してるんだから、本人の言動が批判されるのも仕方ないでしょう。\n\nそれに彼女は一人ではなく、多くの大人が担ぎ上げてバックアップしてるのだから、それに対して批判は控えろ(未熟な子供だから多目に見ろ)…",
+    "has_extended_profile": false,
+    "id": 1206846872515567616,
+    "id_str": "1206846872515567616",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206768959942324224,
+    "quoted_status_id_str": "1206768959942324224",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 07:43:05 +0000 2019",
+        "display_text_range": [
+            0,
+            145
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        146,
+                        169
+                    ],
+                    "url": "https://t.co/woAgH2VmnQ",
+                    "display_url": "twitter.com/amneris84/stat…",
+                    "expanded_url": "https://twitter.com/amneris84/status/1206768959942324224"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 4,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんは世界を相手に、大人の世界で活動してるんだから、本人の言動が批判されるのも仕方ないでしょう。\n\nそれに彼女は一人ではなく、多くの大人が担ぎ上げてバックアップしてるのだから、それに対して批判は控えろ(未熟な子供だから多目に見ろ)と言うのも、フェアじゃないと思う。\n\n( ˘•ω• ) https://t.co/woAgH2VmnQ",
+        "has_extended_profile": false,
+        "id": 1206842236329058304,
+        "id_str": "1206842236329058304",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206768959942324224,
+        "quoted_status_id_str": "1206768959942324224",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Dec 17 02:51:55 +0000 2019",
+            "display_text_range": [
+                0,
+                126
+            ],
+            "entities": {
+                "urls": [],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 683,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "人間、好きなタイプ嫌いなタイプがあるのは仕方ないんだろうけど、グレタさんについて、いろいろ粗を探してチクチク批判したり叩いたりあざ笑ってる人は、自分が16歳の頃を、ちょっと思い出してみるといいんじゃないかな。未熟なところがあって、当たり前やん、と思う。",
+            "has_extended_profile": false,
+            "id": 1206768959942324224,
+            "id_str": "1206768959942324224",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "ja",
+            "place": {
+                "attributes": null,
+                "bounding_box": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "contained_within": null,
+                "country": "",
+                "country_code": "",
+                "full_name": "",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "",
+                "name": "",
+                "place_type": "",
+                "polylines": null,
+                "url": ""
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 164,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+            "scopes": null,
+            "text": "人間、好きなタイプ嫌いなタイプがあるのは仕方ないんだろうけど、グレタさんについて、い",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Jan 03 07:45:28 +0000 2010",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "「いいね」は備忘のマークとしても使います。 常に「支持」表明とは限りませんので、よろしくお願いします。",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": [
+                            {
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/ATA33ajr6X",
+                                "display_url": "egawashoko.com",
+                                "expanded_url": "http://www.egawashoko.com/"
+                            }
+                        ]
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 8710,
+                "follow_request_sent": false,
+                "followers_count": 271095,
+                "following": false,
+                "friends_count": 594,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 101428190,
+                "id_str": "101428190",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 10961,
+                "location": "Tokyo, Japan",
+                "name": "Shoko Egawa",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/3297225282/080b925f66fb1ff4019b43c89b022938_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/3297225282/080b925f66fb1ff4019b43c89b022938_normal.jpeg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "amneris84",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 103338,
+                "time_zone": "",
+                "url": "https://t.co/ATA33ajr6X",
+                "utc_offset": 0,
+                "verified": true,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんは世界を相手に、大人の世界で活動してるんだから、本人の言動が批判されるのも仕方ないでし\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Apr 23 07:12:15 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "『○○そば』を『中華そば』と呟かないとロックされるので、中華人民共和国は中国、昔の『○○』は『ちうごく』と表記してます。\n\n戦中の写真は主に水間政憲さんの『ひと目でわかるシリーズ』『 完結「南京事件」』から。　➡️https://t.co/DxjiRQlgKA…",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 4418,
+            "follow_request_sent": false,
+            "followers_count": 1603,
+            "following": false,
+            "friends_count": 105,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1120586163150966784,
+            "id_str": "1120586163150966784",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 8,
+            "location": "",
+            "name": "テリマカシ 。。",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1120586163150966784/1557810559",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1199495617879277569/M2EBoYzB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199495617879277569/M2EBoYzB_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "terimakasih0001",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 7598,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @terimakasih0001: グレタさんは世界を相手に、大人の世界で活動してるんだから、本人の言動が批判され\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 08 02:42:25 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "つぶやきだけれど、こしあん派\n\n🇯🇵 弟ひつじ(早生まれ)。４月の羊はお兄さん羊・お姉さん羊とゆー区分を広めたい。\n\n──兄羊・姉羊はしっかり者で、面倒見がよい。\n\n──弟羊・妹羊は、甘えん坊で、ちゃっかりんこ♪",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 179215,
+        "follow_request_sent": false,
+        "followers_count": 1414,
+        "following": false,
+        "friends_count": 1467,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 2553733094,
+        "id_str": "2553733094",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 15,
+        "location": "犬田市猫町1-28-5656(ﾜﾝ・ﾆｬｰ・ｺﾞﾛｺﾞﾛ)",
+        "name": "つぶやきゴロー【肉球新築 : TAMU.FC.No.10京03】",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2553733094/1507422128",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1188212080274374656/U2SpIxSZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1188212080274374656/U2SpIxSZ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "eibeeswee",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 56037,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

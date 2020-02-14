@@ -1,0 +1,631 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 07:55:52 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "井野達也",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "inocche2222",
+                "id": 3223622010,
+                "id_str": "3223622010"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @inocche2222: 左翼の女性が【ＣＮＮ】で泣き叫ぶ\n\nグレタさんや日本の女性議員などもそうですが、活動家の女性は感情のコントロールが苦手なようです。\n\n思い込みがエネルギーになるからなのでしよう。\n\nもちろん、【共感力】は女性の良い点でもあるのですが、科学的・論…",
+    "has_extended_profile": false,
+    "id": 1206845452882046976,
+    "id_str": "1206845452882046976",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206830807102447616,
+    "quoted_status_id_str": "1206830807102447616",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 7,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 07:14:12 +0000 2019",
+        "display_text_range": [
+            0,
+            142
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        143,
+                        166
+                    ],
+                    "url": "https://t.co/z6QnL93Woh",
+                    "display_url": "twitter.com/Tomo20309138/s…",
+                    "expanded_url": "https://twitter.com/Tomo20309138/status/1206830807102447616"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 17,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "左翼の女性が【ＣＮＮ】で泣き叫ぶ\n\nグレタさんや日本の女性議員などもそうですが、活動家の女性は感情のコントロールが苦手なようです。\n\n思い込みがエネルギーになるからなのでしよう。\n\nもちろん、【共感力】は女性の良い点でもあるのですが、科学的・論理的な事実の上での発露が望ましいですね😅 https://t.co/z6QnL93Woh",
+        "has_extended_profile": false,
+        "id": 1206834965226254341,
+        "id_str": "1206834965226254341",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 1206830807102447616,
+        "quoted_status_id_str": "1206830807102447616",
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Dec 17 06:57:40 +0000 2019",
+            "display_text_range": [
+                0,
+                279
+            ],
+            "entities": {
+                "urls": [],
+                "hashtags": [],
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": [],
+                "media": [
+                    {
+                        "id": 1206830791461875714,
+                        "id_str": "1206830791461875714",
+                        "media_url": "http://pbs.twimg.com/media/EL-GNfUWsAIuM8h.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EL-GNfUWsAIuM8h.jpg",
+                        "url": "https://t.co/dLjuhahMSD",
+                        "display_url": "pic.twitter.com/dLjuhahMSD",
+                        "expanded_url": "https://twitter.com/Tomo20309138/status/1206830807102447616/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            280,
+                            303
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": [
+                    {
+                        "id": 1206830791461875714,
+                        "id_str": "1206830791461875714",
+                        "media_url": "http://pbs.twimg.com/media/EL-GNfUWsAIuM8h.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EL-GNfUWsAIuM8h.jpg",
+                        "url": "https://t.co/dLjuhahMSD",
+                        "display_url": "pic.twitter.com/dLjuhahMSD",
+                        "expanded_url": "https://twitter.com/Tomo20309138/status/1206830807102447616/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            280,
+                            303
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    },
+                    {
+                        "id": 1206830798479003648,
+                        "id_str": "1206830798479003648",
+                        "media_url": "http://pbs.twimg.com/media/EL-GN5dXkAAxTr9.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EL-GN5dXkAAxTr9.jpg",
+                        "url": "https://t.co/dLjuhahMSD",
+                        "display_url": "pic.twitter.com/dLjuhahMSD",
+                        "expanded_url": "https://twitter.com/Tomo20309138/status/1206830807102447616/photo/1",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 0,
+                        "source_status_id_str": "",
+                        "type": "photo",
+                        "indices": [
+                            280,
+                            303
+                        ],
+                        "video_info": {
+                            "aspect_ratio": null,
+                            "duration_millis": 0,
+                            "variants": null
+                        },
+                        "ext_alt_text": ""
+                    }
+                ]
+            },
+            "extended_tweet": {
+                "full_text": "",
+                "display_text_range": null,
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "extended_entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                }
+            },
+            "favorite_count": 8,
+            "favorited": false,
+            "filter_level": "",
+            "full_text": "Those lefties tend to prefer one-sided discussions not allowing their opponents to criticize them.\n\nAnd they even get suddenly extremely emotional like instantaneous gas water heaters.\n\nThis woman, Ms Angela Rye, suddenly burst into tears and screamed on Never-Trumper media CNN. https://t.co/dLjuhahMSD",
+            "has_extended_profile": false,
+            "id": 1206830807102447616,
+            "id_str": "1206830807102447616",
+            "in_reply_to_screen_name": "",
+            "in_reply_to_status_id": 0,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id": 0,
+            "in_reply_to_user_id_str": "",
+            "is_translation_enabled": false,
+            "lang": "en",
+            "place": {
+                "attributes": {},
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                9.040628,
+                                45.3867262
+                            ],
+                            [
+                                9.2780451,
+                                45.3867262
+                            ],
+                            [
+                                9.2780451,
+                                45.5359644
+                            ],
+                            [
+                                9.040628,
+                                45.5359644
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "contained_within": [],
+                "country": "Italy",
+                "country_code": "IT",
+                "full_name": "Milan, Lombardy",
+                "geometry": {
+                    "coordinates": null,
+                    "type": ""
+                },
+                "id": "1ea588c12abd39d7",
+                "name": "Milan",
+                "place_type": "city",
+                "polylines": null,
+                "url": "https://api.twitter.com/1.1/geo/id/1ea588c12abd39d7.json"
+            },
+            "quoted_status_id": 0,
+            "quoted_status_id_str": "",
+            "quoted_status": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 6,
+            "retweeted": false,
+            "retweeted_status": null,
+            "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+            "scopes": null,
+            "text": "Those lefties tend to prefer one-sided discussions not allowing their opponents to criticize them.\n\nAnd they even get suddenly extremely emotional like instantaneous gas water heaters.\n\nThis woman, Ms Angela Rye, suddenly burst into tears and screamed on Never-Trumper media CNN.",
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Mar 04 00:34:46 +0000 2019",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "🇯🇵 Lawmakers \u0026 Patriots should share their views/perspectives more in English to deliver msg to people all over the world. I sometimes translate good tweets.",
+                "email": "",
+                "entities": {
+                    "urls": null,
+                    "hashtags": null,
+                    "url": {
+                        "urls": null
+                    },
+                    "user_mentions": null,
+                    "media": null
+                },
+                "favourites_count": 5112,
+                "follow_request_sent": false,
+                "followers_count": 475,
+                "following": false,
+                "friends_count": 297,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 1102366739394813952,
+                "id_str": "1102366739394813952",
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "lang": "",
+                "listed_count": 5,
+                "location": "",
+                "name": "Tomo",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1102366739394813952/1573999380",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1194657719086534656/HhH0h7jV_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194657719086534656/HhH0h7jV_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "Tomo20309138",
+                "show_all_inline_media": false,
+                "status": null,
+                "statuses_count": 2521,
+                "time_zone": "",
+                "url": "",
+                "utc_offset": 0,
+                "verified": false,
+                "withheld_in_countries": null,
+                "withheld_scope": ""
+            },
+            "withheld_copyright": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 7,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "左翼の女性が【ＣＮＮ】で泣き叫ぶ\n\nグレタさんや日本の女性議員などもそうですが、活動家の女性は感\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri May 22 21:50:32 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "武田邦彦先生推しなので真ん中よりチョイ左\nのはずでしたがすぐに［ネトウヨ］認定されます。\n日本が左に傾きすぎなだけだと思うのですがね。\n\nちなみに韓国などへの民族ヘイトも目に余れば注意・通報します。\n\n夜郎自大なパヨクはきらいです、でも民族ヘイトを撒き散らすネトウヨはもっときらいです。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 47323,
+            "follow_request_sent": false,
+            "followers_count": 551,
+            "following": false,
+            "friends_count": 497,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 3223622010,
+            "id_str": "3223622010",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 9,
+            "location": "",
+            "name": "井野達也",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3223622010/1490599601",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1043448912000892929/BdUuQE79_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043448912000892929/BdUuQE79_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "inocche2222",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 9536,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @inocche2222: 左翼の女性が【ＣＮＮ】で泣き叫ぶ\n\nグレタさんや日本の女性議員などもそうですが、活動\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 07 10:12:05 +0000 2017",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ちょいとしたおさしみです(ヾﾉ･ω･`) 気に入った・参考になるツイートにはポコポコいいねしますし、どんどんモーメントに残しますのでご容赦を。政治話・チラ裏呟き・リツイート・誤字脱字かなり多め(；∀；)無言フォロー大歓迎です。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 75166,
+        "follow_request_sent": false,
+        "followers_count": 899,
+        "following": false,
+        "friends_count": 1260,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 828909185484021760,
+        "id_str": "828909185484021760",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 10,
+        "location": "日本",
+        "name": "城太郎(´･ω･`) おさしみ",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/828909185484021760/1488257140",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1066659545122918400/UaLHx-3m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1066659545122918400/UaLHx-3m_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "6EGDxF2uacTZNPa",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 48547,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

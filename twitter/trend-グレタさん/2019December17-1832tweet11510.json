@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 01:32:35 +0000 2019",
+    "display_text_range": [
+        0,
+        102
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    79,
+                    102
+                ],
+                "url": "https://t.co/OJ4khqUcl9",
+                "display_url": "lite-ra.com/2019/12/post-5…",
+                "expanded_url": "https://lite-ra.com/2019/12/post-5145.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "litera",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "litera_web",
+                "id": 2497555580,
+                "id_str": "2497555580"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @litera_web: グレタさん攻撃で炎上した登山家・野口健の過去は事実だった！「15歳のシェルパの娘と“児童婚”して離婚」「猫を空気銃で射殺」　 https://t.co/OJ4khqUcl9",
+    "has_extended_profile": false,
+    "id": 1206748994669441025,
+    "id_str": "1206748994669441025",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1853,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 03:47:05 +0000 2019",
+        "display_text_range": [
+            0,
+            86
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        63,
+                        86
+                    ],
+                    "url": "https://t.co/OJ4khqUcl9",
+                    "display_url": "lite-ra.com/2019/12/post-5…",
+                    "expanded_url": "https://lite-ra.com/2019/12/post-5145.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2463,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん攻撃で炎上した登山家・野口健の過去は事実だった！「15歳のシェルパの娘と“児童婚”して離婚」「猫を空気銃で射殺」　 https://t.co/OJ4khqUcl9",
+        "has_extended_profile": false,
+        "id": 1206058066388672513,
+        "id_str": "1206058066388672513",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1853,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://ifttt.com\" rel=\"nofollow\"\u003eIFTTT\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん攻撃で炎上した登山家・野口健の過去は事実だった\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri May 16 02:17:45 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "本と雑誌のニュースサイト「LITERA(リテラ)」の公式twitterです。小説、マンガ、ビジネス書、サブカル本、新書、週刊誌、女性誌などあらゆる紙媒体を独自の視点で読み解きます。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/bRljkiC4Vq",
+                            "display_url": "lite-ra.com",
+                            "expanded_url": "http://lite-ra.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 78770,
+            "following": false,
+            "friends_count": 2329,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2497555580,
+            "id_str": "2497555580",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1723,
+            "location": "",
+            "name": "litera",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2497555580/1404098600",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/483448803299573760/1XxlIx08_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/483448803299573760/1XxlIx08_normal.png",
+            "profile_link_color": "363636",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "litera_web",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 7275,
+            "time_zone": "",
+            "url": "http://t.co/bRljkiC4Vq",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @litera_web: グレタさん攻撃で炎上した登山家・野口健の過去は事実だった\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 29 14:10:53 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "戦争するな。原発やめろ。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 54676,
+        "follow_request_sent": false,
+        "followers_count": 1110,
+        "following": false,
+        "friends_count": 1046,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 424214781,
+        "id_str": "424214781",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 33,
+        "location": "",
+        "name": "Gorocci",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1764606121/ponpon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1764606121/ponpon_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "YutaroGorocci",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 94022,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

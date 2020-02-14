@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 00:03:43 +0000 2019",
+    "display_text_range": [
+        0,
+        40
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "まんげつや",
+                "indices": [
+                    3,
+                    10
+                ],
+                "screen_name": "eambai",
+                "id": 75278606,
+                "id_str": "75278606"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @eambai: グレタさんはすっかり筋金入りの環境ゴロになったという理解",
+    "has_extended_profile": false,
+    "id": 1206726630288158720,
+    "id_str": "1206726630288158720",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 11:42:37 +0000 2019",
+        "display_text_range": [
+            0,
+            28
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 6,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんはすっかり筋金入りの環境ゴロになったという理解",
+        "has_extended_profile": false,
+        "id": 1206540126752346112,
+        "id_str": "1206540126752346112",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんはすっか\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Sep 18 13:23:15 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "手打ちそば まんげつや店主 美味しいと評判の鴨せいろ、鴨南ばん、桜えび、くるみそば、その他一品料理取り揃えております。ダム、発電所巡りを好みます。 お店のサイト： https://t.co/I3bbCpdB8L",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/I3bbCpdB8L",
+                            "display_url": "mangetsuya.iza-yoi.net",
+                            "expanded_url": "http://mangetsuya.iza-yoi.net/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 14698,
+            "follow_request_sent": false,
+            "followers_count": 814,
+            "following": false,
+            "friends_count": 934,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 75278606,
+            "id_str": "75278606",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 60,
+            "location": "静岡市葵区古庄3-3-11",
+            "name": "まんげつや",
+            "notifications": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/75278606/1454669717",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875536279353516033/jLN92UkM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875536279353516033/jLN92UkM_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "eambai",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 48703,
+            "time_zone": "",
+            "url": "https://t.co/I3bbCpdB8L",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @eambai: グレタさんはすっか\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 06 04:01:22 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "元はサ(イエンス)カ(フェ)の中のひと。専門は有機ケイ素化学。富士山を定点撮影中。アイコンはボロメオのベンゼン。ヘッダー画像は環水平アーク（2015/5/22撮影）。#今の富士山 「静岡大学の分離再編を考えるHP」も見てね！https://t.co/rI65Rddpbz",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 79882,
+        "follow_request_sent": false,
+        "followers_count": 6251,
+        "following": false,
+        "friends_count": 3248,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 277837450,
+        "id_str": "277837450",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 247,
+        "location": "富士山と海のある県",
+        "name": "元サカ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/277837450/1459484356",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/875521502971518977/1QmU8OL__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875521502971518977/1QmU8OL__normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SciCafeShizuoka",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 155985,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

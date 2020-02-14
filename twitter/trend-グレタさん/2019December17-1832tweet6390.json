@@ -1,0 +1,356 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:48:30 +0000 2019",
+    "display_text_range": [
+        0,
+        70
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    47,
+                    70
+                ],
+                "url": "https://t.co/GTVLDMuFoM",
+                "display_url": "lineblog.me/kageki_neko/ar…",
+                "expanded_url": "https://lineblog.me/kageki_neko/archives/13242357.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "志茂田景樹",
+                "indices": [
+                    3,
+                    14
+                ],
+                "screen_name": "kagekineko",
+                "id": 137978269,
+                "id_str": "137978269"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @kagekineko: グレタさん COP25お疲れ様！ 1等車で悠々寛いでおられ… https://t.co/GTVLDMuFoM",
+    "has_extended_profile": false,
+    "id": 1206783199793147906,
+    "id_str": "1206783199793147906",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 28,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 00:37:14 +0000 2019",
+        "display_text_range": [
+            0,
+            54
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        31,
+                        54
+                    ],
+                    "url": "https://t.co/GTVLDMuFoM",
+                    "display_url": "lineblog.me/kageki_neko/ar…",
+                    "expanded_url": "https://lineblog.me/kageki_neko/archives/13242357.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 157,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん COP25お疲れ様！ 1等車で悠々寛いでおられ… https://t.co/GTVLDMuFoM",
+        "has_extended_profile": false,
+        "id": 1206735064530223104,
+        "id_str": "1206735064530223104",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 28,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://www.lineblog.me/\" rel=\"nofollow\"\u003eLINE BLOG\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん COP25お疲れ様！ 1等車で悠々\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Apr 28 08:42:52 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "小説、童話を書き、絵と絵本を描き、「よい子に読み聞かせ隊」の隊長として仲間と読み聞かせ活動をやってます。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/3nrRgU4WM8",
+                            "display_url": "kageki.jp",
+                            "expanded_url": "http://www.kageki.jp"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 73,
+            "follow_request_sent": false,
+            "followers_count": 415343,
+            "following": false,
+            "friends_count": 1609,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 137978269,
+            "id_str": "137978269",
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "lang": "",
+            "listed_count": 6986,
+            "location": "東京都麻布十番",
+            "name": "志茂田景樹",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051002754/100502_224341______normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051002754/100502_224341______normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "kagekineko",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 32875,
+            "time_zone": "",
+            "url": "http://t.co/3nrRgU4WM8",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @kagekineko: グレタさん COP25お疲れ様！ 1等車で悠々\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 14 02:36:55 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Cogito, ergo ふむ。《蝉です／蝉塾講師／蝉乃珈琲店主／気になったものなんでもぶっ込むゴミ箱垢RT多ﾌｫﾛｰ注意／生活・時事・文化・言語・音楽🎻🎸etc／美しい音を出すものが好きです／自作鍵盤配列から歴史的仮名遣の実践／塾・特別支援／文化とは敢て手間暇かけること／仕事とは他人の都合で動くこと》",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/VnNd9JNXfK",
+                        "display_url": "d.hatena.ne.jp/altocicada/",
+                        "expanded_url": "http://d.hatena.ne.jp/altocicada/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 84159,
+        "follow_request_sent": false,
+        "followers_count": 802,
+        "following": false,
+        "friends_count": 763,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 265743592,
+        "id_str": "265743592",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 52,
+        "location": "東トットリスタン（イナバニア）",
+        "name": "鶏乃クリオネ熊本店",
+        "notifications": false,
+        "profile_background_color": "081933",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/265743592/1574168027",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1044623725226713088/MiBABhJi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044623725226713088/MiBABhJi_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "altocicada",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 351250,
+        "time_zone": "",
+        "url": "https://t.co/VnNd9JNXfK",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,153 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 10:17:48 +0000 2019",
+    "display_text_range": [
+        0,
+        101
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんは子供ゆえの脇の甘さに呆れる部分もあるが\nその主張の全てが否定されるのとは、確証が出揃っていない為また別の話\n\n少なくとも、嘘を重ねまくり\n未だ逃げ回ってる犯罪者が野放しの国が言えた義理はない",
+    "has_extended_profile": false,
+    "id": 1206518784263016449,
+    "id_str": "1206518784263016449",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんは子供ゆえの脇の甘さに呆れる部分もあるが\nその主張の全てが\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 21 02:30:41 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "元ゲームクリエイト会社UIデザイナー、ゲームアナリスト。特殊なロケキャメラマンやってます。イラスト・デザイン・音楽・webと手広く創作活動してます。 ネトゲ歴30年行くんじゃない！？ってPSO2なんかもやってました。過去形です。 チワワ5匹と住んでます。仕事柄スマフォゲームめちゃくちゃいれてます。白猫とかそういうやつ",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 17235,
+        "follow_request_sent": false,
+        "followers_count": 337,
+        "following": false,
+        "friends_count": 2020,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 116074622,
+        "id_str": "116074622",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 6,
+        "location": "秋田から都内から秋田へ",
+        "name": "コペル皇子＠ship8",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/116074622/1385035502",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000772278933/9067060cf34773a46ba14dbfe1171091_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000772278933/9067060cf34773a46ba14dbfe1171091_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kopelog",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 30030,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,203 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 07:35:59 +0000 2019",
+    "display_text_range": [
+        0,
+        119
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    34,
+                    57
+                ],
+                "url": "https://t.co/aQAULtxqNl",
+                "display_url": "cnn.co.jp/travel/3514692…",
+                "expanded_url": "https://www.cnn.co.jp/travel/35146920.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "cnn_co_jp",
+                "indices": [
+                    58,
+                    68
+                ],
+                "screen_name": "cnn_co_jp",
+                "id": 158996759,
+                "id_str": "158996759"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容され https://t.co/aQAULtxqNl @cnn_co_jpより\n\nそんな所に座ったら邪魔。\n\n馬車かチャリで帰るくらいの徹底差がないと三流活動家と思われますよ。",
+    "has_extended_profile": false,
+    "id": 1206840447361933315,
+    "id_str": "1206840447361933315",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        129.922246,
+                        33.003909
+                    ],
+                    [
+                        130.08798,
+                        33.003909
+                    ],
+                    [
+                        130.08798,
+                        33.172278
+                    ],
+                    [
+                        129.922246,
+                        33.172278
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Japan",
+        "country_code": "JP",
+        "full_name": "Ureshino-shi, Saga",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "1b029262e8cecc8a",
+        "name": "Ureshino-shi",
+        "place_type": "city",
+        "polylines": null,
+        "url": "https://api.twitter.com/1.1/geo/id/1b029262e8cecc8a.json"
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": true,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "ドイツ鉄道、グレタさんにツイッターで応酬　「混雑し過ぎ」と形容され https://t.co/aQAULt",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 08 12:49:56 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Managing director of a company/Trumpet player/age38/Saga.Ureshino-shi.Japan / 表の顔は株式会社神羅カンパニー専務取締役。裏の顔は・・・・・。      「身を屈して、分を守り、天の時を待つ蛟龍の淵にひそむは昇らんがため」",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/8OPezvgoqU",
+                        "display_url": "facebook.com/AkabaneHIroshi",
+                        "expanded_url": "https://www.facebook.com/AkabaneHIroshi"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 10756,
+        "follow_request_sent": false,
+        "followers_count": 1821,
+        "following": false,
+        "friends_count": 4216,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 153395002,
+        "id_str": "153395002",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 9,
+        "location": "九州・佐賀県嬉野市",
+        "name": "maestro-hiroshi",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/153395002/1497964829",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/969560909898117122/eL_ELqHA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/969560909898117122/eL_ELqHA_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "hiro_bscny",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 38064,
+        "time_zone": "",
+        "url": "https://t.co/8OPezvgoqU",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

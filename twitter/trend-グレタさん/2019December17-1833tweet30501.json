@@ -1,0 +1,164 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 14:27:32 +0000 2019",
+    "display_text_range": [
+        12,
+        121
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "弁護士 吉峯耕平（「カンママル」撲滅委員会）",
+                "indices": [
+                    0,
+                    11
+                ],
+                "screen_name": "kyoshimine",
+                "id": 384223644,
+                "id_str": "384223644"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@kyoshimine 『「女も楽な靴を履きたい」というだけの主張』\nに憎悪を燃やす男は実際多いのだから間違いではないと思います。\n\n石川さんの主張はそれだけではもちろんありませんが。\n\nグレタさんに憎悪を燃やす男と発生源同じではと思います。",
+    "has_extended_profile": false,
+    "id": 1206581629184958465,
+    "id_str": "1206581629184958465",
+    "in_reply_to_screen_name": "kyoshimine",
+    "in_reply_to_status_id": 1206572555135406080,
+    "in_reply_to_status_id_str": "1206572555135406080",
+    "in_reply_to_user_id": 384223644,
+    "in_reply_to_user_id_str": "384223644",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "『「女も楽な靴を履きたい」というだけの主張』\nに憎悪を燃やす男は実際多いの",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 25 15:36:22 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "型づけは強めが好み。\n/分散コンピューティング\n/Haskell\n/shell\n/数学\n/岡崎支部無罪判決\n/不正指令電磁記録罪濫用\n世界を変えたいゲリラです。\n\n油売るのを控える。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 17706,
+        "follow_request_sent": false,
+        "followers_count": 381,
+        "following": false,
+        "friends_count": 1087,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 271981917,
+        "id_str": "271981917",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 12,
+        "location": "",
+        "name": "ABCコ（ゆとり世代）",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/271981917/1570759500",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1186664342462185472/jXDcC0OB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186664342462185472/jXDcC0OB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "marmarma9999",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 22946,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

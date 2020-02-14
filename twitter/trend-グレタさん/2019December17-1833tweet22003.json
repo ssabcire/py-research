@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 21:03:11 +0000 2019",
+    "display_text_range": [
+        0,
+        73
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    50,
+                    73
+                ],
+                "url": "https://t.co/hs6okcgHWo",
+                "display_url": "this.kiji.is/57939894023254…",
+                "expanded_url": "https://this.kiji.is/579398940232549473?c=39550187727945729"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "共同通信公式",
+                "indices": [
+                    3,
+                    18
+                ],
+                "screen_name": "kyodo_official",
+                "id": 1240672056,
+                "id_str": "1240672056"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @kyodo_official: ドイツ鉄道、グレタさんと応酬 － 「列車大混雑」の投稿受け\nhttps://t.co/hs6okcgHWo",
+    "has_extended_profile": false,
+    "id": 1206681200493858817,
+    "id_str": "1206681200493858817",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 16,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 20:05:31 +0000 2019",
+        "display_text_range": [
+            0,
+            53
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        30,
+                        53
+                    ],
+                    "url": "https://t.co/hs6okcgHWo",
+                    "display_url": "this.kiji.is/57939894023254…",
+                    "expanded_url": "https://this.kiji.is/579398940232549473?c=39550187727945729"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 16,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "ドイツ鉄道、グレタさんと応酬 － 「列車大混雑」の投稿受け\nhttps://t.co/hs6okcgHWo",
+        "has_extended_profile": false,
+        "id": 1206666687891869697,
+        "id_str": "1206666687891869697",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 16,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://www.kyodonews.jp\" rel=\"nofollow\"\u003eNewspackPost\u003c/a\u003e",
+        "scopes": null,
+        "text": "ドイツ鉄道、グレタさんと応酬 － 「列",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Mar 04 06:41:52 +0000 2013",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "共同通信が運営する公式アカウントです。ニュースを配信しながら、時々つぶやきます。\r\n全国のニュースは47newsへ\r\n→http://t.co/BqAAr8ExTG\r\n\r\n※情報提供をお願いすることがあります。つぶやきは管理人の個人的意見であり、フォローおよびRTは賛意とは限りません。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/Io4WpRid4e",
+                            "display_url": "kyodonews.jp",
+                            "expanded_url": "http://www.kyodonews.jp/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 814,
+            "follow_request_sent": false,
+            "followers_count": 184557,
+            "following": false,
+            "friends_count": 96,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1240672056,
+            "id_str": "1240672056",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 4813,
+            "location": "東京都港区東新橋1-7-1",
+            "name": "共同通信公式",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1240672056/1363066979",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/954321542577405952/Hoc3Ph5V_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/954321542577405952/Hoc3Ph5V_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "kyodo_official",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 323714,
+            "time_zone": "",
+            "url": "http://t.co/Io4WpRid4e",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @kyodo_official: ドイツ鉄道、グレタさんと応酬 － 「列",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 16 16:09:41 +0000 2017",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Vo.G＠ルメちゃんと不埒なホコリたち 呟きは唄心の覚え書き、走り書き。 駄才の才。無地の地。 #モプ索  Paul Simon/Ry Cooder/João Gilberto/George Moustaki, et cætera",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 5921,
+        "follow_request_sent": false,
+        "followers_count": 121,
+        "following": false,
+        "friends_count": 679,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 897852873043726336,
+        "id_str": "897852873043726336",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 9,
+        "location": "モプ都モプ郡モプ村",
+        "name": "mopúlaï　頼夜モプ",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/897852873043726336/1554621507",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1151772606451703808/gjR676PY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151772606451703808/gjR676PY_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "mopulai8",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 4251,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

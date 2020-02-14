@@ -1,0 +1,366 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 18:34:54 +0000 2019",
+    "display_text_range": [
+        0,
+        97
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [
+            {
+                "indices": [
+                    84,
+                    90
+                ],
+                "text": "グレタさん"
+            },
+            {
+                "indices": [
+                    91,
+                    97
+                ],
+                "text": "RIZIN"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "NEYAPRO",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "neyagawa1988pro",
+                "id": 919095150856437760,
+                "id_str": "919095150856437760"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @neyagawa1988pro: ファーストクラスを用意したのに床に座ってまでドイツ鉄道の超満員をアピってくれたグレタさん！\nRIZIN大晦日にも来て欲しいw\n#グレタさん\n#RIZIN",
+    "has_extended_profile": false,
+    "id": 1206643880851951617,
+    "id_str": "1206643880851951617",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 13:22:08 +0000 2019",
+        "display_text_range": [
+            0,
+            76
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [
+                {
+                    "indices": [
+                        63,
+                        69
+                    ],
+                    "text": "グレタさん"
+                },
+                {
+                    "indices": [
+                        70,
+                        76
+                    ],
+                    "text": "RIZIN"
+                }
+            ],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 20,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "ファーストクラスを用意したのに床に座ってまでドイツ鉄道の超満員をアピってくれたグレタさん！\nRIZIN大晦日にも来て欲しいw\n#グレタさん\n#RIZIN",
+        "has_extended_profile": false,
+        "id": 1206565170387931137,
+        "id_str": "1206565170387931137",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "ファーストクラスを用意したのに床に座ってまでドイツ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Oct 14 06:58:54 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "格闘技・プロレス専用アカウントです。ブログもやってます。旧「寝屋川プロレス入門塾」#31歳無職の旅 で旅行についても語ってます。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/chA3Mx9lfB",
+                            "display_url": "neyagawa1988pro.com",
+                            "expanded_url": "http://neyagawa1988pro.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 3600,
+            "follow_request_sent": false,
+            "followers_count": 3301,
+            "following": false,
+            "friends_count": 4877,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 919095150856437760,
+            "id_str": "919095150856437760",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 13,
+            "location": "京橋（寝屋川のほとり）",
+            "name": "NEYAPRO",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/919095150856437760/1527599395",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1086970113713041408/cCvH9_pR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1086970113713041408/cCvH9_pR_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "neyagawa1988pro",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 13559,
+            "time_zone": "",
+            "url": "https://t.co/chA3Mx9lfB",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @neyagawa1988pro: ファーストクラスを用意したのに床に座ってまでドイツ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 17 11:54:14 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "主に漫画、アニメ、格闘技、たまに絵、フィギュア、特撮、ゲーム、アイドル等 かなりカオスな雑多垢/20代♂/嫌われるの上等/イキってるけど実はコミュ症/📕ドラゴンボール、聖闘士星矢、キン肉マン、北斗の拳etc./📺プリキュア/🎮ドラクエ/🎤ももクロ、でんぱ組、仮面女子/🥊RIZIN、RISE",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/oKdxkk4OFO",
+                        "display_url": "twpf.jp/mangacluster",
+                        "expanded_url": "http://twpf.jp/mangacluster"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 14527,
+        "follow_request_sent": false,
+        "followers_count": 303,
+        "following": false,
+        "friends_count": 376,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1041656570721927168,
+        "id_str": "1041656570721927168",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "和歌山県",
+        "name": "🥊魚座♓漫画\u0026格闘技🥊",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1041656570721927168/1537713689",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1041711956791504896/B0Tt_2NW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1041711956791504896/B0Tt_2NW_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mangacluster",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 5943,
+        "time_zone": "",
+        "url": "https://t.co/oKdxkk4OFO",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

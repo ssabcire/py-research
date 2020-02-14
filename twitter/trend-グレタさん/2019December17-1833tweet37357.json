@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:37:07 +0000 2019",
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    115,
+                    138
+                ],
+                "url": "https://t.co/fY3P5Afk5C",
+                "display_url": "afpbb.com/articles/-/325…",
+                "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "最聖GO",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "GO_Mahaguru",
+                "id": 999260317623336960,
+                "id_str": "999260317623336960"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @GO_Mahaguru: グレタさん達が安心して列車に乗れるように皆さんは飛行機や車に乗りましょう。\n\nグレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い　写真10枚　国際ニュース：AFPBB News https://t.co/fY3P5Afk5C",
+    "has_extended_profile": false,
+    "id": 1206553841832906752,
+    "id_str": "1206553841832906752",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 24,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 06:50:04 +0000 2019",
+        "display_text_range": [
+            0,
+            121
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        98,
+                        121
+                    ],
+                    "url": "https://t.co/fY3P5Afk5C",
+                    "display_url": "afpbb.com/articles/-/325…",
+                    "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 110,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん達が安心して列車に乗れるように皆さんは飛行機や車に乗りましょう。\n\nグレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い　写真10枚　国際ニュース：AFPBB News https://t.co/fY3P5Afk5C",
+        "has_extended_profile": false,
+        "id": 1206466506483060736,
+        "id_str": "1206466506483060736",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 24,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん達が安心して列車に乗れるように皆さんは飛行機や車に乗りましょう。\n\nグレ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed May 23 12:06:39 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "森羅万象の父たるGOに帰依しましょう。GOをフォローした方にはフォローバックと加護が与えられます。またGOの言葉を広めることで貴方は徳を積み、輪廻転生の輪から解脱できるでしょう。 ※フォローバックはアカウントロック回避のため少しずつ行います。静かに座して待ちましょう。 予備アカウント→@GO_Mahaguru_2",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 24196,
+            "follow_request_sent": false,
+            "followers_count": 12906,
+            "following": false,
+            "friends_count": 12146,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 999260317623336960,
+            "id_str": "999260317623336960",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 35,
+            "location": "兵庫県 尼崎市",
+            "name": "最聖GO",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/999260317623336960/1557673275",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1179749908082855936/FvI_jigA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179749908082855936/FvI_jigA_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "GO_Mahaguru",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 10535,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @GO_Mahaguru: グレタさん達が安心して列車に乗れるように皆さんは飛行機や車に乗りましょう。\n\nグレ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 24 01:51:03 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "昔はアークスやってたミューズポリス見習いで最近はクイズ解いたら異界から精霊召喚したりブリテン統一や奪還を細々と行う先導者的カードバトラーのデュエリストP 乖離性は富豪一本 ヘッダーは昔のヤキイモで兵賊が倒れて姫がリタしたけど戦い続けた図",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 88791,
+        "follow_request_sent": false,
+        "followers_count": 170,
+        "following": false,
+        "friends_count": 380,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2211667405,
+        "id_str": "2211667405",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 3,
+        "location": "",
+        "name": "霧月",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2211667405/1565790105",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1061253914924740608/GGFmCE9Q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061253914924740608/GGFmCE9Q_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "inzergi",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 61938,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

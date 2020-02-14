@@ -1,0 +1,337 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 22:45:19 +0000 2019",
+    "display_text_range": [
+        0,
+        137
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "DJ乗りおじさん",
+                "indices": [
+                    3,
+                    11
+                ],
+                "screen_name": "aki8ara",
+                "id": 1084804563729670147,
+                "id_str": "1084804563729670147"
+            },
+            {
+                "name": "ろくでなし子 祝デコまん無罪確定！",
+                "indices": [
+                    13,
+                    19
+                ],
+                "screen_name": "6d745",
+                "id": 264627362,
+                "id_str": "264627362"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @aki8ara: @6d745 日本でも、グレタさんを批判すると、\n「10代の少女に大人がなんて口を」\nという言い方で批判してくる人間は多い。結局、未成年を隠れ蓑のしているだけに見える。\n今度は10才未満を出して来た。少年少女に爆弾括りつけるテロリストとやり方は同じ",
+    "has_extended_profile": false,
+    "id": 1206706902798725120,
+    "id_str": "1206706902798725120",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 14 05:00:56 +0000 2019",
+        "display_text_range": [
+            7,
+            124
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "ろくでなし子 祝デコまん無罪確定！",
+                    "indices": [
+                        0,
+                        6
+                    ],
+                    "screen_name": "6d745",
+                    "id": 264627362,
+                    "id_str": "264627362"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 3,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@6d745 日本でも、グレタさんを批判すると、\n「10代の少女に大人がなんて口を」\nという言い方で批判してくる人間は多い。結局、未成年を隠れ蓑のしているだけに見える。\n今度は10才未満を出して来た。少年少女に爆弾括りつけるテロリストとやり方は同じ",
+        "has_extended_profile": false,
+        "id": 1205714264679305218,
+        "id_str": "1205714264679305218",
+        "in_reply_to_screen_name": "6d745",
+        "in_reply_to_status_id": 1205418441819250689,
+        "in_reply_to_status_id_str": "1205418441819250689",
+        "in_reply_to_user_id": 264627362,
+        "in_reply_to_user_id_str": "264627362",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "日本でも、グレタさんを批判すると、\n「10代の少女に大人がなんて口を」\nという言い\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jan 14 13:28:57 +0000 2019",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "無駄にキャリアだけ長い昭和生まれの何でもIT屋。組込からDB/Webまで。元電子部品設計屋元化学プラント計装屋。ドライブ好き、アニヲタ\n発言内容は個人的なものであり所属組織やクラスタの見解を書くほど偉くない。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 25272,
+            "follow_request_sent": false,
+            "followers_count": 76,
+            "following": false,
+            "friends_count": 198,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1084804563729670147,
+            "id_str": "1084804563729670147",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 3,
+            "location": "Japan",
+            "name": "DJ乗りおじさん",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1084804563729670147/1547692556",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1085727206926499840/m7V-rXyp_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085727206926499840/m7V-rXyp_normal.jpg",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "aki8ara",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 13192,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @aki8ara: @6d745 日本でも、グレタさんを批判すると、\n「10代の少女に大人がなんて口を」\nという言い\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 15 16:20:47 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Nice to meet u. ❀.(*´▽`*)❀.\n『謎の似非中国人』→『香菜LOVEパクチー』→『パクチーLOVE香菜』です(*･ω･)*_ _)ﾍﾟｺﾘ",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 176995,
+        "follow_request_sent": false,
+        "followers_count": 615,
+        "following": false,
+        "friends_count": 651,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 886259254956482560,
+        "id_str": "886259254956482560",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 6,
+        "location": "千葉 醤油市",
+        "name": "パクチーLOVE香菜",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/886259254956482560/1500136435",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1092369453268910080/XLIuuJ9R_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092369453268910080/XLIuuJ9R_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LOVEXIANGCAI926",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 159430,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

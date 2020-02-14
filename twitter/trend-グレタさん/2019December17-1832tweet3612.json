@@ -1,0 +1,164 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:12:40 +0000 2019",
+    "display_text_range": [
+        17,
+        150
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "ネトウヨ撲滅",
+                "indices": [
+                    0,
+                    16
+                ],
+                "screen_name": "K1MX4UWS0ahg10R",
+                "id": 1206319915726036993,
+                "id_str": "1206319915726036993"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "@K1MX4UWS0ahg10R だから具体的に何を甘えてるんだって聞いてんだ。グレタさんを甘えてるなんて言ってねーぞ。イキって使うと精神年齢がバレるぞ。\nあの子不満なんてないわ、批評してるだけだが？\nやる事を選んだのはあの子だから他人にもやれは違うね。\n私は自分で選んだ事を\"勉強\"してこなしてる。",
+    "has_extended_profile": false,
+    "id": 1206804380571226112,
+    "id_str": "1206804380571226112",
+    "in_reply_to_screen_name": "K1MX4UWS0ahg10R",
+    "in_reply_to_status_id": 1206795422712287232,
+    "in_reply_to_status_id_str": "1206795422712287232",
+    "in_reply_to_user_id": 1206319915726036993,
+    "in_reply_to_user_id_str": "1206319915726036993",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "だから具体的に何を甘えてるんだって聞いてんだ。グレタさんを甘えてるなんて言ってねーぞ。イ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 25 01:06:10 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "二人アカウント共同で言いたいこと呟いてます！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2,
+        "follow_request_sent": false,
+        "followers_count": 0,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1165430103003713536,
+        "id_str": "1165430103003713536",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "まるも@",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1166286563031994368/3KDg_u3o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1166286563031994368/3KDg_u3o_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ERcHTXUucCo1VU1",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 29,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

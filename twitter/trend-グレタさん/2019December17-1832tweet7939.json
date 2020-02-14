@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:19:23 +0000 2019",
+    "display_text_range": [
+        0,
+        88
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    65,
+                    88
+                ],
+                "url": "https://t.co/VtAfsTmhAm",
+                "display_url": "lineblog.me/mogikenichiro/…",
+                "expanded_url": "https://lineblog.me/mogikenichiro/archives/8431809.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "岡崎秀明",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "O6wWvrjeGCpbxWf",
+                "id": 911762411287224321,
+                "id_str": "911762411287224321"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @O6wWvrjeGCpbxWf: グレタさんをめぐる右往左往に学ぶ。ノイズを無視して本質に。 : 茂木健一郎 公式ブログ https://t.co/VtAfsTmhAm",
+    "has_extended_profile": false,
+    "id": 1206775871706517504,
+    "id_str": "1206775871706517504",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 03:12:22 +0000 2019",
+        "display_text_range": [
+            0,
+            67
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        44,
+                        67
+                    ],
+                    "url": "https://t.co/VtAfsTmhAm",
+                    "display_url": "lineblog.me/mogikenichiro/…",
+                    "expanded_url": "https://lineblog.me/mogikenichiro/archives/8431809.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんをめぐる右往左往に学ぶ。ノイズを無視して本質に。 : 茂木健一郎 公式ブログ https://t.co/VtAfsTmhAm",
+        "has_extended_profile": false,
+        "id": 1206774108580696065,
+        "id_str": "1206774108580696065",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://www.facebook.com/twitter\" rel=\"nofollow\"\u003eFacebook\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんをめぐる右往左往に学ぶ。ノイズを無\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Sep 24 01:21:13 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "津軽三味線、Blues Harp(10穴ハモニカ)奏者。花見ライヴ、定禅寺チャリティーストリートライヴ、主催者。Jazz Fes.等のPA(音響)スタッフ。歴史(近現代史)が好きで、只今勉強中。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 6092,
+            "follow_request_sent": false,
+            "followers_count": 1066,
+            "following": false,
+            "friends_count": 2652,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 911762411287224321,
+            "id_str": "911762411287224321",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 10,
+            "location": "宮城県 仙台市 青葉区",
+            "name": "岡崎秀明",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/911762411287224321/1511957643",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/911784318850162689/CDuyoJV-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/911784318850162689/CDuyoJV-_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "O6wWvrjeGCpbxWf",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 3469,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @O6wWvrjeGCpbxWf: グレタさんをめぐる右往左往に学ぶ。ノイズを無\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 15 16:52:32 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ITのお仕事(傭兵稼業)をしている、ただのオッサンです(´・ω・) /蒼色/カレーライス/L'Arc/SOPHIA/L⇔R/黒沢健一/ELLE/洋楽('80s中心)/洋ドラ/映画/BF1/SKYRIM/FO4/テイルズ/FF11/FF14/ガンダム/ TPPと原発反対派、東京電力は殺人犯罪企業！自民公明維新は犯罪集団！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 28316,
+        "follow_request_sent": false,
+        "followers_count": 2944,
+        "following": false,
+        "friends_count": 4972,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 123296798,
+        "id_str": "123296798",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 68,
+        "location": "神奈川県尻鯖市＠ルルデの庭",
+        "name": "新井清志＠反自公政権_反ファシスト",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/123296798/1426789228",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/876053637822205952/Q06sPnQd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/876053637822205952/Q06sPnQd_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Bluelightning7j",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 221222,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

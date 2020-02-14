@@ -1,0 +1,536 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 10:47:12 +0000 2019",
+    "display_text_range": [
+        0,
+        126
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    79,
+                    102
+                ],
+                "url": "https://t.co/0ioknx17Il",
+                "display_url": "moeruasia.net/archives/49657…",
+                "expanded_url": "https://www.moeruasia.net/archives/49657134.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "もえるあじあ ･∀･",
+                "indices": [
+                    3,
+                    15
+                ],
+                "screen_name": "moeruasia01",
+                "id": 1178994547302354945,
+                "id_str": "1178994547302354945"
+            }
+        ],
+        "media": [
+            {
+                "id": 1206254592054435840,
+                "id_str": "1206254592054435840",
+                "media_url": "http://pbs.twimg.com/media/EL16KRQWoAA950j.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL16KRQWoAA950j.jpg",
+                "url": "https://t.co/agthSIMGR2",
+                "display_url": "pic.twitter.com/agthSIMGR2",
+                "expanded_url": "https://twitter.com/moeruasia01/status/1206254593656705025/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 518,
+                        "h": 452,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 518,
+                        "h": 452,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 518,
+                        "h": 452,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206254593656705025,
+                "source_status_id_str": "1206254593656705025",
+                "type": "photo",
+                "indices": [
+                    103,
+                    126
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206254592054435840,
+                "id_str": "1206254592054435840",
+                "media_url": "http://pbs.twimg.com/media/EL16KRQWoAA950j.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL16KRQWoAA950j.jpg",
+                "url": "https://t.co/agthSIMGR2",
+                "display_url": "pic.twitter.com/agthSIMGR2",
+                "expanded_url": "https://twitter.com/moeruasia01/status/1206254593656705025/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 518,
+                        "h": 452,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 518,
+                        "h": 452,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 518,
+                        "h": 452,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1206254593656705025,
+                "source_status_id_str": "1206254593656705025",
+                "type": "photo",
+                "indices": [
+                    103,
+                    126
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @moeruasia01: 【こえぇｗ】グレタさん、自分に従わない指導者は「against the wall」(壁際に立たせる=銃殺刑)　大炎上、謝罪 https://t.co/0ioknx17Il https://t.co/agthSIMGR2",
+    "has_extended_profile": false,
+    "id": 1206526180800679936,
+    "id_str": "1206526180800679936",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1885,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 16:48:00 +0000 2019",
+        "display_text_range": [
+            0,
+            85
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        62,
+                        85
+                    ],
+                    "url": "https://t.co/0ioknx17Il",
+                    "display_url": "moeruasia.net/archives/49657…",
+                    "expanded_url": "https://www.moeruasia.net/archives/49657134.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1206254592054435840,
+                    "id_str": "1206254592054435840",
+                    "media_url": "http://pbs.twimg.com/media/EL16KRQWoAA950j.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL16KRQWoAA950j.jpg",
+                    "url": "https://t.co/agthSIMGR2",
+                    "display_url": "pic.twitter.com/agthSIMGR2",
+                    "expanded_url": "https://twitter.com/moeruasia01/status/1206254593656705025/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 518,
+                            "h": 452,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 518,
+                            "h": 452,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 518,
+                            "h": 452,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        86,
+                        109
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1206254592054435840,
+                    "id_str": "1206254592054435840",
+                    "media_url": "http://pbs.twimg.com/media/EL16KRQWoAA950j.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EL16KRQWoAA950j.jpg",
+                    "url": "https://t.co/agthSIMGR2",
+                    "display_url": "pic.twitter.com/agthSIMGR2",
+                    "expanded_url": "https://twitter.com/moeruasia01/status/1206254593656705025/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 518,
+                            "h": 452,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 518,
+                            "h": 452,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 518,
+                            "h": 452,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        86,
+                        109
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2535,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "【こえぇｗ】グレタさん、自分に従わない指導者は「against the wall」(壁際に立たせる=銃殺刑)　大炎上、謝罪 https://t.co/0ioknx17Il https://t.co/agthSIMGR2",
+        "has_extended_profile": false,
+        "id": 1206254593656705025,
+        "id_str": "1206254593656705025",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1885,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://publicize.wp.com/\" rel=\"nofollow\"\u003eWordPress.com\u003c/a\u003e",
+        "scopes": null,
+        "text": "【こえぇｗ】グレタさん、自分に従わない指導者は「against the w",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Oct 01 11:26:26 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "アジア関係のニュース、ネタなどを日本人目線で軽く\u0026見やすく\u0026分かりやすくをモットーにまとめます\nよろしくお願いいたします(*'ω'*)",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/z4ZFmzX28M",
+                            "display_url": "moeruasia.net",
+                            "expanded_url": "https://www.moeruasia.net/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 235,
+            "follow_request_sent": false,
+            "followers_count": 2712,
+            "following": false,
+            "friends_count": 2183,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1178994547302354945,
+            "id_str": "1178994547302354945",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 31,
+            "location": "",
+            "name": "もえるあじあ ･∀･",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1178995670763466752/NcN5pxLH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1178995670763466752/NcN5pxLH_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "moeruasia01",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 614,
+            "time_zone": "",
+            "url": "https://t.co/z4ZFmzX28M",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @moeruasia01: 【こえぇｗ】グレタさん、自分に従わない指導者は「against the wall」(壁際に立た\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 02 12:27:35 +0000 2018",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "2018年８月に提督を始めました！幌筵泊地です。艦これが好きな方は気軽にフォローしてくださいヽ(*´∀｀)ノ必ずフォロバします！好きな艦娘は村雨です！ アイコンは@MACHO3402さんに描いていただきました 東方垢→@ktdnmk お嫁さん→@pochakagasan",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/nBNMxNlomg",
+                        "display_url": "peing.net/ja/ongrmkmk?ev…",
+                        "expanded_url": "https://peing.net/ja/ongrmkmk?event=0"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 7398,
+        "follow_request_sent": false,
+        "followers_count": 2252,
+        "following": false,
+        "friends_count": 4014,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1047100782930157568,
+        "id_str": "1047100782930157568",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 19,
+        "location": "お嫁さんの胸の中",
+        "name": "おにぎり(鮭)🍙元ムキムキおじさん💍",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1047100782930157568/1538483643",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1201260173085437952/GR_13vom_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201260173085437952/GR_13vom_normal.jpg",
+        "profile_link_color": "9911AA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ongrmkmk",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 2996,
+        "time_zone": "",
+        "url": "https://t.co/nBNMxNlomg",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

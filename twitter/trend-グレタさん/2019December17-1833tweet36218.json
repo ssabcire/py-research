@@ -1,0 +1,429 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:54:55 +0000 2019",
+    "display_text_range": [
+        0,
+        22
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    23,
+                    46
+                ],
+                "url": "https://t.co/YtJ9LEgIK5",
+                "display_url": "twitter.com/sharekuma_/sta…",
+                "expanded_url": "https://twitter.com/sharekuma_/status/1206215221737472000"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんより、問題提起として効果あるかも？ https://t.co/YtJ9LEgIK5",
+    "has_extended_profile": false,
+    "id": 1206558322230300674,
+    "id_str": "1206558322230300674",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 1206215221737472000,
+    "quoted_status_id_str": "1206215221737472000",
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 14:11:33 +0000 2019",
+        "display_text_range": [
+            0,
+            32
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1204692495436783617,
+                    "id_str": "1204692495436783617",
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1204692495436783617/pu/img/lzjvoDel1VvFKU4v.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1204692495436783617/pu/img/lzjvoDel1VvFKU4v.jpg",
+                    "url": "https://t.co/lWXWX7Vjih",
+                    "display_url": "pic.twitter.com/lWXWX7Vjih",
+                    "expanded_url": "https://twitter.com/Tokyisma07/status/1204692808428335104/video/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1280,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1204692808428335104,
+                    "source_status_id_str": "1204692808428335104",
+                    "type": "photo",
+                    "indices": [
+                        9,
+                        32
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1204692495436783617,
+                    "id_str": "1204692495436783617",
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1204692495436783617/pu/img/lzjvoDel1VvFKU4v.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1204692495436783617/pu/img/lzjvoDel1VvFKU4v.jpg",
+                    "url": "https://t.co/lWXWX7Vjih",
+                    "display_url": "pic.twitter.com/lWXWX7Vjih",
+                    "expanded_url": "https://twitter.com/Tokyisma07/status/1204692808428335104/video/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1280,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1204692808428335104,
+                    "source_status_id_str": "1204692808428335104",
+                    "type": "video",
+                    "indices": [
+                        9,
+                        32
+                    ],
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 16202,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1204692495436783617/pu/vid/360x640/XWWrAaBBAj4Oe0mb.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1204692495436783617/pu/vid/720x1280/qGGLzu_0Vu_gNX8k.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1204692495436783617/pu/vid/320x568/fv9-3YP1BeTOiSR-.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 0,
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1204692495436783617/pu/pl/dPWOREs-n2XG868w.m3u8?tag=10"
+                            }
+                        ]
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 5472,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "天才....？🤔 https://t.co/lWXWX7Vjih",
+        "has_extended_profile": false,
+        "id": 1206215221737472000,
+        "id_str": "1206215221737472000",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1108,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "天才....？🤔 https://t.co/l",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Nov 22 14:58:22 +0000 2017",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "TLに流れてきた気に入った動画や画像をひと言コメント付きでシェアする熊🐻RTイイネ頼んだ(´༎ຶོρ༎ຶོ`)フォローよろしく👌（フォロバ57%）［動画ツイートは引用元明記しています］",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 194,
+            "follow_request_sent": false,
+            "followers_count": 21451,
+            "following": false,
+            "friends_count": 3178,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 933348937729110017,
+            "id_str": "933348937729110017",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 119,
+            "location": "Twitterの森",
+            "name": "シェア熊",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/933348937729110017/1541247177",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1058689423930404864/8v2xkbqU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058689423930404864/8v2xkbqU_normal.jpg",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "sharekuma_",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 1031,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんより\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 30 22:38:59 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "日本丸の行く末を案じる大阪の呑んだくれオッサン。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1141,
+        "follow_request_sent": false,
+        "followers_count": 66,
+        "following": false,
+        "friends_count": 273,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1048956390,
+        "id_str": "1048956390",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "ふぐちゃん",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1048956390/1554255067",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1113252665620701185/eL6rr_dh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113252665620701185/eL6rr_dh_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fuguchanjyuso",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 225,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

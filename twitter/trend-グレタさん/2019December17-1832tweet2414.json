@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:03:59 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "まあたんくんMETAL激談THE ONE主宰怪員約一名",
+                "indices": [
+                    3,
+                    9
+                ],
+                "screen_name": "odmsy",
+                "id": 108546183,
+                "id_str": "108546183"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @odmsy: グレたさん、真に受けて持ち上げて褒め称えている論者は、以下の動画観るべし👀\nまあ、半グレたさん、違うグルださん、あ違う、グレーださん？いや、グレタさんはあっち側のエージェントなのは分かりきった話でしょ？\nそんなんに騙されている論者は節穴🙈を自認すべきだな😝…",
+    "has_extended_profile": false,
+    "id": 1206817296229916672,
+    "id_str": "1206817296229916672",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 8,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 05:42:48 +0000 2019",
+        "display_text_range": [
+            0,
+            152
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        129,
+                        152
+                    ],
+                    "url": "https://t.co/gdBV6lHgB1",
+                    "display_url": "youtu.be/qjmvBVy84f8",
+                    "expanded_url": "https://youtu.be/qjmvBVy84f8"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 11,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレたさん、真に受けて持ち上げて褒め称えている論者は、以下の動画観るべし👀\nまあ、半グレたさん、違うグルださん、あ違う、グレーださん？いや、グレタさんはあっち側のエージェントなのは分かりきった話でしょ？\nそんなんに騙されている論者は節穴🙈を自認すべきだな😝\nhttps://t.co/gdBV6lHgB1",
+        "has_extended_profile": false,
+        "id": 1206811962589343744,
+        "id_str": "1206811962589343744",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 8,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレたさん、真に受けて持ち上げて褒め称えている論者は、以下の動画観るべし👀\nまあ、半グレたさん、違うグ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jan 26 08:00:23 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "奇跡の時代に待ち合わせた同志達よ今こそ光への回帰の時だ…\n我々が今、ここに居合わせたのは偶然ではない。\n地球人は永らく本当の自分を見失うように誘導されてきた。\nしかし今、不思議な力で我々は目覚めつつある。\n長かった夜がもうすぐ明ける、人類解放の日の出は近い🙌🙌🙌",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 54053,
+            "follow_request_sent": false,
+            "followers_count": 4784,
+            "following": false,
+            "friends_count": 4039,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 108546183,
+            "id_str": "108546183",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 55,
+            "location": "",
+            "name": "まあたんくんMETAL激談THE ONE主宰怪員約一名",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/108546183/1504169472",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1194899999110221824/vWy-JYwK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194899999110221824/vWy-JYwK_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "odmsy",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 19274,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @odmsy: グレたさん、真に受けて持ち上げて褒め称えている論者は、以下の動画観るべし👀\nまあ、半グ\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 26 01:13:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "天界図書館司書(現在更新休止中)。極小企業経営者。Yoga歴25年以上。太陽凝視者。忽せな不食者への道を歩む。体内年齢35歳/体脂肪率9〜１１％（タニタさん調べ）。13〜4歳頃にUFOに遭遇（爾来、精神年齢が固定化される）♪ 趣味：楽器製作（純正律について鋭意学習中）。 至福のひと時：サウナで整った時",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/hID0IbNmM8",
+                        "display_url": "godchild-jp.com",
+                        "expanded_url": "https://godchild-jp.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 26141,
+        "follow_request_sent": false,
+        "followers_count": 258,
+        "following": false,
+        "friends_count": 145,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 85207478,
+        "id_str": "85207478",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 16,
+        "location": "太陽系",
+        "name": "悟茶",
+        "notifications": false,
+        "profile_background_color": "FFFF03",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1941992343/self_new_s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1941992343/self_new_s_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "B1FF3B",
+        "profile_text_color": "0C0B1A",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GodChild_jp",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 32952,
+        "time_zone": "",
+        "url": "https://t.co/hID0IbNmM8",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

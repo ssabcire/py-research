@@ -1,0 +1,174 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:46:25 +0000 2019",
+    "display_text_range": [
+        0,
+        102
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    79,
+                    102
+                ],
+                "url": "https://t.co/TZSlcGmfOQ",
+                "display_url": "togetter.com/li/1443805",
+                "expanded_url": "https://togetter.com/li/1443805"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "茂木健一郎",
+                "indices": [
+                    6,
+                    20
+                ],
+                "screen_name": "kenichiromogi",
+                "id": 92686016,
+                "id_str": "92686016"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "茂木健一郎(@kenichiromogi）さんの連続ツイート第2403回「グレタさんをめぐる右往左往に学ぶ。ノイズを無視して本質に。」 - Togetter https://t.co/TZSlcGmfOQ",
+    "has_extended_profile": false,
+    "id": 1206767575226441728,
+    "id_str": "1206767575226441728",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "茂木健一郎(@kenichiromogi）さんの連続ツイート第2403回「グレタさんをめぐる\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 02 15:13:51 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "民主主義 護憲 NO原発🌏 ラジオ📻#1134golden #サキドリちゃん #ss954 ドラマ映画好き🎬　プロフィール欄に改行機能がない事を知った。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 10452,
+        "follow_request_sent": false,
+        "followers_count": 130,
+        "following": false,
+        "friends_count": 167,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2369010570,
+        "id_str": "2369010570",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 1,
+        "location": "",
+        "name": "まめめ🍓いちご大福🖇",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2369010570/1556292055",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1164435244897820672/sPDzWFz9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1164435244897820672/sPDzWFz9_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "timeto_spare",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 4714,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

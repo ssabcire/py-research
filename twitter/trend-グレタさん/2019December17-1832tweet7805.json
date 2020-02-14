@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 03:21:49 +0000 2019",
+    "display_text_range": [
+        0,
+        122
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    99,
+                    122
+                ],
+                "url": "https://t.co/Xij41rAJPc",
+                "display_url": "mainichi.jp/articles/20191…",
+                "expanded_url": "https://mainichi.jp/articles/20191217/k00/00m/040/010000c"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "毎日新聞",
+                "indices": [
+                    3,
+                    12
+                ],
+                "screen_name": "mainichi",
+                "id": 49540955,
+                "id_str": "49540955"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @mainichi: 「列車は大混雑」とツイートしたスウェーデンの環境活動家グレタ・トゥンベリさん。ドイツ鉄道は、グレタさんの車両は1等車で、乗務員の対応に落ち度はなかったと反論しました。 　https://t.co/Xij41rAJPc",
+    "has_extended_profile": false,
+    "id": 1206776486784421889,
+    "id_str": "1206776486784421889",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 18,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 00:10:00 +0000 2019",
+        "display_text_range": [
+            0,
+            108
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        85,
+                        108
+                    ],
+                    "url": "https://t.co/Xij41rAJPc",
+                    "display_url": "mainichi.jp/articles/20191…",
+                    "expanded_url": "https://mainichi.jp/articles/20191217/k00/00m/040/010000c"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 48,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "「列車は大混雑」とツイートしたスウェーデンの環境活動家グレタ・トゥンベリさん。ドイツ鉄道は、グレタさんの車両は1等車で、乗務員の対応に落ち度はなかったと反論しました。 　https://t.co/Xij41rAJPc",
+        "has_extended_profile": false,
+        "id": 1206728211532599296,
+        "id_str": "1206728211532599296",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 18,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+        "scopes": null,
+        "text": "「列車は大混雑」とツイートしたスウェーデンの環境活動家グレタ・トゥンベリ",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jun 22 04:53:27 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "毎日新聞のニュースサイトからおすすめ記事などをツイートします。FBページ https://t.co/waY2ry2PVG もあります。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/t3fGg5YbYZ",
+                            "display_url": "mainichi.jp",
+                            "expanded_url": "http://mainichi.jp/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 38,
+            "follow_request_sent": false,
+            "followers_count": 853240,
+            "following": false,
+            "friends_count": 216,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 49540955,
+            "id_str": "49540955",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 30714,
+            "location": "東京都千代田区",
+            "name": "毎日新聞",
+            "notifications": false,
+            "profile_background_color": "FF6699",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/49540955/1509087950",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875582156399026176/nvKfbCrk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875582156399026176/nvKfbCrk_normal.jpg",
+            "profile_link_color": "B40B43",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DFDFDF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "mainichi",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 277086,
+            "time_zone": "",
+            "url": "https://t.co/t3fGg5YbYZ",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @mainichi: 「列車は大混雑」とツイートしたスウェーデンの環境活動家グレタ・トゥンベリ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 20 08:34:20 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "職業：出版物の校正検版職\n(印刷前の最終チェック役)\n\n趣味：\n①ほぼ非メジャーな演者さんのライブ参戦(路上／箱)※行ける時だけ\n②写真(風景・人物・ライブ・鉄道・ねこ)\n③ラジオリスナー※吉田照美信者歴23年(笑)　\n\n今の為政者による改憲、反対。\n俺らのあらゆる権利を為政者が奪う「緊急事態条項」、改憲以上に猛反対。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 140172,
+        "follow_request_sent": false,
+        "followers_count": 949,
+        "following": false,
+        "friends_count": 1127,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1105716468,
+        "id_str": "1105716468",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 7,
+        "location": "千葉県山武市",
+        "name": "しげ＠タラコ唇治療ちう",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1105716468/1399798335",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/683650931636883456/Ayyt0Sdg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/683650931636883456/Ayyt0Sdg_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "shige_kokuden",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 165767,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,182 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 02:10:45 +0000 2019",
+    "display_text_range": [
+        0,
+        29
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 4,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんのツイートに対してニコニコ自撮りリプ送るマン！？",
+    "has_extended_profile": false,
+    "id": 1206758602129625088,
+    "id_str": "1206758602129625088",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        130.139364,
+                        33.14146
+                    ],
+                    [
+                        130.379322,
+                        33.14146
+                    ],
+                    [
+                        130.379322,
+                        33.481952
+                    ],
+                    [
+                        130.139364,
+                        33.481952
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Japan",
+        "country_code": "JP",
+        "full_name": "Saga-shi, Saga",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "a29d2918916e6486",
+        "name": "Saga-shi",
+        "place_type": "city",
+        "polylines": null,
+        "url": "https://api.twitter.com/1.1/geo/id/a29d2918916e6486.json"
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんのツイー\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 29 09:11:10 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "エクリチュール",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/rZergdMVmZ",
+                        "display_url": "odaibako.net/u/matupeepingl…",
+                        "expanded_url": "https://odaibako.net/u/matupeepinglife"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 4516,
+        "follow_request_sent": false,
+        "followers_count": 761,
+        "following": false,
+        "friends_count": 440,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2532244314,
+        "id_str": "2532244314",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 2,
+        "location": "バ先∪スポセン∪自宅∪大学内",
+        "name": "木公 川 ネ右 太 良月",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2532244314/1575895775",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1204271088881922048/_EOlgj0s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1204271088881922048/_EOlgj0s_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "matupeepinglife",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 9070,
+        "time_zone": "",
+        "url": "https://t.co/rZergdMVmZ",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

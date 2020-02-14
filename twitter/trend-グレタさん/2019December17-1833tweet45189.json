@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 10:33:06 +0000 2019",
+    "display_text_range": [
+        0,
+        120
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    97,
+                    120
+                ],
+                "url": "https://t.co/xC6iDO98qk",
+                "display_url": "htn.to/3BhC3NYsPH",
+                "expanded_url": "https://htn.to/3BhC3NYsPH"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "おりた",
+                "indices": [
+                    3,
+                    11
+                ],
+                "screen_name": "toronei",
+                "id": 14487002,
+                "id_str": "14487002"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @toronei: ダメだこりゃ。 / “【悲報】グレタさん「混雑した電車でやっと帰宅です」（床に座る写真ﾊﾟｼｬｯ）鉄道会社「いやあなたの席ってファーストクラスですよね？」:ふぇー速” https://t.co/xC6iDO98qk",
+    "has_extended_profile": false,
+    "id": 1206522632465575936,
+    "id_str": "1206522632465575936",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 7,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 10:26:32 +0000 2019",
+        "display_text_range": [
+            0,
+            107
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        84,
+                        107
+                    ],
+                    "url": "https://t.co/xC6iDO98qk",
+                    "display_url": "htn.to/3BhC3NYsPH",
+                    "expanded_url": "https://htn.to/3BhC3NYsPH"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "ダメだこりゃ。 / “【悲報】グレタさん「混雑した電車でやっと帰宅です」（床に座る写真ﾊﾟｼｬｯ）鉄道会社「いやあなたの席ってファーストクラスですよね？」:ふぇー速” https://t.co/xC6iDO98qk",
+        "has_extended_profile": false,
+        "id": 1206520979322617856,
+        "id_str": "1206520979322617856",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 7,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://b.hatena.ne.jp/\" rel=\"nofollow\"\u003eはてなブックマーク\u003c/a\u003e",
+        "scopes": null,
+        "text": "ダメだこりゃ。 / “【悲報】グレタさん「混雑した電車でやっと帰宅です」（\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Apr 23 07:13:37 +0000 2008",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "※このアイコンはTwitterで使っていいよと公式で配られたものです。\n\nサッカー・競馬・漫画・ボドゲを中心にツイートしたいけど、最近、政治的な話多めです。  ブログやら他のSNSなどのアカウントはリンク先にて。こちらも。 https://t.co/HQf8aREPbI",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/y9tQPAGqa7",
+                            "display_url": "iddy.jp/profile/torone…",
+                            "expanded_url": "http://iddy.jp/profile/toronei/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 157732,
+            "follow_request_sent": false,
+            "followers_count": 7413,
+            "following": false,
+            "friends_count": 1673,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 14487002,
+            "id_str": "14487002",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 455,
+            "location": "大阪府堺市北区",
+            "name": "おりた",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14487002/1464014080",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1147017504012689409/eVCMuCSr_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147017504012689409/eVCMuCSr_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "toronei",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 871205,
+            "time_zone": "",
+            "url": "https://t.co/y9tQPAGqa7",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://jigtwi.jp/?p=1\" rel=\"nofollow\"\u003ejigtwi\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @toronei: ダメだこりゃ。 / “【悲報】グレタさん「混雑した電車でやっと帰宅です」（\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 03 08:03:22 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "FC東京SOCIO。元横浜フリューゲルス（消滅後）→FC東京に改宗。FC東京ネタ中心で中日ドラゴンズとか、Swarm(SU7)、なうぷれ、Runアプリの自動Tweet等。JAL派で宗教上の理由でANA禁忌。JGC/OWサファイヤ保有。2020年東京マラソン出走🏃‍♂️",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 4286,
+        "follow_request_sent": false,
+        "followers_count": 1186,
+        "following": false,
+        "friends_count": 745,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 119314126,
+        "id_str": "119314126",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 72,
+        "location": "日本 東京",
+        "name": "socio3417",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/119314126/1435500555",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/816296848562397184/OW1qDZUG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/816296848562397184/OW1qDZUG_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F7DA93",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "socio_3417",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 231195,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

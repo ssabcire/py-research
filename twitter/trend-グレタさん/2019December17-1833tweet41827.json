@@ -1,0 +1,356 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 11:26:59 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    48,
+                    71
+                ],
+                "url": "https://t.co/oNgReIOB6b",
+                "display_url": "afpbb.com/articles/-/325…",
+                "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "エターナル総書記",
+                "indices": [
+                    3,
+                    11
+                ],
+                "screen_name": "kelog21",
+                "id": 156338422,
+                "id_str": "156338422"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @kelog21: グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い\nhttps://t.co/oNgReIOB6b\n別にグレちゃんもドイツ鉄道も悪くないやろ…\n記事にする奴が悪い。\nいや、読む奴がいるから記事になる。\n読む奴が悪い。\nつまり俺が悪い。…",
+    "has_extended_profile": false,
+    "id": 1206536195192193024,
+    "id_str": "1206536195192193024",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 15,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 11:08:34 +0000 2019",
+        "display_text_range": [
+            0,
+            156
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        35,
+                        58
+                    ],
+                    "url": "https://t.co/oNgReIOB6b",
+                    "display_url": "afpbb.com/articles/-/325…",
+                    "expanded_url": "https://www.afpbb.com/articles/-/3259719"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 52,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い\nhttps://t.co/oNgReIOB6b\n別にグレちゃんもドイツ鉄道も悪くないやろ…\n記事にする奴が悪い。\nいや、読む奴がいるから記事になる。\n読む奴が悪い。\nつまり俺が悪い。←結論★\n\n誰も悪いとは言ってない！\n欧州鉄道旅は楽しいよ！",
+        "has_extended_profile": false,
+        "id": 1206531558464573441,
+        "id_str": "1206531558464573441",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 15,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://vitzstar.blog51.fc2.com\" rel=\"nofollow\"\u003eこころぴょんやん2.16\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い\nhttps://t.co/oNgReIOB6b\n別にグレちゃんもドイ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Jun 16 17:36:21 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "一億総書記社会を目指す総書記系男子。チュチェマイスター。先軍のファンタジスタ。金色のテポドニスト。もっと書記力向上委員会。先軍力53万。ペクト㌠。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/dSdffT17ur",
+                            "display_url": "vitzstar.blog51.fc2.com",
+                            "expanded_url": "http://vitzstar.blog51.fc2.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 178,
+            "follow_request_sent": false,
+            "followers_count": 46095,
+            "following": false,
+            "friends_count": 186,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 156338422,
+            "id_str": "156338422",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1228,
+            "location": "平壌なのだ",
+            "name": "エターナル総書記",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/156338422/1415482603",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/980480505744310272/L0iHwPG3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/980480505744310272/L0iHwPG3_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "kelog21",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 193954,
+            "time_zone": "",
+            "url": "https://t.co/dSdffT17ur",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @kelog21: グレタさん「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い\nhttps://t.co/oNgReIOB6b\n\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 14 13:07:16 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Love movies, TV dramas, scuba diving, Okinawa, Super Heroes like Kamen Rider, animals. Learning German and Spanish.",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/7UaMQz87Xs",
+                        "display_url": "arikoann.tumblr.com",
+                        "expanded_url": "http://arikoann.tumblr.com/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 15880,
+        "follow_request_sent": false,
+        "followers_count": 415,
+        "following": false,
+        "friends_count": 571,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 6032482,
+        "id_str": "6032482",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 24,
+        "location": "Tokyo",
+        "name": "Ari-chan",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6032482/1470739774",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1002828787497590784/eavO7uqF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002828787497590784/eavO7uqF_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "arikoann",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 57988,
+        "time_zone": "",
+        "url": "http://t.co/7UaMQz87Xs",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

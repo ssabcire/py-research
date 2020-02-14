@@ -1,0 +1,316 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 01:07:13 +0000 2019",
+    "display_text_range": [
+        0,
+        131
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "玉井克哉（Katsuya TAMAI）",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "tamai1961",
+                "id": 108003162,
+                "id_str": "108003162"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @tamai1961: 「親愛なるグレタさん、気候変動と闘うわれわれ鉄道労働者を支援してくれてありがとう」「ファーストクラス（1等車）であなたをおもてなししたフレンドリーで有能な弊社スタッフについても触れていただけたら良かったです」。\n\n嘘つきはいかんね。",
+    "has_extended_profile": false,
+    "id": 1206742612113272834,
+    "id_str": "1206742612113272834",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 81,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 12:30:11 +0000 2019",
+        "display_text_range": [
+            0,
+            116
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 203,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "「親愛なるグレタさん、気候変動と闘うわれわれ鉄道労働者を支援してくれてありがとう」「ファーストクラス（1等車）であなたをおもてなししたフレンドリーで有能な弊社スタッフについても触れていただけたら良かったです」。\n\n嘘つきはいかんね。",
+        "has_extended_profile": false,
+        "id": 1206552098281639936,
+        "id_str": "1206552098281639936",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 81,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "「親愛なるグレタさん、気候変動と闘うわれわれ鉄道労働者を支援してくれてありが\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Jan 24 13:41:56 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "東京大学教授・信州大学教授（知的財産法、行政法、情報法）。2013年弁護士登録。東京国際知財仲裁センター（IACT）理事長。2018年6月までJASRAC外部理事。大阪人。ワンコ党。つぶやきは下調べ抜きのうろ覚えと単なる個人的見解。「いいね」はメモ、RTはただのご参考で、賛同とは限りません。対話の無理そうな方は御遠慮。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 3681,
+            "follow_request_sent": false,
+            "followers_count": 47971,
+            "following": false,
+            "friends_count": 215,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 108003162,
+            "id_str": "108003162",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 2641,
+            "location": "Tokyo-München-Washington D.C.",
+            "name": "玉井克哉（Katsuya TAMAI）",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/108003162/1497921929",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1121064113/TamaiPhoto-Shio1____normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1121064113/TamaiPhoto-Shio1____normal.jpg",
+            "profile_link_color": "94D487",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "tamai1961",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 117406,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @tamai1961: 「親愛なるグレタさん、気候変動と闘うわれわれ鉄道労働者を支援してくれてありが\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 22 13:46:41 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "テレビ、新聞の偏向報道が嫌いです。 国政を停滞させる左翼政党が嫌いです。左翼思想を全弁護士に強制する日弁連が嫌いです。戦争反対なので憲法改正に賛成です。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2743,
+        "follow_request_sent": false,
+        "followers_count": 171,
+        "following": false,
+        "friends_count": 785,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1142428697678344193,
+        "id_str": "1142428697678344193",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "矢部絵奈🇯🇵",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1142428697678344193/1562485059",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1205675566113808386/OvN61q42_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205675566113808386/OvN61q42_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tomwilson2019",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 1904,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

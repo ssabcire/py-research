@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:35:24 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "xbox360 kyrie",
+                "indices": [
+                    3,
+                    11
+                ],
+                "screen_name": "kyrie16",
+                "id": 90881818,
+                "id_str": "90881818"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @kyrie16: グレタさん、誤解を招く発言について謝罪へ。気候変動を無視する指導者たちを「Put them against the wall」しなくてはと述べましたが、これは英語では処刑の婉曲表現なので（銃殺前に壁に立たせる）騒ぎになった模様です\nhttps://t.…",
+    "has_extended_profile": false,
+    "id": 1206825201230479360,
+    "id_str": "1206825201230479360",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 2558,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 15 02:01:34 +0000 2019",
+        "display_text_range": [
+            0,
+            139
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "url": "https://t.co/KBCeksRNJf",
+                    "display_url": "cbsnews.com/news/greta-thu…",
+                    "expanded_url": "https://www.cbsnews.com/news/greta-thunberg-climate-activist-apologizes-for-against-the-wall-comment/"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 3798,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさん、誤解を招く発言について謝罪へ。気候変動を無視する指導者たちを「Put them against the wall」しなくてはと述べましたが、これは英語では処刑の婉曲表現なので（銃殺前に壁に立たせる）騒ぎになった模様です\nhttps://t.co/KBCeksRNJf",
+        "has_extended_profile": false,
+        "id": 1206031511805288453,
+        "id_str": "1206031511805288453",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 2558,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさん、誤解を招く発言について謝罪へ。気候変動を無視する指導者たちを「Put them against the wall」",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Nov 18 14:35:53 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "感じた事をそのまま呟いて下さい。貴方のツイートを後でこっそり読みに行きます",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 297157,
+            "follow_request_sent": false,
+            "followers_count": 5665,
+            "following": false,
+            "friends_count": 5802,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 90881818,
+            "id_str": "90881818",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 66,
+            "location": "Tokyo city",
+            "name": "xbox360 kyrie",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/90881818/1548219943",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1632273355/twitter_pic01_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1632273355/twitter_pic01_normal.png",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "kyrie16",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 26171,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.softama.com/\" rel=\"nofollow\"\u003eツイタマ+ for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @kyrie16: グレタさん、誤解を招く発言について謝罪へ。気候変動を無視する指導者たちを「Put them against",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 08 16:24:46 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "バブーーーーー！！！！",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 3050,
+        "follow_request_sent": false,
+        "followers_count": 29,
+        "following": false,
+        "friends_count": 38,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 4498467133,
+        "id_str": "4498467133",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 2,
+        "location": "病院",
+        "name": "生後3ヶ月",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4498467133/1575863493",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1188530931021180929/0TYR--JS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1188530931021180929/0TYR--JS_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nukipeha",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 121500,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

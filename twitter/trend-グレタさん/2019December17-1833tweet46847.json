@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 10:07:22 +0000 2019",
+    "display_text_range": [
+        0,
+        11
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "みんな大好きグレタさん",
+    "has_extended_profile": false,
+    "id": 1206516157181612033,
+    "id_str": "1206516157181612033",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+    "scopes": null,
+    "text": "みんな\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 30 05:15:58 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "うさぎ好きのおっさん／AC長野パルセイロを中心に長野のスポーツチームを応援しています／ポケモンGO赤",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": [
+                    {
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/BeWx8OlVdN",
+                        "display_url": "nukegara.net",
+                        "expanded_url": "http://www.nukegara.net/"
+                    }
+                ]
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2151,
+        "follow_request_sent": false,
+        "followers_count": 579,
+        "following": false,
+        "friends_count": 179,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 52312314,
+        "id_str": "52312314",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 33,
+        "location": "長野市",
+        "name": "ぬけがらさん",
+        "notifications": false,
+        "profile_background_color": "999999",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/52312314/1355406077",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/980459664893595649/d5A_R98-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/980459664893595649/d5A_R98-_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "333333",
+        "profile_sidebar_fill_color": "CCCCCC",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nukegaradotnet",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 43256,
+        "time_zone": "",
+        "url": "https://t.co/BeWx8OlVdN",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

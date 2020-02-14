@@ -1,0 +1,251 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:57:14 +0000 2019",
+    "display_text_range": [
+        0,
+        61
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [
+            {
+                "indices": [
+                    57,
+                    61
+                ],
+                "text": "グレる"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": [
+            {
+                "id": 1206830686880927744,
+                "id_str": "1206830686880927744",
+                "media_url": "http://pbs.twimg.com/media/EL-GHZuUEAAKqHL.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL-GHZuUEAAKqHL.jpg",
+                "url": "https://t.co/PiUjpiW4M6",
+                "display_url": "pic.twitter.com/PiUjpiW4M6",
+                "expanded_url": "https://twitter.com/syge3/status/1206830696263610368/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1000,
+                        "h": 702,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 477,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1000,
+                        "h": 702,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    62,
+                    85
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206830686880927744,
+                "id_str": "1206830686880927744",
+                "media_url": "http://pbs.twimg.com/media/EL-GHZuUEAAKqHL.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL-GHZuUEAAKqHL.jpg",
+                "url": "https://t.co/PiUjpiW4M6",
+                "display_url": "pic.twitter.com/PiUjpiW4M6",
+                "expanded_url": "https://twitter.com/syge3/status/1206830696263610368/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 1000,
+                        "h": 702,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 477,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1000,
+                        "h": 702,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    62,
+                    85
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "ドイツ鉄道は、「グレタさんの乗ったファーストクラス」と銘打って売り込むべきだと思う。\nこれはビジネスチャンスだ。 #グレる https://t.co/PiUjpiW4M6",
+    "has_extended_profile": false,
+    "id": 1206830696263610368,
+    "id_str": "1206830696263610368",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "ドイツ鉄道は、「グレタさんの乗ったファー\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 11 02:19:35 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "つぶやく時は連続で。たまに姿を消します。京都の話題や時事ネタをあれこれコメント＆ツッコミいたします。\nFF外からの返信も歓迎♪♪",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1760,
+        "follow_request_sent": false,
+        "followers_count": 1508,
+        "following": false,
+        "friends_count": 1721,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 131698317,
+        "id_str": "131698317",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 83,
+        "location": "京都",
+        "name": "バーホッパー",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/131698317/1571768397",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1153035408717930496/Mo3eiZ-L_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153035408717930496/Mo3eiZ-L_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "syge3",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 156849,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

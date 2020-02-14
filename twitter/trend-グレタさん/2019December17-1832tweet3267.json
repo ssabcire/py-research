@@ -1,0 +1,153 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:27:48 +0000 2019",
+    "display_text_range": [
+        0,
+        24
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "グレタさんに朝の田園都市線乗ってもらいたい気持ち",
+    "has_extended_profile": false,
+    "id": 1206808188403585024,
+    "id_str": "1206808188403585024",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "グレタさんに朝の",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 18 05:57:09 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "My face looks like Q.Tarantino. I love... music,movie,novel,history,car,photo,astronomical,deep sea animal,ruin,prime number,wine,whiskey and so on.",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 7204,
+        "follow_request_sent": false,
+        "followers_count": 689,
+        "following": false,
+        "friends_count": 680,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 66610487,
+        "id_str": "66610487",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 42,
+        "location": "Tokyo",
+        "name": "Sad day or i",
+        "notifications": false,
+        "profile_background_color": "FAFAFA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/66610487/1512653885",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/908915234257084416/WY7YRYVP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/908915234257084416/WY7YRYVP_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "09090A",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "5153C4",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mortacredit",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 118902,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

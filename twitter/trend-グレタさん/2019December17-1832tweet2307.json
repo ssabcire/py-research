@@ -1,0 +1,347 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:08:10 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Baatarism/ちゃんぷるー",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "baatarism",
+                "id": 45311455,
+                "id_str": "45311455"
+            },
+            {
+                "name": "田中秀臣",
+                "indices": [
+                    15,
+                    30
+                ],
+                "screen_name": "hidetomitanaka",
+                "id": 87113412,
+                "id_str": "87113412"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @baatarism: @hidetomitanaka グレタさんは経済成長が止まって多くの人々や貧困や死に追い込まれても、地球温暖化を止める方が重要だという考え方なのでしょうね。確かに地球温暖化でも多くの犠牲が生じるので、それはそれで一つの考え方だと思うけど、経済成長が…",
+    "has_extended_profile": false,
+    "id": 1206818349448957952,
+    "id_str": "1206818349448957952",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 16,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 14 13:21:06 +0000 2019",
+        "display_text_range": [
+            16,
+            153
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [
+                {
+                    "name": "田中秀臣",
+                    "indices": [
+                        0,
+                        15
+                    ],
+                    "screen_name": "hidetomitanaka",
+                    "id": 87113412,
+                    "id_str": "87113412"
+                }
+            ],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 53,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "@hidetomitanaka グレタさんは経済成長が止まって多くの人々や貧困や死に追い込まれても、地球温暖化を止める方が重要だという考え方なのでしょうね。確かに地球温暖化でも多くの犠牲が生じるので、それはそれで一つの考え方だと思うけど、経済成長が止まることで起こる問題を軽視するのは不誠実な態度でしょう。",
+        "has_extended_profile": false,
+        "id": 1205840134635053056,
+        "id_str": "1205840134635053056",
+        "in_reply_to_screen_name": "hidetomitanaka",
+        "in_reply_to_status_id": 1205618831621705729,
+        "in_reply_to_status_id_str": "1205618831621705729",
+        "in_reply_to_user_id": 87113412,
+        "in_reply_to_user_id_str": "87113412",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 16,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんは経済成長が止まって多くの人々や貧困や死に追い込まれても、地球温暖化を止める方が\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Jun 07 09:12:22 +0000 2009",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "政治や経済を気にしているソフトウェアエンジニア。会社の配置転換で営業、営業事務を経て、転職でエンジニアに復帰。斜め１３３度からの思考を展開する謎の回路を持つらしい。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/ajL28Drf4e",
+                            "display_url": "d.hatena.ne.jp/Baatarism/",
+                            "expanded_url": "http://d.hatena.ne.jp/Baatarism/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 5893,
+            "follow_request_sent": false,
+            "followers_count": 4684,
+            "following": false,
+            "friends_count": 283,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 45311455,
+            "id_str": "45311455",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 393,
+            "location": "宇津帆島",
+            "name": "Baatarism/ちゃんぷるー",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/751776856127336448/ucoTDFno_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/751776856127336448/ucoTDFno_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "baatarism",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 590039,
+            "time_zone": "",
+            "url": "https://t.co/ajL28Drf4e",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @baatarism: @hidetomitanaka グレタさんは経済成長が止まって多くの人々や貧困や死に追い込まれても、地球\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 05 14:36:46 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "リーマンショックで派遣に。経済を勉強したい垢。 趣味…SMAP、APH、デレステ。スマの悪口は見たくないのでブロックします。 side Mハマりました。リツイばかりですみません。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2642,
+        "follow_request_sent": false,
+        "followers_count": 12,
+        "following": false,
+        "friends_count": 8,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1329354380,
+        "id_str": "1329354380",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 0,
+        "location": "",
+        "name": "Monta@揚げ油",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1329354380/1394859133",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/444697558250561536/qBYvHfhE_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/444697558250561536/qBYvHfhE_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MontaMonchi",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 34209,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,336 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:00:24 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "katamachi とれいん工房",
+                "indices": [
+                    3,
+                    13
+                ],
+                "screen_name": "katamachi",
+                "id": 75145810,
+                "id_str": "75145810"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @katamachi: スウェーデンのグレタ氏「超満員列車でドイツを移動中。やっと家に帰るところです！」ドイツ鉄道「フランクフルト以降はファーストクラスに座っていた」皮肉っぽい応酬は社会環境に悪影響だよ。マジで / “グレタさん、「帰りの列車は超満員」 ドイツ鉄道とツイッ…",
+    "has_extended_profile": false,
+    "id": 1206544602917793792,
+    "id_str": "1206544602917793792",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 7,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 05:52:04 +0000 2019",
+        "display_text_range": [
+            0,
+            155
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        132,
+                        155
+                    ],
+                    "url": "https://t.co/82qYsmkfJ7",
+                    "display_url": "htn.to/45L5fSgkx7",
+                    "expanded_url": "https://htn.to/45L5fSgkx7"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 5,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "スウェーデンのグレタ氏「超満員列車でドイツを移動中。やっと家に帰るところです！」ドイツ鉄道「フランクフルト以降はファーストクラスに座っていた」皮肉っぽい応酬は社会環境に悪影響だよ。マジで / “グレタさん、「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競…” https://t.co/82qYsmkfJ7",
+        "has_extended_profile": false,
+        "id": 1206451906798702592,
+        "id_str": "1206451906798702592",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 7,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://b.hatena.ne.jp/\" rel=\"nofollow\"\u003eはてなブックマーク\u003c/a\u003e",
+        "scopes": null,
+        "text": "スウェーデンのグレタ氏「超満員列車でドイツを移動中。やっと家に帰るところです！」ドイツ鉄道「フランクフ\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Sep 17 23:35:00 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "関西に住む鉄道好きです。\n\nコミケで鉄道本を数十冊、JTBで「鉄道未成線を歩く」２冊を刊行しました。最近はネットニュースで鉄道記事も書いてます。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/pBY5SjExjK",
+                            "display_url": "d.hatena.ne.jp/katamachi/",
+                            "expanded_url": "http://d.hatena.ne.jp/katamachi/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 3752,
+            "follow_request_sent": false,
+            "followers_count": 1900,
+            "following": false,
+            "friends_count": 443,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 75145810,
+            "id_str": "75145810",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 95,
+            "location": "波照間島",
+            "name": "katamachi とれいん工房",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/75145810/1480646403",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/993083635/060218_058__normal.JPG",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/993083635/060218_058__normal.JPG",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "katamachi",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 27251,
+            "time_zone": "",
+            "url": "https://t.co/pBY5SjExjK",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"https://twitterrific.com/ios\" rel=\"nofollow\"\u003eTwitterrific for iOS\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @katamachi: スウェーデンのグレタ氏「超満員列車でドイツを移動中。やっと家に帰るところです！」ド\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 01 04:41:14 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "趣味：鉄道（撮り鉄＆乗り鉄派）、カメラ、アナログゲーム（将棋なども含む）。故あって将棋は四段の免状を持っていますが、もう錆び付いています。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 1879,
+        "follow_request_sent": false,
+        "followers_count": 255,
+        "following": false,
+        "friends_count": 293,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 383039074,
+        "id_str": "383039074",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 8,
+        "location": "線路があるところ",
+        "name": "烏有先生（とよじん）",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/383039074/1492643458",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1600632459/icon1439918791152629765DSC_0016_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1600632459/icon1439918791152629765DSC_0016_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "uyuu_sensei",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 40760,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 17:07:00 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    82,
+                    105
+                ],
+                "url": "https://t.co/n8b2MLbVtP",
+                "display_url": "apnews.com/bbdc563ad79a33…",
+                "expanded_url": "https://apnews.com/bbdc563ad79a33a42d478633eeab6ca4"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Masato Ida \u0026 リケニャ",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "miakiza20100906",
+                "id": 187454629,
+                "id_str": "187454629"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @miakiza20100906: Greta Thunberg apologizes for ‘against the wall’ comment ◆AP https://t.co/n8b2MLbVtP\n\n　母国語でない言語で話すと、こういうことがあるから怖い。スウェー…",
+    "has_extended_profile": false,
+    "id": 1206621763125166081,
+    "id_str": "1206621763125166081",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 08:26:39 +0000 2019",
+        "display_text_range": [
+            0,
+            181
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        61,
+                        84
+                    ],
+                    "url": "https://t.co/n8b2MLbVtP",
+                    "display_url": "apnews.com/bbdc563ad79a33…",
+                    "expanded_url": "https://apnews.com/bbdc563ad79a33a42d478633eeab6ca4"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 6,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "Greta Thunberg apologizes for ‘against the wall’ comment ◆AP https://t.co/n8b2MLbVtP\n\n　母国語でない言語で話すと、こういうことがあるから怖い。スウェーデン語の標語？のようなものを英語に直訳して話したら、ちょっとマズい意味になってしまっていたらしい。そのことでグレタさんが謝罪。",
+        "has_extended_profile": false,
+        "id": 1206490809844912128,
+        "id_str": "1206490809844912128",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 6,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+        "scopes": null,
+        "text": "Greta Thunberg apologizes for ‘against the wall’ comment ◆AP https://t.co/n8b2MLbVtP\n\n　母国語でない言語で話すと、こういうことがあるから怖い。ス\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Sep 06 08:10:06 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "井田真人とリケニャ《理学博士と理系猫  放射線防護モード中》 2017年4月に原子力機構J-PARCセンターを自主退職しフリーに。『科学 (岩波)』『ハーバービジネスオンライン』などに寄稿中。著書に『科学者に委ねてはいけないこと』(岩波，共著) 等。mail: miakiza@gmail.com",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/Jh9293Ih8r",
+                            "display_url": "togetter.com/li/568836",
+                            "expanded_url": "http://togetter.com/li/568836"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 10968,
+            "follow_request_sent": false,
+            "followers_count": 4537,
+            "following": false,
+            "friends_count": 322,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 187454629,
+            "id_str": "187454629",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 375,
+            "location": "関東",
+            "name": "Masato Ida \u0026 リケニャ",
+            "notifications": false,
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1205225613948141568/4bR0sX7I_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205225613948141568/4bR0sX7I_normal.png",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "5ED4DC",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "miakiza20100906",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 82967,
+            "time_zone": "",
+            "url": "https://t.co/Jh9293Ih8r",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @miakiza20100906: Greta Thunberg apologizes for ‘against the wall’ comment ◆AP https://t.co/n8b2MLbVtP\n\n　母国語でない言語",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 27 13:48:55 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "二輪車好き。リベラル左派(多分)。大剣7ガンス3のボッチハン。フォロー返しは致しませんので、ご了承ください🙏",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 5078,
+        "follow_request_sent": false,
+        "followers_count": 192,
+        "following": false,
+        "friends_count": 72,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 243635551,
+        "id_str": "243635551",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 5,
+        "location": "",
+        "name": "hirossi",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/243635551/1517905234",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/960719656540516352/Nn8hKDim_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/960719656540516352/Nn8hKDim_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "46hirossi",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 58506,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

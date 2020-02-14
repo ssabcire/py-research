@@ -1,0 +1,316 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 01:34:09 +0000 2019",
+    "display_text_range": [
+        0,
+        86
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "5時間ふやかした橋本環奈",
+                "indices": [
+                    3,
+                    10
+                ],
+                "screen_name": "svlxnl",
+                "id": 1147856934738939904,
+                "id_str": "1147856934738939904"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @svlxnl: グレタさんもアレだが、ファーストクラスに乗っていたことを悪びれもなく全世界にベラベラ話してしまうドイツ鉄道のほうが十分にヤバい要素含んでいる気がする",
+    "has_extended_profile": false,
+    "id": 1206749390901112832,
+    "id_str": "1206749390901112832",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 01:09:09 +0000 2019",
+        "display_text_range": [
+            0,
+            74
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "グレタさんもアレだが、ファーストクラスに乗っていたことを悪びれもなく全世界にベラベラ話してしまうドイツ鉄道のほうが十分にヤバい要素含んでいる気がする",
+        "has_extended_profile": false,
+        "id": 1206743099398971392,
+        "id_str": "1206743099398971392",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "グレタさんもアレだが、ファーストクラスに乗ってい\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Jul 07 13:16:34 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "興味ある内容や思ったことをただひたすら殴り書きしてある",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 2047,
+            "follow_request_sent": false,
+            "followers_count": 66,
+            "following": false,
+            "friends_count": 146,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 1147856934738939904,
+            "id_str": "1147856934738939904",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 5,
+            "location": "",
+            "name": "5時間ふやかした橋本環奈",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1147856934738939904/1575383604",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1202902199468056576/ZN_zUJ5F_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202902199468056576/ZN_zUJ5F_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "svlxnl",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 1216,
+            "time_zone": "",
+            "url": "",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @svlxnl: グレタさんもアレだが、ファーストクラスに乗ってい\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 16 15:41:56 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "【今日も今日とて私はかわいいしフォロワーも最高💞】毎秒かわいいを更新🍨しあわせに溢れた毎日🍨私に関わる全ての人に幸福を🍨みんないつもありがとう🍨美容コスメファッションイメコン🍨日常🍨惚気🍨歌詞ツイするよ🍨反出生寄り🍨リスイン失礼します🍨@___lycopene___でした相互さんフォロバします",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 5050,
+        "follow_request_sent": false,
+        "followers_count": 101,
+        "following": false,
+        "friends_count": 149,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1184494645511782401,
+        "id_str": "1184494645511782401",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 2,
+        "location": "アイコンはリヴオドリスコール様",
+        "name": "愛す🍨ソフエレ顔のpc🍁",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1184494645511782401/1571279472",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1201376406757707778/3aBd73Wk_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201376406757707778/3aBd73Wk_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "aishite_aisu",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 4271,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

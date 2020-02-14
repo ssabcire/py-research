@@ -1,0 +1,268 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 01:08:14 +0000 2019",
+    "display_text_range": [
+        0,
+        168
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    126,
+                    149
+                ],
+                "url": "https://t.co/UondEbY87l",
+                "display_url": "2nn.jp/newsplus/15765…",
+                "expanded_url": "http://www.2nn.jp/newsplus/1576541836/"
+            }
+        ],
+        "hashtags": [
+            {
+                "indices": [
+                    151,
+                    156
+                ],
+                "text": "ニュース"
+            },
+            {
+                "indices": [
+                    158,
+                    168
+                ],
+                "text": "newsjapan"
+            }
+        ],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": [
+            {
+                "id": 1206742860516622336,
+                "id_str": "1206742860516622336",
+                "media_url": "http://pbs.twimg.com/media/EL82PPBVAAAmhyh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL82PPBVAAAmhyh.jpg",
+                "url": "https://t.co/azoqkhlBT2",
+                "display_url": "pic.twitter.com/azoqkhlBT2",
+                "expanded_url": "https://twitter.com/NEWS_JAPAN_S/status/1206742867529666562/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 144,
+                        "h": 106,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 106,
+                        "h": 106,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 144,
+                        "h": 106,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 144,
+                        "h": 106,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    169,
+                    192
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": [
+            {
+                "id": 1206742860516622336,
+                "id_str": "1206742860516622336",
+                "media_url": "http://pbs.twimg.com/media/EL82PPBVAAAmhyh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EL82PPBVAAAmhyh.jpg",
+                "url": "https://t.co/azoqkhlBT2",
+                "display_url": "pic.twitter.com/azoqkhlBT2",
+                "expanded_url": "https://twitter.com/NEWS_JAPAN_S/status/1206742867529666562/photo/1",
+                "sizes": {
+                    "medium": {
+                        "w": 144,
+                        "h": 106,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 106,
+                        "h": 106,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 144,
+                        "h": 106,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 144,
+                        "h": 106,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 0,
+                "source_status_id_str": "",
+                "type": "photo",
+                "indices": [
+                    169,
+                    192
+                ],
+                "video_info": {
+                    "aspect_ratio": null,
+                    "duration_millis": 0,
+                    "variants": null
+                },
+                "ext_alt_text": ""
+            }
+        ]
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "【グレタvs ドイツ鉄道】グレタ「帰りの列車で床に座ってた」 ドイツ鉄道「途中からはファーストクラス(1等車)に座っていた」★9\n\nグレタさん、「帰りの列車は超満員」 ドイツ鉄道とツイッターで小競り合い【12月16日 AFP】スウェーデンの高校生…\n\nhttps://t.co/UondEbY87l\n\n#ニュース\n\n#newsjapan https://t.co/azoqkhlBT2",
+    "has_extended_profile": false,
+    "id": 1206742867529666562,
+    "id_str": "1206742867529666562",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"https://social-dog.net/\" rel=\"nofollow\"\u003eSocialDog for Twitter\u003c/a\u003e",
+    "scopes": null,
+    "text": "【グレタvs ドイツ鉄道】グレタ「帰りの列車で床に座ってた」 ドイツ鉄道「途中からはファーストクラス(1等車)に座ってい\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 14 09:10:35 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "NEWS速報\u0026地震速報\n\n#地震速報共有ハッシュタグ に協力しています。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 2898,
+        "follow_request_sent": false,
+        "followers_count": 16131,
+        "following": false,
+        "friends_count": 16345,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 3245032789,
+        "id_str": "3245032789",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 68,
+        "location": "JAPAN NATIONWIDE",
+        "name": "NEWS速報JAPAN\u0026地震速報",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3245032789/1531917933",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1084774679104020483/1CA1I60E_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084774679104020483/1CA1I60E_normal.jpg",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "NEWS_JAPAN_S",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 564534,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

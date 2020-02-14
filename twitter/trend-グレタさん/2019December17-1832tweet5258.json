@@ -1,0 +1,416 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 04:14:57 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "二橋佳子",
+                "indices": [
+                    3,
+                    17
+                ],
+                "screen_name": "atmosphere318",
+                "id": 791861695455096833,
+                "id_str": "791861695455096833"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @atmosphere318: 自分の本当に言いたいことを真っ直ぐ語れる人ってなかなかいない。\nグレタ　トゥーンベリさんの放つ言葉が広がるのはそれが彼女のドストライクだから。ストレートを投げ続ける彼女にホームラン返せる大人がいない。映画を見ろって？\n映画作っちゃうよ(・∀…",
+    "has_extended_profile": false,
+    "id": 1206789855289757696,
+    "id_str": "1206789855289757696",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 10,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 12 22:22:44 +0000 2019",
+        "display_text_range": [
+            0,
+            125
+        ],
+        "entities": {
+            "urls": [],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 1205251651264638980,
+                    "id_str": "1205251651264638980",
+                    "media_url": "http://pbs.twimg.com/media/ELnp_bqU8AQswkj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELnp_bqU8AQswkj.jpg",
+                    "url": "https://t.co/nwue8QOnGZ",
+                    "display_url": "pic.twitter.com/nwue8QOnGZ",
+                    "expanded_url": "https://twitter.com/atmosphere318/status/1205251666951327744/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        126,
+                        149
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": [
+                {
+                    "id": 1205251651264638980,
+                    "id_str": "1205251651264638980",
+                    "media_url": "http://pbs.twimg.com/media/ELnp_bqU8AQswkj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELnp_bqU8AQswkj.jpg",
+                    "url": "https://t.co/nwue8QOnGZ",
+                    "display_url": "pic.twitter.com/nwue8QOnGZ",
+                    "expanded_url": "https://twitter.com/atmosphere318/status/1205251666951327744/photo/1",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 0,
+                    "source_status_id_str": "",
+                    "type": "photo",
+                    "indices": [
+                        126,
+                        149
+                    ],
+                    "video_info": {
+                        "aspect_ratio": null,
+                        "duration_millis": 0,
+                        "variants": null
+                    },
+                    "ext_alt_text": ""
+                }
+            ]
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 56,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "自分の本当に言いたいことを真っ直ぐ語れる人ってなかなかいない。\nグレタ　トゥーンベリさんの放つ言葉が広がるのはそれが彼女のドストライクだから。ストレートを投げ続ける彼女にホームラン返せる大人がいない。映画を見ろって？\n映画作っちゃうよ(・∀・)ナンテ https://t.co/nwue8QOnGZ",
+        "has_extended_profile": false,
+        "id": 1205251666951327744,
+        "id_str": "1205251666951327744",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 10,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+        "scopes": null,
+        "text": "自分の本当に言いたいことを真っ直ぐ語れる人ってなかなかいない。\nグレタ　トゥーンベリ\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Oct 28 04:38:35 +0000 2016",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "優しい雨でありますように。大地は固く足元を支えてくれますように。最近ボソボソつい呟きます。お目汚しなので、ダメな人はそっとフォロー切ってくださいね。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/z6n0lB2wFY",
+                            "display_url": "pinterest.jp",
+                            "expanded_url": "https://www.pinterest.jp/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 28442,
+            "follow_request_sent": false,
+            "followers_count": 984,
+            "following": false,
+            "friends_count": 1353,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 791861695455096833,
+            "id_str": "791861695455096833",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 9,
+            "location": "日本",
+            "name": "二橋佳子",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/791861695455096833/1538448754",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1038969946414309376/3fkCz3Gy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1038969946414309376/3fkCz3Gy_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "atmosphere318",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 7131,
+            "time_zone": "",
+            "url": "https://t.co/z6n0lB2wFY",
+            "utc_offset": 0,
+            "verified": false,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @atmosphere318: 自分の本当に言いたいことを真っ直ぐ語れる人ってなかなかいない。\nグレタ　トゥーンベ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 01 15:44:35 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Bem Vindos!⚘よろしくお願いします⚘Welcome!",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 132142,
+        "follow_request_sent": false,
+        "followers_count": 13071,
+        "following": false,
+        "friends_count": 13047,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 804350490486128640,
+        "id_str": "804350490486128640",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 39,
+        "location": "Brasil  ",
+        "name": "호재🌱☀📷 T8♡⚘",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/804350490486128640/1555851578",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1115563865176248320/6z_9yI6a_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115563865176248320/6z_9yI6a_normal.png",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "team8suki8nao8",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 60998,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 12:26:35 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    38,
+                    61
+                ],
+                "url": "https://t.co/kaalewU5nd",
+                "display_url": "yahoo.jp/cAupgr",
+                "expanded_url": "https://yahoo.jp/cAupgr"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "Yahoo!ニュース",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "YahooNewsTopics",
+                "id": 88846085,
+                "id_str": "88846085"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @YahooNewsTopics: 【ドイツ鉄道 グレタさんに皮肉】\nhttps://t.co/kaalewU5nd\n\n環境活動家のグレタ・トゥンベリさん（16）が、ドイツ鉄道の列車について「混雑し過ぎ」と形容したツイートをめぐり、ドイツ鉄道が皮肉で応酬。グレタさんは釈明…",
+    "has_extended_profile": false,
+    "id": 1206551193800962050,
+    "id_str": "1206551193800962050",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 1544,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 16 11:53:15 +0000 2019",
+        "display_text_range": [
+            0,
+            141
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        17,
+                        40
+                    ],
+                    "url": "https://t.co/kaalewU5nd",
+                    "display_url": "yahoo.jp/cAupgr",
+                    "expanded_url": "https://yahoo.jp/cAupgr"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 2757,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "【ドイツ鉄道 グレタさんに皮肉】\nhttps://t.co/kaalewU5nd\n\n環境活動家のグレタ・トゥンベリさん（16）が、ドイツ鉄道の列車について「混雑し過ぎ」と形容したツイートをめぐり、ドイツ鉄道が皮肉で応酬。グレタさんは釈明し、混雑した列車は発展のシンボルだと主張した。",
+        "has_extended_profile": false,
+        "id": 1206542804731617283,
+        "id_str": "1206542804731617283",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 1544,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"http://dailynews.yahoo.co.jp/fc/\" rel=\"nofollow\"\u003eヤフトピbot\u003c/a\u003e",
+        "scopes": null,
+        "text": "【ドイツ鉄道 グレタさんに皮肉】\nhttps://t.co/kaalewU5nd\n\n環境活動家のグレタ・トゥンベリさん（16）が、ド\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Nov 10 03:59:51 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Yahoo!ニュースの公式アカウントです。365日24時間、Yahoo! JAPANトップページに掲出される話題を速報でお届け。※株式会社アフロ社提供の写真を使用している場合があります。",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/PORT0VCtyG",
+                            "display_url": "news.yahoo.co.jp",
+                            "expanded_url": "https://news.yahoo.co.jp/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 604105,
+            "following": false,
+            "friends_count": 11,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 88846085,
+            "id_str": "88846085",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 15470,
+            "location": "",
+            "name": "Yahoo!ニュース",
+            "notifications": false,
+            "profile_background_color": "DFD7C7",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/88846085/1557715365",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875506779743895552/jqN_tEe4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875506779743895552/jqN_tEe4_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A1A33B",
+            "profile_sidebar_fill_color": "FFFCDE",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "YahooNewsTopics",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 355107,
+            "time_zone": "",
+            "url": "https://t.co/PORT0VCtyG",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @YahooNewsTopics: 【ドイツ鉄道 グレタさんに皮肉】\nhttps://t.co/kaalewU5nd\n\n環境活動家のグレタ・トゥンベリ\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 13 16:49:40 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "世知辛い世の中やわ ほんま",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 15634,
+        "follow_request_sent": false,
+        "followers_count": 334,
+        "following": false,
+        "friends_count": 1669,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 435964072,
+        "id_str": "435964072",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 4,
+        "location": "",
+        "name": "ココ・ボンゴ",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/435964072/1569750757",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1178246185330434049/UJyKPR5-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1178246185330434049/UJyKPR5-_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "067091",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 19128,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

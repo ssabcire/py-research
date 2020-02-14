@@ -1,0 +1,346 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 05:03:02 +0000 2019",
+    "display_text_range": [
+        0,
+        92
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    69,
+                    92
+                ],
+                "url": "https://t.co/AVuvuA36n3",
+                "display_url": "sankei.com/world/news/191…",
+                "expanded_url": "https://www.sankei.com/world/news/191217/wor1912170015-n1.html"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [
+            {
+                "name": "産経ニュースＷＥＳＴ",
+                "indices": [
+                    3,
+                    19
+                ],
+                "screen_name": "SankeiNews_WEST",
+                "id": 2800736670,
+                "id_str": "2800736670"
+            }
+        ],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "RT @SankeiNews_WEST: 環境活動家“飛び恥”少女、グレタさん印象操作！？　独鉄道が反論「長時間１等車の座席…でしょ？」 https://t.co/AVuvuA36n3",
+    "has_extended_profile": false,
+    "id": 1206801957823737857,
+    "id_str": "1206801957823737857",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 62,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 17 03:45:00 +0000 2019",
+        "display_text_range": [
+            0,
+            71
+        ],
+        "entities": {
+            "urls": [
+                {
+                    "indices": [
+                        48,
+                        71
+                    ],
+                    "url": "https://t.co/AVuvuA36n3",
+                    "display_url": "sankei.com/world/news/191…",
+                    "expanded_url": "https://www.sankei.com/world/news/191217/wor1912170015-n1.html"
+                }
+            ],
+            "hashtags": [],
+            "url": {
+                "urls": null
+            },
+            "user_mentions": [],
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_tweet": {
+            "full_text": "",
+            "display_text_range": null,
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "extended_entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": null
+                },
+                "user_mentions": null,
+                "media": null
+            }
+        },
+        "favorite_count": 94,
+        "favorited": false,
+        "filter_level": "",
+        "full_text": "環境活動家“飛び恥”少女、グレタさん印象操作！？　独鉄道が反論「長時間１等車の座席…でしょ？」 https://t.co/AVuvuA36n3",
+        "has_extended_profile": false,
+        "id": 1206782318087557120,
+        "id_str": "1206782318087557120",
+        "in_reply_to_screen_name": "",
+        "in_reply_to_status_id": 0,
+        "in_reply_to_status_id_str": "",
+        "in_reply_to_user_id": 0,
+        "in_reply_to_user_id_str": "",
+        "is_translation_enabled": false,
+        "lang": "ja",
+        "place": {
+            "attributes": null,
+            "bounding_box": {
+                "coordinates": null,
+                "type": ""
+            },
+            "contained_within": null,
+            "country": "",
+            "country_code": "",
+            "full_name": "",
+            "geometry": {
+                "coordinates": null,
+                "type": ""
+            },
+            "id": "",
+            "name": "",
+            "place_type": "",
+            "polylines": null,
+            "url": ""
+        },
+        "quoted_status_id": 0,
+        "quoted_status_id_str": "",
+        "quoted_status": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 62,
+        "retweeted": false,
+        "retweeted_status": null,
+        "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+        "scopes": null,
+        "text": "環境活動家“飛び恥”少女、グレタさん印象操作！\ufffd\ufffd",
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Sep 10 00:05:22 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "産経新聞のニュースサイト「産経ニュース」の公式ツイッター関西版です。 （もう一つの産経ニュース公式ツイッターは、 https://t.co/DELAox6aoy）\n\nThe SANKEI Shimbun ( PRESS SANKEI ) is a daily newspaper in Japan.",
+            "email": "",
+            "entities": {
+                "urls": null,
+                "hashtags": null,
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/jAVZK5igEU",
+                            "display_url": "sankei.com",
+                            "expanded_url": "https://www.sankei.com/"
+                        }
+                    ]
+                },
+                "user_mentions": null,
+                "media": null
+            },
+            "favourites_count": 15,
+            "follow_request_sent": false,
+            "followers_count": 68240,
+            "following": false,
+            "friends_count": 42,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2800736670,
+            "id_str": "2800736670",
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "lang": "",
+            "listed_count": 1420,
+            "location": "Osaka, Kansai, JAPAN",
+            "name": "産経ニュースＷＥＳＴ",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2800736670/1539565740",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1099823900978864128/4JIAtD7N_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099823900978864128/4JIAtD7N_normal.png",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "SankeiNews_WEST",
+            "show_all_inline_media": false,
+            "status": null,
+            "statuses_count": 55501,
+            "time_zone": "",
+            "url": "https://t.co/jAVZK5igEU",
+            "utc_offset": 0,
+            "verified": true,
+            "withheld_in_countries": null,
+            "withheld_scope": ""
+        },
+        "withheld_copyright": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "RT @SankeiNews_WEST: 環境活動家“飛び恥”少女、グレタさん印象操作！\ufffd\ufffd",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 23 12:17:27 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#国内旅行(#JR東海 #JR西日本 #名鉄 等 #乗り鉄 ＆✈️)  #旅 で飲食🍺🍱🐟🍶🍜🍣 ＆ #競馬 🐎( #JRA )\n\n 周知徹底【大事なこと】RT多めです😅\n尚、失敬＜失礼＜無礼＜非礼な方、意に反する方は拒否。\n※尚、一時的に鍵をかける時があります。\n悪しからずご了承ください。",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 11335,
+        "follow_request_sent": false,
+        "followers_count": 1163,
+        "following": false,
+        "friends_count": 1167,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 4802846539,
+        "id_str": "4802846539",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 3,
+        "location": "",
+        "name": "1 5 1 A 🎌",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4802846539/1575281476",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1201443043972268034/QwglkAqy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201443043972268034/QwglkAqy_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GJumatan3rentan",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 82357,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}

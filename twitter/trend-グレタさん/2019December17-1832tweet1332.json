@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 17 06:55:36 +0000 2019",
+    "display_text_range": [
+        0,
+        102
+    ],
+    "entities": {
+        "urls": [
+            {
+                "indices": [
+                    79,
+                    102
+                ],
+                "url": "https://t.co/IrJHJnJJDn",
+                "display_url": "mainichi.jp/articles/20191…",
+                "expanded_url": "https://mainichi.jp/articles/20191217/k00/00m/040/010000c"
+            }
+        ],
+        "hashtags": [],
+        "url": {
+            "urls": null
+        },
+        "user_mentions": [],
+        "media": null
+    },
+    "extended_entities": {
+        "urls": null,
+        "hashtags": null,
+        "url": {
+            "urls": null
+        },
+        "user_mentions": null,
+        "media": null
+    },
+    "extended_tweet": {
+        "full_text": "",
+        "display_text_range": null,
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "extended_entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        }
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "",
+    "full_text": "この人、かわいそうな人。\n周りの大人達が、クズな連中なのだろう。\n\nグレタさん「列車大混雑」で床に座る姿投稿　ドイツ鉄道「車両は１等車」と応酬 - 毎日新聞 https://t.co/IrJHJnJJDn",
+    "has_extended_profile": false,
+    "id": 1206830285733498880,
+    "id_str": "1206830285733498880",
+    "in_reply_to_screen_name": "",
+    "in_reply_to_status_id": 0,
+    "in_reply_to_status_id_str": "",
+    "in_reply_to_user_id": 0,
+    "in_reply_to_user_id_str": "",
+    "is_translation_enabled": false,
+    "lang": "ja",
+    "place": {
+        "attributes": null,
+        "bounding_box": {
+            "coordinates": null,
+            "type": ""
+        },
+        "contained_within": null,
+        "country": "",
+        "country_code": "",
+        "full_name": "",
+        "geometry": {
+            "coordinates": null,
+            "type": ""
+        },
+        "id": "",
+        "name": "",
+        "place_type": "",
+        "polylines": null,
+        "url": ""
+    },
+    "quoted_status_id": 0,
+    "quoted_status_id_str": "",
+    "quoted_status": null,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": null,
+    "source": "\u003ca href=\"http://twitter.com/download/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c/a\u003e",
+    "scopes": null,
+    "text": "この人、かわいそうな人。\n周りの大人達が、クズな連中なのだろう。\n\nグレ",
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 31 05:08:27 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "すーぽんと読んでください。\nカマカン三兄弟末弟。最近はEサバキャラ育成がメインです。\nA鯖/ポルトガル/RRL所属\nE鯖/フランス/",
+        "email": "",
+        "entities": {
+            "urls": null,
+            "hashtags": null,
+            "url": {
+                "urls": null
+            },
+            "user_mentions": null,
+            "media": null
+        },
+        "favourites_count": 13529,
+        "follow_request_sent": false,
+        "followers_count": 115,
+        "following": false,
+        "friends_count": 133,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 925227947597881344,
+        "id_str": "925227947597881344",
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "lang": "",
+        "listed_count": 3,
+        "location": "葡萄の国もしくはフランスばんざい",
+        "name": "su-pon",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/925227947597881344/1565843579",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1161858293188292610/8R__3cCY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1161858293188292610/8R__3cCY_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "supon24883607",
+        "show_all_inline_media": false,
+        "status": null,
+        "statuses_count": 7589,
+        "time_zone": "",
+        "url": "",
+        "utc_offset": 0,
+        "verified": false,
+        "withheld_in_countries": null,
+        "withheld_scope": ""
+    },
+    "withheld_copyright": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+}
