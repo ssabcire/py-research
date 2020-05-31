@@ -1,5 +1,5 @@
 # Twitterを用いたニュースに対する意見の分類
-SVM+Word2Vec(or Bag of Words)で分類する
+SVM+Word2Vec(and Bag of Words)で分類する
 
 # 前提
 すでにJSONファイルをTwitterフォルダに配置している
@@ -13,5 +13,5 @@ SVM+Word2Vec(or Bag of Words)で分類する
 6. 5_make_svm_model.pyでSVMを使って分類し、分類成功率を求める
 
 
-開発環境
+## 開発環境
 MacOS Catalina 10.15.3
